@@ -1,0 +1,11 @@
+.secondary-menu {
+	@include reset-list;
+
+	text-align: center;
+	line-height: 2;
+	.menu-item {
+		a {
+			color: $amp-tertiary;
+		}
+	}
+}

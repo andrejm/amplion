@@ -68,7 +68,7 @@
 $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
-$amp-primary: #285FA1; //modra
+$amp-primary: #092343; //modra
 $amp-secondary: #E62E6C; //ruzova
 $amp-tertiary: #F4EEED; //slabofialova do pozadia
 $foundation-palette: (
@@ -135,10 +135,10 @@ $block-grid-max: 8;
 // ------------------
 
 $header-font-family: $body-font-family;
-$header-font-weight: $global-weight-normal;
+$header-font-weight: $global-weight-bold;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
-$header-color: inherit;
+$header-color: $amp-secondary;
 $header-lineheight: 1.4;
 $header-margin-bottom: 0.5rem;
 $header-styles: (

@@ -1,0 +1,12 @@
+.necessities {
+	@include xy-grid();
+
+	&__col {
+		@include xy-cell();
+		margin-bottom: rem-calc( 32 );
+
+		@include breakpoint( large ) {
+			@include xy-cell( 4 );
+		}
+	}
+}

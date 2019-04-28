@@ -1,0 +1,13 @@
+@mixin reset-list() {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+@mixin rotate-cw-s {
+	transform: rotate( 3deg );
+}
+
+@mixin rotate-ccw-s {
+	transform: rotate( -3deg );
+}
