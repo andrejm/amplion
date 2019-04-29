@@ -4,6 +4,15 @@
 	list-style-type: none;
 }
 
+// this is to DRY style of mobile menu typography
+@mixin text-mobile-menu() {
+	font-size: rem-calc( 10 );
+	font-weight: $global-weight-bold;
+	letter-spacing: rem-calc( 0.5 );
+	text-transform: uppercase;
+	color: $amp-primary-alt;
+}
+
 @mixin rotate-cw-s {
 	transform: rotate( 3deg );
 }

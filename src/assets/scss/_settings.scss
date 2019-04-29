@@ -69,6 +69,7 @@ $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $amp-primary: #092343; //modra
+$amp-primary-alt: #285FA1; //slabomodra responsive menu
 $amp-secondary: #E62E6C; //ruzova
 $amp-tertiary: #F4EEED; //slabofialova do pozadia
 $foundation-palette: (
@@ -172,7 +173,7 @@ $code-background: $light-gray;
 $code-border: 1px solid $medium-gray;
 $code-padding: rem-calc(2 5 1);
 $anchor-color: $primary-color;
-$anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
+$anchor-color-hover: $amp-secondary;
 $anchor-text-decoration: none;
 $anchor-text-decoration-hover: none;
 $hr-width: $global-width;
@@ -822,8 +823,8 @@ $thumbnail-radius: $global-radius;
 // 53. Title Bar
 // -------------
 
-$titlebar-background: $black;
-$titlebar-color: $white;
+$titlebar-background: $white;
+$titlebar-color: $amp-primary;
 $titlebar-padding: 0.5rem;
 $titlebar-text-font-weight: bold;
 $titlebar-icon-color: $white;
@@ -849,7 +850,7 @@ $tooltip-radius: $global-radius;
 // -----------
 
 $topbar-padding: 0.5rem;
-$topbar-background: $light-gray;
+$topbar-background: $white;
 $topbar-submenu-background: $topbar-background;
 $topbar-title-spacing: 0.5rem 1rem 0.5rem 0;
 $topbar-input-width: 200px;

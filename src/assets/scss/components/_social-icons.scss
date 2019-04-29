@@ -1,0 +1,18 @@
+.social-icons {
+	@include reset-list();
+	display: flex;
+	justify-content: center;
+
+
+	&__href {
+		padding: rem-calc( 0 4 );
+	}
+
+	@include breakpoint( medium ) {
+		justify-content: flex-end;
+		
+		.top-bar-right & {
+			margin-left: 8px;
+		}
+	}
+}

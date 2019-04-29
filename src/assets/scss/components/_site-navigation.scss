@@ -1,0 +1,129 @@
+.site-navigation {
+		box-shadow: rgba(54, 41, 130, 0.08) 0px 1px 2px;
+	.title-bar {
+		@include xy-grid-container;
+		justify-content: space-between;
+		@include text-mobile-menu;
+
+		button {
+			text-transform: uppercase;
+			font-weight: bold;
+		}
+
+		.menu-icon {
+			background: transparent url('../img/menu-icon.svg') no-repeat center right;
+			padding-right: rem-calc( 32 );
+			height: rem-calc( 30 );
+			margin-right: rme-calc( 10 );
+
+			&-open {
+				display: block;
+			}
+
+			&-close {
+				display: none;
+
+			}
+		}
+
+		&__langswitcher {
+			display: none;
+		}
+
+		&__logo {
+			img {
+				width: rem-calc( 50 );
+			}
+		}
+
+		@at-root .menu-open#{&} .title-bar__langswitcher {
+			display: block;
+		}
+	}
+
+	&.menu-open {
+		box-shadow: rgba(40, 95, 161, 0.13) 0 10px 20px;
+		.title-bar {
+			.menu-icon {
+				background-image: url( '../img/menu-icon-close.svg' );
+				&-open {
+					display: none;
+				}
+
+				&-close {
+					display: block;
+				}
+			}
+		}
+
+		.top-bar {
+		}
+	}
+
+	.top-bar {
+		@include xy-grid-container;
+
+		.menu {
+			li {
+				a {
+					font-size: rem-calc( 24 );
+					text-transform: uppercase;
+					text-align: center;
+					color: $amp-primary-alt;
+					background: transparent url("../img/menu-arrow.svg") no-repeat 85% center;
+					margin-bottom: rem-calc( 16 );
+				}
+			}
+		}
+
+		&-right {
+			@include text-mobile-menu;
+			text-align: center;
+		}
+
+		.logo-image {
+			margin-right: rem-calc( 16 );
+		}
+
+		@include breakpoint( medium ) {
+			.menu {
+				li {
+					display: flex;
+					align-items: center;
+					padding: rem-calc( 0 12 );
+					a {
+						background: none;
+						font-size: rem-calc( 14 );
+						color: $amp-primary;
+						margin-bottom: 0;
+
+						&:hover {
+							color: $amp-secondary;
+						}
+					}
+				}
+			}
+			&-left {
+				flex: 1;
+				display: flex;
+			}
+
+			&-right {
+				flex: 1;
+				display: flex;
+				justify-content: flex-end;
+				align-items: center;
+
+				.langswitcher {
+					font-size: rem-calc( 14 );
+					color: $amp-secondary;
+					font-weight: normal;
+				}
+
+				p {
+					margin: 0;
+				}
+			}
+		}
+	}
+}
