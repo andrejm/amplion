@@ -1,0 +1,14 @@
+.amp-stats {
+	text-align: center;
+	color: $amp-primary-alt;
+
+	&__number {
+		font-size: rem-calc( 40 );
+		font-weight: $global-weight-bold;
+		margin-bottom: rem-calc( 8 );
+	}
+
+	&__desc {
+		font-size: rem-calc( 13 );
+	}
+}

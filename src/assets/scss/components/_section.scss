@@ -1,0 +1,43 @@
+/*
+section - default biela skosena
+section--plain - svetlofialove pozadie
+section--wide - default content ma 1200 (takze ani netreba)
+section--narrow - content je uzsi
+section--straight - nema skoseny vrch
+section--imagebg - full bg obrazok definovany na section elemente
+*/
+
+.section {
+	
+	@include section-skew();
+	&::before,
+	&::after {
+		background-color: $white;
+	}
+
+	&--plain {
+		background-color: $amp-tertiary;
+
+		&::before,
+		&::after {
+			background-color: $amp-tertiary;
+		}
+	}
+
+	&__inner {
+		@include xy-grid-container;
+	}
+
+	&__title {
+		font-size: rem-calc( 23 );
+		text-align: center;
+	}
+
+	&__subtitle {
+		font-size: rem-calc( 16 );
+		color: $amp-primary-alt;
+		text-align: center;
+	}
+
+
+}
