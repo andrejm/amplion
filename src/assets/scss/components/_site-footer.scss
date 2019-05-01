@@ -2,9 +2,9 @@
 	background-color: $amp-primary;
 	color: $amp-tertiary;
 	padding-bottom: 2rem;
-
 	position: relative;
-	margin-top: 50px;
+	margin-top: rem-calc( 50 );
+
 	&::before {
 		content: '';
 		position: absolute;
@@ -32,11 +32,19 @@
 	&__title {
 		text-align: center;
 		margin-bottom: rem-calc( 24 );
+
+		&--alt {
+			color: $white;
+		}
 	}
 
 	&__inner {
 		@include xy-grid-container();
 		position: relative;
+
+		@include breakpoint( medium ) {
+			padding-top: rem-calc( 50 );
+		}
 	}
 
 	&__necessities {
