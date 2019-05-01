@@ -1,0 +1,19 @@
+.topbutton {
+	position: absolute;
+    top: -30px;
+    right: 10px;
+    width: 70px;
+    height: 70px;
+    background: url(../img/topbutton.svg) no-repeat center;
+    background-size: contain;
+    font-size: 10px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 55px;
+    vertical-align: middle;
+
+    &:visited {
+    	color: $white;
+    }
+}

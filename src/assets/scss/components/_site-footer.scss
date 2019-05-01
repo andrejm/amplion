@@ -36,6 +36,7 @@
 
 	&__inner {
 		@include xy-grid-container();
+		position: relative;
 	}
 
 	&__necessities {
@@ -58,14 +59,19 @@
 		padding: rem-calc( 16 0 );
 		@include rotate-cw-s;
 
+		&::before,
+		&::after {
+			display: inline-block;
+			padding: rem-calc( 0 16 );
+			line-height: rem-calc( 48 );
+		}
+
 		&::before {
-			content: '➡';
-			display: block;
+			content: url('../img/arrow-right-white.svg');
 		}
 
 		&::after {
-			content: '⬅';
-			display: block;
+			content: url('../img/arrow-left-white.svg');;
 		}
 
 		@include breakpoint( medium ) {
