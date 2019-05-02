@@ -1,0 +1,47 @@
+.brand-list {
+	@include reset-list;
+
+	li {
+		display: flex;
+		margin-bottom: rem-calc( 16 );
+
+		&::before {
+			content: '';
+			display: block;
+			width: 36px;
+			height: 36px;
+			background: url(/assets/img/bullet-amplion-01.svg) no-repeat center top;
+			background-size: contain;
+			margin-right: 16px;
+		}
+	}
+
+	li:nth-child(2n) {
+		&::before {
+			background-image: url(/assets/img/bullet-amplion-02.svg);
+		}
+	}
+
+	li:nth-child(3n) {
+		&::before {
+			background-image: url(/assets/img/bullet-amplion-03.svg);
+		}
+	}
+
+	@include breakpoint( medium ) {
+		@include xy-grid;
+
+		li {
+			@include xy-cell( 4 );
+			text-align: center;
+			flex-flow: column nowrap;
+			align-items: center;
+
+			&::before {
+				width: 65px;
+				height: 65px;
+				margin-bottom: rem-calc( 32 );
+			}
+		}
+	}
+}
