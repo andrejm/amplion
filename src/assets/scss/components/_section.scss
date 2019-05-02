@@ -64,6 +64,16 @@ section--imagebg - full bg obrazok definovany na section elemente
 		}
 	}
 
+	&__illustration {
+		// clip-path: polygon(0 0, 100% 0, 100% 100%, 0 97%);
+
+		&--bottom {
+			clip-path: polygon(0 0, 100% 0, 100% 100%, 0 92%);
+			margin-bottom: -12.5%;
+		}
+
+	}
+
 	@include breakpoint( medium ) {
 		padding-top: rem-calc( 16 );
 
@@ -89,7 +99,31 @@ section--imagebg - full bg obrazok definovany na section elemente
 				margin-top: rem-calc( -24 );
 			}
 		}
+
+		&__illustration {
+			position: absolute;
+		    // margin-bottom: -313px;
+		    top: 0;
+
+			&--bottom {
+			    bottom: 0;
+			    // margin-bottom: -3.5%;
+			    transform: translateY(2.9%);
+		    	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 97%);
+			}
+
+			&--right {
+			    right: 5%;
+			}
+
+			&--left {
+				left: 0;
+			}
+
+			&--center {
+				top: 50%;
+				transform: translateY(-50%);
+			}
+		}
 	}
-
-
 }
