@@ -63,7 +63,7 @@
 		}
 
 		&::after {
-			content: url('../img/arrow-left-white.svg');;
+			content: url('../img/arrow-left-white.svg');
 		}
 
 		@include breakpoint( medium ) {
