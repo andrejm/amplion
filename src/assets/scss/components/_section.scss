@@ -24,6 +24,20 @@ section--imagebg - full bg obrazok definovany na section elemente
 		}
 	}
 
+	&--imagebg {
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+		min-height: rem-calc( 300 );
+		margin-bottom: rem-calc( -50 ); //depends on section-skew
+		z-index: -1;
+
+		&::before,
+		&::after {
+			content: none;
+		}
+	}
+
 	&__inner {
 		@include xy-grid-container;
 	}
@@ -37,6 +51,13 @@ section--imagebg - full bg obrazok definovany na section elemente
 		font-size: rem-calc( 16 );
 		color: $amp-primary-alt;
 		text-align: center;
+	}
+
+	@include breakpoint( medium ) {
+		&--imagebg {
+			min-height: rem-calc( 480 );
+			background-size: auto;
+		}
 	}
 
 
