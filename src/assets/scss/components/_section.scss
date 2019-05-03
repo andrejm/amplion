@@ -133,6 +133,13 @@ section--notopspace - without top padding
 		text-align: center;
 	}
 
+	&__content {
+		text-align: center;
+	}
+
+
+	// MEDIUM //////////////////////////////////////////////////
+
 
 	@include breakpoint( medium ) {
 		padding-top: rem-calc( 16 );
