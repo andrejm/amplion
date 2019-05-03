@@ -13,9 +13,108 @@
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&amp;subset=latin-ext" rel="stylesheet">
   </head>
 <body>
+    <nav id="top" class="site-navigation">
+      <div class="title-bar" data-responsive-toggle="example-animated-menu" data-hide-for="medium">
+        <div class="title-bar__logo">
+          <a href="/"><img src="/assets/img/logo-amplion.svg" alt=""></a>
+        </div>
+        <div class="title-bar__langswitcher"><a href="">English</a></div>
+        <div class="title-bar__controls">
+          <!-- <div class="title-bar-title">menuu
+          </div> -->
+          <button class="menu-icon" type="button" data-toggle><span class="menu-icon-open">Menu</span><span class="menu-icon-close">Zavrieť</span></button>
+        </div>
+      </div>
+
+      <div class="top-bar" id="example-animated-menu" data-animate="slide-in-down slide-out-up">
+        <div class="top-bar-left">
+          <div class="show-for-medium logo-image">
+            <a href="/"><img src="/assets/img/logo-amplion.svg" alt="Amplion festival logo" class=""></a>
+          </div>
+          <ul class="vertical medium-horizontal menu" data-responsive-menu="accordion medium-dropdown">
+            <li>
+              <a href="/o-amplione/">O Amplióne</a>
+              <!-- <ul class="vertical menu">
+                <li>
+                  <a href="#">Item 1A</a>
+                  <ul class="vertical menu">
+                    <li><a href="#">Item 1A</a></li>
+                    <li><a href="#">Item 1B</a></li>
+                    <li><a href="#">Item 1C</a></li>
+                    <li><a href="#">Item 1D</a></li>
+                    <li><a href="#">Item 1E</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Item 1B</a></li>
+              </ul> -->
+            </li>
+            <li>
+              <a href="/partneri/">Partneri</a>
+              <!-- <ul class="vertical menu">
+                <li><a href="#">Item 2A</a></li>
+                <li><a href="#">Item 2B</a></li>
+              </ul> -->
+            </li>
+            <li>
+              <a href="/kontakt/">Kontakt</a>
+              <!-- <ul class="vertical menu">
+                <li><a href="#">Item 3A</a></li>
+                <li><a href="#">Item 3B</a></li>
+              </ul> -->
+            </li>
+          </ul>
+        </div>
+        <div class="top-bar-right">
+          <p><a href="" class="show-for-medium langswitcher">English</a></p>
+          <p class="show-for-small-only">Amplion aktuálne</p>
+          {{> social-icons}}
+        </div>
+      </div>
+    </nav>
 
 {{!-- Pages you create in the src/pages/ folder are inserted here when the flattened page is created. --}}
 {{> body}}
+
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <a href="#top" class="topbutton">Hore</a>
+        <div class="site-footer__necessities necessities">
+          <div class="necessities__col">
+            <h5 class="site-footer__title">Dôležité skratky</h5>
+
+            <nav class="secondary-navigation" role="navigation">
+              <ul class="nav-menu secondary-menu">
+                <li class="menu-item"><a href="/kontakt/">Kontakt</a></li>
+                <li class="menu-item"><a href="/press/">Press</a></li>
+                <li class="menu-item"><a href="/partneri/">Partneri</a></li>
+              </ul>
+              
+            </nav>
+          </div>
+          <div class="necessities__col">
+            <h5 class="site-footer__title">Hlavný partner</h5>
+            <p class="text-center">Fond na podporu umenia</p>
+
+            <h5 class="site-footer__title">Organizátor</h5>
+            <p class="text-center">Ansámbel Nepravidelného Divadla</p>
+          </div>
+          <div class="necessities__col">
+            <h5 class="site-footer__title site-footer__title--alt">Nech vám nič neujde!</h5>
+          </div>
+        </div>
+
+        <p class="site-footer__shoutout">
+          Umením ku&nbsp;kritickému mysleniu
+        </p>
+
+        <ul class="site-footer__credits">
+          <li class="site-footer__creditsitem">&copy; <strong>2019</strong> Ansámbel Nepravidelného Divadla</li>
+          <li class="site-footer__creditsitem">&copy;  <strong>Foto:</strong> Ľubomír Lužina, Ján Petrík & Michal Svítok</li>
+          <li class="site-footer__creditsitem"><strong>Design:</strong> michoin.com</li>
+          <li class="site-footer__creditsitem"><strong>UX & code:</strong> andrzej.sk</li>
+        </ul>
+      </div>
+    </footer>
 
 <script src="{{root}}assets/js/app.js"></script>
 </body>
