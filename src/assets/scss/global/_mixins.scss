@@ -21,6 +21,14 @@
 	transform: rotate( -3deg );
 }
 
+@mixin rotate-cw-m {
+	transform: rotate( 5deg );
+}
+
+@mixin rotate-ccw-m {
+	transform: rotate( -5deg );
+}
+
 @mixin section-skew() {
 	margin-top: rem-calc( 50 );
 	margin-bottom: rem-calc( -1 );

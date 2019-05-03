@@ -1,0 +1,46 @@
+.programme-teaser {
+	@include xy-grid;
+
+	&__item {
+		@include xy-cell( 6 );
+	}
+
+	&__title {
+		font-size: rem-calc( 16 );
+		font-weight: $global-weight-bold;
+		color: $amp-secondary;
+		@include rotate-cw-m;
+	}
+
+	&__item:nth-child(2n+2) &__title,
+	&__item:nth-child(2n+3) &__title {
+		@include rotate-ccw-m;
+	}
+
+	&__item:nth-child(2n+4) &__title {
+		@include rotate-cw-m;
+	}
+
+	&__description {
+		font-size: rem-calc( 16 );
+	}
+
+	@include breakpoint( medium ) {
+		margin: rem-calc( 24 0 );
+
+		&__item {
+			@include xy-cell( 3 );
+			@include xy-gutters( 25px, 'padding' );
+		}
+
+		&__title {
+			font-size: rem-calc( 21 );
+			margin-bottom: rem-calc( 24 );
+		}
+
+		&__description {
+			font-size: rem-calc( 21 );
+		}
+
+	}
+}

@@ -80,6 +80,11 @@ section--imagebg - full bg obrazok definovany na section elemente
 
 	}
 
+	&__footertext {
+		font-weight: bold;
+		text-align: center;
+	}
+
 	@include breakpoint( medium ) {
 		padding-top: rem-calc( 16 );
 
@@ -140,6 +145,11 @@ section--imagebg - full bg obrazok definovany na section elemente
 				margin-bottom: -0.55%;
 				transform: rotate(-2deg);
 			}
+		}
+
+		&__footertext {
+			font-size: rem-calc( 23 );
+			color: $amp-primary-alt;
 		}
 	}
 }
