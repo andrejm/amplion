@@ -4,6 +4,7 @@ section--plain - svetlofialove pozadie
 section--narrow - content je uzsi
 section--straight - nema skoseny vrch
 section--straight-bottom - nema skoseny spodok
+section--top - has no margin top
 section--imagebg - full bg obrazok definovany na section elemente
 */
 
@@ -39,17 +40,27 @@ section--imagebg - full bg obrazok definovany na section elemente
 		}
 	}
 
+	&--straight {
+		&::before {
+			display: none;
+		}
+	}
+
 	&--straight-bottom {
 		&::after {
 			display: none;
 		}
 	}
 
+	&--top {
+		margin-top: 0;
+	}
+
 	&__inner {
 		@include xy-grid-container;
 
 		.section--narrow & {
-			@include xy-grid-container( 600px ); //limit grid container width
+			@include xy-grid-container( $narrow-section-width ); //limit grid container width
 		}
 	}
 
@@ -57,6 +68,13 @@ section--imagebg - full bg obrazok definovany na section elemente
 		font-size: rem-calc( 23 );
 		text-align: center;
 		margin-bottom: rem-calc( 24 );
+
+		&--dateplace {
+			font-size: rem-calc( 20 );
+			text-align: left;
+			@include rotate-cw-s;
+			padding: rem-calc( 0 22 );
+		}
 	}
 
 	&__subtitle {
@@ -64,10 +82,26 @@ section--imagebg - full bg obrazok definovany na section elemente
 		color: $amp-primary-alt;
 		text-align: center;
 		font-weight: $global-weight-normal;
+		margin-bottom: rem-calc( 24 );
 
 		.section__title+& {
 			margin-top: rem-calc( -16 );
+			font-weight: $global-weight-normal;
+			margin-bottom: rem-calc( 16 );
 		}
+	}
+
+	&__introtext {
+		font-size: rem-calc( 21 );
+		font-weight: $global-weight-bold;
+		color: $amp-primary-alt;
+		max-width: rem-calc( 375 );
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	&__introsubtext {
+		display: none;
 	}
 
 	&__illustration {
@@ -84,6 +118,9 @@ section--imagebg - full bg obrazok definovany na section elemente
 		font-weight: bold;
 		text-align: center;
 	}
+
+
+
 
 	@include breakpoint( medium ) {
 		padding-top: rem-calc( 16 );
@@ -107,6 +144,12 @@ section--imagebg - full bg obrazok definovany na section elemente
 			&--noarrow::after {
 				display: none;
 			}
+
+			&--dateplace {
+				position: absolute;
+				top: 58%;
+				left: 24%;
+			}
 		}
 
 		&__subtitle {
@@ -114,6 +157,22 @@ section--imagebg - full bg obrazok definovany na section elemente
 			.section__title+& {
 				margin-top: rem-calc( -24 );
 			}
+		}
+
+		&__introtext {
+			max-width: $narrow-section-width;
+			margin-bottom: rem-calc( 24 );
+			margin-top: -8%;
+			color: $amp-button-color;
+		}
+
+		&__introsubtext {
+			display: block;
+			text-align: center;
+			max-width: 1.2*$narrow-section-width;
+			margin: 0 auto;
+			font-size: rem-calc( 23 );
+			color: $amp-button-color;
 		}
 
 		&__illustration {
