@@ -1,0 +1,24 @@
+.contacts {
+	@include reset-list;
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: center;
+	align-items: center;
+
+	&__item {
+		display: flex;
+		flex-flow: column nowrap;
+		align-items: center;
+		text-align: center;
+		margin-bottom: rem-calc( 24 );
+	}
+
+	@include breakpoint( medium ) {
+		flex-flow: row nowrap;
+
+		&__item {
+			flex: 1;
+			margin-bottom: 0;
+		}
+	}
+}

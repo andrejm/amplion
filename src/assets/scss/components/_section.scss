@@ -6,6 +6,7 @@ section--straight - nema skoseny vrch
 section--straight-bottom - nema skoseny spodok
 section--top - has no margin top
 section--imagebg - full bg obrazok definovany na section elemente
+section--notopspace - without top padding
 */
 
 .section {
@@ -56,6 +57,10 @@ section--imagebg - full bg obrazok definovany na section elemente
 		margin-top: 0;
 	}
 
+	&--notopspace {
+		padding-top: 0;
+	}
+
 	&__inner {
 		@include xy-grid-container;
 
@@ -96,8 +101,12 @@ section--imagebg - full bg obrazok definovany na section elemente
 		font-weight: $global-weight-bold;
 		color: $amp-primary-alt;
 		max-width: rem-calc( 375 );
-		margin: 0 auto;
+		margin: rem-calc( 32 auto );
 		text-align: center;
+
+		&--home {
+			
+		}
 	}
 
 	&__introsubtext {
@@ -127,6 +136,10 @@ section--imagebg - full bg obrazok definovany na section elemente
 
 		&--imagebg {
 			min-height: rem-calc( 480 );
+		}
+
+		&--notopspace {
+			padding-top: 0;
 		}
 
 		&__title {
@@ -161,8 +174,11 @@ section--imagebg - full bg obrazok definovany na section elemente
 		&__introtext {
 			max-width: $narrow-section-width;
 			margin-bottom: rem-calc( 24 );
-			margin-top: -8%;
 			color: $amp-button-color;
+
+			&--home {
+				margin-top: -8%;
+			}
 		}
 
 		&__introsubtext {
