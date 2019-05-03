@@ -69,6 +69,11 @@ section--notopspace - without top padding
 		}
 	}
 
+	&__headerimage {
+		display: block;
+		margin: 0 auto;
+	}
+
 	&__title {
 		font-size: rem-calc( 23 );
 		text-align: center;
@@ -101,7 +106,7 @@ section--notopspace - without top padding
 		font-weight: $global-weight-bold;
 		color: $amp-primary-alt;
 		max-width: rem-calc( 375 );
-		margin: rem-calc( 32 auto );
+		margin: rem-calc( 32 ) auto;
 		text-align: center;
 
 		&--home {
@@ -127,8 +132,6 @@ section--notopspace - without top padding
 		font-weight: bold;
 		text-align: center;
 	}
-
-
 
 
 	@include breakpoint( medium ) {
@@ -224,6 +227,12 @@ section--notopspace - without top padding
 		&__footertext {
 			font-size: rem-calc( 23 );
 			color: $amp-primary-alt;
+		}
+
+		&__content {
+			max-width: rem-calc( 768 );
+			margin: 0 auto;
+			font-size: rem-calc( 23 );
 		}
 	}
 }

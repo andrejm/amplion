@@ -1,0 +1,18 @@
+.presskit {
+	@include xy-grid;
+
+	&__item {
+		@include xy-cell();
+
+		display: flex;
+		flex-flow: column nowrap;
+		align-items: center;
+		margin-bottom: rem-calc( 24 );
+	}
+
+	@include breakpoint( medium ) {
+		&__item {
+			@include xy-cell( 4 );
+		}
+	}
+}

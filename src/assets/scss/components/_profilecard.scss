@@ -1,0 +1,27 @@
+.profilecard {
+	display: flex;
+	flex-flow: column nowrap;
+	align-content: center;
+	text-align: center;
+
+	&__image {
+		align-self: center; //default is stretch
+	}
+
+	@include breakpoint( medium ) {
+		flex-flow: row nowrap;
+		max-width: rem-calc( 600 );
+		margin: 0 auto;
+		text-align: left;
+
+		&__image {
+			margin-right: rem-calc( 16 );
+		}
+
+		&__info {
+			justify-content: center;
+			display: flex;
+			flex-flow: column nowrap;
+		}
+	}
+}
