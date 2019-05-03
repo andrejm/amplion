@@ -1,18 +1,22 @@
 .brand-list {
 	@include reset-list;
+	padding-left: 36px;
 
 	li {
-		display: flex;
+		// display: flex;
+		position: relative;
 		margin-bottom: rem-calc( 16 );
 
 		&::before {
 			content: '';
 			display: block;
-			width: 36px;
-			height: 36px;
+			width: 32px;
+			height: 32px;
 			background: url(/assets/img/bullet-amplion-01.svg) no-repeat center top;
 			background-size: contain;
 			margin-right: 16px;
+			position: absolute;
+			left: -36px;
 		}
 	}
 
@@ -40,7 +44,9 @@
 			&::before {
 				width: 65px;
 				height: 65px;
-				margin-bottom: rem-calc( 32 );
+				position: relative;
+				margin: 0 auto rem-calc( 32 ) auto;
+				left: 0;
 			}
 		}
 	}
