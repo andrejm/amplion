@@ -135,6 +135,11 @@ section--notopspace - without top padding
 
 	&__content {
 		text-align: center;
+
+		p {
+			margin-bottom: rem-calc( 48 );
+			color: $amp-button-color;
+		}
 	}
 
 
