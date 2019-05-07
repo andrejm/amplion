@@ -3,6 +3,14 @@
 	color: $amp-tertiary;
 	padding-bottom: 2rem;
 	position: relative;
+
+	a {
+		color: $white;
+
+		&:hover {
+			color: $amp-secondary;
+		}
+	}
 	
 	@include section-skew();
 	&::before {
