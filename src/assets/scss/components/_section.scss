@@ -140,6 +140,21 @@ section--notopspace - without top padding
 			margin-bottom: rem-calc( 48 );
 			color: $amp-button-color;
 		}
+
+		ul:not([class]), ul[class=""]{
+			@include reset-list;
+			text-align: left;
+
+			li {
+				margin-bottom: rem-calc( 16 );
+				&:before {
+					content: url('../img/menu-arrow.svg');
+					margin-right: rem-calc( 16 );
+					position: relative;
+					top: rem-calc( 2 );
+				}
+			}
+		}
 	}
 
 

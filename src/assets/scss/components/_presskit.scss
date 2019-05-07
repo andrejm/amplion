@@ -1,5 +1,6 @@
 .presskit {
 	@include xy-grid;
+	justify-content: center;
 
 	&__item {
 		@include xy-cell();
