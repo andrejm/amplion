@@ -227,8 +227,9 @@ section--notopspace - without top padding
 			}
 
 			&--anatol {
-				margin-bottom: -0.55%;
+				margin-bottom: -0.35%;
 				transform: rotate(-2deg);
+				width: rem-calc( 260 );
 			}
 		}
 
@@ -281,6 +282,12 @@ section--notopspace - without top padding
 			&--dateplace {
 				top: 58%;
 				left: 25%;
+			}
+		}
+
+		&__illustration {
+			&--anatol {
+				left: 10%;
 			}
 		}
 	}
