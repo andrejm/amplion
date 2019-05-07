@@ -29,8 +29,11 @@
 		margin: rem-calc( 24 0 );
 
 		&__item {
-			@include xy-cell( 3 );
+			// @include xy-cell( 3 );
 			@include xy-gutters( 25px, 'padding' );
+			display: flex;
+			flex-flow: column nowrap;
+			justify-content: center;
 		}
 
 		&__title {
@@ -42,5 +45,11 @@
 			font-size: rem-calc( 21 );
 		}
 
+	}
+
+	@include breakpoint( large ) {
+		&__item {
+			@include xy-cell( 3 );
+		}
 	}
 }
