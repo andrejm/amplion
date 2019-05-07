@@ -81,7 +81,7 @@ section--notopspace - without top padding
 
 		&--dateplace {
 			font-size: rem-calc( 20 );
-			text-align: left;
+			text-align: center;
 			@include rotate-cw-s;
 			padding: rem-calc( 0 22 );
 		}
@@ -168,9 +168,10 @@ section--notopspace - without top padding
 			}
 
 			&--dateplace {
-				position: absolute;
-				top: 58%;
-				left: 24%;
+				font-size: rem-calc( 20 );
+				text-align: center;
+				margin-top: rem-calc( -96 );
+				
 			}
 		}
 
@@ -187,7 +188,7 @@ section--notopspace - without top padding
 			color: $amp-button-color;
 
 			&--home {
-				margin-top: -8%;
+				// margin-top: -8%;
 			}
 		}
 
@@ -242,4 +243,60 @@ section--notopspace - without top padding
 			font-size: rem-calc( 23 );
 		}
 	}
+
+
+
+	// LARGE //////////////////////////////////////////////////
+
+
+	@include breakpoint( large ) {
+
+		&__title {
+			&--dateplace {
+				font-size: rem-calc( 30 );
+				margin-top: 0;
+				position: absolute;
+				// top: 58%;
+				// left: 24%;
+				top: 60%;
+				left: 25%;
+
+			}
+		}
+
+		&__introtext {
+			&--home {
+				margin-top: -8%;
+			}
+		}
+	}
+
+
+	// XLARGE //////////////////////////////////////////////////
+
+
+	@include breakpoint( xlarge ) {
+
+		&__title {
+			&--dateplace {
+				top: 58%;
+				left: 25%;
+			}
+		}
+	}
+
+
+
+	// XXLARGE //////////////////////////////////////////////////
+
+
+	@include breakpoint( xxlarge ) {
+
+		&__title {
+			&--dateplace {
+				top: 58%;
+				left: 33%;
+			}
+		}
+	}	
 }
