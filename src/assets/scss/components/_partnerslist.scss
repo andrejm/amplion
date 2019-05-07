@@ -3,40 +3,56 @@
 	display: flex;
 	flex-flow: column nowrap;
 	justify-content: center;
+	align-items: center;
 	margin-bottom: rem-calc( 16 );
 
 	&__item {
 		display: flex;
 		justify-content: center;
 		align-items: center;
-	}
-
-	&__href {
-		display: block;
 		max-width: rem-calc( 180 );
 		margin-bottom: rem-calc( 16 );
 
 		&--dennikn {
-			max-width: rem-calc( 120 );
-			margin-top: rem-calc( 40 );
+			max-width: rem-calc( 90 );
+			// margin-top: rem-calc( 40 );
 		}
+
+		&--fpu {
+			max-width: rem-calc( 200 );
+		}
+	}
+
+	&__href {
+		display: block;
 	}
 
 	@include breakpoint( medium ) {
 		flex-flow: row wrap;
 
-		&__href {
+		&__item {
 
-			max-width: rem-calc( 200 );
+			max-width: rem-calc( 160 );
+			margin: rem-calc( 0 32 32 32 );
+
+			&--fpu {
+				flex-basis: 100%;
+				max-width: none;
+
+				img {
+					max-width: rem-calc( 250 );
+				}
+			}
 
 			&--dennikn {
-				margin: rem-calc( 0 16 );
-				max-width: rem-calc( 140 );
+				// margin: rem-calc( 16 );
+				max-width: rem-calc( 84 );
 
 			}
 
 			&--re {
-				margin: rem-calc( 0 16 );
+				// margin: rem-calc( 0 16 );
+				margin-left: 0;
 			}
 		}
 	}
