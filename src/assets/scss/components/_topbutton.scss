@@ -1,4 +1,4 @@
-.topbutton {
+a.topbutton {
 	position: absolute;
     top: -30px;
     right: 10px;
@@ -12,8 +12,16 @@
     text-align: center;
     line-height: 55px;
     vertical-align: middle;
+    text-indent: 5px;
+    transition: top 0.3s;
 
-    &:visited {
+    &:visited,
+    &:hover {
     	color: $white;
+    }
+
+    &:hover {
+        top: -40px;
+        transition: top 0.3s;
     }
 }
