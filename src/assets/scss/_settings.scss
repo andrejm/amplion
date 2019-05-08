@@ -70,10 +70,12 @@ $global-width: rem-calc(1200);
 $narrow-section-width: rem-calc( 600 );
 $global-lineheight: 1.5;
 $amp-primary: #092343; //modra
-$amp-primary-alt: #285FA1; //slabomodra responsive menu
 $amp-secondary: #E62E6C; //ruzova
 $amp-tertiary: #F4EEED; //slabofialova do pozadia
 $amp-button-color: #362982; //silnofialova
+// this was left from earlier versions of design. should be violet
+// $amp-primary-alt: #285FA1; //slabomodra responsive menu
+$amp-primary-alt: $amp-button-color;
 $foundation-palette: (
   primary: $amp-primary,
   secondary: $amp-secondary,
