@@ -1,10 +1,15 @@
 .button {
 	font-size: rem-calc( 14 );
 	font-weight: $global-weight-bold;
-	box-shadow: #140B46 0 2px 0;
+	box-shadow: #BC184F 0 2px 0;
 
 	&.secondary {
-		box-shadow: #BC184F 0 2px 0;
+		background-color: $amp-button-color;
+		box-shadow: #140B46 0 2px 0;
+
+		&:hover {
+			background-color: scale-color($amp-button-color, $lightness: -15%);
+		}
 	}
 
 	@include breakpoint( medium ) {

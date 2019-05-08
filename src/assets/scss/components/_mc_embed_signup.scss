@@ -1,0 +1,78 @@
+div#mc_embed_signup {
+	margin-top: 1rem;
+
+	form {
+		display: flex;
+		flex-flow: column;
+	}
+
+	a {
+		text-decoration: underline;
+	}
+
+	label[for="mce-EMAIL"] {
+		display: none;
+	}
+
+	input.email {
+		text-align: center;
+	}
+
+	input.mce_inline_error {
+		border: 1px solid $amp-secondary;
+	}
+
+	input[type="submit"] {
+		@include button-expand(true);
+		margin-top: rem-calc( 16 );
+	}
+
+	div.mce_inline_error {
+		font-size: rem-calc( 14 );
+		font-weight: $global-weight-normal;
+		border: 1px solid $amp-secondary;
+		background-color: $amp-secondary;
+
+	}
+
+	.mc_embed_form_submit {
+		order: 10;
+	}
+
+	#mce-responses {
+
+		#mce-error-response,
+		#mce-success-response {
+			border: 1px solid $amp-secondary;
+			padding: rem-calc( 10 15 );
+			font-size: rem-calc( 14 );
+			margin-bottom: rem-calc( 16 );
+		}
+
+		#mce-error-response {
+			color: $amp-tertiary;
+			background-color: $amp-secondary;
+		}
+
+		#mce-success-response {
+			color: $amp-tertiary;
+			background-color: $amp-primary;
+			border-color: $amp-primary;
+		}
+	}
+
+	@include breakpoint( large ) {
+		.mc_embed_form_submit {
+			order: unset;
+		}
+
+		.content__gdprBlock {
+			order: -1;
+		}
+
+		input[type="submit"] {
+			@include button-expand(false);
+		}
+
+	}
+}
