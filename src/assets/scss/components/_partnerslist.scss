@@ -35,6 +35,11 @@
 			max-width: rem-calc( 160 );
 			margin: rem-calc( 0 32 32 32 );
 
+			img {
+				max-height: rem-calc( 160 );
+				max-width: rem-calc( 160 );
+			}
+
 			&--fpu {
 				flex-basis: 100%;
 				max-width: none;
