@@ -86,6 +86,7 @@
 
             <nav class="secondary-navigation" role="navigation">
               <ul class="nav-menu secondary-menu">
+                <li class="menu-item"><a href="/">Úvod</a></li>
                 <li class="menu-item"><a href="/kontakt/">Kontakt</a></li>
                 <li class="menu-item"><a href="/press/">Press</a></li>
                 <li class="menu-item"><a href="/partneri/">Partneri</a></li>
@@ -100,9 +101,22 @@
 
             <h5 class="site-footer__title">Organizátor</h5>
             <p class="text-center"><a href="https://www.and-theatre.art/" target="_blank">Ansámbel nepravidelného divadla n.o.</a></p>
+
+            {{#if hideFooterNewsletter}}
+            {{else}}
+              <h5 class="site-footer__title">Sledujte nás</h5>
+              {{>social-icons}}
+            {{/if}}
+
           </div>
           <div class="necessities__col">
             <h5 class="site-footer__title site-footer__title--alt">Nech vám nič neujde!</h5>
+            {{#if hideFooterNewsletter}}
+              {{>social-icons}}
+            {{else}}
+              {{>_mailchimp-form}}
+            {{/if}}
+
           </div>
         </div>
 

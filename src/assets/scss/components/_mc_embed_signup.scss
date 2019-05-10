@@ -59,6 +59,19 @@ div#mc_embed_signup {
 			background-color: $amp-primary;
 			border-color: $amp-primary;
 		}
+
+		a {
+			&:hover {
+				color: $amp-tertiary;
+			}
+		}
+	}
+
+	.site-footer & {
+		label {
+			font-size: rem-calc( 14 );
+			color: $white;
+		}
 	}
 
 	@include breakpoint( large ) {
