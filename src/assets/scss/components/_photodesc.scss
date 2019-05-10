@@ -1,0 +1,37 @@
+.photodesc {
+	&__desc {
+		color: $amp-secondary;
+		text-transform: uppercase;
+		text-align: left;
+		font-size: rem-calc( 21 );
+		font-weight: $global-weight-bold;
+		margin: rem-calc( 16 0 32 16 );
+		@include rotate-ccw-s;
+
+	}
+
+	&__photowrap {
+		position: relative;
+		clip-path: polygon(6% 5%, 100% 0, 99% 99%, 0 93%);
+		// min-height: 400px;
+		background-color: $amp-secondary;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		// padding: 2% 0;
+	}
+
+	&__photo {
+		width: 98%;
+		clip-path: polygon(6% 5%, 100% 0, 99% 99%, 0 93%);
+		margin: 1% 0;
+	}
+
+	@include breakpoint( large ) {
+
+		&__desc {
+			max-width: 75%;
+			margin: rem-calc( 16 0 32 16 );
+		}
+	}
+}
