@@ -141,6 +141,13 @@ section--notopspace - without top padding
 			color: $amp-button-color;
 		}
 
+		a {
+			text-decoration: underline;
+			&::hover {
+				text-decoration: none;
+			}
+		}
+
 		ul:not([class]), ul[class=""]{
 			@include reset-list;
 			text-align: left;
