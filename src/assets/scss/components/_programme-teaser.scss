@@ -12,6 +12,10 @@
 		@include rotate-cw-m;
 	}
 
+	&__performer {
+		color: $amp-button-color;
+	}
+
 	&__item:nth-child(2n+2) &__title,
 	&__item:nth-child(2n+3) &__title {
 		@include rotate-ccw-m;

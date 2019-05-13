@@ -16,11 +16,19 @@
 		&--dennikn {
 			max-width: rem-calc( 90 );
 			// margin-top: rem-calc( 40 );
+			img {
+				max-height: rem-calc( 65 );
+			}
 		}
 
 		&--fpu {
 			max-width: rem-calc( 200 );
 		}
+
+		&--banskastiavnica {
+			max-height: rem-calc( 140 );
+		}
+
 	}
 
 	&__href {
@@ -52,12 +60,21 @@
 			&--dennikn {
 				// margin: rem-calc( 16 );
 				max-width: rem-calc( 84 );
+				img {
+					max-height: rem-calc( 65 );
+				}
 
 			}
 
 			&--re {
 				// margin: rem-calc( 0 16 );
 				margin-left: 0;
+			}
+
+			&--trotuarcafe {
+				img {
+					max-height: rem-calc( 120 );
+				}
 			}
 		}
 	}

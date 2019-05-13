@@ -141,7 +141,7 @@ section--notopspace - without top padding
 			color: $amp-button-color;
 		}
 
-		a {
+		a:not(.button) {
 			text-decoration: underline;
 			&::hover {
 				text-decoration: none;
@@ -307,7 +307,7 @@ section--notopspace - without top padding
 
 		&__title {
 			&--dateplace {
-				top: 58%;
+				top: 60%;
 				left: 25%;
 			}
 		}
@@ -328,7 +328,7 @@ section--notopspace - without top padding
 
 		&__title {
 			&--dateplace {
-				top: 58%;
+				top: 60%;
 				left: 33%;
 			}
 		}
