@@ -26,7 +26,9 @@
 		}
 
 		&--banskastiavnica {
-			max-height: rem-calc( 140 );
+			img {
+				max-height: rem-calc( 140 );
+			}
 		}
 
 	}
