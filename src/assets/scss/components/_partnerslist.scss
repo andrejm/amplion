@@ -50,6 +50,7 @@
 				max-width: rem-calc( 160 );
 			}
 
+
 			&--fpu {
 				flex-basis: 100%;
 				max-width: none;
@@ -75,8 +76,24 @@
 
 			&--trotuarcafe {
 				img {
-					max-height: rem-calc( 120 );
+					max-height: rem-calc( 80 );
 				}
+			}
+
+			&--important {
+				max-width: rem-calc( 230 );
+
+				img {
+					max-width: rem-calc( 280 );	
+				}
+
+				&.partnerslist__item--dennikn {
+					img {
+						max-height: rem-calc( 100 );				
+					}
+				}
+
+
 			}
 		}
 	}

@@ -29,7 +29,7 @@ jQuery(document).ready(function($) {
 
 	var pagecontent = $( 'p, li' );
 	var result = '';
-	var re = new RegExp('(\\s|^)(z|zo|bez|na|po|od|do|pri|pre|so|miesto|o|v|s|za|a|i|ani|aj|najprv|potom|ešte|ale|no|lež|jednako|alebo|buď|či|že|aby|čo|aký|ktorý|kde|keď|kým|kde|čo|akoby|lebo|pretože|predsa|the|of|at|in)(\\s+)([^\\p{Cc}\\p{Cf}\\p{Z}]+)', 'gi');
+	var re = new RegExp('(\\s|^)(z|zo|bez|na|po|od|do|pri|pre|so|miesto|o|v|s|za|a|i|ani|aj|najprv|potom|ešte|ale|no|lež|jednako|alebo|buď|či|že|aby|čo|aký|ktorý|kde|keď|kým|kde|čo|akoby|lebo|pretože|predsa|the|of|on|at|in)(\\s+)([^\\p{Cc}\\p{Cf}\\p{Z}]+)', 'gi');
 
 	function replaceAll(str, find, replace) {
 	    return str.replace(find, replace);
