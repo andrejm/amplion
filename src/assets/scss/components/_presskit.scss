@@ -11,6 +11,11 @@
 		margin-bottom: rem-calc( 24 );
 	}
 
+	&__ico {
+		height: rem-calc( 100 );
+		margin-bottom: rem-calc( 16 );
+	}
+
 	@include breakpoint( medium ) {
 		&__item {
 			@include xy-cell( 4 );
