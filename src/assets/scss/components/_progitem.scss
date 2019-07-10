@@ -11,12 +11,19 @@
 		@include reset-list();
 		display: flex;
 		flex-flow: row wrap;
+		padding-right: rem-calc( 32 ); //to avoid overlap with age circle
 	}
 
 	&__tag {
 		color: $amp-secondary;
 		font-weight: $global-weight-bold;
 		margin-right: rem-calc( 10 );
+	}
+
+	&__text {
+		&:first-letter {
+			text-transform: uppercase;
+		}
 	}
 
 	&__suitablefor {
@@ -43,12 +50,47 @@
 
 
 	@include breakpoint( medium ) {
+		&__gutter {
+			.programmes__item--suppress & {
+				display: flex;
+				flex-flow: row nowrap;
+			}
+		}
+
+		&__titles {
+			.programmes__item--suppress & {
+				flex: 1 0 24%;
+			}
+		}
+
+		&__text {
+			.programmes__item--suppress & {
+				flex: 1 0 43%;
+			}
+		}
+
+		&__factual {
+			.programmes__item--suppress & {
+				flex: 1 0 33%;
+			}
+		}
+
 		&__performer {
 			font-size: rem-calc( 30 );
+
+			.programmes__item--suppress & {
+				font-size: rem-calc( 21 );
+
+			}
 		}
 
 		&__title {
 			font-size: rem-calc( 30 );
+
+			.programmes__item--suppress & {
+				font-size: rem-calc( 21 );
+
+			}
 		}
 	}
 }

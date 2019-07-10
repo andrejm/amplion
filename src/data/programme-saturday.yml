@@ -32,10 +32,13 @@
   perex: busker brázdiaci svet s gitarou
   price: 0
   location: Trotuár, ul. A. Kmeťa
+  type: suppress
 -
   time: 14:00 – 15:00
-  performer: Prešovské národné divadlo (SK) - Víťaz festivalu Nová dráma 2019!
+  performer: Prešovské národné divadlo (SK)
   argentum: true
+  top: true
+  general: Víťaz festivalu Nová dráma 2019!
   age: 15+
   title: MORAL INSANITY
   perex: monodráma na motívy románu Umberta Eca Pražský cintorín  
@@ -49,6 +52,7 @@
   perex: pozvánka na koncert balkánskej, cigánskej a židovskej hudby    
   location: Trotuár, ul. A. Kmeťa  
   price: 0
+  type: suppress
 -
   time: 15:00 – 15:35
   performer: Pere Hosta (ES)
@@ -71,6 +75,7 @@
   time: 16:30 – 17:20
   performer: Bratislavské bábkové divadlo (SK)
   argentum: true
+  top: true
   age: 5+
   title: NEVIDITEĽNÍ
   perex: dobrodružná rozprávka o permoníkoch, elfoch aj Lochneskej príšere
@@ -84,6 +89,7 @@
   perex: busker brázdiaci svet s gitarou
   price: 0
   location: Antikvariatik, Námestie sv. Trojice
+  type: suppress
 -
   time: 17:30 – 18:45
   performer: Jan Burian (CZ)
@@ -120,6 +126,7 @@
   time: 20:30 – 23:00
   performer: Divadlo Jána Palárika (SK)
   argentum: true
+  top: true
   age: 15+
   title: KOMPLETNÝ SHAKESPEARE ZHLTNUTÝ ZA 120 MINÚT
   perex: rebelská krvavá kabaretná show najznámejšieho dramatika so živým repom, punkom i rockom  
@@ -131,6 +138,7 @@
   age: 18+
   title: SKETCH UP 
   general: Nový formát – len na AMPLIÓNE!
+  top: true
   perex: prvá česko-slovenská súťaž kabaretných skečov rôznych v skvelom obsadení. Moderuje Tomáš Dianiška.
   location: Kocka/Cube, Kammerhofská 6
   price: 10 €

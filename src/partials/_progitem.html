@@ -7,30 +7,39 @@
             <li class="progitem__tag"><span class="event-premiere">Slovenská premiéra</span></li>
         {{/if}}
         {{#if this.argentum}}
-            <li class="progitem__tag"><span class="event-argentum">Nominácia na AA</span></li>
+            <li class="progitem__tag"><span class="event-argentum">Nominácia na Amplion Argentum</span></li>
         {{/if}}
         {{#if this.general}}
             <li class="progitem__tag"><span class="event-top">{{this.general}}</span></li>
         {{/if}}
     </ul>
     <span class="event-time">{{this.time}}</span>
-    <h5 class="progitem__performer">{{this.performer}}</h5>
-    <h4 class="progitem__title">{{this.title}}</h4>
-    <p>
-        {{{this.perex}}}
-    </p>
-    <span class="event-location">{{this.location}}</span>
-    <span class="event-price">
-        {{#ifequal this.price 0}}
-          Vstup voľný!
-        {{else}}
-          {{this.price}}
-        {{/ifequal}}
-    </span>
+
+    <div class="progitem__gutter">
+        <div class="progitem__titles">
+            <h5 class="progitem__performer">{{this.performer}}</h5>
+            <h4 class="progitem__title">{{this.title}}</h4> 
+        </div>
+        <div class="progitem__text">
+            <p>
+                {{{this.perex}}}
+            </p>
+        </div>
+        <div class="progitem__factual">
+            <span class="event-location">{{this.location}}</span>
+            <span class="event-price">
+                {{#ifequal this.price 0}}
+                  Vstup voľný!
+                {{else}}
+                  {{this.price}}
+                {{/ifequal}}
+            </span> 
+        </div>
+    </div>
     <div class="progitem__suitablefor">
         <span class="progitem__age">
             {{#ifequal this.age "Family" }}
-              <span class="event-family"></span>
+              <span class="event-family" title="Vhodné pre celú rodinu"></span>
             {{else}}
               {{this.age}}
             {{/ifequal}}

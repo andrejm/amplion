@@ -39,16 +39,17 @@
   perex: busker brázdiaci svet s gitarou
   price: 0
   location: Trotuár, ul. A. Kmeťa
+  type: suppress
 -  
   time: 20:30– 21:30
   performer: Markeliñe (ES)
   premiere: true
+  top: true
   age: 12+
   title: CARBON CLUB
   perex: tragikomická kabaretná show o sile, priateľstve aj láske baníkov. Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019
   location: Asfaltová plocha pri SOŠLS, Kolpašská ul.
   price: 0
-  top: true
 -  
   time: 22:00 – 23:30
   performer: D'89 dženerejšn + Režimy (SK)
