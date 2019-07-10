@@ -1,7 +1,13 @@
 .schedule {
+	margin-top: rem-calc( 64 );
 	.tabs {
 		display: flex;
 		justify-content: center;
+
+		&::after,
+		&::before {
+			display: none;
+		}
 	}
 
 	.tabs-title {
@@ -22,7 +28,7 @@
 
 	@include breakpoint( medium ) {
 		.tabs {
-			justify-content: space-around;
+			// justify-content: space-around;
 		}
 
 		.tabs-title {

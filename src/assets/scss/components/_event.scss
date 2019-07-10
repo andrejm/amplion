@@ -30,7 +30,6 @@
 	&-family {
 		color: $amp-secondary;
 		font-weight: bold;
-		white-space: nowrap;
 
 		&::before {
 			content: '';
@@ -44,6 +43,17 @@
 			top: rem-calc( 3 );
 			margin-right: rem-calc( 5 );
 		}
+	}
+
+	//set nowrap only to tags that will not cause horizontal scrolling
+	&-time,
+	// &-location,
+	&-price,
+	// &-top,
+	// &-premiere,
+	// &-argentum,
+	&-family {
+		white-space: nowrap;
 	}
 
 	&-time {
@@ -109,6 +119,17 @@
 	}
 
 	@include breakpoint( medium ) {
+		//on larger screens set nowrap to all tags
+		&-time,
+		&-location,
+		&-price,
+		&-top,
+		&-premiere,
+		&-argentum,
+		&-family {
+			white-space: nowrap;
+		}
+
 		&-header {
 			max-width: $narrow-section-width;
 			margin: 0 auto;
@@ -128,6 +149,9 @@
 		&-price {
 			display: inline;
 			// margin-left: rem-calc( 16 );
+		}
+
+		&-argentum {
 		}
 	}
 }
