@@ -10,6 +10,11 @@
 		}
 	}
 
+	.tabs-panel {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
 	.tabs-title {
 		float: none;
 		clip-path: polygon(0 20%, 100% 0, 90% 100%, 0% 100%);
