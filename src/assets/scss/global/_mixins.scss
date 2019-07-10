@@ -30,7 +30,7 @@
 }
 
 @mixin section-skew() {
-	margin-top: rem-calc( 50 );
+	margin-top: rem-calc( 60 );
 	margin-bottom: rem-calc( -1 );
 	padding-bottom: rem-calc( 16 );
 	position: relative;
@@ -46,7 +46,7 @@
 		height: 100px;
 		transform: skewY(5deg);
 		transform-origin: top left;
-		z-index: -1; //was -1, why?
+		z-index: 0; //was -1, why?
 	}
 
 	&::after {
@@ -64,13 +64,16 @@
 	}
 
 	@include breakpoint( medium ) {
+		padding-top: rem-calc( 48 );
+		padding-bottom: rem-calc( 48 );
 		&::before,
 		&::after {
 			transform: skewY(2deg);
 		}
 
 		&::before {
-			top: -60px;
+			// top: -60px;
+			top: -80px;
 		}
 
 		// &::after {

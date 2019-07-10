@@ -193,7 +193,7 @@ section--notopspace - without top padding
 
 
 	@include breakpoint( medium ) {
-		padding-top: rem-calc( 16 );
+		// padding-top: rem-calc( 16 );
 
 		&--imagebg {
 			min-height: rem-calc( 480 );
