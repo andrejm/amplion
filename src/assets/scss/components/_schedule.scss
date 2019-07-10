@@ -1,0 +1,42 @@
+.schedule {
+	.tabs {
+		display: flex;
+		justify-content: center;
+	}
+
+	.tabs-title {
+		float: none;
+		clip-path: polygon(0 20%, 100% 0, 90% 100%, 0% 100%);
+		position: relative;
+		top: 1px; //to avoid small gap caused by clip path in chrome
+
+		> a {
+			text-transform: uppercase;
+			font-weight: $global-weight-bold;
+			&:hover {
+				background-color: $amp-tertiary;
+				transition: background-color 0.75s;
+			}
+		}
+	}
+
+	@include breakpoint( medium ) {
+		.tabs {
+			justify-content: space-around;
+		}
+
+		.tabs-title {
+			> a {
+				font-size: rem-calc( 22 );
+				padding: rem-calc( 42 84 26 );
+			}
+		}
+	}
+
+	@include breakpoint( large ) {
+		.tabs-title {
+			margin: rem-calc( 0 16 );
+		}
+
+	}
+}

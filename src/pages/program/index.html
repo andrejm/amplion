@@ -1,0 +1,49 @@
+<section class="section section--plain section--straight section--top section--notopspace">
+  <div class="section__inner">
+    <img src="/assets/img/header-programme.png" class="section__heroimage section__headerimage section__headerimage--large" alt="Program AMPLIÓN 2019">
+    <img src="/assets/img/header-programme-mobile.png" class="section__heroimage section__headerimage" alt="Program AMPLIÓN 2019">
+    <p class="section__introtext">
+      linky / filtre
+    </p>
+  </div>
+</section>
+<section class="section">
+    <div class="schedule">
+        <ul class="tabs" data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" data-tabs id="deeplinked-tabs">
+          <li class="tabs-title is-active"><a href="#piatok" aria-selected="true">Piatok</a></li>
+          <li class="tabs-title"><a href="#sobota">Sobota</a></li>
+          <li class="tabs-title"><a href="#nedela">Nedeľa</a></li>
+        </ul>
+
+        <div class="tabs-content" data-tabs-content="deeplinked-tabs">
+          <div class="tabs-panel is-active" id="piatok">
+            <section class="section section--plain section--straight section--top">
+                <ul class="programmes">
+                {{#each programme-friday}}
+                    {{>_progitem}}
+                {{/each}}
+                </ul>                
+            </section>
+          </div>
+          <div class="tabs-panel" id="sobota">
+            <section class="section section--plain section--straight section--top">
+                <ul class="programmes">
+                {{#each programme-saturday}}
+                    {{>_progitem}}
+                {{/each}}
+                </ul>                
+            </section>
+          </div>
+          <div class="tabs-panel" id="nedela">
+            <section class="section section--plain section--straight section--top">
+                <ul class="programmes">
+                {{#each programme-sunday}}
+                    {{>_progitem}}
+                {{/each}}
+                </ul>                
+            </section>
+          </div>
+        </div>
+        
+    </div>
+</section>

@@ -72,6 +72,10 @@ section--notopspace - without top padding
 	&__headerimage {
 		display: block;
 		margin: 0 auto;
+
+		&--large {
+			display: none;
+		}
 	}
 
 	&__title {
@@ -197,6 +201,14 @@ section--notopspace - without top padding
 
 		&--notopspace {
 			padding-top: 0;
+		}
+
+		&__headerimage {
+			display: none;
+
+			&--large {
+				display: block;
+			}
 		}
 
 		&__title {

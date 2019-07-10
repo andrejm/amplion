@@ -64,3 +64,7 @@ $('.site-navigation').on( 'toggled.zf.responsiveToggle', function( e ) {
 		$this.removeClass( openClass );
 	}
 });
+
+jQuery(document).ready(function($) {
+	// var tabs = new Tabby('[data-tabs]');
+});

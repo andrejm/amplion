@@ -1,0 +1,67 @@
+- 
+  time: 17:00 – 17:20
+  title: OTVORENIE FESTIVALU
+  perex: promo umelcov + hymna festivalu, PROMO – pozvánka na koncert kapely Vrbovskí víťazi (SK) + Pere Hosta (ES)
+  age: Family
+  location: Námestie sv. Trojice
+  price: 0
+-
+  time: 17:30 – 19:00
+  performer: AND + hostia (SK+CZ)
+  age: 12+
+  title: "INVENTÚRA REVOLÚCIE: BIG BANG'89"
+  perex: špeciálny pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 
+  location: Trotuár, ul. A. Kmeťa
+  price: 0
+-  
+  time: 18:15 – 18:50
+  performer: Pere Hosta (ES)
+  title: OPEN DOOR
+  perex: pouličná komédia pre celú rodinu
+  location: Gavalier, Námestie sv. Trojice
+  age: Family
+  price: 4/6 €
+  argentum: true 
+  premiere: true
+-
+  time: 19:00 – 20:30
+  performer: Ján Mitáč (SK)
+  age: 15+
+  title: LES MESS REVOLUCIONERS
+  perex: inteligentne zábavný kvíz o novembri 1989 pre mladých
+  location: Art Café, povala
+  price: 3 €
+-
+  time: 19:30 – 20:15
+  performer: Adam Kriss (SK)
+  age: 12+
+  title: HAPPY MAN
+  perex: busker brázdiaci svet s gitarou
+  price: 0
+  location: Trotuár, ul. A. Kmeťa
+-  
+  time: 20:30– 21:30
+  performer: Markeliñe (ES)
+  premiere: true
+  age: 12+
+  title: CARBON CLUB
+  perex: tragikomická kabaretná show o sile, priateľstve aj láske baníkov. Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019
+  location: Asfaltová plocha pri SOŠLS, Kolpašská ul.
+  price: 0
+  top: true
+-  
+  time: 22:00 – 23:30
+  performer: D'89 dženerejšn + Režimy (SK)
+  age: 18+
+  title: AFTER THE REVOLUTION
+  perex: neuhladené prednesy 5 mladých osobností a autorské čítanie hostí na tému slobody po neslobode + jam session s kapelou Režimy (SK)
+  location: Art Café, povala
+  price: 7 €
+-  
+  time: 23:00 – 24:00
+  performer: Vrbovskí víťazi (SK)
+  age: 15+
+  title: KONCERT
+  perex: hudobno pracovnej skupiny 
+  location: Kocka/Cube, Kammerhofská 6
+  price: 6 €

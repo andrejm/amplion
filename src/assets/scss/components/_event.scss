@@ -23,15 +23,21 @@
 
 	&-time,
 	&-location,
-	&-price {
+	&-price,
+	&-top,
+	&-premiere,
+	&-argentum,
+	&-family {
 		color: $amp-secondary;
 		font-weight: bold;
+		white-space: nowrap;
 
 		&::before {
 			content: '';
 			display: inline-block;
 			background-repeat: no-repeat;
 			background-size: contain;
+			background-position: center;
 			width: rem-calc( 24 );
 			height: rem-calc( 24 );
 			position: relative;
@@ -45,9 +51,16 @@
 		&::before {
 			content: none;
 		}
+
+		.progitem & {
+			color: $amp-primary;
+			line-height: rem-calc( 25 );
+			margin-bottom: rem-calc( 10 );
+		}
 	}
 
 	&-location {
+		margin-right: rem-calc( 5 );
 		&::before {
 			background-image: url('../img/event-location.svg');
 		}
@@ -58,6 +71,33 @@
 			background-image: url('../img/event-price.svg');
 		}
 	}
+
+	&-top {
+		&::before {
+			background-image: url('../img/event-top.svg');
+		}
+	}
+
+	&-premiere {
+		&::before {
+			background-image: url('../img/event-premiere.svg');
+		}
+	}
+
+	&-argentum {
+		&::before {
+			background-image: url('../img/event-argentum.svg');
+		}
+	}
+
+	&-family {
+		&::before {
+			background-image: url('../img/event-family.svg');
+			margin: 0;
+		}
+	}
+
+
 
 	&-more {
 		color: $amp-secondary;
@@ -78,7 +118,7 @@
 
 		&-location {
 			display: inline;
-			margin-left: rem-calc( 16 );
+			// margin-left: rem-calc( 16 );
 		}
 
 		&-price {

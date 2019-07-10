@@ -3,8 +3,8 @@ import $ from 'jquery';
 import { Foundation } from 'foundation-sites/js/foundation.core';
 import * as CoreUtils from 'foundation-sites/js/foundation.core.utils';
 // import { Box } from 'foundation-sites/js/foundation.util.box'
-// import { onImagesLoaded } from 'foundation-sites/js/foundation.util.imageLoader';
-// import { Keyboard } from 'foundation-sites/js/foundation.util.keyboard';
+import { onImagesLoaded } from 'foundation-sites/js/foundation.util.imageLoader';
+import { Keyboard } from 'foundation-sites/js/foundation.util.keyboard';
 import { MediaQuery } from 'foundation-sites/js/foundation.util.mediaQuery';
 import { Motion, Move } from 'foundation-sites/js/foundation.util.motion';
 // import { Nest } from 'foundation-sites/js/foundation.util.nest';
@@ -28,7 +28,7 @@ import { ResponsiveToggle } from 'foundation-sites/js/foundation.responsiveToggl
 // import { Slider } from 'foundation-sites/js/foundation.slider';
 import { SmoothScroll } from 'foundation-sites/js/foundation.smoothScroll';
 // import { Sticky } from 'foundation-sites/js/foundation.sticky';
-// import { Tabs } from 'foundation-sites/js/foundation.tabs';
+import { Tabs } from 'foundation-sites/js/foundation.tabs';
 // import { Toggler } from 'foundation-sites/js/foundation.toggler';
 // import { Tooltip } from 'foundation-sites/js/foundation.tooltip';
 // import { ResponsiveAccordionTabs } from 'foundation-sites/js/foundation.responsiveAccordionTabs';
@@ -75,7 +75,7 @@ Foundation.plugin(ResponsiveToggle, 'ResponsiveToggle');
 // Foundation.plugin(Slider, 'Slider');
 Foundation.plugin(SmoothScroll, 'SmoothScroll');
 // Foundation.plugin(Sticky, 'Sticky');
-// Foundation.plugin(Tabs, 'Tabs');
+Foundation.plugin(Tabs, 'Tabs');
 // Foundation.plugin(Toggler, 'Toggler');
 // Foundation.plugin(Tooltip, 'Tooltip');
 // Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
