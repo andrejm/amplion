@@ -32,6 +32,7 @@
 	}
 
 	@include breakpoint( medium ) {
+		margin-top: rem-calc( 80 );
 		.tabs {
 			// justify-content: space-around;
 		}

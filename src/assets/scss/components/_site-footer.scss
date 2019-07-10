@@ -34,9 +34,9 @@
 		@include xy-grid-container();
 		position: relative;
 
-		@include breakpoint( medium ) {
-			padding-top: rem-calc( 50 );
-		}
+		// @include breakpoint( medium ) {
+		// 	padding-top: rem-calc( 50 );
+		// }
 	}
 
 	&__necessities {

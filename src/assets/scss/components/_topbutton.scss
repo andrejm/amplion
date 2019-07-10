@@ -1,6 +1,6 @@
 a.topbutton {
 	position: absolute;
-    top: -30px;
+    top: -110px;
     right: 10px;
     width: 70px;
     height: 70px;
@@ -21,7 +21,7 @@ a.topbutton {
     }
 
     &:hover {
-        top: -40px;
+        top: -120px;
         transition: top 0.3s;
     }
 }
