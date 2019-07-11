@@ -25,15 +25,6 @@
   location: Art Café, terasa
   price: 0
 -
-  time: 13:00 – 13:45
-  performer: Adam Kriss (SK)
-  age: 12+
-  title: HAPPY MAN
-  perex: busker brázdiaci svet s gitarou
-  price: 0
-  location: Trotuár, ul. A. Kmeťa
-  type: suppress
--
   time: 14:00 – 15:00
   performer: Prešovské národné divadlo (SK)
   argentum: true
@@ -61,18 +52,10 @@
   title: OPEN DOOR
   age: Family
   perex: pouličná komédia pre celú rodinu  
-  location: Gavalier, Námestie sv. Trojice
+  location: Starý zámok
   price: 4/6 €
 -
-  time: 15:45 – 16:15
-  performer: Divadelný spevácky zbor (SLO)
-  age: 12+
-  title: UPS!
-  perex: paródia na koncert a capelly
-  location: Nádvorie Starého zámku
-  price: 3 €
--
-  time: 16:30 – 17:20
+  time: 16:00 – 16:50
   performer: Bratislavské bábkové divadlo (SK)
   argentum: true
   top: true
@@ -82,14 +65,13 @@
   location: Kultúrne centrum, Hlavná sála
   price: 3/5 €
 -
-  time: 16:45 – 17:30
-  performer: Adam Kriss (SK)
+  time: 17:00 – 17:30
+  performer: Divadelný spevácky zbor (SLO)
   age: 12+
-  title: HAPPY MAN
-  perex: busker brázdiaci svet s gitarou
-  price: 0
-  location: Antikvariatik, Námestie sv. Trojice
-  type: suppress
+  title: UPS!
+  perex: paródia na koncert a capelly
+  location: Nádvorie Starého zámku
+  price: 3 €
 -
   time: 17:30 – 18:45
   performer: Jan Burian (CZ)
@@ -99,14 +81,6 @@
   location: Art Café, terasa
   price: 6 €
 -
-  time: 18:00 – 19:30
-  performer: Túlavé divadlo (SK)
-  age: 12+
-  title: DON QUIJOTE
-  perex: kabaretná tragikomédia o slávnom a (ne)šťastnom romantickom hrdinovi
-  location: Nádvorie Starého zámku
-  price: 9 €
--
   time: 19:00 – 20:30
   performer: Fedor Gál & Zuzana Mistríková (SK)
   age: 15+
@@ -115,13 +89,13 @@
   location: Art Café, povala  
   price: 5 €
 -
-  time: 19:45 – 20:15
+  time: 19:30 – 20:00
   performer: Divadelný spevácky zbor (SLO)
   age: 12+
   title: UPS!
   perex: paródia na koncert a capelly
   location: Kocka/Cube, Kammerhofská 6
-  price: 3 €
+  price: 4 €
 -
   time: 20:30 – 23:00
   performer: Divadlo Jána Palárika (SK)

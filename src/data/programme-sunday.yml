@@ -4,7 +4,7 @@
   age: 5+
   title: DETSKÁ INVENTÚRA REVOLÚCIE
   perex: pouličný happening študentov vo výkladoch obchodov reflektujúci revolúciu 1989 a pre deti a čítanie z knihy Príbehy stien 
-  location: Trotuár, ul. A. Kmeťa
+  location: Art Café, povala
   price: 0
 -
   time: 11:00 – 11:30
@@ -16,16 +16,7 @@
   location: Art Café, terasa
   price: 0
 -
-  time: 13:00 – 13:45
-  performer: Adam Kriss (SK)
-  age: 12+
-  title: HAPPY MAN
-  perex: busker brázdiaci svet s gitarou
-  price: 0
-  location: Terasa Archanjel, ul. A. Kmeťa
-  type: suppress
--
-  time: 13:15 – 13:45
+  time: 13:00 – 13:30
   performer: Divadelný spevácky zbor (SLO)
   age: 12+
   title: UPS!
@@ -37,24 +28,15 @@
   performer: AND (SK)
   age: 5+
   title: ŠTIAVNICA NIELEN STRIEBORNÁ alebo Mešťania, básnici a Náckovia
-  perex: Jedinečné pochôdzkové  divadlo o hľadaní súčasného pokladu Štiavnice. Putovanie hercov a divákov so živou hudbou, spevom a tancom za károu šťastia. Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019
+  perex: Jedinečné pochôdzkové  divadlo o hľadaní súčasného pokladu Štiavnice. Putovanie hercov a divákov so živou hudbou, spevom a tancom za károu šťastia. <strong>Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019</strong>
   location: Radničné námestie – Námestie sv. trojice – Starý zámok
   price: 0
 -
-  time: 16:15 – 17:00
-  performer: Adam Kriss (SK)
-  age: 12+
-  title: HAPPY MAN
-  perex: busker brázdiaci svet s gitarou
-  price: 0
-  location: Trotuár, ul. A. Kmeťa
-  type: suppress
--
   time: 16:30 – 17:30
-  performer: Barbora Berezňáková & Pavlína Morháčová (SK)
+  performer: Slovenský filmový ústav (SK)
   age: 12+
-  title: VIRTUÁLNY PAMÄTNÍK 1989
-  perex: projekcia autentických výpovedí pamätníkov novembra
+  title: VŠETCI SPOLU
+  perex: projekcia dokumentárneho filmu s autentickými zábermi známych osobností z pohnutej doby
   location: Art Café, povala
   price: 0
 -

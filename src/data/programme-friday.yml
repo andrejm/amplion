@@ -1,7 +1,7 @@
 - 
   time: 17:00 – 17:20
   title: OTVORENIE FESTIVALU
-  perex: promo umelcov + hymna festivalu, PROMO – pozvánka na koncert kapely Vrbovskí víťazi (SK) + Pere Hosta (ES)
+  perex: Happening + hymna + promo komika Pere Hostu (ES) a kapely Vrbovskí víťazi (SK)
   age: Family
   location: Námestie sv. Trojice
   price: 0
@@ -14,11 +14,11 @@
   location: Trotuár, ul. A. Kmeťa
   price: 0
 -  
-  time: 18:15 – 18:50
+  time: 18:00 – 18:35
   performer: Pere Hosta (ES)
   title: OPEN DOOR
   perex: pouličná komédia pre celú rodinu
-  location: Gavalier, Námestie sv. Trojice
+  location: Záhrada Skautského domu
   age: Family
   price: 4/6 €
   argentum: true 
@@ -31,15 +31,6 @@
   perex: inteligentne zábavný kvíz o novembri 1989 pre mladých
   location: Art Café, povala
   price: 3 €
--
-  time: 19:30 – 20:15
-  performer: Adam Kriss (SK)
-  age: 12+
-  title: HAPPY MAN
-  perex: busker brázdiaci svet s gitarou
-  price: 0
-  location: Trotuár, ul. A. Kmeťa
-  type: suppress
 -  
   time: 20:30– 21:30
   performer: Markeliñe (ES)
@@ -47,7 +38,7 @@
   top: true
   age: 12+
   title: CARBON CLUB
-  perex: tragikomická kabaretná show o sile, priateľstve aj láske baníkov. Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019
+  perex: tragikomická kabaretná show o sile, priateľstve aj láske baníkov. <strong>Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019</strong>
   location: Asfaltová plocha pri SOŠLS,Kol&shy;pašská ul.
   price: 0
 -  

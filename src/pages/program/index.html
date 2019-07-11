@@ -10,7 +10,7 @@
         <button class="clear button programmehelpers__action" data-open="modal-legend">Vysvetlivky k programu</button>
       </li>
       <li class="programmehelpers__item">
-        <button class="clear button programmehelpers__action" data-open="modal-argentum">AMPLIÓN Argentum, cena festivalu</button>
+        <button class="clear button programmehelpers__action" data-open="modal-argentum">Amplion Argentum, cena festivalu</button>
       </li>
       <!-- <li class="programmehelpers__item">
         <button class="clear button programmehelpers__action">Naše tipy na mieru</button>
@@ -93,12 +93,23 @@
 <section class="section">
   <div class="section__inner">
     <h2 class="section__title">Špeciálne výstavy 30.8. – 1.9.2019</h2>
-    <div class="schedule">
+    <!-- <div class="schedule"> -->
       <ul class="programmes">
         {{#each programme-exhibitions}}
             {{>_progitem}}
         {{/each}}
       </ul>
-    </div>
+    <!-- </div> -->
+
+    <p>&nbsp;</p>
+
+    <h2 class="section__title">Ďalší program 30.8. – 1.9.2019</h2>
+    <!-- <div class="schedule"> -->
+      <ul class="programmes">
+        {{#each programme-off}}
+            {{>_progitem}}
+        {{/each}}
+      </ul>
+    <!-- </div> -->
   </div>
 </section>
