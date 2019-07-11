@@ -1,0 +1,25 @@
+.programmehelpers {
+	@include reset-list;
+
+	&__action.button {
+		box-shadow: none;
+		color: $amp-primary;
+		font-weight: $global-weight-normal;
+
+		&::after {
+			content: url('../img/menu-arrow.svg');
+			display: inline-block;
+			margin-left: rem-calc( 16 );
+		}
+	}
+
+	@include breakpoint( medium ) {
+		display: flex;
+		flex-flow: row nowrap;
+		justify-content: space-around;
+
+		&__action.button {
+			font-size: rem-calc( 21 );
+		}
+	}
+}
