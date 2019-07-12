@@ -116,7 +116,7 @@
   title: KOMPLETNÝ SHAKESPEARE ZHLTNUTÝ ZA 120 MINÚT
   perex: rebelská krvavá kabaretná show najznámejšieho dramatika so živým repom, punkom i rockom  
   location: Amfiteáter (v prípade dažďa Kultúrne centrum)
-  price: 12 €
+  price: 13 €
   slug: shakespeare-za-120-minut
 -
   time: 21:00 – 22:30  
@@ -125,9 +125,9 @@
   title: SKETCH UP 
   general: Nový formát – len na AMPLIÓNE!
   top: true
-  perex: prvá česko-slovenská súťaž kabaretných skečov rôznych v skvelom obsadení. Moderuje Tomáš Dianiška.
+  perex: prvá česko-slovenská súťaž kabaretných skečov v skvelom obsadení. Moderuje Tomáš Dianiška.
   location: Kocka/Cube, Kammerhofská 6
-  price: 10 €
+  price: 9 €
   slug: sketch-up
 -
   time: 22:45 – 24:00

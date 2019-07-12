@@ -1,3 +1,20 @@
+otvorenie-festivalu:
+  title: OTVORENIE FESTIVALU
+  perex: Happening + hymna + promo komika Pere Hostu (ES) a kapely Vrbovskí víťazi (SK)
+  price: 0
+  occurences:
+    -
+      time: "piatok 17:00"
+      location: Námestie sv. Trojice
+  foto: Michal Svítok
+  pictures:
+    -
+      Otvorenie_festivalu_Amplion18_030_by Michal Svitok.jpg
+    -
+      Otvorenie_festivalu_Amplion18_031_by Michal Svitok.jpg
+    -
+      Otvorenie_festivalu_Amplion18_033_by Michal Svitok.jpg
+
 carbon-club:
   performer: Markeliñe (ES)
   premiere: true
@@ -17,6 +34,14 @@ carbon-club:
     -
       Baskický divadelný súbor Markeliñe (*1987) vytvára divadlo jedinečného štýlu. Tvorí pôvodné príbehy zo súčasnosti, ktoré poskytujú kritický pohľad na dnešok i minulosť. Prelamuje staré formy, skúma a hľadá nové vyjadrenia scénického jazyka a využitia priestoru. Diváci môžu rozjímať nad svojimi vlastnými konfliktami a protirečeniami, ktoré sú však zobrazené príjemným a inteligentným spôsobom. Súbor vo svojej tvorbe dáva dôraz na slobodné vyjadrenie emócií, vizuálny aspekt a herecký prejav. Cestuje a hrá po celom svete od východu po západ.
   link: http://www.markeline.com
+  foto: Archív divadla Markeliñe
+  pictures:
+    -
+      Markeline_Carbon_Club_01.jpg
+    -
+      Markeline_Carbon_Club_02.jpg
+    -
+      Markeline_Carbon_Club_05.jpg
 muzikal-tretiho-veku:
   performer: BodyVoiceBand (CZ)
   title: MUZIKÁL TŘETÍHO VĚKU           
@@ -45,6 +70,13 @@ muzikal-tretiho-veku:
     -
       BodyVoiceBand je pražský divadelný súbor (2013), ktorý pôsobí v priestore Venuša ve Švehlovce. Divadlo vzniklo z túžby neustále sa učiť nové veci a zároveň udržiavať živé to, čo počas spoločných rokov práce na DAMU vytvorili. Kľúčové pre ich tvorbu sú telo, hlas a skupinová spolupráca, pričom tvoria pohybovo-hlasové projekty. Ich inscenácia hudobno-dramatickej skladby E. F. Buriana Vojna sa v roku 2013 umiestnila medzi prvými desiatimi inscenáciami roka podľa ankety divadelných novín. 
   foto: Tomáš Svoboda
+  pictures:
+    -
+      BVB_Muzikal tretiho veku _by Tomas Svoboda_1.jpg
+    -
+      BVB_Muzikal tretiho veku _by Tomas Svoboda_2.jpg
+    -
+      BVB_Muzikal tretiho veku _by Tomas Svoboda_3.jpg
   link: http://www.bodyvoiceband.cz 
 shakespeare-za-120-minut:
   performer: Divadlo Jána Palárika (SK)    
@@ -54,13 +86,21 @@ shakespeare-za-120-minut:
     -
       location: Amfiteáter/ Kultúrne centrum (v prípade nepriaznivého počasia)
       time: "sobota 20:30"
-  excerpt: Rebelská kabaretná show svetoznámeho punkáča ušitá na slovenské pomery
+      price: 13
+  perex: Rebelská kabaretná show svetoznámeho punkáča ušitá na slovenské pomery
   content: 
     -
       Odohrať všetkých 39 Shakespearových hier za dve hodiny? Štvorčlenná Zredukovaná shakespearovská spoločnosť to dokáže! Predvedie skrátené verzie majstrových tragédií, komédií aj historických hier plné odkazov na súčasnú popkultúru. Jej interpretácia Shakespearových diel je nekonvenčná, rebelská. Príbeh Othella ako veľký rapový koncert? Žiadny problém, veď bol černoch. Vďaka režisérovi Martinovi Čičvákovi v Shakespearovi nájdete aj kus slovenských reálií a aktuálneho spoločenského diania. Herci prednášajú vo všetkej vážnosti verše dramatika a súčasne sprevádzajú výstupy živou hudbou. Kompletný Shakespeare zhltnutý za 120 minút je poctou univerzálnemu odkazu W. Shakespeara a veľkosti jeho génia, ktorý bol na svoju dobu jednoducho – PANKÁČ. Šťavnatá lahôdka pre všetkých rebelov od 15 rokov!   
     -
       Divadlo Jána Palárika v Trnave (1974) je jediné profesionálne divadlo v Trnavskom kraji. Prvou generáciou, ktorá kreovala poetiku divadla boli režiséri Blaho Uhlár a Juraj Nvota a herci ako Marián Zednikovič, Jaro Filip, Marián Geišberg, Vladimír Jedľovský, Anna Šišková, Zuzana Krónerová  a i. Odvaha experimentovať a uplatňovať v kamennom divadle netradičné formy napríklad klauniády pre deti i dospelých, vydobyla trnavskému divadlu jedinečné miesto v dejinách slovenského divadla. Na odkaz inovácií a implementovania rozmanitých divadelných žánrov do tradičného repertoárového divadla sa snaží nadviazať aj súčasné vedenie. Hra Kompletný Shakespeare zhltnurý za 120 minut  vychádza z textu troch amerických hercov, ktorí týmto predstavením dobyli newyorský Broadway aj londýnsky West-End. 
-  foto: n/a
+  foto: DJP
+  pictures:
+    -
+      DJP_Kompletny Shakespeare (23 of 76).jpg
+    -
+      DJP_Kompletny Shakespeare (45 of 76).jpg
+    -
+      DJP_Kompletny Shakespeare (74 of 76).jpg
   link: http://www.djp.sk
 moral-insanity:
   performer: Prešovské národné divadlo (SK)                                    
@@ -81,6 +121,13 @@ moral-insanity:
     -
       Prešovské národné divadlo je nezávislé profesionálne divadlo (2013) v Prešove. Jeho líderkami sú dramatička Michaela Zakuťanská a režisérka Júlia Rázusová. Dilema ostať v Bratislave, alebo sa vrátiť do Prešova, spojená s takmer synonymným rozhodovaním sa medzi prácou na západe a životom na východe, vyústila do principiálneho riešenia - presťahovaním sa do rodného Prešova a založením divadla. PND inscenuje texty so súčasnými spoločenskými, generačnými a sociologickými témami, dotýka sa napätia medzi východom a západom Slovenska a pomenúva rozdiely medzi úrovňou života v krajine. Zároveň chce inšpirovať ľudí z rôznych pracovných odvetví, aby sa vrátili žiť do Prešova a realizovali sa v menších mestách a na perifériách.
   foto: Róbert Taperd
+  pictures:
+    -
+      PND_Moral insanity by_Robert Taperd (28 of 44).jpg
+    -
+      PND_Moral insanity by_Robert Taperd (41 of 44).jpg
+    -
+      PND_Moral insanity by_Robert Taperd (9 of 44).jpg
   link: http://www.pnd. sk
 sketch-up:
   performer: AND + hostia (SK+CZ)                                                                           
@@ -91,7 +138,7 @@ sketch-up:
     -
       time: sobota 21:00
       location: Kocka/Cube
-      price: 0
+      price: 9
       tickets: 
   perex: Prvá česko-slovenská súťaž kabaretných skečov v skvelom obsadení
   content: 
@@ -101,7 +148,14 @@ sketch-up:
       "Účinkujú: klaunské duo Mirek a Jaroslava Sýkorovci (CZ+SK),  famózny improvizátor Daniel Kunz (CZ), odvážny raper a slamer Mišo Bruce Lee Kováč (SK), Jakub Pohle (SK) ako neuhladený standapista či mladí divadelníci z divadelných súborov Falangirz a Lano (SK). Dravú energiu a vlastné herecko-hudobné výstupy predvedie moderátor večera, skvelý Tomáš Dianiška, so svojimi kolegami z pražského Divadla pod Palmovkou. Porotcom bude pesničkár a aktér revolúcie Jan Burian (CZ) a dramaturgovia AMPLIÓNU. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 5. ročníku Festivalu AMPLIÓN 2020."
     -
       Nenechajte si tento nadupaný pilot ujsť!
-  foto: archív umelcov
+  foto: Tomas Dianiska
+  pictures:
+    -
+      SKETCH_UP_FALANGIR_sutaziaci.jpg
+    -
+      SKETCH_UP_Tomas Dianiska_Amplion17_Divadlo_pod_Palmovkou_1000_co_me_serou_011.jpg
+    -
+      SKETCH_UP_Tomas Dianiska_Amplion17_Divadlo_pod_Palmovkou_1000_co_me_serou_011_Roman Dobeþ_CZ.jpg
   link: http://www.and-theatre.art
 neviditelni:
   performer: Bratislavské bábkové divadlo (SK)
@@ -120,6 +174,13 @@ neviditelni:
     -
       Inscenáciu vytvorili pre Bratislavské bábkové divadlo (1957) tvorkyne z progresívneho divadelného zoskupenia ODIVO. BBD je dôležitý priestor, ktorý svojich divákov nielen baví, provokuje a inšpiruje, ale im prostredníctvom divadelných a umeleckých prostriedkov umožňuje duchovný rast, zvyšuje ich kultúrno-spoločenské povedomie, dáva podnety, aby rozvíjali svoje názory a schopnosti. V čele divadla stojí umelecká šéfka Katarína Aulitisová. Na svojom konte má množstvo ocenení z domácich aj zahraničných festivalov. 
   foto: Juraj Starovecký
+  pictures:
+    -
+      BBD_Neviditelni_by_Juraj Starovecky_01.jpg
+    -
+      BBD_Neviditelni_by_Juraj Starovecky_05.jpg
+    -
+      BBD_Neviditelni_by_Juraj Starovecky_07.jpg
   link: http://www.babkovedivadlo.sk
 open-door:
   performer: Pere Hosta (ES) 
@@ -147,6 +208,13 @@ open-door:
     -
       Z ničoho nič sa objavia dvere "..." máte príležitosť otvoriť ich! Čo je na druhej strane? No predsa náš každodenný obyčajný život! Ale vďaka španielskemu pouličnému komikovi Pere Hostovi to bude pohľad farebný a plný vtipných momentov. Jednoduché, ale neobyčajné dvere vás dovedú na nevšedné miesta. Prejdite nimi, žite každý deň inak, originálne a najmä so smiechom na tvári. Komik reflektuje súčasné črty doby ako ľudskú izoláciu a osamelosť a je odhodlaný objaviť pre vás optimizmus a humor ukrytý v každodennej rutine.
   foto: Jordi Gestí
+  pictures: 
+    -
+      Peter_Hosta_opendoor_01.jpg
+    -
+      Peter_Hosta_opendoor_04.jpg
+    -
+      Peter_Hosta_opendoor_05.jpg
   link: http://www.perehosta.com
 ups:
   performer: Divadelný spevácky zbor (SLO)
@@ -174,7 +242,14 @@ ups:
       Divadelný zbor sympatických mladých ľudí a jeho netypická líderka prekonajú vaše očakávania o spevákoch vážnej hudby. Aké to je, keď sa zbor nedokáže zladiť? Čo sa stane, keď sa v ňom prejaví názor jednotlivca? A ako to „ups“ ustojí bláznivá dirigentka?! Séria neočakávaných groteskných situácií vás svojím humorom i profesionálnym speváckym prejavom nielen dobre naladí, ale aj nadchne, až vám bude do spevu!
     -
       Gledališki pevski zbor je skupina profesionálnych slovinských interpretov a hudobníkov pod vedením speváčky a divadelníčky Tey Vidmar, ktorá zažiarila na festivale pouličného divadla Ana Desetnica 2019 v Ljubljane. Na Slovensku sa predstavia po prvýkrát!
-  foto: 
+  foto: Luka Dakskobler, Tadej Čauševič
+  pictures: 
+   -
+    GPZ_UPS_by_Luka Dakskobler 5.jpg
+   -
+    GPZ_UPS_by_Luka Dakskobler_3.jpg
+   -
+    GPZ_UPS_by_Tadej ¼auþeviƒ 2.jpg 
   link: http://www.anamonro.si
 vitezny-november:
   performer: Jan Burian (CZ)  
@@ -189,7 +264,12 @@ vitezny-november:
   content: 
     -
       Piesne aj rozprávanie pri klavíri ako cyklus nezaujatých spomienok na dobu novembra 89. To je večierok nonšalantného pesničkára, kabaretiéra i prozaika Jana Buriana z Prahy. Vhodné pre mládež, ktorá túto dobu nezažila, ale aj pre starších, ktorí si radi zaspomínajú na rady na pomaranče, pašovanie dederonových košieľ či železné nedele. Všetko vyvážia skladby z cyklu EKOLOGIE DUŠE na tému súčasného života človeka obklopeného médiami, ohromovaného supermarketmi a SuperStar. Dozviete sa, čo sa dá robiť, aby sme si uchovali zdravý rozum a kultúrnu úroveň.
-  foto:  
+  foto: MALL.tv, archív Jana Buriana
+  pictures:
+    -
+      Jan Burian (foto MALL.TV)1.jpeg
+    -
+      Jan Burian s veslom.jpg 
   link: http://www.janburian.cz
 koncert-timingeriu:
   performer: Timingeriu, Wroclaw (PL)  
@@ -212,7 +292,14 @@ koncert-timingeriu:
       Doprajte si poľskú dávku hudobnej energie a tanca! Kapela Timingeriu je ďalším originálnym hudobným kúskom na Festivale AMPLIÓN. Hrá a spieva živú, tanec provokujúcu cigánsku, balkánsku aj židovskú hudbu. Akordeón, trúbku, klarinet, perkusie aj kontrabas si často dovezú jej členovia na bicykloch. Radi reagujú na momentálnu situáciu a náladu publika, ktoré si nájdu aj pod vaším oknom či v miestnej krčme. Kapela cestuje a hráva po celom svete, najradšej stopuje, bicykluje alebo sa len tak slobodne člnkuje, pričom tvorí ľuďom svojou muzikou nevšedné zážitky.
     -
       Začiatky skupiny vychádzajú z hudobnej výpravy do Rumunska v roku 2009. Tvorí ju skupina všestranných umelcov, ktorí sú tiež súčasťou alternatívnej hudobnej scény (Małe Instrumenty, Sutari), jazzovej scény (Jazzové oddelenie na Hudobnej akadémii Wrocław) a tiež divadelnej scény (Gardzienice Theater, Song of the Goat divadlo). Ich debutový album s názvom Radio Rom vyšiel v marci 2015 a dokumentoval koncert skupiny v Radio Ram vo Vroclavi. 
-  foto: archív kapely
+  foto: Piotr Spigiel
+  pictures:
+    -
+      Kapela Timingeriu_by_Piotr Spigiel_1.jpg
+    -
+      Kapela Timingeriu_by_Piotr Spigiel_3.jpg
+    -
+      Kapela Timingeriu_by_Piotr Spigiel_4.jpg
   link: http://www.kapelatimingeriu.pl
 koncert-vrbovski-vitazi:
   performer: Vrbovskí víťazi, Vrbové (SK)  
@@ -236,6 +323,14 @@ koncert-vrbovski-vitazi:
       Kapela z Vrbového hrá na recesistických, vlastnoručne vyrobených nástrojoch priemyselný folklór a ich piesne sú zásadne o práci. Tvoria ju v modrých montérkach oblečení spevák hráč na „hajzlový kopák“ Braňo Jobus a jeho „pán brat“ Andrej Budislav Jobus. Ten  obsluhuje inštrumentár bizarných, prevažne dýchacích hudobných nástrojov, ktoré zhotovuje zásadne len z umelohmotných rúrok, rúr, hadíc, plastikových fliaš a starého vysávača. V jeho zbierke nájdete také nástroje, ako je ZKTDZV čiže Zúrivý karpatský trojhlavý drak z Vrbového, šesťmetrový Ropovod družba, Gajdy hovnocucky a i. Ich aforisticky humorné, „minimalisticko-industriálne“, aj vo vrbovčine spievané piesne sú prejavom jedinečného novodobého hudobného, každú prácu oslavujúceho štýlu – univerzálneho robotníckeho priemyselného folklóru, pre ktorý je typická umelecká recyklácia priemyselných produktov a elektrických spotrebičov. Dôkazom toho, že v prípade VV nejde len o povrchnú recesiu, nie sú len ich (zdanlivo banálne) texty, ale i obnova potreby a radosti z (hoci už postindustrálneho) ľudového muzicírovania. Na ich koncertoch burácajú „salvy“ ozajstného i hudobného smiechu. 
     -
       Toto hudobné teleso je pomenované podľa „véčka“, ktoré vytvára nahnutá veža tamojšieho kostola a priamka vedená stredom jeho kolmo postavenej brány – VRBOVSKÍ VÍŤAZI (VV).
+  foto: Archív kapely
+  pictures:
+    - 
+      Vrbovski_vitazi_web.jpg
+    - 
+      Vrbovski_vizati_by_archiv_1.jpg
+    - 
+      Vrbovski_vizati_by_archiv_2.jpg
 stiavnica-nielen-strieborna:
   performer: Ansámbel nepravidelného divadla (SK)  
   title: ŠTIAVNICA NIELEN STRIEBORNÁ alebo Mešťania, básnici a Náckovia     
@@ -255,6 +350,13 @@ stiavnica-nielen-strieborna:
     -
       Ansámbel nepravidelného divadla je nezávislá skupina divadelníkov a priateľov súčasného divadla, ktorá sa sformovala z ľudí podobného humanistického zmýšľania a svetonázoru. Vznikla generačnou a programovou transformáciou Kremnického divadla v podzemí (2012 – 2017). Venuje sa hľadaniu nových foriem moderného kabaretu, pouličným a angažovaným produkciám a sídli v Banskej Štiavnici.
   foto: Ľubomír Lužina
+  pictures:
+    -
+      tiavnica nielen striebornß - 31.05.19 - Foto®Luina (124).jpg
+    -
+      tiavnica nielen striebornß - 31.05.19 - Foto®Luina (155).jpg
+    -
+      tiavnica nielen striebornß - 31.05.19 - Foto®Luina (9).jpg
   link: http://www.and-theatre@art
 inventura-revolucie:
   performer: Ansámbel nepravidelného divadla (SK)  
@@ -277,7 +379,14 @@ inventura-revolucie:
   content: 
     -
       Pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 a dobu po nej. 7 zastávok – modelových situácií na Trotuári, po ktorých publikum putuje s kapelou Vrbovskí víťazi. Na nich vás čakajú multižánrové inštalácie karikatúr výtvarníkov z celého sveta (mobilná výstava FREE BRAIN EVOLUTION) vrátane diel, ktorých 2 autori byli odsúdení vo svojej krajine na smrť (Arifur Rahman, Bangladéš a Fadi Abou Hassan, Sýria); virtuálny filmový pamätník 1989 zo starého televízora od režisérky Barbory Berezňákovej z cyklu Spýtaj sa vašich; autorské angažované piesne aktivistu Jakuba Pohleho či kapely Režimy, ale aj výtvarná inštalácia nadrozmernej rozdelenej hlavy performera Dušana Krnáča REVOLÚCIA V HLAVE – túžby vs. realita, kde budete môcť písomne vyjadriť svoje (ne)naplnené túžby spred čias revolúcie. Ale najmä po nej.
-  foto: "..."
+  foto: "Archív kapely Režimy"
+  pictures:
+    -
+      INVENTURA REVOLUCIE_kapela_Rezimy_01.JPG
+    -
+      INVENTURA REVOLUCIE_kapela_Rezimy_02.jpg
+    -
+      INVENTURA REVOLUCIE_kapela_Rezimy_05.JPG
   link: http://www.and-theatre.art
 detska-inventura-revolucie:
   performer: Ansámbel nepravidelného divadla + hostia (SK)
@@ -293,7 +402,14 @@ detska-inventura-revolucie:
   content: 
     -
       Čítanie z knihy Príbehy stien + tvorivé dramatické hry pre deti. Zábavné táraninky, kreslenie aj pesničky na vážnu tému. 
-  foto: "..."
+  foto: Host
+  pictures:
+    -
+      Detska IR_Pribehy stien_autori.jpg
+    -
+      Detska IR_Pribehy stien_ilustracia_2.jpg
+    -
+      Detska IR_Pribehy stien_ilustracia_3.jpg
   link: http://www.and-theatre.art
 after-the-revolution:
   performer: D'89 Dženerejšn (SK) + Režimy (SK)  
@@ -310,6 +426,13 @@ after-the-revolution:
     -
       "Šiesti mladí interpreti a ich autentické názory na slobodu tlače v neslobodnom svete, na umeleckú pretvárku či vraždu dvoch mladých ľudí v známej krajine. Špeciálne komponovaný večer, ktorý vás vyvedie z predsudkov o konvenčnom recitovaní voľne nadväzuje na vlaňajší pilotný večer No freedom, no fun. Účinkujú: Anna Lehotská, Filip Pavuk, Michaela Slobodová, Nina Olešová a Radoslava Bačová. Programom sprevádza hip-hopová kapela raperov REŽIMY (SK), špeciálny hosť: Jakub Pohle."
   foto: archív recitátorov
+  pictures:
+    -
+      D89 dzenerejsn_Anna Lehotska.jpg
+    -
+      D89 dzenerejsn_Filip Pavuk.jpg
+    -
+      D89 dzenerejsn_Radoslava Bacova.jpg
   link: http://www.and-theatre.art
 less-mess-revolucioners:
   performer: Ján Mitáč (SK)
@@ -325,10 +448,15 @@ less-mess-revolucioners:
   content: 
     -
       Neviete čo bola Charta 77, Sviečková manifestácia, pochod Študentov zo 16. novembra 1989, kto boli hlavní rečníci na tribúnach alebo prečo názov Nežná revolúcia? Nevadí, kvíz Les Mess Revolucioners to dá do poriadku. Vtipne a hravou formou, ale aj kriticky sa pozrieme na to, čo pre nás znamená táto významná udalosť, ktorej tridsiate výročie si práve pripomíname. Nebudú chýbať fotky, videá, novinové články aj otázky o aktéroch revolúcie v Banskej Štiavnici. Hrajú tímy 3 - 6 osôb. Máš už ten svoj?
-  foto: Michal Svítok z kvízu J. Smatanu?
+  foto: Ján Mitáč, archív
+  pictures:
+    -
+      Les Mess Revolucioners_Jan Mitac.jpg
+    -
+      Les Mess Revolucioners_Revolucia_v BS_1989.png
   link: http://www.and-theatre.art
 diskusne-forum-revolucia-1989:
-  performer: Fedor Gál, Praha & Zuzana Mistríková, Bratislava (CZ/SK)
+  performer: Fedor Gál & Zuzana Mistríková (CZ/SK)
   title: "Diskusné fórum: REVOLÚCIA 1989 – VÍŤAZSTVO ČI PREHRA 2019?" 
   # Program pre mladých a dospelých       
   occurences: 
@@ -337,11 +465,18 @@ diskusne-forum-revolucia-1989:
       location: Art Cafe, povala
       price: 0
       tickets: 
-  perex: 30-roční dediči slobody sa pýtajú aktérov revolúcie, čo by bolo, keby"..." 
+  perex: 30-roční dediči slobody sa pýtajú aktérov revolúcie, čo by bolo, keby... 
   content: 
     -
       "Mladí ľudia a ich priame otázky k priebehu revolúcie 1989. Hostia: Fedor Gál, slovenský sociológ a politický prognostik, bol spoluzakladateľom Verejnosti proti násiliu, viedol Koordinačné centrum VPN, neskôr sa stal predsedom tohto hnutia a poradcom vlády, narodil sa v Terezíne a žije v Prahe.  Zuzana Mistríková, ktorá ešte ako študentka bratislavskej VŠMU stála na revolučných tribúnach, neskôr sa stala poslankyňou prvého slobodného parlamentu a zastávala viaceré pozície v mediálnej brandži. Moderuje: Jakub Pohle, 30-ročný investigatívny spisovateľ a aktivista."
-  foto:  
+  foto: Archív 
+  pictures:
+    -
+      DISKUSNE FORUM_Fedor Gal_1989.jpg
+    -
+      DISKUSNE FORUM_Jakub Pohle_moderator.jpg
+    -
+      DISKUSNE FORUM_Zuzana Mistrikova_2.jpg 
   link: http://www.and-theatre.art
 free-brain-evolution:
   performer: PRERAG Prešov & AND (SK)
@@ -357,6 +492,13 @@ free-brain-evolution:
   content: 
     -
       Všimnite si výklady Banskej Štiavnice, tri dni budú niesť silné odkazy. Obohatia ich karikatúry oceňovaných autorov zo sveta s ešte silnejšími ľudskými príbehmi. Napríklad Arifur Rahman je bangladéšsky autor kresleného humoru, ktorý bol za svoje kresby odsúdený na trest smrti. Po 6 mesiacoch sa mu však vďaka organizácii The International Cities of Refuge Network (ICORN) podarilo odísť do Nórska, kde mu bol udelený politický azyl. V jeho rodnej krajine ho však stále môžu zabiť. Podobne je na tom aj Firuz Kutal z Turecka, ktorý tiež emigroval do Nórska a úspešne sa venuje politickej karikatúre. Tých autorov budete môcť vidieť aj naživo kresliť počas happeningu Inventúra revolúcie. 
+  pictures:
+    -
+      PRERAG_Arifur Rahman 01.jpg
+    -
+      PRERAG_Arifur Rahman a Peter Razus.jpg
+    -
+      PRERAG_Firuz KUTAL , Norway 01.jpg
   link: http://prerag.sk
 vsetci-spolu:
   performer: Slovenský filmový ústav (SK)                                                                                                                               
@@ -371,7 +513,10 @@ vsetci-spolu:
   content: 
     -  
       Celovečerný dokumentárny film o politických, spoločenských, ekonomických a mravných paradoxoch, ktoré v roku 1990 zákonite sprevádzali vtedajšie Česko-Slovensko na ceste k slobode, demokracii a identite. Bilancuje revolúciu pomerne skoro a napriek tomu s nadhľadom i prvkami sarkazmu.
-  foto: "..."
+  foto: Archív
+  pictures:
+    - 
+      Vsetci_spolu_Vaclav_Havel.jpg
   link: http://www.sfu.sk
 instalacia-revolucia-v-hlave:
   performer: Dušan Krnáč (SK)  
@@ -387,5 +532,12 @@ instalacia-revolucia-v-hlave:
   content: 
     -
       O čom ste snívali po páde železnej opony? A koľko z vašich snov sa vám za 30 rokov slobody podarilo splniť? Svoje túžby a ich stav v realite si teraz môžete zvečniť.  Výtvarník a performer Dušan Krnáč uzatvára svoj cyklus nadrozmernej hlavy a ponúka vám jej priestor na vaše vyjadrenia. Hlava, už oslobodená od spútania ostatnými drôtmi premýšľa, porovnáva aj bilancuje. A čo naše hlavy, sú už nadobro slobodné? Alebo je ostatný drôt stále v nás? Zastavte sa a nechajte nám odkaz.
-  foto: "..."
+  foto: Michal Svítok
+  pictures:
+    -
+      REVOLUCIA V HLAVE_Amplion17_otvorenie_051.jpg
+    -
+      REVOLUCIA V HLAVE_Amplion17_otvorenie_073.jpg
+    -
+      REVOLUCIA V HLAVE_Amplion18_Film_vykricnik_002.jpg
   link: http://and-theatre.art

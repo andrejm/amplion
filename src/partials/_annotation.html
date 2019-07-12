@@ -2,7 +2,7 @@
 <section class="section section--plain section--straight section--top">
 	<div class="section__inner">
 		<div class="event-header">
-			<span class="event-label event-label--top">Top</span>
+			<span class="event-label event-label--top"><!-- Top --></span>
 			<h2 class="event-header__author">{{performer}}</h2>
 			<h1 class="event-header__title">{{title}}</h1>
 		</div>
@@ -37,6 +37,47 @@
 			</p>
 			{{/if}}
 		</div>
+
+		
+
+		<div class="popup-gallery">
+			<div class="grid-container">
+				<div class="grid-x">
+					{{#each pictures}}
+					<div class="cell small-12 large-2">
+						<figure class="photodesc">
+							<div class="photodesc__photowrap">
+								<a href="/foto/{{this}}"><img src="/foto/small/{{this}}" width="300" class="photodesc__photo"></a>
+							</div>
+						</figure>
+					</div>
+					{{/each}}
+					<!-- <div class="cell small-12 large-2">
+						<figure class="photodesc">
+							<div class="photodesc__photowrap">
+								<a href="/foto/DJP_Kompletny Shakespeare (45 of 76).jpg"><img src="/foto/small/DJP_Kompletny Shakespeare (45 of 76).jpg" class="photodesc__photo"></a>
+							</div>
+						</figure>
+					</div>
+					<div class="cell small-12 large-2">
+						<figure class="photodesc">
+							<div class="photodesc__photowrap">
+								<a href="/foto/DJP_Kompletny Shakespeare (74 of 76).jpg"><img src="/foto/small/DJP_Kompletny Shakespeare (74 of 76).jpg" class="photodesc__photo"></a>
+							</div>
+						</figure>
+					</div> -->
+				</div>
+			</div>
+			
+		</div>
+
+		{{#if foto}}
+		<p>&nbsp;</p>
+
+		<p>
+			Foto: {{foto}}
+		</p>
+		{{/if}}
 	</div>
 </section>
 

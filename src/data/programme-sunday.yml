@@ -4,7 +4,7 @@
   age: 5+
   title: DETSKÁ INVENTÚRA REVOLÚCIE
   perex: Špeciálny zážitkový program vo verzii pre deti!
-  location: Art Café, povala
+  location: Art Cafe, povala
   price: 0
   slug: detska-inventura-revolucie
 -
@@ -14,7 +14,7 @@
   age: 12+
   title: AFTER KONCERT
   perex: Koncert balkánskej, cigánskej a židovskej hudby bicyklujúcich muzikantov & vyhlásenie cien festivalu <strong>Amplion Argentum</strong>   
-  location: Art Café, terasa
+  location: Art Cafe, terasa
   price: 0
   slug: koncert-timingeriu
 -
@@ -23,7 +23,7 @@
   age: 12+
   title: UPS!
   perex: Skvelá paródia na koncert a capelly zo Slovinska
-  location: Art Café, terasa
+  location: Art Cafe, terasa
   price: 3 €
   slug: ups
 -
@@ -41,7 +41,7 @@
   age: 12+
   title: VŠETCI SPOLU
   perex: projekcia dokumentárneho filmu s autentickými zábermi známych osobností z pohnutej doby
-  location: Art Café, povala
+  location: Art Cafe, povala
   price: 0
   slug: vsetci-spolu
 -
