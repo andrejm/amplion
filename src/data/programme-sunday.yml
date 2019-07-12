@@ -3,7 +3,7 @@
   performer: AND + hostia (SK)
   age: 5+
   title: DETSKÁ INVENTÚRA REVOLÚCIE
-  perex: pouličný happening študentov vo výkladoch obchodov reflektujúci revolúciu 1989 a pre deti a čítanie z knihy Príbehy stien 
+  perex: Špeciálny zážitkový program vo verzii pre deti!
   location: Art Café, povala
   price: 0
   slug: detska-inventura-revolucie
@@ -13,15 +13,16 @@
   argentum: true
   age: 12+
   title: AFTER KONCERT
-  perex: balkánskej, cigánskej a židovskej hudby bicyklujúcich muzikantov & vyhlásenie cien festivalu <strong>Amplion Argentum</strong>   
+  perex: Koncert balkánskej, cigánskej a židovskej hudby bicyklujúcich muzikantov & vyhlásenie cien festivalu <strong>Amplion Argentum</strong>   
   location: Art Café, terasa
   price: 0
+  slug: koncert-timingeriu
 -
   time: 13:00 – 13:30
   performer: Divadelný spevácky zbor (SLO)
   age: 12+
   title: UPS!
-  perex: paródia na koncert a capelly
+  perex: Skvelá paródia na koncert a capelly zo Slovinska
   location: Art Café, terasa
   price: 3 €
   slug: ups

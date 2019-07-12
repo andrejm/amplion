@@ -98,11 +98,11 @@ sketch-up:
     -
       Pilotný ročník súťaže nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla. Všetky skeče prepojí jedna téma – Inventúra revolúcie, ktoré zážitkovou a zábavnou formou priblížia históriu a význam slobody mladým divákom. 
     - 
-      "Účinkujú: klaunské duo Mirek a Jaroslava Sýkorovci (CZ+SK),  famózny improvizátor Daniel Kunz (CZ), odvážny raper a slamer Mišo Bruce Lee Kováč (SK), Jakub Pohle (SK) ako neuhladený standapista či mladí divadelníci zo divadelných súborov Falangirz a Lano (SK). Dravú energiu a vlastné herecko-hudobné výstupy predvedie moderátor večera, skvelý Tomáš Dianiška, so svojimi kolegami z pražského Divadla pod Palmovkou. Porotcom bude pesničkár a aktér revolúcie Jan Burian (CZ) a dramaturgovia AMPLIÓNU. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 5. ročníku Festivalu AMPLIÓN 2020."
+      "Účinkujú: klaunské duo Mirek a Jaroslava Sýkorovci (CZ+SK),  famózny improvizátor Daniel Kunz (CZ), odvážny raper a slamer Mišo Bruce Lee Kováč (SK), Jakub Pohle (SK) ako neuhladený standapista či mladí divadelníci z divadelných súborov Falangirz a Lano (SK). Dravú energiu a vlastné herecko-hudobné výstupy predvedie moderátor večera, skvelý Tomáš Dianiška, so svojimi kolegami z pražského Divadla pod Palmovkou. Porotcom bude pesničkár a aktér revolúcie Jan Burian (CZ) a dramaturgovia AMPLIÓNU. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 5. ročníku Festivalu AMPLIÓN 2020."
     -
       Nenechajte si tento nadupaný pilot ujsť!
   foto: archív umelcov
-  link: http://www.amplion.eu
+  link: http://www.and-theatre.art
 neviditelni:
   performer: Bratislavské bábkové divadlo (SK)
   title: NEVIDITEĽNÍ 
@@ -165,7 +165,7 @@ ups:
       tickets: 
     -
       time: nedeľa 13:00
-      location: Art Café, terasa
+      location: Art Cafe, terasa
       price: 0
       tickets: 
   perex: Skvelá paródia na koncert a capelly zo Slovinska
@@ -175,14 +175,14 @@ ups:
     -
       Gledališki pevski zbor je skupina profesionálnych slovinských interpretov a hudobníkov pod vedením speváčky a divadelníčky Tey Vidmar, ktorá zažiarila na festivale pouličného divadla Ana Desetnica 2019 v Ljubljane. Na Slovensku sa predstavia po prvýkrát!
   foto: 
-  link: http://www.perehosta.com
+  link: http://www.anamonro.si
 vitezny-november:
   performer: Jan Burian (CZ)  
   title: VÍŤĚZNÝ NOVEMBER & EKOLOGIE DUŠE 
   occurences: 
     -
       time: sobota 17:30
-      location: Art Café, terasa
+      location: Art Cafe, terasa
       price: 0
       tickets: 
   perex: Koncert legendárneho pesničkára o konci doby dvoch druhov jogurtov a jednej politickej strany
@@ -190,7 +190,7 @@ vitezny-november:
     -
       Piesne aj rozprávanie pri klavíri ako cyklus nezaujatých spomienok na dobu novembra 89. To je večierok nonšalantného pesničkára, kabaretiéra i prozaika Jana Buriana z Prahy. Vhodné pre mládež, ktorá túto dobu nezažila, ale aj pre starších, ktorí si radi zaspomínajú na rady na pomaranče, pašovanie dederonových košieľ či železné nedele. Všetko vyvážia skladby z cyklu EKOLOGIE DUŠE na tému súčasného života človeka obklopeného médiami, ohromovaného supermarketmi a SuperStar. Dozviete sa, čo sa dá robiť, aby sme si uchovali zdravý rozum a kultúrnu úroveň.
   foto:  
-  link: 
+  link: http://www.janburian.cz
 koncert-timingeriu:
   performer: Timingeriu, Wroclaw (PL)  
   title: KONCERT
@@ -198,9 +198,14 @@ koncert-timingeriu:
   occurences: 
     -
       time: sobota 22:45
-      location: Art Café, povala
+      location: Art Cafe, terasa
       price: 0
       tickets: 
+    -
+      time: AFTER KONCERT nedeľa 11:00
+      location: Art Cafe, povala
+      price: 0
+      tickets:         
   perex: Koncert balkánskej, cigánskej a židovskej hudby bicyklujúcich muzikantov
   content: 
     -
@@ -212,8 +217,14 @@ koncert-timingeriu:
 koncert-vrbovski-vitazi:
   performer: Vrbovskí víťazi, Vrbové (SK)  
   title: KONCERT
-  # xx+                                                                               
+  # xx+   
+  link: http://www.vrbovskivitazi.sk                                                                            
   occurences: 
+    -
+      time: sobota 12:00
+      location: Art Cafe, terasa
+      price: 0
+      tickets: 
     -
       time: piatok 23:00
       location: Kocka/Cube
@@ -253,7 +264,7 @@ inventura-revolucie:
   # pre mladých a dospelých                                                                         
   occurences: 
     -
-      time: piatok 17:20
+      time: piatok 17:30
       location: Trotuár
       price: 0
       tickets: 
@@ -267,7 +278,7 @@ inventura-revolucie:
     -
       Pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 a dobu po nej. 7 zastávok – modelových situácií na Trotuári, po ktorých publikum putuje s kapelou Vrbovskí víťazi. Na nich vás čakajú multižánrové inštalácie karikatúr výtvarníkov z celého sveta (mobilná výstava FREE BRAIN EVOLUTION) vrátane diel, ktorých 2 autori byli odsúdení vo svojej krajine na smrť (Arifur Rahman, Bangladéš a Fadi Abou Hassan, Sýria); virtuálny filmový pamätník 1989 zo starého televízora od režisérky Barbory Berezňákovej z cyklu Spýtaj sa vašich; autorské angažované piesne aktivistu Jakuba Pohleho či kapely Režimy, ale aj výtvarná inštalácia nadrozmernej rozdelenej hlavy performera Dušana Krnáča REVOLÚCIA V HLAVE – túžby vs. realita, kde budete môcť písomne vyjadriť svoje (ne)naplnené túžby spred čias revolúcie. Ale najmä po nej.
   foto: "..."
-  link: http://www.almaziastiavnica.sk
+  link: http://www.and-theatre.art
 detska-inventura-revolucie:
   performer: Ansámbel nepravidelného divadla + hostia (SK)
   title: DETSKÁ INVENTÚRA REVOLÚCIE                         
@@ -291,7 +302,7 @@ after-the-revolution:
   occurences: 
     -
       time: piatok 22:00
-      location: Art Café, povala
+      location: Art Cafe, povala
       price: 0
       tickets: 
   perex: Neuhladené moderné prednesy mladých o slobode po neslobode s autentickou kapelou Režimy
@@ -307,7 +318,7 @@ less-mess-revolucioners:
   occurences: 
     -
       time: piatok 19:00
-      location: Art Café, povala
+      location: Art Cafe, povala
       price: 0
       tickets: 
   perex: Zábavný kvíz o novembri 1989 s bývalým pracovníkom Ústavu pamäti národa pre mladých aj pamätníkov
@@ -323,7 +334,7 @@ diskusne-forum-revolucia-1989:
   occurences: 
     -
       time: sobota 19:00
-      location: Art Café, povala
+      location: Art Cafe, povala
       price: 0
       tickets: 
   perex: 30-roční dediči slobody sa pýtajú aktérov revolúcie, čo by bolo, keby"..." 
@@ -346,16 +357,14 @@ free-brain-evolution:
   content: 
     -
       Všimnite si výklady Banskej Štiavnice, tri dni budú niesť silné odkazy. Obohatia ich karikatúry oceňovaných autorov zo sveta s ešte silnejšími ľudskými príbehmi. Napríklad Arifur Rahman je bangladéšsky autor kresleného humoru, ktorý bol za svoje kresby odsúdený na trest smrti. Po 6 mesiacoch sa mu však vďaka organizácii The International Cities of Refuge Network (ICORN) podarilo odísť do Nórska, kde mu bol udelený politický azyl. V jeho rodnej krajine ho však stále môžu zabiť. Podobne je na tom aj Firuz Kutal z Turecka, ktorý tiež emigroval do Nórska a úspešne sa venuje politickej karikatúre. Tých autorov budete môcť vidieť aj naživo kresliť počas happeningu Inventúra revolúcie. 
-    - 
-      "Kresby: ..."
-  link: 
+  link: http://prerag.sk
 vsetci-spolu:
   performer: Slovenský filmový ústav (SK)                                                                                                                               
   title: VŠETCI SPOLU
   occurences: 
     -
       time: nedeľa 16:30
-      location: Art Café, povala
+      location: Art Cafe, povala
       price: 0
       tickets: 
   perex: Projekcia dokumentárneho filmu s autentickými zábermi známych osobností z pohnutej doby
@@ -363,7 +372,7 @@ vsetci-spolu:
     -  
       Celovečerný dokumentárny film o politických, spoločenských, ekonomických a mravných paradoxoch, ktoré v roku 1990 zákonite sprevádzali vtedajšie Česko-Slovensko na ceste k slobode, demokracii a identite. Bilancuje revolúciu pomerne skoro a napriek tomu s nadhľadom i prvkami sarkazmu.
   foto: "..."
-  link: 
+  link: http://www.sfu.sk
 instalacia-revolucia-v-hlave:
   performer: Dušan Krnáč (SK)  
   title: REVOLÚCIA V HLAVE – túžby vs. realita
@@ -379,4 +388,4 @@ instalacia-revolucia-v-hlave:
     -
       O čom ste snívali po páde železnej opony? A koľko z vašich snov sa vám za 30 rokov slobody podarilo splniť? Svoje túžby a ich stav v realite si teraz môžete zvečniť.  Výtvarník a performer Dušan Krnáč uzatvára svoj cyklus nadrozmernej hlavy a ponúka vám jej priestor na vaše vyjadrenia. Hlava, už oslobodená od spútania ostatnými drôtmi premýšľa, porovnáva aj bilancuje. A čo naše hlavy, sú už nadobro slobodné? Alebo je ostatný drôt stále v nás? Zastavte sa a nechajte nám odkaz.
   foto: "..."
-  link: 
+  link: http://and-theatre.art

@@ -6,7 +6,7 @@
   location: Námestie sv. Trojice
   price: 0
 -
-  time: 17:30 – 19:00
+  time: 17:20 – 19:00
   performer: AND + hostia (SK+CZ)
   age: 12+
   title: "INVENTÚRA REVOLÚCIE: BIG BANG'89"
@@ -19,7 +19,7 @@
   performer: Pere Hosta (ES)
   title: OPEN DOOR
   perex: pouličná komédia pre celú rodinu
-  location: Záhrada Skautského domu
+  location: Záhrada Skautského domu, A. Pécha
   age: Family
   price: 4/6 €
   argentum: true 
@@ -31,7 +31,7 @@
   age: 15+
   title: LES MESS REVOLUCIONERS
   perex: inteligentne zábavný kvíz o novembri 1989 pre mladých
-  location: Art Café, povala
+  location: Art Cafe, povala
   price: 3 €
   slug: less-mess-revolucioners
 -  
@@ -41,8 +41,8 @@
   top: true
   age: 12+
   title: CARBON CLUB
-  perex: tragikomická kabaretná show o sile, priateľstve aj láske baníkov. <strong>Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019</strong>
-  location: Asfaltová plocha pri SOŠLS,Kol&shy;pašská ul.
+  perex: tragikomická kabaretná show o sile, priateľstve aj láske baníkov. <br><strong>Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019</strong>
+  location: Asfaltová plocha pri SOŠLS, Kol&shy;pašská ul.
   price: 0
   slug: carbon-club
 -  
@@ -51,7 +51,7 @@
   age: 18+
   title: AFTER THE REVOLUTION
   perex: neuhladené prednesy 5 mladých osobností a autorské čítanie hostí na tému slobody po neslobode + jam session s kapelou Režimy (SK)
-  location: Art Café, povala
+  location: Art Cafe, povala
   price: 7 €
   slug: after-the-revolution
 -  
@@ -59,7 +59,7 @@
   performer: Vrbovskí víťazi (SK)
   age: 15+
   title: KONCERT
-  perex: hudobno pracovnej skupiny 
+  perex: Koncert hudobno-pracovnej skupiny recesistov 
   location: Kocka/Cube, Kammerhofská 6
   price: 6 €
   slug: koncert-vrbovski-vitazi

@@ -64,8 +64,8 @@
 	@include breakpoint( medium ) {
 		&__gutter {
 			.programmes__item--suppress & {
-				display: flex;
-				flex-flow: row nowrap;
+				// display: flex;
+				// flex-flow: row nowrap;
 			}
 		}
 
