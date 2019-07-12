@@ -1,6 +1,6 @@
 a.topbutton {
 	position: absolute;
-    top: -110px;
+    top: -70px;
     right: 10px;
     width: 70px;
     height: 70px;
@@ -20,8 +20,11 @@ a.topbutton {
     	color: $white;
     }
 
-    &:hover {
-        top: -120px;
-        transition: top 0.3s;
+    @include breakpoint( medium ) {
+        top: -110px;
+        &:hover {
+            top: -120px;
+            transition: top 0.3s;
+        }
     }
 }
