@@ -24,6 +24,10 @@
 		&:first-letter {
 			text-transform: uppercase;
 		}
+
+		a {
+			@include amp-link-underline;
+		}
 	}
 
 	&__suitablefor {

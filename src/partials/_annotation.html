@@ -1,0 +1,60 @@
+
+<section class="section section--plain section--straight section--top">
+	<div class="section__inner">
+		<div class="event-header">
+			<span class="event-label event-label--top">Top</span>
+			<h2 class="event-header__author">{{performer}}</h2>
+			<h1 class="event-header__title">{{title}}</h1>
+		</div>
+		<div class="section__content">
+			<p class="section__introtext">
+				{{perex}}
+			</p>
+			<p>
+				{{#each occurences}}
+					<span class="event-time">{{this.time}}</span>
+					<span class="event-location">{{this.location}}</span>
+					<!-- <span class="event-price">6 €</span> -->
+					<br>
+				{{/each}}
+			</p>
+			<!-- <p>
+				<a href="/vstupenky" class="button">Kúpiť vstupenky</a>
+			</p> -->
+		</div>
+	</div>
+</section>
+
+<section class="section">
+	<div class="section__inner">
+		<div class="section__content">
+			{{#each content}}
+			<p>{{{this}}}</p>
+			{{/each}}
+			{{#if link}}
+			<p>
+				<a href="{{link}}" class="event-more" target="_blank">Viac na: {{link}}</a>
+			</p>
+			{{/if}}
+		</div>
+	</div>
+</section>
+
+<section class="section section--plain">
+	<div class="section__inner">
+		<!-- <h2 class="section__title section__title--noarrow">
+			<span class="event-time">SOBOTA 29. 8. 2019, 19.30 — 20.00</span>
+			<span class="event-location">Radničné námestie</span>
+			<span class="event-price">6 €</span>
+		</h2> -->
+
+		<div class="section__content">
+			<!-- <p>
+				<a href="/vstupenky/" class="button">Kúpiť vstupenky</a>
+			</p> -->
+			<p>
+				<a href="/program/" class="section__backlink">Späť na program</a>
+			</p>
+		</div>
+	</div>
+</section>

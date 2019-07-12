@@ -13,6 +13,7 @@
   perex: špeciálny pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 
   location: Trotuár, ul. A. Kmeťa
   price: 0
+  slug: inventura-revolucie
 -  
   time: 18:00 – 18:35
   performer: Pere Hosta (ES)
@@ -23,6 +24,7 @@
   price: 4/6 €
   argentum: true 
   premiere: true
+  slug: open-door
 -
   time: 19:00 – 20:30
   performer: Ján Mitáč (SK)
@@ -31,6 +33,7 @@
   perex: inteligentne zábavný kvíz o novembri 1989 pre mladých
   location: Art Café, povala
   price: 3 €
+  slug: less-mess-revolucioners
 -  
   time: 20:30– 21:30
   performer: Markeliñe (ES)
@@ -41,6 +44,7 @@
   perex: tragikomická kabaretná show o sile, priateľstve aj láske baníkov. <strong>Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019</strong>
   location: Asfaltová plocha pri SOŠLS,Kol&shy;pašská ul.
   price: 0
+  slug: carbon-club
 -  
   time: 22:00 – 23:30
   performer: D'89 dženerejšn + Režimy (SK)
@@ -49,6 +53,7 @@
   perex: neuhladené prednesy 5 mladých osobností a autorské čítanie hostí na tému slobody po neslobode + jam session s kapelou Režimy (SK)
   location: Art Café, povala
   price: 7 €
+  slug: after-the-revolution
 -  
   time: 23:00 – 24:00
   performer: Vrbovskí víťazi (SK)
@@ -57,3 +62,4 @@
   perex: hudobno pracovnej skupiny 
   location: Kocka/Cube, Kammerhofská 6
   price: 6 €
+  slug: koncert-vrbovski-vitazi

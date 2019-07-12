@@ -18,15 +18,23 @@
     <div class="progitem__gutter">
         <div class="progitem__titles">
             <h5 class="progitem__performer">{{this.performer}}</h5>
-            <h4 class="progitem__title">{{this.title}}</h4> 
+            <h4 class="progitem__title">
+                {{#if this.slug}}
+                <a href="/program/{{this.slug}}/">
+                {{/if}}
+                    {{this.title}}
+                {{#if this.slug}}    
+                </a>
+                {{/if}}
+            </h4> 
         </div>
         <div class="progitem__text">
             <p>
-                {{{this.perex}}}
+                {{{this.perex}}} <a href="/program/{{this.slug}}/">Čítať viac...</a>
             </p>
         </div>
         <div class="progitem__factual">
-            <span class="event-location">{{{this.location}}}Á</span>
+            <span class="event-location">{{{this.location}}}</span>
             <span class="event-price">
                 {{#ifequal this.price 0}}
                   Vstup voľný!

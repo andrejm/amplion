@@ -8,6 +8,7 @@
   location: Záhrada Skautského domu
   age: Family
   price: 4/6 €
+  slug: open-door  
 -
   time: 10:30 – 12:00
   performer: AND + hostia (SK+CZ)
@@ -16,6 +17,7 @@
   perex: špeciálny pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 
   location: Trotuár, ul. A. Kmeťa
   price: 0
+  slug: inventura-revolucie
 -
   time: 12:00 – 12:45
   performer: Vrbovskí víťazi (SK)
@@ -24,6 +26,7 @@
   perex: hudobno-pracovnej skupiny recesistov na ich originálne nástroje  
   location: Art Café, terasa
   price: 0
+  slug: koncert-vrbovski-vitazi
 -
   time: 14:00 – 15:00
   performer: Prešovské národné divadlo (SK)
@@ -35,6 +38,7 @@
   perex: monodráma na motívy románu Umberta Eca Pražský cintorín  
   location: Kocka/Cube
   price: 6 €
+  slug: moral-insanity
 -
   time: 14:30 – 14:45
   performer: Timingeriu (PL)
@@ -54,6 +58,7 @@
   perex: pouličná komédia pre celú rodinu  
   location: Starý zámok
   price: 4/6 €
+  slug: open-door
 -
   time: 16:00 – 16:50
   performer: Bratislavské bábkové divadlo (SK)
@@ -64,6 +69,7 @@
   perex: dobrodružná rozprávka o permoníkoch, elfoch aj Lochneskej príšere
   location: Kultúrne centrum, Hlavná sála
   price: 3/5 €
+  slug: neviditelni
 -
   time: 17:00 – 17:30
   performer: Divadelný spevácky zbor (SLO)
@@ -72,6 +78,7 @@
   perex: paródia na koncert a capelly
   location: Nádvorie Starého zámku
   price: 3 €
+  slug: ups
 -
   time: 17:30 – 18:45
   performer: Jan Burian (CZ)
@@ -80,14 +87,16 @@
   perex: koncert legendárneho pesničkára, básnika i prozaika
   location: Art Café, terasa
   price: 6 €
+  slug: vitezny-november
 -
   time: 19:00 – 20:30
   performer: Fedor Gál & Zuzana Mistríková (SK)
   age: 15+
   title: "DISKUSNÉ FÓRUM: REVOLÚCIA 1989 – VÍŤAZSTVO ČI PREHRA 2019?"
   perex: 30-roční dedičia slobody sa pýtajú aktérov revolúcie, čo by bolo, keby... Moderuje Jakub Pohle.      
-  location: Art Café, povala  
+  location: Art Café, povala
   price: 5 €
+  slug: diskusne-forum-revolucia-1989
 -
   time: 19:30 – 20:00
   performer: Divadelný spevácky zbor (SLO)
@@ -96,6 +105,7 @@
   perex: paródia na koncert a capelly
   location: Kocka/Cube, Kammerhofská 6
   price: 4 €
+  slug: ups
 -
   time: 20:30 – 23:00
   performer: Divadlo Jána Palárika (SK)
@@ -104,8 +114,9 @@
   age: 15+
   title: KOMPLETNÝ SHAKESPEARE ZHLTNUTÝ ZA 120 MINÚT
   perex: rebelská krvavá kabaretná show najznámejšieho dramatika so živým repom, punkom i rockom  
-  location: Amfiteáter (KC)
+  location: Amfiteáter (v prípade dažďa Kultúrne centrum)
   price: 12 €
+  slug: shakespeare-za-120-minut
 -
   time: 21:00 – 22:30  
   performer: AND + hostia (SK+CZ) 
@@ -116,6 +127,7 @@
   perex: prvá česko-slovenská súťaž kabaretných skečov rôznych v skvelom obsadení. Moderuje Tomáš Dianiška.
   location: Kocka/Cube, Kammerhofská 6
   price: 10 €
+  slug: sketch-up
 -
   time: 22:45– 24:00
   performer: Timingeriu (PL)
@@ -125,3 +137,4 @@
   perex: balkánskej, cigánskej a židovskej hudby byciklujúcich muzikantov  
   location: Art Café, povala
   price: 6 € 
+  slug: koncert-timingeriu
