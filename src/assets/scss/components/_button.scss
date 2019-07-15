@@ -2,6 +2,7 @@
 	font-size: rem-calc( 14 );
 	font-weight: $global-weight-bold;
 	box-shadow: #BC184F 0 2px 0;
+	text-transform: uppercase;
 
 	&.secondary {
 		background-color: $amp-button-color;
