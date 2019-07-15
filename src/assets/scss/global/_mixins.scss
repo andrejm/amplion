@@ -81,6 +81,22 @@
 			
 		// }
 	}
+
+	@include breakpoint( jano ) {
+		& + & {
+			margin-top: rem-calc( 40 );
+		}
+
+		&::before {
+			top: -120px;
+			height: 120px;
+			z-index: -1;
+		}
+
+		&::after {
+			z-index: 1;
+		}
+	}
 }
 
 @mixin amp-link-underline() {
