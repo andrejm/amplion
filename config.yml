@@ -25,6 +25,8 @@ PATHS:
     - "src/assets/**/*"
     - "src/files/**/*"
     - "!src/assets/{img,js,scss}/**/*"
+  gallery:
+    - "src/gallery/**/*"    
   # Paths to Sass libraries, which can then be loaded with @import
   sass:
     - "node_modules/foundation-sites/scss"
