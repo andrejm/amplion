@@ -36,12 +36,9 @@ carbon-club:
   link: http://www.markeline.com
   foto: Archív divadla Markeliñe
   pictures:
-    -
-      Markeline_Carbon_Club_01.jpg
-    -
-      Markeline_Carbon_Club_02.jpg
-    -
-      Markeline_Carbon_Club_05.jpg
+    - Markeline_Carbon_Club_01.jpg
+    - Markeline_Carbon_Club_02.jpg
+    - Markeline_Carbon_Club_08.jpg
 muzikal-tretiho-veku:
   performer: BodyVoiceBand (CZ)
   title: MUZIKÁL TŘETÍHO VĚKU           
@@ -145,17 +142,14 @@ sketch-up:
     -
       Pilotný ročník súťaže nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla. Všetky skeče prepojí jedna téma – Inventúra revolúcie, ktoré zážitkovou a zábavnou formou priblížia históriu a význam slobody mladým divákom. 
     - 
-      "Účinkujú: klaunské duo Mirek a Jaroslava Sýkorovci (CZ+SK),  famózny improvizátor Daniel Kunz (CZ), odvážny raper a slamer Mišo Bruce Lee Kováč (SK), Jakub Pohle (SK) ako neuhladený standapista či mladí divadelníci z divadelných súborov Falangirz a Lano (SK). Dravú energiu a vlastné herecko-hudobné výstupy predvedie moderátor večera, skvelý Tomáš Dianiška, so svojimi kolegami z pražského Divadla pod Palmovkou. Porotcom bude pesničkár a aktér revolúcie Jan Burian (CZ) a dramaturgovia AMPLIÓNU. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 5. ročníku Festivalu AMPLIÓN 2020."
+      "Účinkujú: klaunské duo Mirek a Jaroslava Sýkorovci (CZ+SK),  famózny improvizátor Daniel Kunz (CZ), odvážny raper a slamer Mišo Bruce Lee Kováč (SK), Jakub Pohle (SK) ako neuhladený standapista či mladí divadelníci z divadelných súborov Falangir a Lano (SK). Dravú energiu a vlastné herecko-hudobné výstupy predvedú moderátori večera – skvelí Tomáš Dianiška a Jakub Albrecht – so svojimi kolegami z pražského Divadla pod Palmovkou. Porotcom bude pesničkár a aktér revolúcie Jan Burian (CZ) a dramaturgovia AMPLIÓNU. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 5. ročníku Festivalu AMPLIÓN 2020."
     -
       Nenechajte si tento nadupaný pilot ujsť!
-  foto: Tomas Dianiska
+  foto: archív umelcov
   pictures:
-    -
-      SKETCH_UP_FALANGIR_sutaziaci.jpg
-    -
-      SKETCH_UP_Tomas Dianiska_Amplion17_Divadlo_pod_Palmovkou_1000_co_me_serou_011.jpg
-    -
-      SKETCH_UP_Tomas Dianiska_Amplion17_Divadlo_pod_Palmovkou_1000_co_me_serou_011_Roman Dobeþ_CZ.jpg
+    - SKETCH_UP_Tomas_Dianiska_moderator_3.jpg
+    - SKETCH_UP_FALANGIR_sutaziaci.jpg
+    - SKETCH_UP_Mirek a Jarka_S.jpg
   link: http://www.and-theatre.art
 neviditelni:
   performer: Bratislavské bábkové divadlo (SK)
@@ -308,14 +302,14 @@ koncert-vrbovski-vitazi:
   link: http://www.vrbovskivitazi.sk                                                                            
   occurences: 
     -
-      time: sobota 12:00
-      location: Art Cafe, terasa
-      price: 0
-      tickets: 
-    -
       time: piatok 23:00
       location: Kocka/Cube
       price: 0
+      tickets: 
+    -
+      time: AFTER KONCERT sobota 12:00
+      location: Art Cafe, terasa
+      price: 3
       tickets: 
   perex: Koncert hudobno-pracovnej skupiny recesistov
   content: 
@@ -357,7 +351,7 @@ stiavnica-nielen-strieborna:
       tiavnica nielen striebornß - 31.05.19 - Foto®Luina (155).jpg
     -
       tiavnica nielen striebornß - 31.05.19 - Foto®Luina (9).jpg
-  link: http://www.and-theatre@art
+  link: https://almaziastiavnica.sk/podujatie/stiavnica-nielen-strieborna-premiera/
 inventura-revolucie:
   performer: Ansámbel nepravidelného divadla (SK)  
   title: "INVENTÚRA REVOLÚCIE: BIG BANG '89"
@@ -404,15 +398,12 @@ detska-inventura-revolucie:
       Čítanie z knihy Príbehy stien + tvorivé dramatické hry pre deti. Zábavné táraninky, kreslenie aj pesničky na vážnu tému. 
   foto: Host
   pictures:
-    -
-      Detska IR_Pribehy stien_autori.jpg
-    -
-      Detska IR_Pribehy stien_ilustracia_2.jpg
-    -
-      Detska IR_Pribehy stien_ilustracia_3.jpg
+    - Detska IR_Pribehy stien_titulka.jpg
+    - Detska IR_Pribehy stien_ilustracia_2.jpg
+    - Detska IR_Pribehy stien_ilustracia_1.jpg
   link: http://www.and-theatre.art
 after-the-revolution:
-  performer: D'89 Dženerejšn (SK) + Režimy (SK)  
+  performer: D'89 Dženerejšn + Režimy (SK)  
   title: AFTER THE REVOLUTION  
   general: TOP PROGRAM  pre mladých a dospelých                                                                         
   occurences: 
@@ -427,12 +418,11 @@ after-the-revolution:
       "Šiesti mladí interpreti a ich autentické názory na slobodu tlače v neslobodnom svete, na umeleckú pretvárku či vraždu dvoch mladých ľudí v známej krajine. Špeciálne komponovaný večer, ktorý vás vyvedie z predsudkov o konvenčnom recitovaní voľne nadväzuje na vlaňajší pilotný večer No freedom, no fun. Účinkujú: Anna Lehotská, Filip Pavuk, Michaela Slobodová, Nina Olešová a Radoslava Bačová. Programom sprevádza hip-hopová kapela raperov REŽIMY (SK), špeciálny hosť: Jakub Pohle."
   foto: archív recitátorov
   pictures:
-    -
-      D89 dzenerejsn_Anna Lehotska.jpg
-    -
-      D89 dzenerejsn_Filip Pavuk.jpg
-    -
-      D89 dzenerejsn_Radoslava Bacova.jpg
+    - D89 dzenerejsn_Anna Lehotska.jpg
+    - D89 dzenerejsn_Filip Pavuk.jpg
+    - D89 dzenerejsn_Michaela Slobodova.jpg
+    - D89 dzenerejsn_Nina Olesova.jpg
+    - D89 dzenerejsn_Radoslava Bacova.jpg
   link: http://www.and-theatre.art
 less-mess-revolucioners:
   performer: Ján Mitáč (SK)
@@ -481,7 +471,7 @@ diskusne-forum-revolucia-1989:
       DISKUSNE FORUM_Zuzana Mistrikova_2.jpg 
   link: http://www.and-theatre.art
 free-brain-evolution:
-  performer: PRERAG Prešov & AND (SK)
+  performer: PRERAG & MIA (NOR)
   title: FREE BRAIN EVOLUTION 
   # Program pre mladých a dospelých       
   occurences: 
@@ -493,7 +483,7 @@ free-brain-evolution:
   perex: Výstava karikatúr výtvarníkov z celého sveta vo výkladoch obchodov
   content: 
     -
-      Všimnite si výklady Banskej Štiavnice, tri dni budú niesť silné odkazy. Obohatia ich karikatúry oceňovaných autorov zo sveta s ešte silnejšími ľudskými príbehmi. Napríklad Arifur Rahman je bangladéšsky autor kresleného humoru, ktorý bol za svoje kresby odsúdený na trest smrti. Po 6 mesiacoch sa mu však vďaka organizácii The International Cities of Refuge Network (ICORN) podarilo odísť do Nórska, kde mu bol udelený politický azyl. V jeho rodnej krajine ho však stále môžu zabiť. Podobne je na tom aj Firuz Kutal z Turecka, ktorý tiež emigroval do Nórska a úspešne sa venuje politickej karikatúre. Tých autorov budete môcť vidieť aj naživo kresliť počas happeningu Inventúra revolúcie. 
+      Všimnite si výklady Banskej Štiavnice, tri dni budú niesť silné odkazy. Obohatia ich karikatúry oceňovaných autorov zo sveta s ešte silnejšími ľudskými príbehmi. Napríklad Arifur Rahman je bangladéšsky autor kresleného humoru, ktorý bol za svoje kresby odsúdený na trest smrti. Po 6 mesiacoch sa mu však vďaka organizácii The International Cities of Refuge Network (ICORN) podarilo odísť do Nórska, kde mu bol udelený politický azyl. V jeho rodnej krajine ho však stále môžu zabiť. Podobne je na tom aj Firuz Kutal z Turecka, ktorý tiež emigroval do Nórska a úspešne sa venuje politickej karikatúre. Tých autorov budete môcť vidieť aj naživo kresliť počas happeningu Inventúra revolúcie. A najmä vďaka Prešovskej agentúre PRERAG, nórskej karikaturistickej galérii MiA a Active citizens fund. 
   pictures:
     -
       PRERAG_Arifur Rahman 01.jpg
