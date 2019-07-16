@@ -51,6 +51,7 @@ section--notopspace - without top padding
 		&::after {
 			display: none;
 		}
+
 	}
 
 	&--top {
@@ -201,6 +202,11 @@ section--notopspace - without top padding
 
 		&--notopspace {
 			padding-top: 0;
+		}
+
+		&--straight-bottom {
+			padding-bottom: rem-calc( 16 );
+
 		}
 
 		&__headerimage {

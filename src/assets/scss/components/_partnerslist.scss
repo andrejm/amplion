@@ -31,6 +31,7 @@
 			}
 		}
 
+
 	}
 
 	&__href {
@@ -50,6 +51,11 @@
 				max-width: rem-calc( 160 );
 			}
 
+			&--piercom {
+				img {
+					max-height: rem-calc( 100 );
+				}
+			}
 
 			&--fpu {
 				flex-basis: 100%;
@@ -66,7 +72,6 @@
 				img {
 					max-height: rem-calc( 65 );
 				}
-
 			}
 
 			&--re {
@@ -76,7 +81,16 @@
 
 			&--trotuarcafe {
 				img {
-					max-height: rem-calc( 80 );
+					max-height: rem-calc( 100 );
+				}
+			}
+
+			&--bbsk {
+				margin-left: 1rem;
+				margin-right: 1rem;
+
+				img {
+					max-width: rem-calc( 210 );
 				}
 			}
 
