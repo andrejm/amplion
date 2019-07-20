@@ -1,0 +1,18 @@
+.toc {
+	text-align: left;
+	color: $amp-secondary;
+	font-weight: $global-weight-bold;
+
+	&__item {
+		margin-bottom: rem-calc( 16 );
+		max-width: 80%;
+	}
+
+	&__href {
+		color: $amp-secondary;
+	}
+
+	@include breakpoint( large ) {
+		columns: 2;
+	}
+}

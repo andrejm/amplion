@@ -189,6 +189,10 @@ section--notopspace - without top padding
 		}
 	}
 
+	&__return-top {
+		color: $amp-secondary;
+	}
+
 
 	// MEDIUM //////////////////////////////////////////////////
 
@@ -307,6 +311,10 @@ section--notopspace - without top padding
 			max-width: rem-calc( 768 );
 			margin: 0 auto;
 			font-size: rem-calc( 23 );
+
+			&--wide {
+				max-width: none;
+			}
 		}
 	}
 

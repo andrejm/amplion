@@ -1,0 +1,38 @@
+---
+meta-desc: Pripravili sme návod na prežitie festivalového diváka - vstupenky, ubytovanie, jedlo a iné. Uistite sa, že prečítate aspoň prvú kapitolu pre zaneprázdnených!
+---
+
+<section class="section section--plain section--straight section--top" data-smooth-scroll>
+  <div class="section__inner">
+    <img src="/assets/img/header-prakticke-mobile.png" alt="AMPLION 2019 Prakticke info" class="section__headerimage">
+    <img src="/assets/img/header-prakticke.png" alt="AMPLION 2019 Prakticke info" class="section__headerimage--large">
+    <p class="section__introtext">
+      Desať dobrých rád do života festivalového návštevníka
+    </p>
+    <div class="section__content section__content--wide">
+    	<h2 id="obsah-stranky" class="section__title">Čo tu nájdete</h2>
+    	<ol class="toc">
+    		{{#each practical-info}}
+    		<li class="toc__item"><a href="#{{id}}" class="toc__href">{{title}}</a></li>
+    		{{/each}}
+    	</ol>
+    	
+    </div>
+  </div>
+</section>
+
+{{#each practical-info}}
+<section id="{{id}}" class="section section--narrow section--straight section--straight-bottom" data-smooth-scroll>
+	<div class="section__inner">
+		<h2 class="section__title">{{chapter}}. {{title}}</h2>
+	{{#each content}}
+		<p>
+			{{{this}}}
+		</p>
+	{{/each}}
+	<p class="text-right">
+		<a href="#obsah-stranky" class="section__return-top">⬆ Naspäť na obsah</a>
+	</p>
+	</div>
+</section>
+{{/each}}
