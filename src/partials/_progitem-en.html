@@ -1,0 +1,57 @@
+<li class="programmes__item programmes__item--{{this.type}} progitem">
+    <ul class="progitem__tags">
+        {{#if this.top}}
+            <li class="progitem__tag"><span class="event-top">TOP</span></li>
+        {{/if}}
+        {{#if this.premiere}}
+            <li class="progitem__tag"><span class="event-premiere">Slovak premiere</span></li>
+        {{/if}}
+        {{#if this.argentum}}
+            <li class="progitem__tag"><span class="event-argentum">Amplion Argentum nomination</span></li>
+        {{/if}}
+        {{#if this.general}}
+            <li class="progitem__tag"><span class="event-top">{{this.general}}</span></li>
+        {{/if}}
+    </ul>
+    <span class="event-time">{{this.time}}</span>
+
+    <div class="progitem__gutter">
+        <div class="progitem__titles">
+            <h5 class="progitem__performer">{{this.performer}}</h5>
+            <h4 class="progitem__title">
+                {{#if this.slug}}
+                <a href="/en/programme/{{this.slug}}/">
+                {{/if}}
+                    {{this.title}}
+                {{#if this.slug}}    
+                </a>
+                {{/if}}
+            </h4> 
+        </div>
+        <div class="progitem__text">
+            <p>
+                {{{this.perex}}} {{#if this.slug}}<a href="/en/programme/{{this.slug}}/">Read more...</a>{{/if}}
+            </p>
+        </div>
+        <div class="progitem__factual">
+            <span class="event-location">{{{this.location}}}</span>
+            <span class="event-price">
+                {{#ifequal this.price 0}}
+                  Free entry!
+                {{else}}
+                  {{this.price}}
+                {{/ifequal}}
+            </span> 
+        </div>
+    </div>
+    <div class="progitem__suitablefor">
+        <span class="progitem__age">
+            {{#ifequal this.age "Family" }}
+              <span class="event-family" title="Family programme"></span>
+            {{else}}
+              {{this.age}}
+            {{/ifequal}}
+        </span>
+    </div>
+
+</li>

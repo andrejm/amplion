@@ -1,0 +1,101 @@
+
+<section class="section section--plain section--straight section--top">
+	<div class="section__inner">
+		<div class="event-header">
+			<span class="event-label event-label--top"><!-- Top --></span>
+			<h2 class="event-header__author">{{performer}}</h2>
+			<h1 class="event-header__title">{{title}}</h1>
+		</div>
+		<div class="section__content">
+			<p class="section__introtext">
+				{{perex}}
+			</p>
+			<p>
+				{{#each occurences}}
+					<span class="event-time">{{this.time}}</span>
+					<span class="event-location">{{this.location}}</span>
+					<!-- <span class="event-price">6 €</span> -->
+					<br>
+				{{/each}}
+			</p>
+			<!-- <p>
+				<a href="/vstupenky" class="button">Buy ticket</a>
+			</p> -->
+		</div>
+	</div>
+</section>
+
+<section class="section">
+	<div class="section__inner">
+		<div class="section__content">
+			{{#each content}}
+			<p>{{{this}}}</p>
+			{{/each}}
+			{{#if link}}
+			<p>
+				<a href="{{link}}" class="event-more" target="_blank">More at: {{link}}</a>
+			</p>
+			{{/if}}
+		</div>
+
+		
+
+		<div class="popup-gallery">
+			<div class="grid-container">
+				<div class="grid-x grid-margin-x medium-up-5">
+					{{#each pictures}}
+					<div class="cell small-12 medium-6 large-3">
+						<figure class="photodesc">
+							<div class="photodesc__photowrap">
+								<a href="/gallery/{{this}}"><img src="/gallery/small/{{this}}" width="300" class="photodesc__photo"></a>
+							</div>
+						</figure>
+					</div>
+					{{/each}}
+					<!-- <div class="cell small-12 large-2">
+						<figure class="photodesc">
+							<div class="photodesc__photowrap">
+								<a href="/gallery/DJP_Kompletny Shakespeare (45 of 76).jpg"><img src="/gallery/small/DJP_Kompletny Shakespeare (45 of 76).jpg" class="photodesc__photo"></a>
+							</div>
+						</figure>
+					</div>
+					<div class="cell small-12 large-2">
+						<figure class="photodesc">
+							<div class="photodesc__photowrap">
+								<a href="/gallery/DJP_Kompletny Shakespeare (74 of 76).jpg"><img src="/gallery/small/DJP_Kompletny Shakespeare (74 of 76).jpg" class="photodesc__photo"></a>
+							</div>
+						</figure>
+					</div> -->
+				</div>
+			</div>
+			
+		</div>
+
+		{{#if foto}}
+		<p>&nbsp;</p>
+
+		<p>
+			Photo: {{foto}}
+		</p>
+		{{/if}}
+	</div>
+</section>
+
+<section class="section section--plain">
+	<div class="section__inner">
+		<!-- <h2 class="section__title section__title--noarrow">
+			<span class="event-time">SOBOTA 29. 8. 2019, 19.30 — 20.00</span>
+			<span class="event-location">Radničné námestie</span>
+			<span class="event-price">6 €</span>
+		</h2> -->
+
+		<div class="section__content">
+			<!-- <p>
+				<a href="/vstupenky/" class="button">Kúpiť vstupenky</a>
+			</p> -->
+			<p>
+				<a href="/en/programme/" class="section__backlink">Back to the programme</a>
+			</p>
+		</div>
+	</div>
+</section>

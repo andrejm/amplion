@@ -1,0 +1,57 @@
+-
+  time: 10:00 – 10:45
+  performer: AND + guests (SK)
+  age: 5+
+  title: INVENTORY OF THE REVOLUTION BY CHILDREN
+  perex: A children’s version of the special interactive programme!
+  location: Art Cafe, attic
+  price: 0
+  slug: childrens-inventory-of-revolution
+-
+  time: 11:00 – 11:30
+  performer: Timingeriu (PL)
+  argentum: true
+  age: 12+
+  title: AFTER KONCERT
+  perex: Concert of Balkan, gypsy and Jewish music by cycling musicians
+  location: Art Cafe, terrace
+  price: 0
+  slug: koncert-timingeriu
+-
+  time: 13:00 – 13:30
+  performer: Theatre Singing Choir (SLO)
+  age: 12+
+  title: OOPS!
+  perex: An amazing parody of an a capella concert from Slovenia
+  location: Art Cafe, terrace
+  price: 3 €
+  slug: oops
+-
+  time: 14:00 – 15:45
+  performer: AND (SK)
+  age: 5+
+  title: ŠTIAVNICA NOT ONLY SILVER a.k.a. Townsfolk, poets and Nazis
+  perex: A unique walking street theatre about searching for the present-day treasure of Banská Štiavnica. <strong>The performance is a part of the Identity Renovation – Banská Štiavnica, City of Culture 2019 project Programme for families</strong>
+  location: Radničné námestie – Námestie sv. Trojice – Starý zámok
+  price: 0
+  slug: stiavnica-not-only-silver
+-
+  time: 16:30 – 17:30
+  performer: Slovak Film Institute (SK)
+  age: 12+
+  title: ALL TOGETHER
+  perex: Screening of a documentary with authentic footage of famous personalities during strange times
+  location: Art Cafe, attic
+  price: 0
+  slug: all-together
+-
+  time: 18:00 – 19:00
+  performer: BodyVoiceBand (CZ)
+  argentum: true
+  top: true
+  age: 15+
+  title: MUSICAL OF THE THIRD AGE
+  perex: Dance revue-cabaret of the youth about aging, featuring songs by Jan Burian
+  location: Cultural centre, main hall
+  price: 8 €
+  slug: musical-of-the-third-age

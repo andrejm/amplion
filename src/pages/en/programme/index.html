@@ -9,17 +9,7 @@ layout: english
     <!-- <p class="section__introtext">
       linky / filtre
     </p> -->
-    <h2 class="section__title">While we work on translating this page...</h2>
-    <div class="section__content">
-      <p>See the complete English programme in PDF:</p>
-    </div>
-    
-    <div class="presskit">
-      <div class="presskit__item">
-        <img src="/assets/img/pressico-logo.svg" alt="" class="presskit__ico">
-        <a href="/assets/PROGRAM_AMPLION_19_ENG_5.pdf" class="button">Festival programme (pdf)</a>
-      </div>
-    </div>
+
 
     <!-- <ul class="programmehelpers">
       <li class="programmehelpers__item">
@@ -65,50 +55,50 @@ layout: english
   </div>
 </section>
 <!-- <section class="section"> -->
-    <!-- <div class="schedule">
+    <div class="schedule">
         <ul class="tabs" data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" data-tabs id="deeplinked-tabs">
-          <li class="tabs-title is-active"><a href="#piatok" aria-selected="true">Piatok</a></li>
-          <li class="tabs-title"><a href="#sobota">Sobota</a></li>
-          <li class="tabs-title"><a href="#nedela">Nedeľa</a></li>
+          <li class="tabs-title is-active"><a href="#friday" aria-selected="true">Friday</a></li>
+          <li class="tabs-title"><a href="#saturday">Saturday</a></li>
+          <li class="tabs-title"><a href="#sunday">Sunday</a></li>
         </ul>
 
         <div class="tabs-content" data-tabs-content="deeplinked-tabs">
-          <div class="tabs-panel is-active" id="piatok">
+          <div class="tabs-panel is-active" id="friday">
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
-                {{#each programme-friday}}
-                    {{>_progitem}}
+                {{#each programme-friday-en}}
+                    {{>_progitem-en}}
                 {{/each}}
                 </ul>                
             </section>
           </div>
-          <div class="tabs-panel" id="sobota">
+          <div class="tabs-panel" id="saturday">
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
-                {{#each programme-saturday}}
-                    {{>_progitem}}
+                {{#each programme-saturday-en}}
+                    {{>_progitem-en}}
                 {{/each}}
                 </ul>                
             </section>
           </div>
-          <div class="tabs-panel" id="nedela">
+          <div class="tabs-panel" id="sunday">
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
-                {{#each programme-sunday}}
-                    {{>_progitem}}
+                {{#each programme-sunday-en}}
+                    {{>_progitem-en}}
                 {{/each}}
                 </ul>                
             </section>
           </div>
         </div>
-    </div> -->
+    </div>
 <!-- </section> -->
-<!-- <section class="section">
+<section class="section">
   <div class="section__inner">
-    <h2 class="section__title">Špeciálne výstavy počas festivalu</h2>
+    <h2 class="section__title">Special exhibitions during the festival</h2>
       <ul class="programmes">
-        {{#each programme-exhibitions}}
-            {{>_progitem}}
+        {{#each programme-exhibitions-en}}
+            {{>_progitem-en}}
         {{/each}}
       </ul>
 
@@ -116,9 +106,25 @@ layout: english
 
     <h2 class="section__title">BUSKING</h2>
       <ul class="programmes">
-        {{#each programme-off}}
-            {{>_progitem}}
+        {{#each programme-off-en}}
+            {{>_progitem-en}}
         {{/each}}
       </ul>
   </div>
-</section> -->
+</section>
+
+<section class="section section--plain">
+  <div class="section__inner">
+    <h2 class="section__title">Print & keep it in your pocket</h2>
+    <div class="section__content">
+      <p>See the complete English programme in PDF:</p>
+    </div>
+    
+    <div class="presskit">
+      <div class="presskit__item">
+        <img src="/assets/img/pressico-logo.svg" alt="" class="presskit__ico">
+        <a href="/assets/PROGRAM_AMPLION_19_ENG_5.pdf" class="button">Festival programme (pdf)</a>
+      </div>
+    </div>
+  </div>
+</section>

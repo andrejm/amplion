@@ -1,0 +1,505 @@
+festival-opening:
+  title: FESTIVAL OPENING
+  perex: Happening + anthem + promo Pere Hosta (ES) and the band Vrbovskí víťazi (SK)
+  price: 0
+  occurences:
+    -
+      time: "Friday 17:00"
+      location: St. Trinity Square
+  foto: Michal Svítok
+  pictures:
+    -
+      Otvorenie_festivalu_Amplion18_030_by Michal Svitok.jpg
+    -
+      Otvorenie_festivalu_Amplion18_031_by Michal Svitok.jpg
+    -
+      Otvorenie_festivalu_Amplion18_033_by Michal Svitok.jpg
+
+carbon-club:
+  performer: Markeliñe (ES)
+  premiere: true
+  title: CARBON CLUB 
+  occurences: 
+    -
+      time: Friday 20:30
+      location: Asphalt area next to SOŠLS, Kolpašská street
+      price: 0
+      tickets: 
+  perex: Tragic and comical cabaret show about strength, friendship and love among miners
+  content:
+    - <strong>The performance is a part of the Identity Renovation – Banská Štiavnica, City of Culture 2019 project</strong>
+    - Here comes a mining cabaret club, filled to the brim with uniquely Spanish-styled songs and dances. The dynamic and entertaining tragic comedy is truly a journey through movement, visual art and music, as well as pyrotechnical effects. It puts forth questions about whether it is a gift or a curse to be a miner and how much friendship is worth when you witness a tragic fate down below the earth. The grand experience on several micro-podiums is full of humour, touching moments and pays homage to all the unknown heroes who died doing this honest, but hard work.
+    - The Basque theatre ensemble Markeliñe (*1987) creates theatre with a unique style. It creates original stories from the present which provide a critical view upon both the present and the past. It breaks old forms, explores and searches for new expressions of scenic language as well as uses of space. The viewers can contemplate their own personal conflicts and contradictions as they are painted with a sensitive, intelligent way on stage. The ensemble focuses heavily on free expression of emotions, on visual aspects and acting performances. They play and travel all around the world, from the East to the West.
+  link: http://www.markeline.com
+  foto: Archív divadla Markeliñe
+  pictures:
+    - Markeline_Carbon_Club_01.jpg
+    - Markeline_Carbon_Club_02.jpg
+    - Markeline_Carbon_Club_08.jpg
+musical-of-the-third-age:
+  performer: BodyVoiceBand (CZ)
+  title: MUSICAL OF THE THIRD AGE           
+  premiere: true
+  general: TOP PROGRAM pre dospelých 
+  occurences: 
+    -
+      time: Sunday 18:00
+      location: Cultural centre, main hall
+      price: 8
+      tickets:                                                                              
+  perex: Dance revue-cabaret of the youth about aging, featuring songs by Jan Burian
+  content: 
+    -
+      There is no other kind of loneliness that is as specific and as desperate as the one felt by the elderly. How does one think about getting older but not become afraid? That is the main topic of this unique cabaret for both the younger and the older viewers. Young interprets use their bodies reflect the lyrics on aging by the Czech songwriter and author Jan Burian. Burian’s songs create a delicate world of an aging person and reflects fear from the potential inabilities. The songs in combination with the young performers of the BodyVoiceBand ensures a fresh music, dance, revue and cabaret, starring the members of the Bizarre Band, Dušan Navařík and Zdeněk Dočekal. Let’s not be afraid of aging!
+    -
+      <em>My daughter is leaving home <br>
+      I don’t even know for whom <br>
+      She says she found a great new place
+      so it’s a fact I have to face 
+    -
+      Oh I see, I see <br>
+      She wants to grasp life like a tamer  <br>
+      Oh I see, I see <br>
+      She’s all grown up now</em>
+    -
+      BodyVoiceBand is a theatre ensemble from Prague (est. 2013) and performs in the Venuša venue in Švehlovka. The theatre was created from the desire to constantly learn new things and, at the same time, maintain the life of everything they created together during their years of work at DAMU. The key factors in their art include the body, the voice and cooperation in a group, creating audio-physical projects. Their performance of the dramatic music peace War by E. F. Burian was included in the Top 10 plays of the year, according to a survey by the Theatre Newspaper.
+  foto: Tomáš Svoboda
+  pictures:
+    -
+      BVB_Muzikal tretiho veku _by Tomas Svoboda_1.jpg
+    -
+      BVB_Muzikal tretiho veku _by Tomas Svoboda_2.jpg
+    -
+      BVB_Muzikal tretiho veku _by Tomas Svoboda_3.jpg
+  link: http://www.bodyvoiceband.cz 
+shakespeare-under-120-minutes:
+  performer: Ján Palárik Theatre (SK)    
+  title: THE ENTIRE SHAKESPEARE, SWALLOWED IN UNDER 120 MINUTES
+  general: TOP PROGRAM pre mladých a dospelých   
+  occurences: 
+    -
+      location: Amphitheatre/Cultural centre (in case of bad weather)
+      time: "Saturday 20:30"
+      price: 13
+  perex: A rebellious cabaret show of a famous punk tailored to Slovak reality
+  content: 
+    - Acting out all 39 of Shakespeare’s plays in 2 hours? The four members of the Reduced Shakespeare society can do it! They perform shortened version of the master’s tragedies, comedies as well as historical plays complete with references to contemporary pop-culture. their interpretation of Shakespeare’s works is non-conventional, rebellious, even. Othello’s story as a grand hip-hop concert? No problem, he was black after all. Thanks to the director Martin Čičvák, you will find a big piece of contemporary Slovak culture and the latest social developments in Shakespeare. The actors perform the words of the famous playwright while underlining their performances with live music. The Entire Shakespeare, Swallowed In Under 120 Minutes pays tribute to the universal legacy of W. Shakespeare and the size of his genius, which was, for its time, simply PUNK. A juicy treat for all the rebels over 15 years of age!
+    - The Ján Palárik theatre in Trnava (est. 1974) is the only professional theatre in the Trnava region. The first generation to create the poetry of the theatre was represented by the directors Blaho Uhlár and Juraj Nvota, as well as actors such as Marián Zednikovič, Jaro Filip, Marián Geišberg, Vladimír Jedľovský, Anna Šišková, Zuzana Konerová and others. Their courage to experiment and enact non-traditional theatre forms in a traditional theatre, such as clown performances for children and adults, built their reputation as a unique place in the history of Slovak theatre. The current members are trying to follow up on this legacy of innovation and implementation of various theatre genres. The play The Entire Shakespeare, Swallowed In Under 120 Minutes comes from the play of three American actors who performed it on Broadway in New York and the West-End in London to immense success.
+  foto: DJP
+  pictures:
+    -
+      DJP_Kompletny Shakespeare (23 of 76).jpg
+    -
+      DJP_Kompletny Shakespeare (45 of 76).jpg
+    -
+      DJP_Kompletny Shakespeare (74 of 76).jpg
+  link: http://www.djp.sk
+moral-insanity:
+  performer: Prešov National Theatre (SK)                         
+  title: MORAL INSANITY
+  general: Grand Prix of the New Drama 2019 festival!                                                                                                               
+  top: true
+   # pre mladých a dospelých                                                                                
+  occurences: 
+    -
+      time: Saturday 14:00
+      location: Kocka/Cube
+      price: 0
+      tickets: 
+  perex: Mono-drama based on the motives of Umberto Eco’s novel “The Prague Cemetery”
+  content: 
+    - Funny, non-conventional and bold theatre! Do you want to know who is responsible for your streak of bad luck? Are you looking for the one responsible for all that is going on here? Come on in and you are guaranteed to pick someone. The original actor’s mono-drama by Peter Brajerčík based on Umberto Eco’s novel “The Prague Cemetery” explores conspiracy theories, anti-semitic and racist ideas springing from a difficult economic and social situation, as well as how they are reflected in the media and in politics. Eco, the historian, philosopher and aesthetician, plays with a refined explanation of history that uncovers the principles of political and purpose-built games. The play was awarded the Grand Prix at the New Drama 2019 festival.
+    - The Prešov National Theatre is an independent professional theatre (est. 2013) in Prešov. Its leaders are the dramaturgist Michaela Zakuťanská and director Júlia Rázusová. The dilemma to either stay in Bratislava or to return to Prešov, one which is almost synonymous with the choice between working in the west or living in the east, led to a definite solution – moving to their hometown of Prešov and starting a theatre there. PNT adapt texts dealing with contemporary social, generational and sociological topics, touches upon the tension between the east and the west of Slovakia and comments on the differences in quality of life in the country. It also seeks to inspire people from different lines of work to come back to Prešov or to express themselves in smaller towns and outskirts.
+  foto: Róbert Taperd
+  pictures:
+    -
+      PND_Moral insanity by_Robert Taperd (28 of 44).jpg
+    -
+      PND_Moral insanity by_Robert Taperd (41 of 44).jpg
+    -
+      PND_Moral insanity by_Robert Taperd (9 of 44).jpg
+  link: http://www.pnd.sk
+sketch-up:
+  performer: AND + guests (SK+CZ)                                                                           
+  title: SKETCH UP
+  general: New format - only at AMPLIFIER!
+  # Program pre mladých a dospelých                                                                                
+  occurences: 
+    -
+      time: Saturday 21:00
+      location: Kocka/Cube
+      price: 9
+      tickets: 
+  perex: The first Czecho-slovak cabaret sketch competition with an amazing lineup
+  content: 
+    - It’s the pilot year of the competition of new cabaret performances of solo artists and art groups in different genres close to stand-up, slam poetry, theatre, music, physical art or clownery. All of the sketches will be united by one topic – An Inventory of the Revolution, aiming to present history and the meaning of freedom to the younger audience members via a more immediate and entertaining form.
+    - "Featuring: clown duo Mirek and Jaroslava Sýkorovci (CZ + SK), the fabulous improviser Daniel Kunz (CZ), a bold rapper and slammer Mišo Bruce Lee Kováč (SK), Jakub Pohle as a rough stand-up comedian and young theatre professionals from theatre ensembles Falangirz and DS Lano (SK). The wild energy and his own acting and musical sketches will be presented by the host of the evening, the great Tomáš Dianiška as well as his colleagues from the Theatre under Palmovka in Prague. The songwriter and witness to the revolution, Jan Burian (CZ) will be the judge of the competition alongside the program directors of AMPLIFIER. The winner(s) will receive the AMPLION ARGENTUM award and the option to perform their own cabaret programme at the 5th annual edition of the AMPLIFIER Festival in 2020."
+    - Don’t let this stacked pilot fly under your radar!
+  foto: archív umelcov
+  pictures:
+    - SKETCH_UP_Tomas_Dianiska_moderator_3.jpg
+    - SKETCH_UP_FALANGIR_sutaziaci.jpg
+    - SKETCH_UP_Mirek a Jarka_S.jpg
+  link: http://www.and-theatre.art
+the-invisible:
+  performer: Bratislava Puppet Theatre (SK)
+  title: THE INVISIBLE  
+  # Program  pre rodiny s deťmi       
+  occurences: 
+    -
+      time: Saturday 16:00
+      location: Cultural centre, main hall
+      price: 0
+      tickets: 
+  perex: A cabaret fairytale adventure about gremlins, the Lochness monster and elves!
+  content: 
+    - Join your children on a journey to the world of the Lochness monster, elves, the yeti, dragons and gremlins! In this original story about (non)existent being, you will travel through time and space with the actors to meet strange creatures whose existence has never been scientifically proven. The young viewers will bear witness to sounds turning into music, of matter turning into live beings and words turning into poetry. This play full of magical moments will tickle the fantasy and place you in a world of visions, dreams, fantastic adventures and discoveries. On this amazing journey, you will be accompanied by the music of Juraj Haško, leader of the band Sto múch. Suitable for all curious children over 5 years of age.
+    - The play has been created for the Bratislava Puppet Theatre (est. 1957) by the creators from the progressive theatre ensemble ODIVO. BPT is an important space that not only entertains, provokes and inspires its viewers, but also enables their inner growth, builds their cultural and social knowledge and motivates them to expand their opinions and skills using theatre and artistic expression as medium. The leader of the theatre is its art director, Katarína Aulitsová. She has several awards from domestic and foreign festivals under her belt.
+  foto: Juraj Starovecký
+  pictures:
+    -
+      BBD_Neviditelni_by_Juraj Starovecky_01.jpg
+    -
+      BBD_Neviditelni_by_Juraj Starovecky_05.jpg
+    -
+      BBD_Neviditelni_by_Juraj Starovecky_07.jpg
+  link: http://www.babkovedivadlo.sk
+open-door:
+  performer: Pere Hosta (ES) 
+  title: OPEN DOOR
+  premiere: true
+  general: TOP PROGRAM pre rodiny s deťmi
+  occurences: 
+    -
+      time: Friday 18:00
+      location: Garden of the Scout House
+      price: 0
+      tickets: 
+    -
+      time: Saturday 10:00
+      location: Garden of the Scout House
+      price: 0
+      tickets: 
+  perex: Street comedy show for the entire family
+  content: 
+    -
+      Suddenly, a door appears… and you have a chance to open it. What is on the other side? Our normal everyday life, of course! And thanks to the Spanish street comedian Pere Hosta, it will be a colourful glance filled with comedic moments. A simple, but unusual door will lead you to amazing places. Walk through them, live every day differently, uniquely and most importantly, with a smile on your face. The comedian reflects the contemporary signs of the times such as human isolation, loneliness and is determined to discover the optimism and humour hidden in the everyday routine.
+  foto: Jordi Gestí
+  pictures: 
+    -
+      Peter_Hosta_opendoor_01.jpg
+    -
+      Peter_Hosta_opendoor_04.jpg
+    -
+      Peter_Hosta_opendoor_05.jpg
+  link: http://www.perehosta.com
+oops:
+  performer: Theatre Singing Choir (SLO)
+  title: OOPS!
+  premiere: true
+  occurences: 
+    -
+      time: Saturday 17:00
+      location: Old Castle
+      price: 0
+      tickets: 
+    -
+      time: Saturday 19:30
+      location: Kocka/Cube
+      price: 0
+      tickets: 
+    -
+      time: Sunday 13:00
+      location: Art Cafe, terrace
+      price: 0
+      tickets: 
+  perex: An amazing parody of an a capella concert from Slovenia
+  content: 
+    - This theatre ensemble of young people and their unusual leader will surpass your expectations about classical music singers. How does it look like when the choir cannot stay in tune together?  What happens when an individual expresses their opinion? And how is this “oopsie” handled by the wacky conductor? This series of unexpected slapstick situations filled with humour and professional singing performances is sure not only get you in tune, but to excite you to the point of wanting to sing out loud!
+    - Gledališki pevski zbor is a group of professional Slovenian performers and musicians led by the singer and theatre star Tea Vidmar, who was a true star at the festival of street art Ana Desetnica 2019 in Ljubljana. First time in Slovakia!
+  foto: Luka Dakskobler, Tadej Čauševič
+  pictures: 
+   -
+    GPZ_UPS_by_Luka Dakskobler 5.jpg
+   -
+    GPZ_UPS_by_Luka Dakskobler_3.jpg
+   -
+    GPZ_UPS_by_Tadej ¼auþeviƒ 2.jpg 
+  link: http://www.anamonro.si
+victorious-november:
+  performer: Jan Burian (CZ)  
+  title: THE VICTORIOUS NOVEMBER & THE ECOLOGY OF THE SPIRIT
+  occurences: 
+    -
+      time: Saturday 17:30
+      location: Art Cafe, terrace
+      price: 0
+      tickets: 
+  perex: A concert of the legendary singer-songwriter about the end of the era of two kinds of yogurt and one political party
+  content: 
+    -
+      Songs and stories spoken from the piano will form this cycle of neutral memories of the times of November 1989. Such is the evening of the nonchalant singer-songwriter, cabaret performer and writer Jan Burian from Prague. It is suitable for the youth who was not yet alive back then, but also for the older generations, who can remember queueing for oranges, smuggling shirts from West Germany or the Iron Sundays. All of these memories will be balanced by songs from the cycle THE ECOLOGY OF THE SPIRIT on the topic of the contemporary life of people who are surrounded by media, stunned by supermarkets and SuperStars. You will learn what you can do in order to maintain your sanity and cultural position.
+  foto: MALL.tv, archív Jana Buriana
+  pictures:
+    -
+      Jan Burian (foto MALL.TV)1.jpeg
+    -
+      Jan Burian s veslom.jpg 
+  link: http://www.janburian.cz
+koncert-timingeriu:
+  performer: Timingeriu, Wroclaw (PL)  
+  title: CONCERT
+  # xx+
+  occurences: 
+    -
+      time: Saturday 22:45
+      location: Art Cafe, terrace
+      price: 0
+      tickets: 
+    -
+      time: AFTER CONCERT Sunday 11:00
+      location: Art Cafe, attic
+      price: 0
+      tickets:         
+  perex: Concert of Balkan, gypsy and Jewish music by cycling musicians
+  content: 
+    - Enjoy this Polish dose of musical energy and dance. Timingeriu is another unique music piece at the AMPLIFIER festival. They play a lively, highly danceable gypsy, Balkan and Jewish music. The band members often bring the accordion, the trumpet, the clarinet, percussions and an upright bass on bicycles. They also like to react to the momentary situation and mood of the audience, which they find underneath your window or in the local pub. The band travels and plays all around the world, often hitchhiking, cycling or just freely rowing, providing the people with unusual experiences using their music.     
+    - The beginnings of the band come from a musical journey to Romania in 2009. The band is formed by multi-instrumentalists who are also members of the alternative music scene (Małe Instrumenty, Sutari), the jazz scene (Jazz Section at the Music Academy in Wroclaw) and the theatre scene (Gardzienice Theater, Song of the Goat theatre). Their debut album, Radio Rom, came out in 2015 and documented the concert of the band in Radio Ram in Wroclaw.
+  foto: Piotr Spigiel
+  pictures:
+    -
+      Kapela Timingeriu_by_Piotr Spigiel_1.jpg
+    -
+      Kapela Timingeriu_by_Piotr Spigiel_3.jpg
+    -
+      Kapela Timingeriu_by_Piotr Spigiel_4.jpg
+  link: http://www.kapelatimingeriu.pl
+koncert-vrbovski-vitazi:
+  performer: Vrbovskí víťazi, Vrbové (SK)  
+  title: CONCERT
+  # xx+   
+  link: http://www.vrbovskivitazi.sk                                                                            
+  occurences: 
+    -
+      time: Friday 23:00
+      location: Kocka/Cube
+      price: 0
+      tickets: 
+    -
+      time: AFTER CONCERT Saturday 12:00
+      location: Art Cafe, terrace
+      price: 3
+      tickets: 
+  perex: Concert of the work-music band of jokesters
+  content: 
+    - The band from Vrbové plays industrial folklore on non-serious, hand-made instruments and all of their songs are about work. The two blue-worksuit-clad members include the singer and “toilet-kickdrum” player Braňo Jobus and his “Mr. Brother” Andrej Budislav Jobus. He plays an array of bizarre, mostly wind instruments made exclusively out of plastic tubes, hoses, plastic bottles and an old vacuum cleaner. His collection also includes instruments such as the ACTHDFV (the Angry Carpathian Three-Headed Dragon from Vrbové), the six-meter Družba Pipeline, and the Fecal matter bagpipes. Their aphoristically humorous, minimalistically industrial songs, sung in the local Vrbové dialect, are representative of a one-of-a-kind musical style which celebrates work - the universal working man industrial folklore. It is typical to artistically recycle products and appliances for this style. The proof that VV are not just superficial jokers lies not just in their only seemingly banal lyrics, but also their goal to revive the need and the joy from (now already post-industrial) folk music. Their concerts burst with salvos of both real and musical laughter.
+    - This musical group is named after the “V”, created by the leaning tower of the local church and a line constructed through the center of its perpendicularly constructed gate – VRBOVSKÍ VÍŤAZI (VV – VRBOVÉ WINNERS).
+  foto: Archív kapely
+  pictures:
+    - 
+      Vrbovski_vitazi_web.jpg
+    - 
+      Vrbovski_vizati_by_archiv_1.jpg
+    - 
+      Vrbovski_vizati_by_archiv_2.jpg
+stiavnica-not-only-silver:
+  performer: Ensemble of Irregular Theatre (SK)  
+  title: ŠTIAVNICA NOT ONLY SILVER a.k.a. Townsfolk, poets and Nazis
+  # Program pre rodiny                                                                               
+  occurences: 
+    -
+      time: Sunday 14:00
+      location: Radničné námestie – St. Trinity Square – Old Castle
+      price: 0
+      tickets: 
+  perex: A unique walking street theatre about searching for the present-day treasure of Banská Štiavnica
+  content: 
+    - <strong>The performance is a part of the Identity Renovation – Banská Štiavnica, City of Culture 2019 project Programme for families</strong>
+    - Enjoy this entertaining journey of the actors, the dog Cyril and the viewers behind the wagon of happiness. A journey after a yet-undiscovered treasure of the mining town, which does not only hide in silver, but also in the people and their personal stories. The inspiration behind the play is a mystery legend about the fate of the rich citizen Barbora Rösselová. The historical and contemporary form of the play will lead from the Radničné square via the St. Trinity square all the way to the Old Castle. Fourteen stops in unique exteriors will reanimate fragments of Štiavnica’s history right in front of the object where they took place. There will be acting, singing, dancing and tasting, but most importantly, laughing.
+    - The Ensemble of Irregular Theatre is an independent group of friends of contemporary theatre which was formed by people of similar humanist thoughts and viewpoints. It was created after a generational and repertoire transformation of the Kremnica Theatre Underground (2012 - 2017). It searches for new forms of modern cabaret, as well as promotes street and socially engaged productions. It is based in Banská Štiavnica.
+  foto: Ľubomír Lužina
+  pictures:
+    -
+      tiavnica nielen striebornß - 31.05.19 - Foto®Luina (124).jpg
+    -
+      tiavnica nielen striebornß - 31.05.19 - Foto®Luina (155).jpg
+    -
+      tiavnica nielen striebornß - 31.05.19 - Foto®Luina (9).jpg
+  link: https://almaziastiavnica.sk/podujatie/stiavnica-nielen-strieborna-premiera/
+inventory-of-revolution:
+  performer: Ensemble of Irregular Theatre (SK)  
+  title: "INVENTORY OF THE REVOLUTION: BIG BANG '89"
+  general: Only at Amplifier!
+  top: true
+  # pre mladých a dospelých                                                                         
+  occurences: 
+    -
+      time: Friday 17:30
+      location: Trotuár
+      price: 0
+      tickets: 
+    -
+      time: Saturday 10:30
+      location: Trotuár
+      price: 0
+      tickets: 
+  perex: Unique experience! 
+  content: 
+    -
+      A street happening of artists in the storefronts of shops, reflecting the revolution in 1989 and what came after. It is composed of 7 stops – model situations at the Trotuár and the audience trots between them accompanied by the music of Vrbovskí Víťazi. Multi-genre installations of cartoons by artists from all around the world (the mobile exhibition FREE BRAIN EVOLUTION) including two works which had their authors sentenced to death in their home countries (Arifur Rahman, Bangladesh and Fadi Abou Hassan, Syria); a virtual film memorial of 1989 from an old TV set, directed by Barbora Berezňáková as part of the cycle “Ask your folks”; original civically engaged songs by the activist Jakub Pohle and his band Režimy (Regimes), but also an art installation of an oversized, divided head by the performer Dušan Krnáč called REVOLUTION IN THE HEAD - desires vs. reality. There, you will be able to write down your (un)fulfilled desires from times before the revolution… but most importantly, the ones that came after. 
+  foto: "Archív kapely Režimy"
+  pictures:
+    -
+      INVENTURA REVOLUCIE_kapela_Rezimy_01.JPG
+    -
+      INVENTURA REVOLUCIE_kapela_Rezimy_02.jpg
+    -
+      INVENTURA REVOLUCIE_kapela_Rezimy_05.JPG
+  link: http://www.and-theatre.art
+childrens-inventory-of-revolution:
+  performer: Ensemble of Irregular Theatre + guests (SK)
+  title: INVENTORY OF THE REVOLUTION BY CHILDREN
+  # Program  pre rodiny s deťmi                                                                         
+  occurences: 
+    -
+      time: Sunday 10:00
+      location: Trotuár
+      price: 0
+      tickets: 
+  perex: A children’s version of the special interactive programme!
+  content: 
+    - Reading from the book Stories of the Walls + creative drama games for children. Entertaining chit-chat, drawing and songs on serious topics
+  foto: Host
+  pictures:
+    - Detska IR_Pribehy stien_titulka.jpg
+    - Detska IR_Pribehy stien_ilustracia_2.jpg
+    - Detska IR_Pribehy stien_ilustracia_1.jpg
+  link: http://www.and-theatre.art
+after-the-revolution:
+  performer: D'89 Dženerejšn + Režimy (SK)  
+  title: AFTER THE REVOLUTION  
+  general: TOP PROGRAM  pre mladých a dospelých                                                                         
+  occurences: 
+    -
+      time: Friday 22:00
+      location: Art Cafe, attic
+      price: 0
+      tickets: 
+  perex: Uncompromising modern spoken-work performances of the young about freedom and non-freedom featuring the authentic band Režimy
+  content: 
+    -
+      "Modern artistic spoken-word performances by six young personalities, representing their uncompromising testimonies on the topic of freedom after non-freedom. Authentic opinions about the freedom of press in a world which is not free, on artistic two-facedness or the murder of two young people in a famous country. This specially composed evening which will shatter all the prejudice you might have had about conventional reciting freely follows up on the last year’s pilot evening No Freedom, No Fun. Featuring: Anna Lehotská, Filip Pavuk, Michaela Slobodová, Nina Olešová and Radoslava Bačová. The evening will be hosted by the hip-hop band REŽIMY (SK)."
+  foto: archív recitátorov
+  pictures:
+    - D89 dzenerejsn_Anna Lehotska.jpg
+    - D89 dzenerejsn_Filip Pavuk.jpg
+    - D89 dzenerejsn_Michaela Slobodova.jpg
+    - D89 dzenerejsn_Nina Olesova.jpg
+    - D89 dzenerejsn_Radoslava Bacova.jpg
+  link: http://www.and-theatre.art
+less-mess-revolucioners:
+  performer: Ján Mitáč (SK)
+  title: LESS MESS REVOLUCIONERS 
+  # Program  pre mladých a dospelých       
+  occurences: 
+    -
+      time: Friday 19:00
+      location: Art Cafe, attic
+      price: 0
+      tickets: 
+  perex: An entertaining quiz for the young about november 1989 with a former employee of the ÚPN (Institute for national memory) for both the young and the experienced
+  content: 
+    - Do you know what Charta 77, the Candle manifest, the march of the students on November 16th 1989 were? Who were the main speakers on the stands and why is it called the Velvet revolution? If you do not know, don’t worry, the Les Mess Revolucioners quiz will make that right. With humor, playfulness and a critical eye, we will take a look at what this important event, whose 30th anniversary falls on this year, means for us. The quiz will feature photos, videos, news articles and questions about revolutionnaires from Banská Štiavnica. Teams are composed of 3 to 6 people. Do you have yours already?
+  foto: Ján Mitáč, archív
+  pictures:
+    -
+      Les mess revolucioners_titul.png
+    -
+      Les Mess Revolucioners_Jan Mitac.jpg
+    -
+      Les Mess Revolucioners_Revolucia_v BS_1989.png
+  link: http://www.and-theatre.art
+discussion-forum-revolution-1989:
+  performer: Fedor Gál & Zuzana Mistríková (CZ/SK)
+  title: "Discussion forum: THE REVOLUTION OF 1989 – A VICTORY OR LOSS IN 2019? " 
+  # Program pre mladých a dospelých       
+  occurences: 
+    -
+      time: Saturday 19:00
+      location: Art Cafe, attic
+      price: 0
+      tickets: 
+  perex: Those who inherited the 30-year-old freedom ask those involved in the revolution their “what ifs”...
+  content: 
+    -
+      "Guests: Fedor Gál, a Slovak sociologist and political prognostic, founding member of the revolutionary VPN (The Public Against Violence) movement, former leader of the Coordination centre of the VPN, later the leader of this movement and a government advisor. Born in Terezín, lives in Prague. Zuzana Mistríková, who stood on the stands of the revolution while still just a student at the art faculty VŠMU, later a representative in the first free parliament and with experience from various positions in the media. Hosted by Jakub Pohle, a 30-year old investigative writer and activist."
+  foto: Archív 
+  pictures:
+    -
+      DISKUSNE FORUM_Fedor Gal_1989.jpg
+    -
+      DISKUSNE FORUM_Jakub Pohle_moderator.jpg
+    -
+      DISKUSNE FORUM_Zuzana Mistrikova_2.jpg 
+  link: http://www.and-theatre.art
+free-brain-evolution:
+  performer: PRERAG (SK) & MIA (NOR)
+  title: FREE BRAIN EVOLUTION 
+  # Program pre mladých a dospelých       
+  occurences: 
+    -
+      time: Non-stop during festival
+      location: Trotuár
+      price: 0
+      tickets: 
+  perex: Storefront exhibition of cartoons of artists from all around the world 
+  content: 
+    -
+      Notice the storefront in Banská Štiavnica, because for three days, they will bear strong messages. They will be decorated by drawings from award-winning authors from all around the world who all have hard-hitting stories to tell. For example, Arifur Rahman is a cartoonist from Bangladesh who was sentenced to death for his drawings. After 6 years, he managed to leave to Norway thanks to The International Cities Of Refuge Network (ICORN) and find asylum there. He may still be killed in his home country, though. Firuz Kutal from Turkey has a similar fate - he also emigrated to Norway and is a successful political cartoonist. You will also be able to see these authors live during the Inventory of the Revolution happening.
+  pictures:
+    -
+      PRERAG_Arifur Rahman 01.jpg
+    -
+      PRERAG_Arifur Rahman a Peter Razus.jpg
+    -
+      PRERAG_Firuz KUTAL , Norway 01.jpg
+  link: http://prerag.sk
+all-together:
+  performer: Slovak Film Institute (SK)                                                                                                                               
+  title: VŠETCI SPOLU
+  occurences: 
+    -
+      time: Sunday 16:30
+      location: Art Cafe, attic
+      price: 0
+      tickets: 
+  perex: Screening of a documentary with authentic footage of famous personalities during strange times
+  content: 
+    - A feature documentary about political, social, economic and moral paradoxes that accompanied Czechoslovakia in 1990 on its way to freedom, democracy and identity. It summarizes the revolution relatively early, but also with a smart point of view and a dose of sarcasm.
+  foto: Archív
+  pictures:
+    - 
+      Vsetci_spolu_Vaclav_Havel.jpg
+  link: http://www.sfu.sk
+installation-revolution-in-the-head:
+  performer: Dušan Krnáč (SK)  
+  title: REVOLUTION IN THE HEAD – desires vs. reality
+  # Program pre mladých a dospelých       
+  occurences: 
+    -
+      time: počas celého festivalu
+      location: St. Trinity Square
+      price: 0
+      tickets: 
+  perex: Art installation of an oversized, divided head to express your (un)fulfilled desires
+  content: 
+    - What were you dreaming of after the Iron Curtain fell? How many of your dreams have you fulfilled during those 30 years of freedom? Now, you can eternalize your desires and their state in reality. The artist and performed, Dušan Krnáč, closes the circle on his oversized head and gives you space to express yourself. The head, finally free of barbed wire, can think, compare and summarize. And what about our heads, are they truly free? Or is the barbed wire still somewhere inside? Let us know and leave us a message.
+  foto: Michal Svítok
+  pictures:
+    -
+      REVOLUCIA V HLAVE_Amplion17_otvorenie_051.jpg
+    -
+      REVOLUCIA V HLAVE_Amplion17_otvorenie_073.jpg
+    -
+      REVOLUCIA V HLAVE_Amplion18_Film_vykricnik_002.jpg
+  link: http://and-theatre.art

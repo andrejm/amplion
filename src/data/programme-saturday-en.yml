@@ -1,0 +1,141 @@
+-
+  time: 10:00 – 10:35
+  performer: Pere Hosta (ES) 
+  argentum: true 
+  premiere: true
+  title: OPEN DOOR
+  perex: Street comedy show for the entire family
+  location: Garden of the Scout House, A. Pécha
+  age: Family
+  price: 4/6 €
+  slug: open-door  
+-
+  time: 10:30 – 12:00
+  performer: AND + guests (SK+CZ)
+  age: 12+
+  title: "INVENTORY OF THE REVOLUTION: BIG BANG '89"
+  perex: Unique experience! 
+  location: Trotuár, ul. A. Kmeťa
+  price: 0
+  slug: inventory-of-revolution
+-
+  time: 12:00 – 12:45
+  performer: Vrbovskí víťazi (SK)
+  age: 12+
+  title: AFTER CONCERT
+  perex: Concert of the work-music band of jokesters
+  location: Art Cafe, terrace
+  price: 3
+  slug: koncert-vrbovski-vitazi
+-
+  time: 14:00 – 15:00
+  performer: Prešov National Theatre (SK)
+  argentum: true
+  top: true
+  general: Grand Prix of the New Drama 2019 festival! 
+  age: 15+
+  title: MORAL INSANITY
+  perex: Mono-drama based on the motives of Umberto Eco’s novel “The Prague Cemetery”
+  location: Kocka/Cube
+  price: 6 €
+  slug: moral-insanity
+-
+  time: 14:30 – 14:45
+  performer: Timingeriu (PL)
+  age: Family
+  title: PROMO
+  perex: Invitation for a concert of Balkan, gypsy and Jewish music by cycling musicians. 
+  location: Trotuár, ul. A. Kmeťa  
+  price: 0
+  type: suppress
+  slug: koncert-timingeriu
+-
+  time: 15:00 – 15:35
+  performer: Pere Hosta (ES)
+  argentum: true
+  premiere: true
+  title: OPEN DOOR
+  age: Family
+  perex: Street comedy show for the entire family
+  location: Starý zámok
+  price: 4/6 €
+  slug: open-door
+-
+  time: 16:00 – 16:50
+  performer: Bratislava Puppet Theatre (SK)
+  argentum: true
+  top: true
+  age: 5+
+  title: THE INVISIBLE 
+  perex: A cabaret fairytale adventure about gremlins, the Lochness monster and elves!
+  location: Cultural centre, main hall
+  price: 3/5 €
+  slug: the-invisible
+-
+  time: 17:00 – 17:30
+  performer: Theatre Singing Choir (SLO)
+  age: 12+
+  title: OOPS!
+  perex: An amazing parody of an a capella concert from Slovenia
+  location: Starý zámok
+  price: 4 €
+  slug: oops
+-
+  time: 17:30 – 18:45
+  performer: Jan Burian (CZ)
+  age: 12+
+  title: THE VICTORIOUS NOVEMBER & THE ECOLOGY OF THE SPIRIT
+  perex: A concert of the legendary singer-songwriter about the end of the era of two kinds of yogurt and one political party
+  location: Art Cafe, terrace
+  price: 6 €
+  slug: victorious-november
+-
+  time: 19:00 – 20:30
+  performer: Fedor Gál & Zuzana Mistríková (SK)
+  age: 15+
+  title: "Discussion forum: THE REVOLUTION OF 1989 – A VICTORY OR LOSS IN 2019?"
+  perex: Those who inherited the 30-year-old freedom ask those involved in the revolution their “what ifs”... Host Jakub Pohle.      
+  location: Art Cafe, attic
+  price: 5 €
+  slug: discussion-forum-revolution-1989
+-
+  time: 19:30 – 20:00
+  performer: Theatre Singing Choir (SLO)
+  age: 12+
+  title: OOPS!
+  perex: An amazing parody of an a capella concert from Slovenia
+  location: Kocka/Cube, Kammerhofská 6
+  price: 4 €
+  slug: oops
+-
+  time: 20:30 – 23:00
+  performer: Ján Palárik Theatre (SK)
+  argentum: true
+  top: true
+  age: 15+
+  title: THE ENTIRE SHAKESPEARE, SWALLOWED IN UNDER 120 MINUTES
+  perex: A rebellious cabaret show of a famous punk tailored to Slovak reality
+  location: Amphitheatre/Cultural centre (in case of bad weather)
+  price: 13 €
+  slug: shakespeare-under-120-minutes
+-
+  time: 21:00 – 22:30  
+  performer: AND + guests (SK+CZ) 
+  age: 18+
+  title: SKETCH UP 
+  general: New format - only at AMPLIFIER!
+  top: true
+  perex: The first Czecho-slovak cabaret sketch competition with an amazing lineup
+  location: Kocka/Cube, Kammerhofská 6
+  price: 9 €
+  slug: sketch-up
+-
+  time: 22:45 – 24:00
+  performer: Timingeriu (PL)
+  argentum: true
+  age: 15+
+  title: CONCERT
+  perex: Concert of Balkan, gypsy and Jewish music by cycling musicians
+  location: Art Cafe, attic
+  price: 6 € 
+  slug: koncert-timingeriu
