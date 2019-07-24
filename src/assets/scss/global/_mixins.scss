@@ -106,3 +106,43 @@
 		// text-decoration: none;
 	}
 }
+
+@mixin amp-polygon-border( 
+	$coordinatesOuterLT: 0 0, 
+	$coordinatesOuterRT: 100% 28%, 
+	$coordinatesOuterRB: 98% 78%, 
+	$coordinatesOuterLB: 10% 100%,
+	$coordinatesInnerLT: 0.15% 0, 
+	$coordinatesInnerRT: 100% 28%, 
+	$coordinatesInnerLB: 98% 78%, 
+	$coordinatesInnerRB: 10% 100%
+) {
+	clip-path: polygon( $coordinatesOuterLT, $coordinatesOuterRT, $coordinatesOuterRB, $coordinatesOuterLB );
+	position: relative;
+	background-color: $amp-secondary;
+	padding: rem-calc( 40px 40px 50px 60px );
+	// z-index: 0;
+	top: rem-calc( 16 );
+
+	&::before {
+		content: '';
+		position: absolute;
+		top: 3px;
+		right: 3px;
+		bottom: 3px;
+		left: 4px;
+		clip-path: polygon( $coordinatesInnerLT, $coordinatesInnerRT, $coordinatesInnerLB, $coordinatesInnerRB );
+		background-color: $amp-tertiary;
+		z-index: -1;
+	}
+}
+
+@mixin amp-subtle-jump() {
+	top: 0;
+	transition: top 0.25s;
+
+	&:hover {
+		top: -5px;
+		transition: top 0.25s;
+	}
+}

@@ -108,6 +108,7 @@ $global-prototype-breakpoints: false;
 $global-button-cursor: auto;
 $global-color-pick-contrast-tolerance: 0;
 $print-transparent-backgrounds: true;
+$contrast-warnings: false; //avoid color contrast warnings
 
 @include add-foundation-colors;
 $print-hrefs: true;

@@ -1,0 +1,81 @@
+.archivelist {
+	@include reset-list;
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+
+	&__item {
+		width: 100%;
+		max-width: rem-calc( 300 );
+		margin-bottom: rem-calc( 32 );
+	}
+
+	&__href {
+		@include amp-polygon-border();
+		padding: rem-calc( 45 30 40 50 );
+		display: flex;
+		flex-flow: row nowrap;
+		@include amp-subtle-jump;
+	}
+
+	&__yearlabel,
+	&__datelabel {
+		margin-bottom: 0;
+	}
+
+	&__yearlabel {
+		display: flex;
+		flex-flow: column nowrap;
+	    line-height: 1.2;
+	    margin-right: rem-calc( 20 );
+	    position: relative;
+	    top: rem-calc( -10 );
+	}
+
+	&__yearnumber {
+		font-size: rem-calc( 80 );
+		color: $amp-secondary;
+		font-weight: $global-weight-bold;
+	}
+
+	&__yearlabeltext {
+		text-transform: uppercase;
+		font-weight: $global-weight-bold;
+		transform: rotate(14deg);
+		left: -5px;
+		position: relative;
+	}
+
+	&__datelabel {
+		font-size: rem-calc( 21 );
+		font-weight: $global-weight-bold;
+		color: $amp-secondary;
+		justify-content: center;
+		align-items: center;
+		display: flex;
+		line-height: 1.2;
+		transform: rotate(7deg);
+
+	}
+
+	////////////////////// MEDIUM ///////////////////////
+
+	@include breakpoint( medium ) {
+		flex-flow: row wrap;
+		justify-content: space-between;
+		margin-top: rem-calc( 32 );
+		
+		&__item { 
+			flex: 1 0 50%;
+			max-width: rem-calc( 400 );
+		}
+	}
+
+	@include breakpoint( large ) {
+		&__item { 
+			flex: 1 0 33%;
+			max-width: rem-calc( 320 );
+		}
+
+	}
+}
