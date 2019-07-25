@@ -1,0 +1,121 @@
+---
+edition: archive-edition-3
+---
+
+<section class="section section--plain section--straight section--top section--notopspace">
+  <div class="section__inner">
+    <img src="/assets/img/header-archive.png" class="section__heroimage section__headerimage section__headerimage--large" alt="{{archive-edition-3.edition}}. ročník festivalu">
+    <img src="/assets/img/header-archive-mobile.png" class="section__heroimage section__headerimage" alt="{{archive-edition-3.edition}}. ročník festivalu">
+    <h1 class="section__title section__title--noarrow">
+      {{archive-edition-3.edition}}. ročník festivalu <br> {{archive-edition-3.date}}
+    </h1>
+    <p class="section__introtext">
+      {{archive-edition-3.introtext}}
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section__inner">
+    <h2 class="section__title">V Slovenskej premiére sme uviedli</h2>
+    <div class="programme-teaser">
+      {{#each archive-edition-3.premieres}}
+      <div class="programme-teaser__item">
+        <h4 class="programme-teaser__title"><span class="programme-teaser__performer">{{this.performer}}</span><br>{{this.title}}</h4>
+        <!-- <p class="programme-teaser__description">Nová súťaž kabaretných stand-upov</p> -->
+      </div>
+      {{/each}}
+    </div>
+
+    <h2 class="section__title section__title--noarrow">AMPLION ARGENTUM</h2>
+
+    <p class="section__introtext">
+      Tradičné festivalové ocenenie v tomto roku
+      {{#each archive-edition-3.argentums}}
+      <span class="amp-arg-winner">{{this}}</span>
+      {{/each}}
+    </p>
+  </div>
+</section>
+
+<section class="section section--plain">
+  <div class="section__inner">
+    <h2 class="section__title">Video</h2>
+
+      <div class="grid-x small-up-1 medium-up-2 xlarge-up-4">
+        {{#each archive-edition-3.videos}}
+        <div class="cell">
+          <figure class="photodesc photo">
+            <figcaption class="photodesc__desc">
+              {{this.title}}
+            </figcaption>
+            <div class="photodesc__photowrap photodesc__photowrap--video" data-open="video-{{this.id}}">
+              <img src="/gallery/fotogaleria-festivalu-2018/{{this.screenshot}}" alt="" class="photodesc__photo">
+            </div>
+          </figure>
+        </div>
+        <div class="reveal" id="video-{{this.id}}" data-reveal data-reset-on-close>
+          
+          <iframe width="560" height="315" src="{{this.link}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <p><a href="{{this.link}}" target="_blank">{{this.link}}</a></p>
+
+          <button class="close-button" data-close aria-label="Close modal" type="button">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        {{/each}}
+      </div>
+
+    <p>&nbsp;</p>
+  </div>
+</section>
+
+<section class="section section--narrow">
+  <div class="section__inner">
+    <p>Aj tretí ročník bol dramaturgicky pestrý a pútavý. Nakoľko témou festivalu bola nesloboda, resp. neslávne výročie okupácie v roku 1968, pozvali sme do  Banskej Štiavnice Slovenské národné divadlo s KABARETOM NORMALIZÁCIA alebo Modlitbou pre Martu o populárnej českej speváčke a bojovníčke za slobodu Marte Kubišovej. Novinkou festivalu bol špeciálny literárny program mladej generácie NO FREEDOM, NO FUN v podaní skupiny nekonvenčných recitátorov D´byt dženerejšn.</p> 
+
+    <p>Festival, ktorý hosťoval <strong>90 umelcov z 9 krajín a uviedol celkom 33 programov</strong>, vyvrcholil diskusiou SVEDKOVIA TYRANIE s moderátorom Mirekom Tódom. Autentické osobné skúsenosti z okupácií svojich krajín vypovedali osobnosti Csaba Gy Kiss (HU), Jaroslava Šiktancová (CZ), Andrzej Jagodziński (PL) a tiež ukrajinsko-slovenský herec Jevgenij Libezňuk, ktorý čítal aj úryvky z knihy T. Snydera: O TYRANII. Obrovský divácky úspech mala v Art Cafe maďarská pouličná kapela Csángálló, ktorá hrala vo festivalom klube až do rána.</p> 
+
+    <p>Pre veľký záujem sme zorganizovali 4 reprízy zážitkového výletu retro-busom EXKURZIA DO (NE)SLOBODY a mobilnú výstavu karikatúr DEADHEADS. Sériu inštalácií Dušana Krnáča doplnil Filmový výkričník s projekciou autentických záberov z 1968.</p> 
+
+    <p>Na terase Art Cafe sme odovzdali 3 ceny AMPLION ARGENTUM. Získalo ju Studio Damúza & Fekete Seretlek z Prahy za kabaretnú inscenáciu KAR, do ktorej sa zamilovali mnohí mladí diváci. Ocenenie za pouličné umenie putovalo do rúk belgického tria komikov THE PRIMITIVES, ktoré nás nezabudnuteľne zabávalo celý festival. V kategórii angažované umenie triumfovalo putovné poeticko-výtvarné divadlo masiek ANDANTE súboru Markeliñe zo Španielska s aktuálnou výpoveďou o utečencoch.</p> 
+
+    <p>So sloganom <strong>Aby zodpovednosť za slobodu bolo dobre počuť</strong> sme žili tri dni, z ktorých sme čerpali celú dlhú zimu. Naše srdcia bijú ako zvon, kým príde ďalší AMPLIÓN.</p>
+  </div>
+</section>
+
+<section class="section section--plain">
+  <div class="section__inner">
+    <h2 class="section__title">Foto</h2>
+    
+    <div class="popup-gallery">
+      <div class="grid-container">
+        <div class="grid-x grid-margin-x small-up-2 medium-up-3 large-up-5">
+          <!-- TODO make it work with {{archive-edition-3.photofolder}} -->
+          {{#each archive-edition-3.photos}}
+          <div class="cell">
+            <figure class="photodesc">
+              <div class="photodesc__photowrap">
+                <a href="/gallery/fotogaleria-festivalu-2018/{{this}}"><img src="/gallery/fotogaleria-festivalu-2018/small/{{this}}" width="300" class="photodesc__photo"></a>
+              </div>
+            </figure>
+          </div>
+          {{/each}}
+        </div>
+      </div>
+      
+    </div>
+
+    <p>&nbsp;</p>
+
+    <h2 class="section__title">Na stiahnutie</h2>
+    <p class="text-center">
+      <a href="/assets/{{archive-edition-3.festival-newspaper}}" class="button">Stiahnite si festivalové noviny</a>
+    </p>
+  </div>
+  
+</section>
+
+
+{{>_seetheprogramme}}

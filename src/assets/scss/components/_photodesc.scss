@@ -24,6 +24,24 @@
 			display: flex;
 			justify-content: center;
 		}
+
+		&--video {
+			&::before {
+				content: '';
+				background-image: url('../img/button-play.svg');
+				background-size: contain;
+				background-repeat: no-repeat;
+				background-color: transparent;
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				width: rem-calc( 72 );
+				height: rem-calc( 72 );
+				z-index: 1;
+				transform: translate(-36px, -36px);
+				cursor: pointer;
+			}
+		}
 	}
 
 	&__photo {

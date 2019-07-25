@@ -8,6 +8,14 @@
 		width: 100%;
 		max-width: rem-calc( 300 );
 		margin-bottom: rem-calc( 32 );
+
+		&--disabled {
+			opacity: 0.5;
+
+			a {
+				cursor: not-allowed;
+			}
+		}
 	}
 
 	&__href {
