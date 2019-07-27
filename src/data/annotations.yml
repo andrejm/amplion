@@ -137,12 +137,12 @@ sketch-up:
       location: Kocka/Cube
       price: 9
       tickets: 
-  perex: Prvá česko-slovenská súťaž kabaretných skečov v skvelom obsadení
+  perex: Prvá česko-slovenská súťaž kabaretných skečov v skvelom obsadení
   content: 
     -
-      Pilotný ročník súťaže nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla. Všetky skeče prepojí jedna téma – Inventúra revolúcie, ktoré zážitkovou a zábavnou formou priblížia históriu a význam slobody mladým divákom. 
+      Pilotný ročník súťaže nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla. Všetky skeče prepojí jedna téma – Inventúra revolúcie, ktoré zážitkovou a zábavnou formou priblížia históriu a význam slobody mladým divákom.
     - 
-      "Účinkujú: klaunské duo Mirek a Jaroslava Sýkorovci (CZ+SK),  famózny improvizátor Daniel Kunz (CZ), odvážny raper a slamer Mišo Bruce Lee Kováč (SK), Jakub Pohle (SK) ako neuhladený standapista či mladí divadelníci z divadelných súborov Falangir a Lano (SK). Dravú energiu a vlastné herecko-hudobné výstupy predvedú moderátori večera – skvelí Tomáš Dianiška a Jakub Albrecht – so svojimi kolegami z pražského Divadla pod Palmovkou. Porotcom bude pesničkár a aktér revolúcie Jan Burian (CZ) a dramaturgovia AMPLIÓNU. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 5. ročníku Festivalu AMPLIÓN 2020."
+      "Účinkujú: klaunské duo Mirek a Jaroslava Sýkorovci (CZ+SK),  famózny improvizátor Daniel Kunz & comp. (CZ), odvážny raper a slamer Mišo Bruce Lee Kováč (SK), Jakub Pohle (SK) ako neuhladený standapista či mladí divadelníci zo súborov Falangir a Lano (SK). Dravú energiu a vlastné herecko-hudobné výstupy predvedú moderátori večera, skvelí Tomáš Dianiška a Jakub Albrecht, so svojimi kolegami z pražského Divadla pod Palmovkou. Porotcom bude pesničkár a aktér revolúcie Jan Burian (CZ), herec Tomáš Dianiška a dramaturgička a režisérka festivalu Jana Mikitková. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 5. ročníku Festivalu AMPLIÓN 2020."
     -
       Nenechajte si tento nadupaný pilot ujsť!
   foto: archív umelcov
@@ -369,14 +369,13 @@ inventura-revolucie:
       location: Trotuár
       price: 0
       tickets: 
-  perex: Špeciálny zážitkový program! 
+  perex: Špeciálny zážitkový program vo výkladoch obchodov!
   content: 
-    -
-      Pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 a dobu po nej. 7 zastávok – modelových situácií na Trotuári, po ktorých publikum putuje s kapelou Vrbovskí víťazi. Na nich vás čakajú multižánrové inštalácie karikatúr výtvarníkov z celého sveta (mobilná výstava FREE BRAIN EVOLUTION) vrátane diel, ktorých 2 autori byli odsúdení vo svojej krajine na smrť (Arifur Rahman, Bangladéš a Fadi Abou Hassan, Sýria); virtuálny filmový pamätník 1989 zo starého televízora od režisérky Barbory Berezňákovej z cyklu Spýtaj sa vašich; autorské angažované piesne aktivistu Jakuba Pohleho či kapely Režimy, ale aj výtvarná inštalácia nadrozmernej rozdelenej hlavy performera Dušana Krnáča REVOLÚCIA V HLAVE – túžby vs. realita, kde budete môcť písomne vyjadriť svoje (ne)naplnené túžby spred čias revolúcie. Ale najmä po nej.
-  foto: "Archív kapely Režimy"
+    - "Pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 a dobu po nej. 8 zastávok – modelových situácií na Trotuári, pri ktorých sa môžete ľubovoľne zastavovať. Už pod Hríbom narazíte na autorské angažované piesne aktivistu Jakuba Pohleho. V Piercome na vás čaká Arifur Rahman z Bangladéša, ktorý bude naživo kresliť na tému 1989, pretože sám najlepšie vie, akú hodnotu má sloboda. Vo svojej krajine ho odsúdili za jeho diela na smrť. V Starej škole si budete môcť pozrieť zo starej telky autentické zábery z 1989 dokonca aj z Banskej Štiavnice! V Zlatom dvore Vás svojimi originálnymi scénkami zabavia profesionálni pražskí herci z Divadla pod Palmovkou, v Trotuár Café bude naživo kresliť karikaturista Firuz Kutal z Turecka. Vo výkladoch Tratórie vás ohromí výstava karikatúr výtvarníkov z celého sveta s názvom FREE BRAIN EVOLUTION. Z okien hotela Bristol to rozbalí kapela Režimy a svoje vystúpenie jej líder, Mišo Bruce Lee Kovač, pretká aj čítaním zo svojej ocenenej knihy o režimoch Čo sa nás týka. Všetko dotvoria mladí divadelníci zo súboru Lano z Bratislavy. Čaká nás poriadny happening. To zamätené pod rohožky vyprášime, špinavé umyjeme a všetko zrátame. Nech opäť vieme, akú cenu má sloboda! Réžia: Jana Mikitková & AND."
+  foto: Archív kapely režimy a grafika Dušana Krnáča
   pictures:
     -
-      INVENTURA REVOLUCIE_kapela_Rezimy_01.JPG
+      Inventura_revolucie_logo_3.jpg
     -
       INVENTURA REVOLUCIE_kapela_Rezimy_02.jpg
     -
@@ -480,10 +479,10 @@ free-brain-evolution:
       location: Trotuár
       price: 0
       tickets: 
-  perex: Výstava karikatúr výtvarníkov z celého sveta vo výkladoch obchodov
+  perex: Výstava karikatúr výtvarníkov z celého sveta vo výkladoch obchodov
   content: 
-    -
-      Všimnite si výklady Banskej Štiavnice, tri dni budú niesť silné odkazy. Obohatia ich karikatúry oceňovaných autorov zo sveta s ešte silnejšími ľudskými príbehmi. Napríklad Arifur Rahman je bangladéšsky autor kresleného humoru, ktorý bol za svoje kresby odsúdený na trest smrti. Po 6 mesiacoch sa mu však vďaka organizácii The International Cities of Refuge Network (ICORN) podarilo odísť do Nórska, kde mu bol udelený politický azyl. V jeho rodnej krajine ho však stále môžu zabiť. Podobne je na tom aj Firuz Kutal z Turecka, ktorý tiež emigroval do Nórska a úspešne sa venuje politickej karikatúre. Tých autorov budete môcť vidieť aj naživo kresliť počas happeningu Inventúra revolúcie. A najmä vďaka Prešovskej agentúre PRERAG, nórskej karikaturistickej galérii MiA a Active citizens fund. 
+    - Všimnite si výklady Banskej Štiavnice na Trotuári, tri dni budú niesť silné odkazy. Obohatia ich karikatúry oceňovaných autorov zo sveta s ešte silnejšími ľudskými príbehmi. Napríklad Arifur Rahman je bangladéšsky autor kresleného humoru, ktorý bol za svoje kresby odsúdený na trest smrti. Po 6 mesiacoch sa mu však vďaka organizácii The International Cities of Refuge Network (ICORN) podarilo odísť do Nórska, kde mu bol udelený politický azyl. V jeho rodnej krajine ho však stále môžu zabiť. Podobne je na tom aj Firuz Kutal z Turecka, ktorý rovnako musel emigrovať do Nórska a úspešne sa venuje politickej karikatúre. Týchto autorov budete môcť vidieť aj naživo kresliť počas happeningu Inventúra revolúcie.  Uvidíte, ako sa vcítia do našej krajiny ! A to najmä vďaka Prešovskej agentúre PRERAG, nórskej karikaturistickej galérii MiA a Active citizens fund. Privítame aj pani riaditeľku galérie z Drobaku Kjersti Lillebø a ďalších hostí z Nórska.
+  foto:  Arifur Rahman, Firuz Kutal a archív P. Rázusa
   pictures:
     -
       PRERAG_Arifur Rahman 01.jpg
@@ -494,21 +493,19 @@ free-brain-evolution:
   link: http://prerag.sk
 vsetci-spolu:
   performer: Slovenský filmový ústav (SK)                                                                                                                               
-  title: VŠETCI SPOLU
+  title: LETOVÁ SPRÁVA OK 89 – 90
   occurences: 
     -
       time: nedeľa 16:30
       location: Art Cafe, povala
       price: 0
       tickets: 
-  perex: Projekcia dokumentárneho filmu s autentickými zábermi známych osobností z pohnutej doby
+  perex: Projekcia dokumentárneho filmu o udalostiach v období jedného prelomového roka, ktorý na pozadí príbehu (ne)známeho dievčatka predstavuje problém celej našej spoločnosti
   content: 
-    -  
-      Celovečerný dokumentárny film o politických, spoločenských, ekonomických a mravných paradoxoch, ktoré v roku 1990 zákonite sprevádzali vtedajšie Česko-Slovensko na ceste k slobode, demokracii a identite. Bilancuje revolúciu pomerne skoro a napriek tomu s nadhľadom i prvkami sarkazmu.
+    - "Moderátor a spoluautor filmu, Fedor Gál, v úvode filmu hovorí: „Uvidíte film o spoločnosti, ktorá sa ocitla na rázcestí. Jedna cesta vedie do priepasti, druhá do neznáma. Do priepasti sa nám nechce, do neznáma by sme mali vykročiť poučení. Mali by sme pochopiť, prečo žijeme v spoločnosti, kde sú ľudia demotivovaní, ľahostajní, kde prestali veriť reprezentantom moci. Mali by sme vedieť, prečo inštitúcie, ktoré sa starajú o naše zdravie, o naše deti zlyhávajú. Mali by sme pochopiť patológiu každodenného života, prečo nám pred očami bujnie korupcia, lajdáctvo, neporiadok. Toto všetko by sme mali vedieť preto, aby sme dokázali pristúpiť k činu, aby sme dokázali riešiť problémy, ktoré nás trápia. Tu a teraz, v záujme budúcnosti.“ Uvidíte film stále aktuálny. Réžia Iľja Ruppeldt, dramaturgia Dežo Ursíny."
   foto: Archív
   pictures:
-    - 
-      Vsetci_spolu_Vaclav_Havel.jpg
+    - Letova_sprava_89_90_Lenka Falisova.jpg
   link: http://www.sfu.sk
 instalacia-revolucia-v-hlave:
   performer: Dušan Krnáč (SK)  
@@ -524,12 +521,12 @@ instalacia-revolucia-v-hlave:
   content: 
     -
       O čom ste snívali po páde železnej opony? A koľko z vašich snov sa vám za 30 rokov slobody podarilo splniť? Svoje túžby a ich stav v realite si teraz môžete zvečniť.  Výtvarník a performer Dušan Krnáč uzatvára svoj cyklus nadrozmernej hlavy a ponúka vám jej priestor na vaše vyjadrenia. Hlava, už oslobodená od spútania ostatnými drôtmi premýšľa, porovnáva aj bilancuje. A čo naše hlavy, sú už nadobro slobodné? Alebo je ostatný drôt stále v nás? Zastavte sa a nechajte nám odkaz.
-  foto: Michal Svítok
+  foto: Michal Svítok a grafika Dušana Krnáča
   pictures:
     -
       REVOLUCIA V HLAVE_Amplion17_otvorenie_051.jpg
     -
-      REVOLUCIA V HLAVE_Amplion17_otvorenie_073.jpg
+      Inventura_revolucie_logo_3.jpg
     -
       REVOLUCIA V HLAVE_Amplion18_Film_vykricnik_002.jpg
   link: http://and-theatre.art

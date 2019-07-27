@@ -132,8 +132,8 @@ sketch-up:
       tickets: 
   perex: The first Czecho-slovak cabaret sketch competition with an amazing lineup
   content: 
-    - It’s the pilot year of the competition of new cabaret performances of solo artists and art groups in different genres close to stand-up, slam poetry, theatre, music, physical art or clownery. All of the sketches will be united by one topic – An Inventory of the Revolution, aiming to present history and the meaning of freedom to the younger audience members via a more immediate and entertaining form.
-    - "Featuring: clown duo Mirek and Jaroslava Sýkorovci (CZ + SK), the fabulous improviser Daniel Kunz (CZ), a bold rapper and slammer Mišo Bruce Lee Kováč (SK), Jakub Pohle as a rough stand-up comedian and young theatre professionals from theatre ensembles Falangirz and DS Lano (SK). The wild energy and his own acting and musical sketches will be presented by the host of the evening, the great Tomáš Dianiška as well as his colleagues from the Theatre under Palmovka in Prague. The songwriter and witness to the revolution, Jan Burian (CZ) will be the judge of the competition alongside the program directors of AMPLIFIER. The winner(s) will receive the AMPLION ARGENTUM award and the option to perform their own cabaret programme at the 5th annual edition of the AMPLIFIER Festival in 2020."
+    - It’s the pilot year of the competition of new cabaret performances of solo artists and art groups in different genres close to cabaret, such as stand-up, slam poetry, theatre, music, physical art or clownery. All of the sketches will be united by one topic – The Inventory of the Revolution, aiming to present history and the meaning of freedom to the younger audience members via a more immediate and entertaining form.
+    - "Featuring: clown duo Mirek and Jaroslava Sýkorovci (CZ + SK), the fabulous improviser Daniel Kunz (CZ), a bold rapper and slammer Mišo Bruce Lee Kováč (SK), Jakub Pohle (SK) as a rough stand-up comedian and young theatre professionals from theatre ensembles Falangir and Theatre Club Lano (SK). The wild energy and his own acting and musical sketches will be presented by the hosts of the evening, the great Tomáš Dianiška and Jakub Albrecht as well as their colleagues from the Theatre under Palmovka in Prague. The songwriter and witness to the revolution, Jan Burian (CZ) will be the judge of the competition alongside the director and the festival program director, Jana Mikitková. The winner(s) will receive the AMPLION ARGENTUM award and the option to perform their own cabaret programme at the 5th annual edition of the AMPLIFIER Festival in 2020."
     - Don’t let this stacked pilot fly under your radar!
   foto: archív umelcov
   pictures:
@@ -343,14 +343,14 @@ inventory-of-revolution:
       location: Trotuár
       price: 0
       tickets: 
-  perex: Unique experience! 
+  perex: Unique experience happening in the shop windows!
   content: 
     -
       A street happening of artists in the storefronts of shops, reflecting the revolution in 1989 and what came after. It is composed of 7 stops – model situations at the Trotuár and the audience trots between them accompanied by the music of Vrbovskí Víťazi. Multi-genre installations of cartoons by artists from all around the world (the mobile exhibition FREE BRAIN EVOLUTION) including two works which had their authors sentenced to death in their home countries (Arifur Rahman, Bangladesh and Fadi Abou Hassan, Syria); a virtual film memorial of 1989 from an old TV set, directed by Barbora Berezňáková as part of the cycle “Ask your folks”; original civically engaged songs by the activist Jakub Pohle and his band Režimy (Regimes), but also an art installation of an oversized, divided head by the performer Dušan Krnáč called REVOLUTION IN THE HEAD - desires vs. reality. There, you will be able to write down your (un)fulfilled desires from times before the revolution… but most importantly, the ones that came after. 
-  foto: "Archív kapely Režimy"
+  foto: Archive of the band Režimy, graphics from Dušan Krnáč
   pictures:
     -
-      INVENTURA REVOLUCIE_kapela_Rezimy_01.JPG
+      Inventura_revolucie_logo_3.jpg
     -
       INVENTURA REVOLUCIE_kapela_Rezimy_02.jpg
     -
@@ -454,8 +454,8 @@ free-brain-evolution:
       tickets: 
   perex: Storefront exhibition of cartoons of artists from all around the world 
   content: 
-    -
-      Notice the storefront in Banská Štiavnica, because for three days, they will bear strong messages. They will be decorated by drawings from award-winning authors from all around the world who all have hard-hitting stories to tell. For example, Arifur Rahman is a cartoonist from Bangladesh who was sentenced to death for his drawings. After 6 years, he managed to leave to Norway thanks to The International Cities Of Refuge Network (ICORN) and find asylum there. He may still be killed in his home country, though. Firuz Kutal from Turkey has a similar fate - he also emigrated to Norway and is a successful political cartoonist. You will also be able to see these authors live during the Inventory of the Revolution happening.
+    - Notice the storefront in Banská Štiavnica, because for three days, they will bear strong messages. They will be decorated by drawings from award-winning authors from all around the world who all have hard-hitting stories to tell. For example, Arifur Rahman is a cartoonist from Bangladesh who was sentenced to death for his drawings. After 6 years, he managed to leave to Norway thanks to The International Cities Of Refuge Network (ICORN) and find asylum there. He may still be killed in his home country, though. Firuz Kutal from Turkey has a similar fate  ̶  he also emigrated to Norway and is a successful political cartoonist. You will also be able to see these authors live during the Inventory of the Revolution happening. You will see how well they feel out our country! All of that thanks to the Prešov agency PRERAG, the Norwegian caricature gallery MiA and the Active citizens fund. We will also have host the director of the gallery in Drobak  Kjersti Lillebø and other guests from Norway.
+  foto: Arifur Rahman, Firuz Kutal and the archive of P. Rázus
   pictures:
     -
       PRERAG_Arifur Rahman 01.jpg
@@ -466,20 +466,19 @@ free-brain-evolution:
   link: http://prerag.sk
 all-together:
   performer: Slovak Film Institute (SK)                                                                                                                               
-  title: VŠETCI SPOLU
+  title: FLIGHT ACCOUNT OK 89-90
   occurences: 
     -
       time: Sunday 16:30
       location: Art Cafe, attic
       price: 0
       tickets: 
-  perex: Screening of a documentary with authentic footage of famous personalities during strange times
+  perex: Screening of a documentary about the events during the course of one breakthrough year which shows issues of our entire society on the back of a story of one (un)known girl
   content: 
-    - A feature documentary about political, social, economic and moral paradoxes that accompanied Czechoslovakia in 1990 on its way to freedom, democracy and identity. It summarizes the revolution relatively early, but also with a smart point of view and a dose of sarcasm.
+    - "Host and co-author of the film, Fedor Gál, says the following in the opening sequences: “You will see a film about a society that had come to the crossroads. One road leads to a chasm, one into the unknown. We don’t want to go to the chasm and we should step into the unknown educated. We should understand why we live in a society where people are demotivated, ignorant, and have a lack of belief towards those in power. We should know why institutions that should be taking care of our health and our children are failing. We should understand the pathology of everyday life, why corruption, carelessness and unrest are blooming before our own eyes. We should know all of that in order to take action and fix problems that bother us. Right here, right now, for the future’s sake.” You will see a movie that still rings true today. Directed by Iľja Ruppeldt, dramaturgy by Dežo Ursíny."
   foto: Archív
   pictures:
-    - 
-      Vsetci_spolu_Vaclav_Havel.jpg
+    - Letova_sprava_89_90_Lenka Falisova.jpg
   link: http://www.sfu.sk
 installation-revolution-in-the-head:
   performer: Dušan Krnáč (SK)  
@@ -494,12 +493,12 @@ installation-revolution-in-the-head:
   perex: Art installation of an oversized, divided head to express your (un)fulfilled desires
   content: 
     - What were you dreaming of after the Iron Curtain fell? How many of your dreams have you fulfilled during those 30 years of freedom? Now, you can eternalize your desires and their state in reality. The artist and performed, Dušan Krnáč, closes the circle on his oversized head and gives you space to express yourself. The head, finally free of barbed wire, can think, compare and summarize. And what about our heads, are they truly free? Or is the barbed wire still somewhere inside? Let us know and leave us a message.
-  foto: Michal Svítok
+  foto: Michal Svítok a grafika Dušana Krnáča
   pictures:
     -
       REVOLUCIA V HLAVE_Amplion17_otvorenie_051.jpg
     -
-      REVOLUCIA V HLAVE_Amplion17_otvorenie_073.jpg
+      Inventura_revolucie_logo_3.jpg
     -
       REVOLUCIA V HLAVE_Amplion18_Film_vykricnik_002.jpg
   link: http://and-theatre.art

@@ -13,8 +13,8 @@
   time: 10:30 – 12:00
   performer: AND + hostia (SK+CZ)
   age: 12+
-  title: "INVENTÚRA REVOLÚCIE: BIG BANG'89"
-  perex: špeciálny pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 
+  title: "INVENTÚRA REVOLÚCIE: BIG BANG '89"
+  perex: Špeciálny zážitkový program vo výkladoch obchodov!
   location: Trotuár, ul. A. Kmeťa
   price: 0
   slug: inventura-revolucie
@@ -75,6 +75,7 @@
   time: 17:00 – 17:30
   performer: Divadelný spevácky zbor (SLO)
   age: 12+
+  premiere: true
   title: UPS!
   perex: Skvelá paródia na koncert a capelly zo Slovinska
   location: Starý zámok
@@ -102,6 +103,7 @@
   time: 19:30 – 20:00
   performer: Divadelný spevácky zbor (SLO)
   age: 12+
+  premiere: true
   title: UPS!
   perex: Skvelá paródia na koncert a capelly zo Slovinska
   location: Kocka/Cube, Kammerhofská 6
