@@ -23,7 +23,7 @@ PATHS:
   # Paths to static assets that aren't images, CSS, or JavaScript
   assets:
     - "src/assets/**/*"
-    - "src/files/**/*"
+    - "src/files/*"
     - "!src/assets/{img,js,scss}/**/*"
   gallery:
     - "src/gallery/**/*"    
