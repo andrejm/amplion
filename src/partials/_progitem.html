@@ -1,37 +1,50 @@
 <li class="programmes__item programmes__item--{{this.type}} progitem">
-    <ul class="progitem__tags">
-        {{#if this.top}}
-            <li class="progitem__tag"><span class="event-top">TOP</span></li>
-        {{/if}}
-        {{#if this.premiere}}
-            <li class="progitem__tag"><span class="event-premiere">Slovenská premiéra</span></li>
-        {{/if}}
-        {{#if this.argentum}}
-            <li class="progitem__tag"><span class="event-argentum">Nominácia na Amplion Argentum</span></li>
-        {{/if}}
-        {{#if this.general}}
-            <li class="progitem__tag"><span class="event-top">{{this.general}}</span></li>
-        {{/if}}
-    </ul>
-    <span class="event-time">{{this.time}}</span>
+    <div class="progitem__header">
+        <ul class="progitem__tags">
+            {{#if this.top}}
+                <li class="progitem__tag"><span class="event-top">TOP</span></li>
+            {{/if}}
+            {{#if this.premiere}}
+                <li class="progitem__tag"><span class="event-premiere">Slovenská premiéra</span></li>
+            {{/if}}
+            {{#if this.argentum}}
+                <li class="progitem__tag"><span class="event-argentum">Nominácia na Amplion Argentum</span></li>
+            {{/if}}
+            {{#if this.general}}
+                <li class="progitem__tag"><span class="event-top">{{this.general}}</span></li>
+            {{/if}}
+        </ul>
+        <span class="event-time">{{this.time}}</span>
+        <div class="progitem__suitablefor">
+            <span class="progitem__age">
+                {{#ifequal this.age "Family" }}
+                  <span class="event-family" title="Vhodné pre celú rodinu"></span>
+                {{else}}
+                  {{this.age}}
+                {{/ifequal}}
+            </span>
+        </div>
+    </div>
 
     <div class="progitem__gutter">
-        <div class="progitem__titles">
-            <h5 class="progitem__performer">{{this.performer}}</h5>
-            <h4 class="progitem__title">
-                {{#if this.slug}}
-                <a href="/program/{{this.slug}}/">
-                {{/if}}
-                    {{this.title}}
-                {{#if this.slug}}    
-                </a>
-                {{/if}}
-            </h4> 
-        </div>
-        <div class="progitem__text">
-            <p>
-                {{{this.perex}}} {{#if this.slug}}<a href="/program/{{this.slug}}/">Čítať viac...</a>{{/if}}
-            </p>
+        <div class="progitem__content">
+            <div class="progitem__titles">
+                <h5 class="progitem__performer">{{this.performer}}</h5>
+                <h4 class="progitem__title">
+                    {{#if this.slug}}
+                    <a href="/program/{{this.slug}}/">
+                    {{/if}}
+                        {{this.title}}
+                    {{#if this.slug}}    
+                    </a>
+                    {{/if}}
+                </h4> 
+            </div>
+            <div class="progitem__text">
+                <p>
+                    {{{this.perex}}} {{#if this.slug}}<a href="/program/{{this.slug}}/">Čítať viac...</a>{{/if}}
+                </p>
+            </div>
         </div>
         <div class="progitem__factual">
             <span class="event-location">{{{this.location}}}</span>
@@ -42,16 +55,15 @@
                   {{this.price}}
                 {{/ifequal}}
             </span> 
+            {{#if @root.site-config.show-tickets}}
+                {{#ifequal this.price 0}}
+                    {{!-- intentionally left blank, dont have opposit helper --}}
+                {{else}}
+            <div class="progitem__cta">
+                <a href="/program/{{this.slug}}#vstupenky" class="button progitem__buytickets">Kúpiť vstupenky</a>
+            </div>
+                {{/ifequal}}
+            {{/if}}
         </div>
     </div>
-    <div class="progitem__suitablefor">
-        <span class="progitem__age">
-            {{#ifequal this.age "Family" }}
-              <span class="event-family" title="Vhodné pre celú rodinu"></span>
-            {{else}}
-              {{this.age}}
-            {{/ifequal}}
-        </span>
-    </div>
-
 </li>
