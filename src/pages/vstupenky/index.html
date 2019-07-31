@@ -1,18 +1,111 @@
+---
+# list of paid events as we want to list them in order
+paid-events:
+  - 
+    pev-title: open-door
+    pev-occurence: 0
+  - 
+    pev-title: less-mess-revolucioners
+    pev-occurence: 0
+  - 
+    pev-title: after-the-revolution
+    pev-occurence: 0
+  - 
+    pev-title: koncert-vrbovski-vitazi
+    pev-occurence: 0
+  - 
+    pev-title: open-door
+    pev-occurence: 1
+  - 
+    pev-title: koncert-vrbovski-vitazi
+    pev-occurence: 1
+  - 
+    pev-title: moral-insanity
+    pev-occurence: 0
+  - 
+    pev-title: open-door
+    pev-occurence: 2
+  - 
+    pev-title: neviditelni
+    pev-occurence: 0
+  - 
+    pev-title: ups
+    pev-occurence: 0
+  -
+    pev-title: vitezny-november
+    pev-occurence: 0
+  - 
+    pev-title: diskusne-forum-revolucia-1989
+    pev-occurence: 0
+  - 
+    pev-title: ups
+    pev-occurence: 1
+  - 
+    pev-title: shakespeare-za-120-minut
+    pev-occurence: 0
+  - 
+    pev-title: sketch-up
+    pev-occurence: 0
+  - 
+    pev-title: koncert-timingeriu
+    pev-occurence: 0
+  - 
+    pev-title: ups
+    pev-occurence: 2
+  - 
+    pev-title: muzikal-tretiho-veku
+    pev-occurence: 0
+  
+---
+<section class="section section--plain section--straight section--top">
+	<div class="section__inner">
+		<img src="/assets/img/header-vstupenky.png" alt="AMPLION 2019" class="section__headerimage section__headerimage--large">
+		<img src="/assets/img/header-vstupenky-mobile.png" alt="AMPLION 2019" class="section__headerimage">
+		<!-- <h1 class="section__title">Vstupenky na predstavenia</h1> -->
+		<p class="section__introtext text-center">
+			Všetky platené predstavenia pekne po kope.
+		</p>
+	</div>
+</section>
 <section class="section">
 	<div class="section__inner">
-		<!-- <iframe 
-			id='toot-btckts-ifr16c32b0b7e0' 
-			width='100%' 
-			scrolling='no' 
-			frameborder='0' 
-			allowtransparency='true' 
-			src='https://tootoot.fm/buy-embedded/?event-id=5d373844bba62e03b8a07fe5&amp;ifr-id=toot-btckts-ifr16c32b0b7e0&amp;lang=sk&amp;theme=light,transparent'>
-		</iframe>
-		<script>
-			(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = 'https://tootoot.fm/buy-embedded/host.js?id=toot-btckts-ifr16c32b0b7e0';fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'tootoot-iframe-channel'));
-		</script> -->
+		<div class="section__content">
+			<ul class="ticketslist">
+				{{!-- go through events one by one, for readability sake use |event| instead {{this}} --}}
+				{{#each paid-events as |event|}}
+					{{!-- 
+						use nested lookup - because the data source is nested as well 
+						first find the event by slug in annotations.yml
+						output info that is common for the event
+						then look for particular occurence
+						pull data from there - time
+						use it's context (#with) to show tootoot iframe
+						
+						{{@index}}
+					--}}
 
-		<iframe id='toot-btckts-ifr16c32baa18d' width='100%' scrolling='no' frameborder='0' allowtransparency='true' src='https://tootoot.fm/buy-embedded/?event-id=5d3c15f0575cf30578e8c855&amp;ifr-id=toot-btckts-ifr16c32baa18d&amp;lang=sk&amp;theme=light'></iframe>
-		<script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = 'https://tootoot.fm/buy-embedded/host.js?id=toot-btckts-ifr16c32baa18d';fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'tootoot-iframe-channel'));</script>
+					
+					<li class="ticketslist__item">
+						<h3 class="ticketslist__subtitle">
+							{{lookup (lookup @root.annotations event.pev-title) 'performer'}}
+						</h3>
+						<h2 class="ticketslist__title">
+							{{lookup (lookup @root.annotations event.pev-title) 'title'}}
+						</h2>
+					
+						{{#with (lookup (lookup (lookup @root.annotations event.pev-title) 'occurences' ) event.pev-occurence)}}
+							<p>{{time}}</p>
+							{{#if @root.site-config.show-tickets}}
+								{{!--  --}}
+								{{>_toot-iframe}}
+								{{!-- --}}
+							{{else}}
+							<p><em>Vstupenky zatiaľ nedostupné</em></p>
+							{{/if}}
+						{{/with}}
+					</li>
+				{{/each}}
+			</ul>
+		</div>
 	</div>
 </section>

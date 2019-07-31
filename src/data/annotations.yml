@@ -14,7 +14,6 @@ otvorenie-festivalu:
       Otvorenie_festivalu_Amplion18_031_by Michal Svitok.jpg
     -
       Otvorenie_festivalu_Amplion18_033_by Michal Svitok.jpg
-
 carbon-club:
   performer: Markeliñe (ES)
   premiere: true
@@ -49,7 +48,9 @@ muzikal-tretiho-veku:
       time: nedeľa 18:00
       location: Kultúrne centrum, hlavná sála
       price: 8
-      tickets:                                                                              
+      tickets:
+      toot-iframe-id: toot-btckts-ifr16c44402e95
+      toot-event-id: 5d3893aabba62e0fb8a618ed
   perex: Tanečný revue-kabaret mladých o starobe s pesničkami Jana Buriana 
   content: 
     -
@@ -84,6 +85,8 @@ shakespeare-za-120-minut:
       location: Amfiteáter/ Kultúrne centrum (v prípade nepriaznivého počasia)
       time: "sobota 20:30"
       price: 13
+      toot-iframe-id: toot-btckts-ifr16c443a4d3b
+      toot-event-id: 5d38887ed198cd0c1488151d
   perex: Rebelská kabaretná show svetoznámeho punkáča ušitá na slovenské pomery
   content: 
     -
@@ -111,6 +114,8 @@ moral-insanity:
       location: Kocka/Cube
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c44328d73
+      toot-event-id: 5d387481d198cd0c1486e75c
   perex: Monodráma na motívy románu Umberta Eca Pražský cintorín
   content: 
     -
@@ -137,6 +142,8 @@ sketch-up:
       location: Kocka/Cube
       price: 9
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c443b736f
+      toot-event-id: 5d388b81bba62e0fb8a5d156
   perex: Prvá česko-slovenská súťaž kabaretných skečov v skvelom obsadení
   content: 
     -
@@ -161,6 +168,8 @@ neviditelni:
       location: Kultúrne centrum, hlavná sála
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c44351f85
+      toot-event-id: 5d387861d198cd0c14872b79
   perex: Dobrodružná kabaretná rozprávka o permoníkoch, Lochneskej príšere či elfoch! 
   content: 
     -
@@ -187,16 +196,22 @@ open-door:
       location: Záhrada Skautského domu
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c4425b321
+      toot-event-id: 5d373844bba62e03b8a07fe5
     -
       time: sobota 10:00
       location: Záhrada Skautského domu
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c44303ec6
+      toot-event-id: 5d381d65d198cd0c1482926e
     -
       time: nedeľa 15:00
       location: Starý zámok
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c44342f2a
+      toot-event-id: 5d3828b8bba62e0fb8a15d7b
   perex: Pouličná komediálna show pre celú rodinu
   content: 
     -
@@ -210,8 +225,6 @@ open-door:
     -
       Peter_Hosta_opendoor_05.jpg
   link: http://www.perehosta.com
-  toot-iframe-id: toot-btckts-ifr16c371635cc
-  toot-event-id: 5d373844bba62e03b8a07fe5
 ups:
   performer: Divadelný spevácky zbor (SLO)
   title: UPS!  
@@ -222,16 +235,22 @@ ups:
       location: Starý zámok
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c4436dc30
+      toot-event-id: 5d387bf2d198cd0c14875b68
     -
       time: sobota 19:30
       location: Kocka
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c4439d014
+      toot-event-id: 5d3884bbbba62e0fb8a58db2
     -
       time: nedeľa 13:00
       location: Art Cafe, terasa
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c443f8ea5
+      toot-event-id: 5d3890b5d198cd0c148866fc
   perex: Skvelá paródia na koncert a capelly zo Slovinska
   content: 
     -
@@ -256,6 +275,8 @@ vitezny-november:
       location: Art Cafe, terasa
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c443849e1
+      toot-event-id: 5d387f3ebba62e0fb8a55c9a
   perex: Koncert legendárneho pesničkára o konci doby dvoch druhov jogurtov a jednej politickej strany
   content: 
     -
@@ -277,6 +298,8 @@ koncert-timingeriu:
       location: Art Cafe, terasa
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c443cf3ce
+      toot-event-id: 5d388eded198cd0c14885a4d
     -
       time: AFTER KONCERT nedeľa 11:00
       location: Art Cafe, povala
@@ -308,11 +331,15 @@ koncert-vrbovski-vitazi:
       location: Kocka/Cube
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c442f9a7d
+      toot-event-id: 5d383ee9bba62e0fb8a28ccb
     -
       time: AFTER KONCERT sobota 12:00
       location: Art Cafe, terasa
       price: 3
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c4431f6e9
+      toot-event-id: 5d38725cd198cd0c1486c8b4
   perex: Koncert hudobno-pracovnej skupiny recesistov
   content: 
     -
@@ -413,6 +440,8 @@ after-the-revolution:
       location: Art Cafe, povala
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c442d2c66
+      toot-event-id: 5d383b7bd198cd0c14842479
   perex: Neuhladené moderné prednesy mladých o slobode po neslobode s autentickou kapelou Režimy
   content: 
     -
@@ -427,7 +456,7 @@ after-the-revolution:
   link: http://www.and-theatre.art
 less-mess-revolucioners:
   performer: Ján Mitáč (SK)
-  title: LESS MESS REVOLUCIONERS 
+  title: LES MESS REVOLUCIONERS 
   # Program  pre mladých a dospelých       
   occurences: 
     -
@@ -435,6 +464,8 @@ less-mess-revolucioners:
       location: Art Cafe, povala
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c442b5372
+      toot-event-id: 5d382ec8bba62e0fb8a1b9fe
   perex: Zábavný kvíz o novembri 1989 s bývalým pracovníkom Ústavu pamäti národa pre mladých aj pamätníkov
   content: 
     -
@@ -448,8 +479,6 @@ less-mess-revolucioners:
     -
       Les Mess Revolucioners_Revolucia_v BS_1989.png
   link: http://www.and-theatre.art
-  toot-iframe-id: toot-btckts-ifr16c3717bffb
-  event-id: 5d382ec8bba62e0fb8a1b9fe
 diskusne-forum-revolucia-1989:
   performer: Fedor Gál & Zuzana Mistríková (CZ/SK)
   title: "Diskusné fórum: REVOLÚCIA 1989 – VÍŤAZSTVO ČI PREHRA 2019?" 
@@ -460,6 +489,8 @@ diskusne-forum-revolucia-1989:
       location: Art Cafe, povala
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c443967a7
+      toot-event-id: 5d388227bba62e0fb8a56c95
   perex: 30-roční dediči slobody sa pýtajú aktérov revolúcie, čo by bolo, keby... 
   content: 
     -
