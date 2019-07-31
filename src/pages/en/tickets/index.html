@@ -1,4 +1,5 @@
 ---
+layout: english
 # list of paid events as we want to list them in order
 paid-events:
   - 
@@ -26,22 +27,22 @@ paid-events:
     pev-title: open-door
     pev-occurence: 2
   - 
-    pev-title: neviditelni
+    pev-title: the-invisible
     pev-occurence: 0
   - 
-    pev-title: ups
+    pev-title: oops
     pev-occurence: 0
   -
-    pev-title: vitezny-november
+    pev-title: victorious-november
     pev-occurence: 0
   - 
-    pev-title: diskusne-forum-revolucia-1989
+    pev-title: discussion-forum-revolution-1989
     pev-occurence: 0
   - 
-    pev-title: ups
+    pev-title: oops
     pev-occurence: 1
   - 
-    pev-title: shakespeare-za-120-minut
+    pev-title: shakespeare-under-120-minutes
     pev-occurence: 0
   - 
     pev-title: sketch-up
@@ -50,10 +51,10 @@ paid-events:
     pev-title: koncert-timingeriu
     pev-occurence: 0
   - 
-    pev-title: ups
+    pev-title: oops
     pev-occurence: 2
   - 
-    pev-title: muzikal-tretiho-veku
+    pev-title: musical-of-the-third-age
     pev-occurence: 0
   
 ---
@@ -87,13 +88,13 @@ paid-events:
 					
 					<li class="ticketslist__item">
 						<h3 class="ticketslist__subtitle">
-							{{lookup (lookup @root.annotations event.pev-title) 'performer'}}
+							{{lookup (lookup @root.annotations-en event.pev-title) 'performer'}}
 						</h3>
 						<h2 class="ticketslist__title">
-							{{lookup (lookup @root.annotations event.pev-title) 'title'}}
+							{{lookup (lookup @root.annotations-en event.pev-title) 'title'}}
 						</h2>
 					
-						{{#with (lookup (lookup (lookup @root.annotations event.pev-title) 'occurences' ) event.pev-occurence)}}
+						{{#with (lookup (lookup (lookup @root.annotations-en event.pev-title) 'occurences' ) event.pev-occurence)}}
 							<p>{{time}}</p>
 							{{#if @root.site-config.show-tickets}}
 								{{!--  --}}

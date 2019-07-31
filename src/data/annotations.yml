@@ -289,7 +289,7 @@ vitezny-november:
       Jan Burian s veslom.jpg 
   link: http://www.janburian.cz
 koncert-timingeriu:
-  performer: Timingeriu, Wroclaw (PL)  
+  performer: Timingeriu (PL)  
   title: KONCERT
   # xx+
   occurences: 
@@ -321,7 +321,7 @@ koncert-timingeriu:
       Kapela Timingeriu_by_Piotr Spigiel_4.jpg
   link: http://www.kapelatimingeriu.pl
 koncert-vrbovski-vitazi:
-  performer: Vrbovskí víťazi, Vrbové (SK)  
+  performer: Vrbovskí víťazi (SK)  
   title: KONCERT
   # xx+   
   link: http://www.vrbovskivitazi.sk                                                                            
@@ -334,7 +334,7 @@ koncert-vrbovski-vitazi:
       toot-iframe-id: toot-btckts-ifr16c442f9a7d
       toot-event-id: 5d383ee9bba62e0fb8a28ccb
     -
-      time: AFTER KONCERT sobota 12:00
+      time: sobota 12:00
       location: Art Cafe, terasa
       price: 3
       tickets: 
