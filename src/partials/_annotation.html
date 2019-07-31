@@ -85,16 +85,18 @@
 </section>
 
 {{#if @root.site-config.show-tickets}}
-	{{#if toot-iframe-id}}
-<section id="vstupenky" class="section">
+<section id="vstupenky" class="section section--straight section--notopspace">
 	<div class="section__inner">
 		<div class="section__content">
-			<h2 class="section__title">Vstupenky</h2>
-			{{>_toot-iframe}}
+			<h2 class="section__title">Vstupenky na predstavenie {{title}}</h2>
+	{{#each occurences}}
+	{{#if toot-iframe-id}}
+		{{>_toot-iframe}}
+	{{/if}}
+	{{/each}}
 		</div>
 	</div>
 </section>
-	{{/if}}
 {{/if}}
 
 <section class="section section--plain">
