@@ -53,6 +53,14 @@
 	    color: $amp-secondary;
 	}
 
+	&__cta {
+		margin-top: rem-calc( 10 );
+	}
+
+	&__buytickets {
+		display: block;
+	}
+
 	&__age {
 		// to handle optical illusion of not being in centre
 		position: relative;
@@ -61,11 +69,37 @@
 	}
 
 
+	///////////////////////// MEDIUM /////////////////////////
+
+
 	@include breakpoint( medium ) {
+		@include xy-grid( vertical );
+		&__header {
+			@include xy-cell();
+		}
 		&__gutter {
+			@include xy-grid;
 			.programmes__item--suppress & {
 				// display: flex;
 				// flex-flow: row nowrap;
+			}
+		}
+
+		&__content {
+			@include xy-cell(6);
+		}
+
+		&__factual {
+			@include xy-cell(6);
+			@include xy-grid( 'vertical' );
+			padding-right: rem-calc( 16 ); //to avoid collision with age indicator
+
+			.event-location {
+				white-space: normal;
+			}
+			
+			.programmes__item--suppress & {
+				flex: 1 0 33%;
 			}
 		}
 
@@ -90,11 +124,6 @@
 			}
 		}
 
-		&__factual {
-			.programmes__item--suppress & {
-				flex: 1 0 33%;
-			}
-		}
 
 		&__performer {
 			font-size: rem-calc( 30 );
@@ -105,4 +134,22 @@
 			}
 		}
 	}
-}
+
+
+
+	//////////////// LARGE ///////////////////
+
+
+
+	@include breakpoint( large ) {
+		&__content {
+			@include xy-cell(8);
+			padding-right: 15%;
+		}
+
+		&__factual {
+			@include xy-cell(4);
+		}
+
+	}
+} 

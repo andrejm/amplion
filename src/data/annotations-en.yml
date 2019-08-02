@@ -46,7 +46,9 @@ musical-of-the-third-age:
       time: Sunday 18:00
       location: Cultural centre, main hall
       price: 8
-      tickets:                                                                              
+      tickets: 
+      toot-iframe-id: toot-btckts-ifr16c44402e95
+      toot-event-id: 5d3893aabba62e0fb8a618ed                                                                             
   perex: Dance revue-cabaret of the youth about aging, featuring songs by Jan Burian
   content: 
     -
@@ -81,6 +83,8 @@ shakespeare-under-120-minutes:
       location: Amphitheatre/Cultural centre (in case of bad weather)
       time: "Saturday 20:30"
       price: 13
+      toot-iframe-id: toot-btckts-ifr16c443a4d3b
+      toot-event-id: 5d38887ed198cd0c1488151d
   perex: A rebellious cabaret show of a famous punk tailored to Slovak reality
   content: 
     - Acting out all 39 of Shakespeare’s plays in 2 hours? The four members of the Reduced Shakespeare society can do it! They perform shortened version of the master’s tragedies, comedies as well as historical plays complete with references to contemporary pop-culture. their interpretation of Shakespeare’s works is non-conventional, rebellious, even. Othello’s story as a grand hip-hop concert? No problem, he was black after all. Thanks to the director Martin Čičvák, you will find a big piece of contemporary Slovak culture and the latest social developments in Shakespeare. The actors perform the words of the famous playwright while underlining their performances with live music. The Entire Shakespeare, Swallowed In Under 120 Minutes pays tribute to the universal legacy of W. Shakespeare and the size of his genius, which was, for its time, simply PUNK. A juicy treat for all the rebels over 15 years of age!
@@ -106,6 +110,8 @@ moral-insanity:
       location: Kocka/Cube
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c44328d73
+      toot-event-id: 5d387481d198cd0c1486e75c
   perex: Mono-drama based on the motives of Umberto Eco’s novel “The Prague Cemetery”
   content: 
     - Funny, non-conventional and bold theatre! Do you want to know who is responsible for your streak of bad luck? Are you looking for the one responsible for all that is going on here? Come on in and you are guaranteed to pick someone. The original actor’s mono-drama by Peter Brajerčík based on Umberto Eco’s novel “The Prague Cemetery” explores conspiracy theories, anti-semitic and racist ideas springing from a difficult economic and social situation, as well as how they are reflected in the media and in politics. Eco, the historian, philosopher and aesthetician, plays with a refined explanation of history that uncovers the principles of political and purpose-built games. The play was awarded the Grand Prix at the New Drama 2019 festival.
@@ -130,6 +136,8 @@ sketch-up:
       location: Kocka/Cube
       price: 9
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c443b736f
+      toot-event-id: 5d388b81bba62e0fb8a5d156
   perex: The first Czecho-slovak cabaret sketch competition with an amazing lineup
   content: 
     - It’s the pilot year of the competition of new cabaret performances of solo artists and art groups in different genres close to cabaret, such as stand-up, slam poetry, theatre, music, physical art or clownery. All of the sketches will be united by one topic – The Inventory of the Revolution, aiming to present history and the meaning of freedom to the younger audience members via a more immediate and entertaining form.
@@ -151,6 +159,8 @@ the-invisible:
       location: Cultural centre, main hall
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c44351f85
+      toot-event-id: 5d387861d198cd0c14872b79
   perex: A cabaret fairytale adventure about gremlins, the Lochness monster and elves!
   content: 
     - Join your children on a journey to the world of the Lochness monster, elves, the yeti, dragons and gremlins! In this original story about (non)existent being, you will travel through time and space with the actors to meet strange creatures whose existence has never been scientifically proven. The young viewers will bear witness to sounds turning into music, of matter turning into live beings and words turning into poetry. This play full of magical moments will tickle the fantasy and place you in a world of visions, dreams, fantastic adventures and discoveries. On this amazing journey, you will be accompanied by the music of Juraj Haško, leader of the band Sto múch. Suitable for all curious children over 5 years of age.
@@ -175,11 +185,22 @@ open-door:
       location: Garden of the Scout House
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c4425b321
+      toot-event-id: 5d373844bba62e03b8a07fe5
     -
       time: Saturday 10:00
       location: Garden of the Scout House
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c44303ec6
+      toot-event-id: 5d381d65d198cd0c1482926e
+    -
+      time: Sunday 15:00
+      location: Old Castle
+      price: 0
+      tickets: 
+      toot-iframe-id: toot-btckts-ifr16c44342f2a
+      toot-event-id: 5d3828b8bba62e0fb8a15d7b
   perex: Street comedy show for the entire family
   content: 
     -
@@ -203,16 +224,22 @@ oops:
       location: Old Castle
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c4436dc30
+      toot-event-id: 5d387bf2d198cd0c14875b68
     -
       time: Saturday 19:30
       location: Kocka/Cube
       price: 0
-      tickets: 
+      tickets:  
+      toot-iframe-id: toot-btckts-ifr16c4439d014
+      toot-event-id: 5d3884bbbba62e0fb8a58db2
     -
       time: Sunday 13:00
       location: Art Cafe, terrace
       price: 0
-      tickets: 
+      tickets:  
+      toot-iframe-id: toot-btckts-ifr16c443f8ea5
+      toot-event-id: 5d3890b5d198cd0c148866fc
   perex: An amazing parody of an a capella concert from Slovenia
   content: 
     - This theatre ensemble of young people and their unusual leader will surpass your expectations about classical music singers. How does it look like when the choir cannot stay in tune together?  What happens when an individual expresses their opinion? And how is this “oopsie” handled by the wacky conductor? This series of unexpected slapstick situations filled with humour and professional singing performances is sure not only get you in tune, but to excite you to the point of wanting to sing out loud!
@@ -235,6 +262,8 @@ victorious-november:
       location: Art Cafe, terrace
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c443849e1
+      toot-event-id: 5d387f3ebba62e0fb8a55c9a
   perex: A concert of the legendary singer-songwriter about the end of the era of two kinds of yogurt and one political party
   content: 
     -
@@ -247,7 +276,7 @@ victorious-november:
       Jan Burian s veslom.jpg 
   link: http://www.janburian.cz
 koncert-timingeriu:
-  performer: Timingeriu, Wroclaw (PL)  
+  performer: Timingeriu (PL)  
   title: CONCERT
   # xx+
   occurences: 
@@ -275,7 +304,7 @@ koncert-timingeriu:
       Kapela Timingeriu_by_Piotr Spigiel_4.jpg
   link: http://www.kapelatimingeriu.pl
 koncert-vrbovski-vitazi:
-  performer: Vrbovskí víťazi, Vrbové (SK)  
+  performer: Vrbovskí víťazi (SK)  
   title: CONCERT
   # xx+   
   link: http://www.vrbovskivitazi.sk                                                                            
@@ -284,12 +313,16 @@ koncert-vrbovski-vitazi:
       time: Friday 23:00
       location: Kocka/Cube
       price: 0
-      tickets: 
+      tickets:  
+      toot-iframe-id: toot-btckts-ifr16c442f9a7d
+      toot-event-id: 5d383ee9bba62e0fb8a28ccb
     -
-      time: AFTER CONCERT Saturday 12:00
+      time: Saturday 12:00
       location: Art Cafe, terrace
       price: 3
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c4431f6e9
+      toot-event-id: 5d38725cd198cd0c1486c8b4
   perex: Concert of the work-music band of jokesters
   content: 
     - The band from Vrbové plays industrial folklore on non-serious, hand-made instruments and all of their songs are about work. The two blue-worksuit-clad members include the singer and “toilet-kickdrum” player Braňo Jobus and his “Mr. Brother” Andrej Budislav Jobus. He plays an array of bizarre, mostly wind instruments made exclusively out of plastic tubes, hoses, plastic bottles and an old vacuum cleaner. His collection also includes instruments such as the ACTHDFV (the Angry Carpathian Three-Headed Dragon from Vrbové), the six-meter Družba Pipeline, and the Fecal matter bagpipes. Their aphoristically humorous, minimalistically industrial songs, sung in the local Vrbové dialect, are representative of a one-of-a-kind musical style which celebrates work - the universal working man industrial folklore. It is typical to artistically recycle products and appliances for this style. The proof that VV are not just superficial jokers lies not just in their only seemingly banal lyrics, but also their goal to revive the need and the joy from (now already post-industrial) folk music. Their concerts burst with salvos of both real and musical laughter.
@@ -384,7 +417,9 @@ after-the-revolution:
       time: Friday 22:00
       location: Art Cafe, attic
       price: 0
-      tickets: 
+      tickets:  
+      toot-iframe-id: toot-btckts-ifr16c442d2c66
+      toot-event-id: 5d383b7bd198cd0c14842479
   perex: Uncompromising modern spoken-work performances of the young about freedom and non-freedom featuring the authentic band Režimy
   content: 
     -
@@ -407,6 +442,8 @@ less-mess-revolucioners:
       location: Art Cafe, attic
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c442b5372
+      toot-event-id: 5d382ec8bba62e0fb8a1b9fe
   perex: An entertaining quiz for the young about november 1989 with a former employee of the ÚPN (Institute for national memory) for both the young and the experienced
   content: 
     - Do you know what Charta 77, the Candle manifest, the march of the students on November 16th 1989 were? Who were the main speakers on the stands and why is it called the Velvet revolution? If you do not know, don’t worry, the Les Mess Revolucioners quiz will make that right. With humor, playfulness and a critical eye, we will take a look at what this important event, whose 30th anniversary falls on this year, means for us. The quiz will feature photos, videos, news articles and questions about revolutionnaires from Banská Štiavnica. Teams are composed of 3 to 6 people. Do you have yours already?
@@ -429,6 +466,8 @@ discussion-forum-revolution-1989:
       location: Art Cafe, attic
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c443967a7
+      toot-event-id: 5d388227bba62e0fb8a56c95
   perex: Those who inherited the 30-year-old freedom ask those involved in the revolution their “what ifs”...
   content: 
     -

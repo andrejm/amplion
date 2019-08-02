@@ -1,0 +1,112 @@
+---
+layout: english
+# list of paid events as we want to list them in order
+paid-events:
+  - 
+    pev-title: open-door
+    pev-occurence: 0
+  - 
+    pev-title: less-mess-revolucioners
+    pev-occurence: 0
+  - 
+    pev-title: after-the-revolution
+    pev-occurence: 0
+  - 
+    pev-title: koncert-vrbovski-vitazi
+    pev-occurence: 0
+  - 
+    pev-title: open-door
+    pev-occurence: 1
+  - 
+    pev-title: koncert-vrbovski-vitazi
+    pev-occurence: 1
+  - 
+    pev-title: moral-insanity
+    pev-occurence: 0
+  - 
+    pev-title: open-door
+    pev-occurence: 2
+  - 
+    pev-title: the-invisible
+    pev-occurence: 0
+  - 
+    pev-title: oops
+    pev-occurence: 0
+  -
+    pev-title: victorious-november
+    pev-occurence: 0
+  - 
+    pev-title: discussion-forum-revolution-1989
+    pev-occurence: 0
+  - 
+    pev-title: oops
+    pev-occurence: 1
+  - 
+    pev-title: shakespeare-under-120-minutes
+    pev-occurence: 0
+  - 
+    pev-title: sketch-up
+    pev-occurence: 0
+  - 
+    pev-title: koncert-timingeriu
+    pev-occurence: 0
+  - 
+    pev-title: oops
+    pev-occurence: 2
+  - 
+    pev-title: musical-of-the-third-age
+    pev-occurence: 0
+  
+---
+<section class="section section--plain section--straight section--top">
+	<div class="section__inner">
+		<img src="/assets/img/header-en-vstupenky.png" alt="AMPLION 2019" class="section__headerimage section__headerimage--large">
+		<img src="/assets/img/header-en-vstupenky-mobile.png" alt="AMPLION 2019" class="section__headerimage">
+		<!-- <h1 class="section__title">Vstupenky na predstavenia</h1> -->
+		<p class="section__introtext text-center">
+      All the events with their tickets together.
+		</p>
+	</div>
+</section>
+<section class="section">
+	<div class="section__inner">
+		<div class="section__content">
+			<ul class="ticketslist">
+				{{!-- go through events one by one, for readability sake use |event| instead {{this}} --}}
+				{{#each paid-events as |event|}}
+					{{!-- 
+						use nested lookup - because the data source is nested as well 
+						first find the event by slug in annotations.yml
+						output info that is common for the event
+						then look for particular occurence
+						pull data from there - time
+						use it's context (#with) to show tootoot iframe
+						
+						{{@index}}
+					--}}
+
+					
+					<li class="ticketslist__item">
+						<h3 class="ticketslist__subtitle">
+							{{lookup (lookup @root.annotations-en event.pev-title) 'performer'}}
+						</h3>
+						<h2 class="ticketslist__title">
+							{{lookup (lookup @root.annotations-en event.pev-title) 'title'}}
+						</h2>
+					
+						{{#with (lookup (lookup (lookup @root.annotations-en event.pev-title) 'occurences' ) event.pev-occurence)}}
+							<p>{{time}}</p>
+							{{#if @root.site-config.show-tickets}}
+								{{!--  --}}
+								{{>_toot-iframe}}
+								{{!-- --}}
+							{{else}}
+							<p><em>Tickets not available yet</em></p>
+							{{/if}}
+						{{/with}}
+					</li>
+				{{/each}}
+			</ul>
+		</div>
+	</div>
+</section>
