@@ -72,6 +72,8 @@ jQuery(document).ready(function($) {
 });
 
 $(document).ready(function() {
+
+	//magnific popup
 	$('.popup-gallery').magnificPopup({
 		delegate: 'a',
 		type: 'image',
@@ -89,4 +91,12 @@ $(document).ready(function() {
 			}
 		}
 	});
+
+	//lazy load used for images in archive gallery
+	var lazyLoadInstance = new LazyLoad({
+	    elements_selector: ".lazy"
+	    // ... more custom settings?
+	});
+
 });
+
