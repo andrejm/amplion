@@ -1,0 +1,111 @@
+
+<section class="section section--plain section--straight section--top section--notopspace">
+  <div class="section__inner">
+    <img src="/assets/img/header-archive-en.png" class="section__heroimage section__headerimage section__headerimage--large" alt="{{this.edition}}. ročník festivalu">
+    <img src="/assets/img/header-archive-en-mobile.png" class="section__heroimage section__headerimage" alt="{{this.edition}}. ročník festivalu">
+    <h1 class="section__title section__title--noarrow">
+      {{edition}}. edition of the festival <br> {{date}}
+    </h1>
+    <p class="section__introtext">
+      {{introtext}}
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section__inner">
+    <h2 class="section__title">Premieres introduced for the first time in Slovakia</h2>
+    <div class="programme-teaser">
+      {{#each premieres}}
+      <div class="programme-teaser__item">
+        <h4 class="programme-teaser__title"><span class="programme-teaser__performer">{{this.performer}}</span><br>{{this.title}}</h4>
+        <!-- <p class="programme-teaser__description">Nová súťaž kabaretných stand-upov</p> -->
+      </div>
+      {{/each}}
+    </div>
+
+    <h2 class="section__title section__title--noarrow">AMPLION ARGENTUM</h2>
+
+    <p class="section__introtext">
+      Traditional festival prize of this edition went to
+      {{#each argentums}}
+      <span class="amp-arg-winner">{{this}}</span>
+      {{/each}}
+    </p>
+  </div>
+</section>
+
+<section class="section section--plain">
+  <div class="section__inner">
+    <h2 class="section__title">Video</h2>
+
+      <div class="grid-x small-up-1 medium-up-2 xlarge-up-4">
+        {{#each videos}}
+        <div class="cell">
+          <figure class="photodesc photo">
+            <figcaption class="photodesc__desc">
+              {{this.title}}
+            </figcaption>
+            <div class="photodesc__photowrap photodesc__photowrap--video" data-open="video-{{this.id}}">
+              <img src="/gallery/{{../photofolder}}/{{this.screenshot}}" alt="" class="photodesc__photo">
+            </div>
+          </figure>
+        </div>
+        <div class="reveal" id="video-{{this.id}}" data-reveal data-reset-on-close="true">
+          
+          <iframe width="560" height="315" src="{{this.link}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <p><a href="{{this.link}}" target="_blank">{{this.link}}</a></p>
+
+          <button class="close-button" data-close aria-label="Close modal" type="button">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        {{/each}}
+      </div>
+
+    <p>&nbsp;</p>
+  </div>
+</section>
+
+<section class="section section--narrow">
+  <div class="section__inner">
+    {{#each text}}
+    <p>{{{this}}}</p>
+    {{/each}}
+  </div>
+</section>
+
+<section class="section section--plain">
+  <div class="section__inner">
+    <h2 class="section__title">Photos</h2>
+    
+    <div class="popup-gallery">
+      <div class="grid-container">
+        <div class="grid-x grid-margin-x small-up-2 medium-up-3 large-up-5">
+          {{#each photos}}
+          <div class="cell">
+            <figure class="photodesc">
+              <div class="photodesc__photowrap">
+                <a href="/gallery/{{../photofolder}}/{{this}}">
+                  <!-- <img src="/gallery/{{../photofolder}}/small/{{this}}" width="300" class="photodesc__photo"> -->
+                  <img alt="A lazy image" src="/assets/img/gallery-placeholder.png" data-src="/gallery/{{../photofolder}}/small/{{this}}" class="lazy photodesc__photo">
+                </a>
+              </div>
+            </figure>
+          </div>
+          {{/each}}
+        </div>
+      </div>
+      
+    </div>
+
+    <p>&nbsp;</p>
+
+    <h2 class="section__title">Download</h2>
+    <p class="text-center">
+      <a href="/assets/{{festival-newspaper}}" class="button">Festival newspaper</a>
+    </p>
+  </div>
+  
+</section>
