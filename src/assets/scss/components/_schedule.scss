@@ -35,12 +35,19 @@
 		margin-top: rem-calc( 80 );
 		.tabs {
 			// justify-content: space-around;
+			align-items: flex-end;
 		}
 
 		.tabs-title {
 			> a {
 				font-size: rem-calc( 22 );
 				padding: rem-calc( 42 84 26 );
+			}
+
+			&.is-active {
+				> a {
+					font-size: rem-calc( 32 );
+				}
 			}
 		}
 	}
