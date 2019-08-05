@@ -403,7 +403,7 @@ inventura-revolucie:
       tickets: 
   perex: Špeciálny zážitkový program vo výkladoch obchodov!
   content: 
-    - "Pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 a dobu po nej. 8 zastávok – modelových situácií na Trotuári, pri ktorých sa môžete ľubovoľne zastavovať. Už pod Hríbom narazíte na autorské angažované piesne aktivistu Jakuba Pohleho. V Piercome na vás čaká Arifur Rahman z Bangladéša, ktorý bude naživo kresliť na tému 1989, pretože sám najlepšie vie, akú hodnotu má sloboda. Vo svojej krajine ho odsúdili za jeho diela na smrť. V Starej škole si budete môcť pozrieť zo starej telky autentické zábery z 1989 dokonca aj z Banskej Štiavnice! Na letnej terase Divnej pani v Zlatom dvore Vás svojimi originálnymi scénkami zabavia profesionálni pražskí herci z Divadla pod Palmovkou, v Trotuár Café bude naživo kresliť karikaturista Firuz Kutal z Turecka. Vo výkladoch Tratórie vás ohromí výstava karikatúr výtvarníkov z celého sveta s názvom FREE BRAIN EVOLUTION. Z okien hotela Bristol to rozbalí kapela Režimy a svoje vystúpenie jej líder, Mišo Bruce Lee Kovač, pretká aj čítaním zo svojej ocenenej knihy o režimoch Čo sa nás týka. Všetko dotvoria mladí divadelníci zo súboru Lano z Bratislavy. Čaká nás poriadny happening. To zamätené pod rohožky vyprášime, špinavé umyjeme a všetko zrátame. Nech opäť vieme, akú cenu má sloboda! Réžia: Jana Mikitková & AND."
+    - "Pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 a dobu po nej. 8 zastávok – modelových situácií na Trotuári, pri ktorých sa môžete ľubovoľne zastavovať. Už pod Hríbom narazíte na autorské angažované piesne aktivistu Jakuba Pohleho. V Piercome na vás čaká Arifur Rahman z Bangladéša, ktorý bude naživo kresliť na tému 1989, pretože sám najlepšie vie, akú hodnotu má sloboda. Vo svojej krajine ho odsúdili za jeho diela na smrť. V Starej škole si budete môcť pozrieť zo starej telky autentické zábery z 1989 dokonca aj z Banskej Štiavnice! Letnú terasu Divnej Pani v Zlatom dvore svojimi scénkami a pesničkami pobavia skvelí pražskí herci z Divadla pod Palmovkou, v Trotuár Café bude naživo kresliť karikaturista Firuz Kutal z Turecka. Vo výkladoch Tratórie vás ohromí výstava karikatúr výtvarníkov z celého sveta s názvom FREE BRAIN EVOLUTION. Z okien hotela Bristol to rozbalí kapela Režimy a svoje vystúpenie jej líder, Mišo Bruce Lee Kovač, pretká aj čítaním zo svojej ocenenej knihy o režimoch Čo sa nás týka. Všetko dotvoria mladí divadelníci zo súboru Lano z Bratislavy. Čaká nás poriadny happening. To zamätené pod rohožky vyprášime, špinavé umyjeme a všetko zrátame. Nech opäť vieme, akú cenu má sloboda! Réžia: Jana Mikitková & AND."
   foto: Archív kapely režimy a grafika Dušana Krnáča
   pictures:
     -
@@ -484,7 +484,7 @@ less-mess-revolucioners:
       Les Mess Revolucioners_Revolucia_v BS_1989.png
   link: http://www.and-theatre.art
 diskusne-forum-revolucia-1989:
-  performer: Fedor Gál & Zuzana Mistríková (CZ/SK)
+  performer: Fedor Gál &<br>Jakub Pohle (CZ/SK)
   title: "Diskusné fórum: REVOLÚCIA 1989 – VÍŤAZSTVO ČI PREHRA 2019?" 
   # Program pre mladých a dospelých       
   occurences: 
@@ -498,7 +498,7 @@ diskusne-forum-revolucia-1989:
   perex: 30-roční dediči slobody sa pýtajú aktérov revolúcie, čo by bolo, keby... 
   content: 
     -
-      "Mladí ľudia a ich priame otázky k priebehu revolúcie 1989. Hostia: Fedor Gál, slovenský sociológ a politický prognostik, bol spoluzakladateľom Verejnosti proti násiliu, viedol Koordinačné centrum VPN, neskôr sa stal predsedom tohto hnutia a poradcom vlády, narodil sa v Terezíne a žije v Prahe.  Zuzana Mistríková, ktorá ešte ako študentka bratislavskej VŠMU stála na revolučných tribúnach, neskôr sa stala poslankyňou prvého slobodného parlamentu a zastávala viaceré pozície v mediálnej brandži. Moderuje: Jakub Pohle, 30-ročný investigatívny spisovateľ a aktivista."
+      "Mladí ľudia a ich priame otázky k priebehu revolúcie 1989. Hostia: Fedor Gál, slovenský sociológ a politický prognostik, bol spoluzakladateľom Verejnosti proti násiliu, viedol Koordinačné centrum VPN, neskôr sa stal predsedom tohto hnutia a poradcom vlády, narodil sa v Terezíne a žije v Prahe.  Mladých bude zastupovať Jakub Pohle, 30-ročný investigatívny spisovateľ a aktivista. Ako vnímate revolúciu 1989 vy? Bolo to pre nás víťazstvo či prehra? Prídťe sa s nami podeliť o Váš názor. Moderuje: Monika Tódová z Denníka N."
   foto: Archív 
   pictures:
     -
@@ -506,7 +506,7 @@ diskusne-forum-revolucia-1989:
     -
       DISKUSNE FORUM_Jakub Pohle_moderator.jpg
     -
-      DISKUSNE FORUM_Zuzana Mistrikova_2.jpg 
+      Monika Todova_N.jpg 
   link: http://www.and-theatre.art
 free-brain-evolution:
   performer: PRERAG (SK) & MIA (NOR)
@@ -521,7 +521,7 @@ free-brain-evolution:
       tickets: 
   perex: Výstava karikatúr výtvarníkov z celého sveta vo výkladoch obchodov
   content: 
-    - Všimnite si výklady Banskej Štiavnice na Trotuári, tri dni budú niesť silné odkazy. Obohatia ich karikatúry oceňovaných autorov zo sveta s ešte silnejšími ľudskými príbehmi. Napríklad Arifur Rahman je bangladéšsky autor kresleného humoru, ktorý bol za svoje kresby odsúdený na trest smrti. Po 6 mesiacoch sa mu však vďaka organizácii The International Cities of Refuge Network (ICORN) podarilo odísť do Nórska, kde mu bol udelený politický azyl. V jeho rodnej krajine ho však stále môžu zabiť. Podobne je na tom aj Firuz Kutal z Turecka, ktorý rovnako musel emigrovať do Nórska a úspešne sa venuje politickej karikatúre. Týchto autorov budete môcť vidieť aj naživo kresliť počas happeningu Inventúra revolúcie.  Uvidíte, ako sa vcítia do našej krajiny ! A to najmä vďaka Prešovskej agentúre PRERAG, nórskej karikaturistickej galérii MiA a Active citizens fund. Privítame aj pani riaditeľku galérie z Drobaku Kjersti Lillebø a ďalších hostí z Nórska.
+    - Všimnite si výklady Banskej Štiavnice na Trotuári, tri dni budú niesť silné odkazy. Obohatia ich karikatúry oceňovaných autorov z celého sveta a dvaja z nich, so silnými ľudskými príbehmi prídu aj osobne. Prvým je Arifur Rahman, bangladéšsky autor kresleného humoru, ktorý bol za svoje kresby odsúdený na 6 mesiacov, pričom podľa ich náboženského súdu ho môžu beztrestne zabiť za urážku Mohameda. Vďaka organizácii ICORN mu v Nórsku udelili politický azyl. Druhým je, Firuz Kutal z Turecka, aktivista za ľudské práva a karikaturista oceňovaný za svoju tvorbu v boji  proti násiliu, rovnako žije v Nórsku. Obaja budú aj naživo kresliť počas happeningu Inventúra revolúcie. To všetko najmä vďaka Prešovskej agentúre PRERAG, nórskej karikaturistickej galérii MiA a Active Citizens Fund - Slovakia. Privítame aj pani riaditeľku galérie v Drobaku Kjersti Lillebø a ďalších hostí z Nórska.
   foto:  Arifur Rahman, Firuz Kutal a archív P. Rázusa
   pictures:
     -
@@ -529,7 +529,7 @@ free-brain-evolution:
     -
       PRERAG_Arifur Rahman a Peter Razus.jpg
     -
-      PRERAG_Firuz KUTAL , Norway 01.jpg
+      Firuz KUTAL , Norway 07.jpg
   link: http://prerag.sk
 vsetci-spolu:
   performer: Slovenský filmový ústav (SK)                                                                                                                               
