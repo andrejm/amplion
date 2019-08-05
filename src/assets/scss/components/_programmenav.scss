@@ -1,0 +1,53 @@
+.programmenav {
+	margin: rem-calc( 32 0 );
+	&__items {
+		@include reset-list;
+		@include xy-grid();
+		// display: flex;
+		// flex-flow: row nowrap;
+		justify-content: center;
+	}
+
+	&__item {
+		@include xy-cell(6);
+
+		&--next {
+			text-align: right;
+		}
+	}
+
+	&__href {
+		font-size: rem-calc( 16 );
+		text-transform: uppercase;
+		color: $amp-secondary;
+		font-weight: $global-weight-bold;
+
+		&::before {
+			content: url('../img/arrow-left-blue.svg');
+		}
+
+		.programmenav__item--next & {
+			&::before {
+				content: '';
+			}
+
+			&::after {
+				content: url('../img/arrow-right-blue.svg');
+			}
+		}
+	}
+
+	@include breakpoint( large ) {
+		&__items {
+			justify-content: space-around;
+		}
+
+		&__item {
+			@include xy-cell( 3 );
+		}
+
+		&__href {
+			font-size: rem-calc( 21 );
+		}
+	}
+}

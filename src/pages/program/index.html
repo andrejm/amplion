@@ -1,3 +1,20 @@
+---
+friday:
+  previd:
+  prevtext:
+  nextid: sobota
+  nexttext: Sobota
+saturday:
+  previd: piatok
+  prevtext: Piatok
+  nextid: nedela
+  nexttext: Nedeľa
+sunday:
+  previd: sobota
+  prevtext: Sobota
+  nextid:
+  nexttext:
+---
 <section class="section section--plain section--straight section--top section--notopspace">
   <div class="section__inner">
     <img src="/assets/img/header-programme.png" class="section__heroimage section__headerimage section__headerimage--large" alt="Program AMPLIÓN 2019">
@@ -66,7 +83,8 @@
                 {{#each programme-friday}}
                     {{>_progitem}}
                 {{/each}}
-                </ul>                
+                </ul> 
+                {{>_programmenav friday}}              
             </section>
           </div>
           <div class="tabs-panel" id="sobota">
@@ -75,7 +93,8 @@
                 {{#each programme-saturday}}
                     {{>_progitem}}
                 {{/each}}
-                </ul>                
+                </ul> 
+                {{>_programmenav saturday}}               
             </section>
           </div>
           <div class="tabs-panel" id="nedela">
@@ -84,7 +103,8 @@
                 {{#each programme-sunday}}
                     {{>_progitem}}
                 {{/each}}
-                </ul>                
+                </ul> 
+                {{>_programmenav sunday}}               
             </section>
           </div>
         </div>

@@ -1,5 +1,20 @@
 ---
 layout: english
+friday:
+  previd:
+  prevtext:
+  nextid: saturday
+  nexttext: Saturday
+saturday:
+  previd: friday
+  prevtext: Friday
+  nextid: sunday
+  nexttext: Sunday
+sunday:
+  previd: saturday
+  prevtext: Saturday
+  nextid:
+  nexttext:
 ---
 
 <section class="section section--plain section--straight section--top section--notopspace">
@@ -69,7 +84,8 @@ layout: english
                 {{#each programme-friday-en}}
                     {{>_progitem-en}}
                 {{/each}}
-                </ul>                
+                </ul>
+                {{>_programmenav friday}}                
             </section>
           </div>
           <div class="tabs-panel" id="saturday">
@@ -78,7 +94,8 @@ layout: english
                 {{#each programme-saturday-en}}
                     {{>_progitem-en}}
                 {{/each}}
-                </ul>                
+                </ul> 
+                {{>_programmenav saturday}}               
             </section>
           </div>
           <div class="tabs-panel" id="sunday">
@@ -87,7 +104,8 @@ layout: english
                 {{#each programme-sunday-en}}
                     {{>_progitem-en}}
                 {{/each}}
-                </ul>                
+                </ul> 
+                {{>_programmenav sunday}}               
             </section>
           </div>
         </div>

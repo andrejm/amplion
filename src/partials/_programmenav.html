@@ -1,0 +1,14 @@
+ <nav class="programmenav">
+   <ul class="programmenav__items">
+     <li class="programmenav__item programmenav__item--prev">
+   	{{#if previd}}
+       <a href="#{{previd}}" class="programmenav__href">{{prevtext}}</a>
+     {{/if}}
+     </li>
+     <li class="programmenav__item programmenav__item--next">
+     {{#if nextid}}
+       <a href="#{{nextid}}" class="programmenav__href">{{nexttext}}</a>
+     {{/if}}
+     </li>
+   </ul>
+</nav> 
