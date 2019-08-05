@@ -343,6 +343,12 @@ section--notopspace - without top padding
 				margin-top: -8%;
 			}
 		}
+
+		&__content {
+			ul:not([class]), ul[class=""]{
+				column-count: 2;
+			}
+		}
 	}
 
 
