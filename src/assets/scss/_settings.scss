@@ -70,16 +70,16 @@ $global-width: rem-calc(1200);
 $narrow-section-width: rem-calc( 600 );
 $global-lineheight: 1.5;
 // these are four base colors
-$amp-primary: #092343; //modra
+$amp-primary: #092343; //modra - pouziva len footer
+$amp-primary-alt: #362982; // toto je ta "spravna" modra podla grafiky
 $amp-secondary: #E62E6C; //ruzova, primary button
 $amp-tertiary: #F4EEED; //slabofialova/bezova do pozadia
-$amp-button-color: #362982; //silnofialova, secondary button
-
+$amp-button-color: $amp-primary-alt; //silnofialova, secondary button
 // this was left from earlier versions of design. should be violet
 // $amp-primary-alt: #285FA1; //slabomodra responsive menu - uz sa nema nikde pouzivat!
-$amp-primary-alt: $amp-button-color;
+
 $foundation-palette: (
-  primary: $amp-primary,
+  primary: $amp-primary-alt,
   secondary: $amp-secondary,
   success: #3adb76,
   warning: #ffae00,
@@ -91,7 +91,7 @@ $dark-gray: #8a8a8a;
 $black: #0a0a0a;
 $white: #fefefe;
 $body-background: $white;
-$body-font-color: $amp-primary;
+$body-font-color: $amp-primary-alt;
 $body-font-family: 'Noto Sans', 'Open Sans', Roboto, Arial, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
@@ -442,7 +442,7 @@ $form-label-line-height: 1.8;
 $select-background: $white;
 $select-triangle-color: $dark-gray;
 $select-radius: $global-radius;
-$input-color: $amp-primary;
+$input-color: $amp-primary-alt;
 $input-placeholder-color: $medium-gray;
 $input-font-family: inherit;
 $input-font-size: rem-calc(16);
@@ -838,7 +838,7 @@ $thumbnail-radius: $global-radius;
 // -------------
 
 $titlebar-background: $white;
-$titlebar-color: $amp-primary;
+$titlebar-color: $amp-primary-alt;
 $titlebar-padding: 0.5rem;
 $titlebar-text-font-weight: bold;
 $titlebar-icon-color: $white;
