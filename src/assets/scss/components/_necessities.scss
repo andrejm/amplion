@@ -9,4 +9,10 @@
 			@include xy-cell( 4 );
 		}
 	}
+
+	@include breakpoint( large ) {
+		.text-center {
+			text-align: left;
+		}
+	}
 }

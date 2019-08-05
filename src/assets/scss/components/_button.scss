@@ -3,6 +3,7 @@
 	font-weight: $global-weight-bold;
 	box-shadow: #BC184F 0 2px 0;
 	text-transform: uppercase;
+	letter-spacing: rem-calc( 0.64 );
 
 	&.secondary {
 		background-color: $amp-button-color;
@@ -15,5 +16,7 @@
 
 	@include breakpoint( medium ) {
 		font-size: rem-calc( 16 );
+		min-width: rem-calc( 260 );
+
 	}
 }

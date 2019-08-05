@@ -28,6 +28,10 @@
 		&--alt {
 			color: $white;
 		}
+
+		@include breakpoint( large ) {
+			text-align: left;
+		}
 	}
 
 	&__inner {

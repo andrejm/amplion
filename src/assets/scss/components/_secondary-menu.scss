@@ -8,4 +8,8 @@
 			color: $amp-tertiary;
 		}
 	}
+
+	@include breakpoint( large ) {
+		text-align: left;
+	}
 }

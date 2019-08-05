@@ -21,4 +21,10 @@
 			margin-top: rem-calc( 32 );
 		}
 	}
+
+	@include breakpoint( large ) {
+		.site-footer & {
+			justify-content: flex-start;
+		}
+	}
 }
