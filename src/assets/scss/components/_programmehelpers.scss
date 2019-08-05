@@ -5,6 +5,7 @@
 		box-shadow: none;
 		color: $amp-primary;
 		font-weight: $global-weight-normal;
+		font-size: rem-calc( 12 );
 
 		&::after {
 			content: url('../img/menu-arrow.svg');
