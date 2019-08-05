@@ -20,9 +20,13 @@
 				{{/each}}
 			</p>
 			{{#if @root.site-config.show-tickets}}
+				{{#ifequal price 0}}
+				    {{!-- intentionally left blank, dont have opposit helper --}}
+				{{else}}
 			<p data-smooth-scroll>
 				<a href="#tickets" class="button">Buy tickets</a>
 			</p>
+				{{/ifequal}}
 			{{/if}}
 		</div>
 	</div>
@@ -85,18 +89,24 @@
 </section>
 
 {{#if @root.site-config.show-tickets}}
+	{{#ifequal this.price 0}}
+	    {{!-- intentionally left blank, dont have opposit helper --}}
+	{{else}}
 <section id="tickets" class="section section--straight section--notopspace">
 	<div class="section__inner">
 		<div class="section__content">
 			<h2 class="section__title">Tickets for: {{title}}</h2>
 	{{#each occurences}}
 	{{#if toot-iframe-id}}
+		<h4>{{time}}</h4>
 		{{>_toot-iframe iframelang=en}}
 	{{/if}}
+	<hr>
 	{{/each}}
 		</div>
 	</div>
 </section>
+	{{/ifequal}}
 {{/if}}
 
 <section class="section section--plain">

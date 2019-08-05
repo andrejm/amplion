@@ -19,6 +19,7 @@ carbon-club:
   performer: Markeliñe (ES)
   premiere: true
   title: CARBON CLUB 
+  price: 0
   occurences: 
     -
       time: Friday 20:30
@@ -285,6 +286,8 @@ koncert-timingeriu:
       location: Art Cafe, terrace
       price: 0
       tickets: 
+      toot-iframe-id: toot-btckts-ifr16c443cf3ce
+      toot-event-id: 5d388eded198cd0c14885a4d
     -
       time: AFTER CONCERT Sunday 11:00
       location: Art Cafe, attic
@@ -319,7 +322,7 @@ koncert-vrbovski-vitazi:
     -
       time: Saturday 12:00
       location: Art Cafe, terrace
-      price: 3
+      price: 3 €
       tickets: 
       toot-iframe-id: toot-btckts-ifr16c4431f6e9
       toot-event-id: 5d38725cd198cd0c1486c8b4
@@ -338,6 +341,7 @@ koncert-vrbovski-vitazi:
 stiavnica-not-only-silver:
   performer: Ensemble of Irregular Theatre (SK)  
   title: ŠTIAVNICA NOT ONLY SILVER a.k.a. Townsfolk, poets and Nazis
+  price: 0
   # Program pre rodiny                                                                               
   occurences: 
     -
@@ -363,6 +367,7 @@ inventory-of-revolution:
   performer: Ensemble of Irregular Theatre (SK)  
   title: "INVENTORY OF THE REVOLUTION: BIG BANG '89"
   general: Only at Amplifier!
+  price: 0
   top: true
   # pre mladých a dospelých                                                                         
   occurences: 
@@ -392,6 +397,7 @@ inventory-of-revolution:
 childrens-inventory-of-revolution:
   performer: Ensemble of Irregular Theatre + guests (SK)
   title: INVENTORY OF THE REVOLUTION BY CHILDREN
+  price: 0
   # Program  pre rodiny s deťmi                                                                         
   occurences: 
     -
@@ -484,6 +490,7 @@ discussion-forum-revolution-1989:
 free-brain-evolution:
   performer: PRERAG (SK) & MIA (NOR)
   title: FREE BRAIN EVOLUTION 
+  price: 0
   # Program pre mladých a dospelých       
   occurences: 
     -
@@ -506,6 +513,7 @@ free-brain-evolution:
 all-together:
   performer: Slovak Film Institute (SK)                                                                                                                               
   title: FLIGHT ACCOUNT OK 89-90
+  price: 0
   occurences: 
     -
       time: Sunday 16:30
@@ -522,6 +530,7 @@ all-together:
 installation-revolution-in-the-head:
   performer: Dušan Krnáč (SK)  
   title: REVOLUTION IN THE HEAD – desires vs. reality
+  price: 0
   # Program pre mladých a dospelých       
   occurences: 
     -

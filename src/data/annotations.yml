@@ -18,6 +18,7 @@ carbon-club:
   performer: Markeliñe (ES)
   premiere: true
   title: CARBON CLUB 
+  price: 0
   occurences: 
     -
       time: PIATOK 20:30
@@ -107,7 +108,7 @@ moral-insanity:
   title: MORAL INSANITY
   general: Grand Prix festivalu Nová dráma 2019!                                                                                                              
   top: true
-   # pre mladých a dospelých                                                                                
+   # pre mladých a dospelých     
   occurences: 
     -
       time: sobota 14:00
@@ -336,7 +337,7 @@ koncert-vrbovski-vitazi:
     -
       time: sobota 12:00
       location: Art Cafe, terasa
-      price: 3
+      price: 3 €
       tickets: 
       toot-iframe-id: toot-btckts-ifr16c4431f6e9
       toot-event-id: 5d38725cd198cd0c1486c8b4
@@ -356,7 +357,8 @@ koncert-vrbovski-vitazi:
       Vrbovski_vizati_by_archiv_2.jpg
 stiavnica-nielen-strieborna:
   performer: Ansámbel nepravidelného divadla (SK)  
-  title: ŠTIAVNICA NIELEN STRIEBORNÁ alebo Mešťania, básnici a Náckovia     
+  title: ŠTIAVNICA NIELEN STRIEBORNÁ alebo Mešťania, básnici a Náckovia
+  price: 0
   # Program pre rodiny                                                                               
   occurences: 
     -
@@ -386,6 +388,7 @@ inventura-revolucie:
   title: "INVENTÚRA REVOLÚCIE: BIG BANG '89"
   general: Len na Amplióne!
   top: true
+  price: 0
   # pre mladých a dospelých                                                                         
   occurences: 
     -
@@ -412,7 +415,8 @@ inventura-revolucie:
   link: http://www.and-theatre.art
 detska-inventura-revolucie:
   performer: Ansámbel nepravidelného divadla + hostia (SK)
-  title: DETSKÁ INVENTÚRA REVOLÚCIE                         
+  title: DETSKÁ INVENTÚRA REVOLÚCIE
+  price: 0
   # Program  pre rodiny s deťmi                                                                         
   occurences: 
     -
@@ -433,7 +437,7 @@ detska-inventura-revolucie:
 after-the-revolution:
   performer: D'89 Dženerejšn + Režimy (SK)  
   title: AFTER THE REVOLUTION  
-  general: TOP PROGRAM  pre mladých a dospelých                                                                         
+  general: TOP PROGRAM  pre mladých a dospelých
   occurences: 
     -
       time: piatok 22:00
@@ -507,6 +511,7 @@ diskusne-forum-revolucia-1989:
 free-brain-evolution:
   performer: PRERAG (SK) & MIA (NOR)
   title: FREE BRAIN EVOLUTION 
+  price: 0
   # Program pre mladých a dospelých       
   occurences: 
     -
@@ -529,6 +534,7 @@ free-brain-evolution:
 vsetci-spolu:
   performer: Slovenský filmový ústav (SK)                                                                                                                               
   title: LETOVÁ SPRÁVA OK 89 – 90
+  price: 0
   occurences: 
     -
       time: nedeľa 16:30
@@ -545,6 +551,7 @@ vsetci-spolu:
 instalacia-revolucia-v-hlave:
   performer: Dušan Krnáč (SK)  
   title: REVOLÚCIA V HLAVE – túžby vs. realita
+  price: 0
   # Program pre mladých a dospelých       
   occurences: 
     -
