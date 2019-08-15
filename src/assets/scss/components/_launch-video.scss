@@ -1,0 +1,23 @@
+.launch-video {
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+	cursor: pointer;
+
+	&__icon {
+		max-width: rem-calc( 50 );
+		margin-bottom: rem-calc( 10 );
+	}
+
+	&__label {
+		text-transform: uppercase;
+	}
+
+	@include breakpoint( medium ) {
+		margin-top: rem-calc( 16 );
+		&__icon {
+			max-width: rem-calc( 60 );
+			margin-bottom: rem-calc( 20 );
+		}
+	}
+}

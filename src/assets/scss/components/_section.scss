@@ -332,7 +332,7 @@ section--notopspace - without top padding
 				position: absolute;
 				// top: 58%;
 				// left: 24%;
-				top: 60%;
+				top: 53%;
 				left: 25%;
 
 			}
@@ -359,8 +359,6 @@ section--notopspace - without top padding
 
 		&__title {
 			&--dateplace {
-				top: 60%;
-				left: 25%;
 			}
 		}
 
@@ -381,9 +379,17 @@ section--notopspace - without top padding
 
 		&__title {
 			&--dateplace {
-				top: 60%;
 				left: 33%;
 			}
 		}
+	}
+
+	@include breakpoint( jano ) {
+		&__title {
+			&--dateplace {
+				left: 35%;
+			}
+		}
+
 	}	
 }
