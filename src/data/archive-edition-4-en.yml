@@ -33,17 +33,17 @@ videos:
   -
     title: Aftermovie
     id: aftermovie
-    link: https://youtu.be/o8jOqvO2M8s
+    link: https://www.youtube.com/embed/o8jOqvO2M8s
     screenshot: video-aftermovie-4rocnik.jpg
   -
     title: Document
     id: dokument
-    link: https://youtu.be/_7yrRcs8XbE
+    link: https://www.youtube.com/embed/_7yrRcs8XbE
     screenshot: video-dokument-4rocnik.jpg
   -
     title: Promo spot
     id: promospot
-    link: https://youtu.be/lh_qJisr1Ws
+    link: https://www.youtube.com/embed/lh_qJisr1Ws
     screenshot: video-promo-4rocnik.jpg
 festival-newspaper: noviny_amplion_12_2019.pdf
 photofolder: fotogaleria-festivalu-2019
