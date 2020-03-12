@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-	var longWayOff = new Date('August 30, 2019 17:00:00');
+	var longWayOff = new Date('September 25, 2020 16:00:00');
 	// var currentLang = $('html').attr('lang');
 	// var layoutString = '';
 
