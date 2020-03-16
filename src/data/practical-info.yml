@@ -6,7 +6,7 @@
     -
       <strong>Ubytovanie</strong> si rezervujte čo najskôr. Štiavnica je obľúbené turistické mesto a pokojne by sa vám mohlo stať, že pred festivalom už v meste žiadne voľné ubytovanie nezoženiete. 
     -
-      <strong>Vstupenky</strong> si kúpite od 1.8. 2019 online na www.amplion.eu/vstupenky (resp. na www.tootoot.sk) až do začiatku každého predstavenia a od 29.8. 2019 aj osobne v Centrálnom predaji vstupeniek (Kultúrne centrum, bočný vchod z Akademickej ulice).
+      <strong>Vstupenky</strong> si kúpite od 1.9. 2020 online na www.amplion.eu/vstupenky (resp. na www.tootoot.sk) až do začiatku každého predstavenia a od 29.8. 2019 aj osobne v Centrálnom predaji vstupeniek (Kultúrne centrum, bočný vchod z Akademickej ulice).
     -
       <strong>Permanentky</strong> na AMPLIÓN nekúpite.
     -
@@ -34,8 +34,8 @@
   id: doprava
   content: 
     - <strong>Vlakom alebo autobusom</strong>
-    - Pri ceste vlakom a autobusom počítajte s tým, že z konečnej zastávky budete musieť ešte kus cesty šliapať pešo (vlaková stanica je vzdialená 3 km od centra, autobusová cca 2 km). 
-    - Tiež si pribaľte knihu, pretože takéto cestovanie vám kvôli prestupom chvíľu potrvá. Autobusy smerujú do Štiavnice zo Žarnovice, Žiaru nad Hronom, Zvolena alebo z Levíc. Pokiaľ cestujete vlakom, prestup vás čaká v Hronskej Dúbrave. Cesta vlakom do Banskej Štiavnice povestnou Štiavnickou Ančou je však malebná, tento zážitok rozhodne odporúčame! Zaujímajú vás podrobnosti o cestovaní verejnou dopravou? Čítajte viac tu.
+    - Pri ceste vlakom a autobusom počítajte s tým, že z konečnej zastávky budete musieť ešte kus cesty šliapať pešo (vlaková stanica je vzdialená 3 km od centra, autobusová zastávka cca 2 km). MHD v Banskej Štiavnici neexistuje, výhodné je objednať si taxík, ktorý stojí 2 až 3 €. Viac  <a class="moreinfo" href = " http://www.banskastiavnica.org/zakladne-informacie/doprava-a-dostupnost/miestna.html" target="_blank" >tu</a>. 
+    - Tiež si pribaľte knihu, pretože takéto cestovanie vám kvôli prestupom chvíľu potrvá. Autobusy smerujú do Štiavnice zo Žarnovice, Žiaru nad Hronom, Zvolena alebo z Levíc. Pokiaľ cestujete vlakom, prestup vás čaká v Hronskej Dúbrave. Cesta vlakom do Banskej Štiavnice povestnou Štiavnickou Ančou je však malebná, tento zážitok rozhodne odporúčame! Zaujímajú vás podrobnosti o cestovaní verejnou dopravou? Čítajte viac <a  class="moreinfo" href = "http://www.banskastiavnica.org/zakladne-informacie/doprava-a-dostupnost/miestna.html" target="_blank">tu</a>.
     - <strong>Autom</strong>
     - Z R1 sa do Štiavnice dostanete niekoľkými cestami. Voľte podľa svojich motoristických skúseností a zmyslu pre dobrodružstvo. Najľahší prístup je z výjazdu pri Hronskej Dúbrave cez Kozelník a Banskú Belú. Výjazdy z R1 pri Bzenici smerom na Vyhne a pri Hliníku nad Hronom smer Sklené Teplice sú tu pre tých, čo radi volia zlatú strednú cestu. Cestu cez Žarnovicu a Hodrušu-Hámre si zvoľte, ak máte radi nekonečné serpentíny hlbokým lesom a Kinedryl. 
 - 
@@ -43,7 +43,7 @@
   chapter: 5
   id: parkovanie
   content: 
-    - Pri ceste na AMPLIÓN využite, prosím, niektoré <strong>zberné parkovisko</strong>. Do centra je z nich blízko, navyše si ušetríte nervy pri kľučkovaní úzkymi štiavnickými uličkami, do ktorých sa naviac autá ani nehodia. Ani na Námestí sv. Trojice už nezaparkujete, od 1. 7 .2019 je tam pešia zóna. Záchytné parkoviská nájdete na ulici Mládežnícka (toto je bezplatné) a pod Novým zámkom na ulici Novozámocká, kde zaplatíte 0,5 € za hodinu alebo 3,5 € za deň.  
+    - Pri ceste na AMPLIÓN využite, prosím, niektoré <strong>zberné parkovisko</strong>. Do centra je z nich blízko, navyše si ušetríte nervy pri kľučkovaní úzkymi štiavnickými uličkami, do ktorých sa naviac autá ani nehodia. Ani na Námestí sv. Trojice už nezaparkujete, od 1. 7 .2019 je tam pešia zóna. Záchytné parkoviská nájdete na ulici Mládežnícka (toto je bezplatné) a pod Novým zámkom na ulici Novozámocká, kde zaplatíte 0,5 € za hodinu alebo 3,5 € za deň. Viac <a class="moreinfo" href = "http://www.banskastiavnica.org/zakladne-informacie/parkovanie.html " target="_blank" >tu</a>. 
 - 
   title: Kde sa ubytujem?
   chapter: 6
@@ -51,7 +51,7 @@
   content: 
     - <strong>Návštevníci festivalu</strong>
     - <strong>Ubytovanie v Banskej Štiavnici ide v letnej sezóne ako teplé rožky. Preto odporúčame rezervovať si miesto v hoteli, penzióne alebo na súkromí min. 2 mesiace vopred!</strong>
-    - Ak chcete bývať priamo v centre festivalu, odporúčame vám náš partnerský Hotel Grand Matej. Banská Štiavnica má však desiatky možností, kde sa môžete ubytovať. Vyberať si môžete aj <a href="https://www.banskastiavnica.travel/ubytovanie" target="_blank">na stránkach regiónu Banská Štiavnica</a>.
+    - Ak chcete bývať priamo v centre festivalu, odporúčame vám náš partnerský <a class="moreinfo" href = "https://www.grandmatej.sk" target="_blank">Hotel Grand Matej</a>. Banská Štiavnica má však desiatky možností, kde sa môžete ubytovať. Vyberať si môžete aj <a class="moreinfo" href="https://www.banskastiavnica.travel/ubytovanie" target="_blank">na stránkach</a> regiónu Banská Štiavnica.
     - <strong>Účinkujúci a hostia festivalu</strong>
     - Chystáte sa na festival ako účinkujúci alebo hosť? Už na vás čaká mäkká posteľ na jednom z týchto skvelých miest našich láskavých partnerov, ktorým aj takto ďakujeme za ústretovosť! Návštevníkom festivalu tieto ubytovania odporúčame v čase mimo termínu festivalu, pretože páni domáci sú tu naozaj veľmi milí a ochotní.
     - <a href="http://www.nostalgia.stiavnica.sk/" target="_blank">Penzión Nostalgia</a><br><a href="http://ubytovaniestiavnica.sk/" target="_blank">Ubytovanie Aura</a><br><a href="http://www.hostel.stiavnica.sk/" target="_blank">Hostel Skautský dom</a>
@@ -70,13 +70,13 @@
     - Programy sa konajú na 10 rôznych exteriéroch a interiéroch v centre Banskej Štiavnice. <!-- Pozrite sa na mapu, kde sú všetky miesta prehľadne vyznačené.--> Predstavenia obvykle začínajú od 10:00 dopoludnia a končia okolo polnoci. 
     - <strong>Nastavte si veliteľský čas, pretože sa začínajú presne podľa programu!</strong> Kto mešká, riskuje, že si <strong>chvíľu počká, pokým ho organizátori pustia na predstavenie alebo ho nemusia pustiť vôbec</strong>, keďže oneskorené vstupy rušia umelcov aj divákov. 
     - <small>(Kliknutím otvoríte mapu na novej karte, bude sa vám lepšie čítať)</small>
-    - <p><a href="/assets/festivalova-mapa-small.png" target="_blank"><img src="/assets/festivalova-mapa-small.png" alt="Festivalová mapa" /></a></p>
+    - <p><a href="/assets/festivalova-mapa-small.png" target="_blank" ><img src="/assets/festivalova-mapa-small.png" alt="Festivalová mapa" /></a></p>
 - 
   title: Festivalový klub
   chapter: 9
   id: festivalovy-klub
   content: 
-    - Každý festival má svoje jadro, kde od rána do večera pulzuje život. Srdce AMPLIÓNu je v našom milovanom <a href="https://artcafe.sk/" target="_blank">Art Cafe</a> na Akademickej ulici č. 2. Je to miesto na stretávanie sa so starými kamarátmi i na vznik nových priateľstiev. Na vášnivé diskusie pri pive či víne, na smiech i na tanec. Počas festivalu sa tu uskutoční niekoľko komorných predstavení a každý večer živý koncert. Vrúcnu atmosféru v kultovom Art Cafe si rozhodne nenechajte ujsť!
+    - Každý festival má svoje jadro, kde od rána do večera pulzuje život. Srdce AMPLIÓNu je v našom milovanom <a  href="https://artcafe.sk/" target="_blank">Art Cafe</a> na Akademickej ulici č. 2. Je to miesto na stretávanie sa so starými kamarátmi i na vznik nových priateľstiev. Na vášnivé diskusie pri pive či víne, na smiech i na tanec. Počas festivalu sa tu uskutoční niekoľko komorných predstavení a každý večer živý koncert. Vrúcnu atmosféru v kultovom <a href="https://artcafe.sk/" target="_blank">Art Cafe</a> si rozhodne nenechajte ujsť!
 - 
   title: Dobré rady do Štiavnice
   chapter: 10
