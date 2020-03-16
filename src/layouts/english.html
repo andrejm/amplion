@@ -37,9 +37,11 @@
             <li>
               <a href="/en/">Home</a>
             </li>
+            {{#if @root.site-config.show-program}}
             <li>
               <a href="/en/programme/">Programme</a>
             </li>
+            {{/if}}
             {{#if @root.site-config.show-tickets}}
             <li>
               <a href="/en/tickets/">Tickets</a>
