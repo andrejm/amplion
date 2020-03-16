@@ -37,9 +37,11 @@
             <li>
               <a href="/">Úvod</a>
             </li>
+            {{#if @root.site-config.show-program}}
             <li>
               <a href="/program/">Program</a>
             </li>
+            {{/if}}
             {{#if @root.site-config.show-tickets}}
             <li>
               <a href="/vstupenky/">Vstupenky</a>

@@ -1,1 +1,2 @@
-show-tickets: true
+show-tickets: false
+show-program: false
