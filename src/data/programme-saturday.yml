@@ -1,143 +1,143 @@
 -
   time: 10:00 – 10:35
-  performer: Pere Hosta (ES) 
-  argentum: true 
-  premiere: true
-  title: OPEN DOOR
-  perex: pouličná komédia pre celú rodinu  
-  location: Záhrada Skautského domu, A. Pécha
-  age: Family
-  price: 4/6 €
-  slug: open-door  
+  performer: Ústav úžasu (CZ)
+  title: CIRKUS PRDÍTKO
+  perex: Zábavná show pre smelé deti i hamblivých rodičov  
+  location: Art Cafe, terasa
+  age: 3+
+  price: 2/4 €
+  slug: ustav-uzasu
 -
-  time: 10:30 – 12:00
-  performer: AND + hostia (SK+CZ)
+  time: 10:30 – 11:00
+  performer: Ty Syčáci (SK)
   age: 12+
-  title: "INVENTÚRA REVOLÚCIE: BIG BANG '89"
-  perex: Špeciálny zážitkový program vo výkladoch obchodov!
+  title: "AFTER KONCERT"
+  perex: Strhujúca retro-futuristická trampská kapela slobodomyseľnej energie
   location: Trotuár, ul. A. Kmeťa
   price: 0
-  slug: inventura-revolucie
+  slug: sycaci
 -
-  time: 12:00 – 12:45
-  performer: Vrbovskí víťazi (SK)
-  age: 12+
-  title: AFTER KONCERT
-  perex: Koncert hudobno-pracovnej skupiny recesistov  
-  location: Art Cafe, terasa
-  price: 3
-  slug: koncert-vrbovski-vitazi
--
-  time: 14:00 – 15:00
-  performer: Prešovské národné divadlo (SK)
+  time: 11:00 – 11:45
+  performer: El Goma (ARG/DE)
   argentum: true
-  top: true
-  general: Víťaz festivalu Nová dráma 2019!
-  age: 15+
-  title: MORAL INSANITY
-  perex: monodráma na motívy románu Umberta Eca Pražský cintorín  
-  location: Kocka/Cube
-  price: 6 €
-  slug: moral-insanity
+  premiere: true
+  age: Family
+  title: The ATARI SHOW
+  perex: Pouličná komédia svetového improvizátora plná filmových trikov
+  location: Záhrada skautského domu, ul. A. Pécha 
+  price: 4/6 €
+  slug: el-goma
+-
+  time: 14:00 – 14:45
+  performer: Mattatoio Sospeso (FR/IT)
+  argentum: true
+  premiere: true
+
+  # general: Víťaz festivalu Nová dráma 2019!
+  age: 10+
+  title: OUT!
+  perex: Akrobatická talianska love story ako vertical dance s nečakaným koncom
+  location: Starý zámok
+  price: 6/9 €
+  slug: mattatoio-sospeso
 -
   time: 14:30 – 14:45
-  performer: Timingeriu (PL)
+  performer: Cirkus Problem (CZ)
   age: Family
   title: PROMO
-  perex: pozvánka na koncert balkánskej, cigánskej a židovskej hudby    
+  perex: pozvánka na koncert nespútanej klezmer, balkan a word music kapely  
   location: Trotuár, ul. A. Kmeťa  
   price: 0
-  type: suppress
-  slug: koncert-timingeriu
+  # type: suppress
+  slug: cirkus-problem
 -
-  time: 15:00 – 15:35
-  performer: Pere Hosta (ES)
+  time: 15:00 – 16:30
+  performer: Ján Markoš (SK)
   argentum: true
-  premiere: true
-  title: OPEN DOOR
-  age: Family
-  perex: pouličná komédia pre celú rodinu  
-  location: Starý zámok
-  price: 4/6 €
-  slug: open-door
--
-  time: 16:00 – 16:50
-  performer: Bratislavské bábkové divadlo (SK)
-  argentum: true
-  top: true
-  age: 5+
-  title: NEVIDITEĽNÍ
-  perex: dobrodružná rozprávka o permoníkoch, elfoch aj Lochneskej príšere
-  location: Kultúrne centrum, Hlavná sála
-  price: 3/5 €
-  slug: neviditelni
--
-  time: 17:00 – 17:30
-  performer: Divadelný spevácky zbor (SLO)
+  title:  SILA ROZUMU v bláznivej dobe
   age: 12+
-  premiere: true
-  title: UPS!
-  perex: Skvelá paródia na koncert a capelly zo Slovinska
-  location: Starý zámok
-  price: 4 €
-  slug: ups
--
-  time: 17:30 – 18:45
-  performer: Jan Burian (CZ)
-  age: 12+
-  title: VÍTĚZNÝ NOVEMBER & EKOLOGIE DUŠE
-  perex: koncert legendárneho pesničkára, básnika i prozaika
-  location: Art Cafe, terasa
-  price: 6 €
-  slug: vitezny-november
--
-  time: 19:00 – 20:30
-  performer: Fedor Gál & Jakub Pohle (CZ/SK)
-  age: 15+
-  title: "DISKUSNÉ FÓRUM: REVOLÚCIA 1989 – VÍŤAZSTVO ČI PREHRA 2019?"
-  perex: 30-roční dedičia slobody sa pýtajú aktérov revolúcie, čo by bolo, keby... Moderuje Monika Tódová.      
+  perex: prednáška o kritickom myslení ako životnom štýle s interaktívnym kvízom od šachového veľmajstra
   location: Art Cafe, povala
   price: 5 €
-  slug: diskusne-forum-revolucia-1989
+  slug: jan-markos
 -
-  time: 19:30 – 20:00
-  performer: Divadelný spevácky zbor (SLO)
-  age: 12+
-  premiere: true
-  title: UPS!
-  perex: Skvelá paródia na koncert a capelly zo Slovinska
-  location: Kocka/Cube, Kammerhofská 6
-  price: 4 €
-  slug: ups
--
-  time: 20:30 – 23:00
-  performer: Divadlo Jána Palárika (SK)
+  time: 16:00 – 16:45
+  performer: El Goma (ARG/DE)
   argentum: true
-  top: true
-  age: 15+
-  title: KOMPLETNÝ SHAKESPEARE ZHLTNUTÝ ZA 120 MINÚT
-  perex: rebelská krvavá kabaretná show najznámejšieho dramatika so živým repom, punkom i rockom  
-  location: Amfiteáter (v prípade dažďa Kultúrne centrum)
-  price: 13 €
-  slug: shakespeare-za-120-minut
+  premiere: true
+  age: Family
+  title: The ATARI SHOW
+  perex: Pouličná komédia svetového improvizátora plná filmových trikov
+  location: Záhrada skautského domu, ul. A. Pécha 
+  price: 4/6 €
+  slug: el-goma
 -
-  time: 21:00 – 22:30  
+  time: 17:00 – 18:15
+  performer: Divadlo Husa na provázku (CZ)
+  argentum: true
+  age: 12+
+  title: OSKAR A RŮŽOVÁ PANÍ
+  perex: silný príbeh o nesmrteĺnosti priateľstva, lásky a nádeje v podaní výnimočných českých hercov slávneho divadla
+  location: kino akademik, Námestie sv. trojice
+  price: 9 €
+  slug: divadlo-husa-na-provazku
+-
+  time: 17:30 – 18:15
+  performer: Umami Dancetheatre (ES/FR)
+  age: 6+
+  title: "BITTER-SWEET"
+  perex: Španielska pohybová show s prvkami pantomímy, breakdance a cirkusu
+  location: Záhrada Skautského domu, ul. A. Pécha
+  price: 3/5 €
+  argentum: true 
+  slug: umami-dancetheathre
+-
+  time: 18:00 – 19:00
+  performer: Džumelec (CZ)
+  argentum: true 
+  age: 15+
+  title: VYSVETLOVATEĽ
+  perex: performatívna prednáška a koncert nositeľa Ceny Oskara Čerpana 2019   
+  location: Art Cafe, povala
+  price: 7 €
+  slug: dzumelec
+-
+  time: 19:00 – 20:30
+  performer: Divadlo Semafor (CZ)
+  age: 15+
+  argentum: true
+  title: "KTO JINÉMU JÁMU KOPÁ, TOHO PÍSEŇ SPÍVEJ"
+  perex: Jiří Suchý & Jitka Molavcová s časťou Big Bandu Semafor po prvýkrát v Banskej Štiavnici!
+  location: Kultúrne centrum, Hlavná sála
+  price: 19 €
+  slug: divadlo-semafor
+-
+  time: 19:15 – 21:15
+  performer: Nightcall (SK)
+  age: 8+
+  title:  INCALL
+  perex: Projekcia online kreslenej počítačovej hry na hranie pre všetkých
+  location: ZUŠ, Námestie sv. Trojice
+  price: 0
+  slug: nightcall
+-
+  time: 20:30 – 22:00  
   performer: AND + hostia (SK+CZ) 
-  age: 18+
+  age: 15+
   title: SKETCH UP 
   general: Nový formát – len na AMPLIÓNE!
-  top: true
-  perex: prvá česko-slovenská súťaž kabaretných skečov v skvelom obsadení. Moderuje Tomáš Dianiška.
+  # top: true
+  perex: 2. ročník česko-slovenskej súťaže kabaretných skečov v skvelom obsadení. Moderujú Pavel Mihaľak & Roman Večerek, hrá kapela OZ červený nos Clowndoctors.
   location: Kocka/Cube, Kammerhofská 6
   price: 9 €
   slug: sketch-up
 -
   time: 22:45 – 24:00
-  performer: Timingeriu (PL)
+  performer: Cirkus problem (CZ)
   argentum: true
   age: 15+
   title: KONCERT
-  perex: Koncert balkánskej, cigánskej a židovskej hudby bicyklujúcich muzikantov  
-  location: Art Cafe, povala
-  price: 6 € 
-  slug: koncert-timingeriu
+  perex: Koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
+  location: Kocka/Cube, Kammerhofská 6
+  price: 0 
+  slug: cirkus-problem

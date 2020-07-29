@@ -1,22 +1,22 @@
 -
-  time: 10:00 – 10:45
-  performer: AND + hostia (SK)
-  age: 5+
-  title: DETSKÁ INVENTÚRA REVOLÚCIE
-  perex: Špeciálny zážitkový program vo verzii pre deti!
-  location: Art Cafe, povala
-  price: 0
-  slug: detska-inventura-revolucie
--
-  time: 11:00 – 11:30
-  performer: Timingeriu (PL)
+  time: 11:00 – 11:45
+  performer: Cirkus problem (CZ)
   argentum: true
   age: 12+
   title: AFTER KONCERT
-  perex: Koncert balkánskej, cigánskej a židovskej hudby bicyklujúcich muzikantov & vyhlásenie cien festivalu <strong>Amplion Argentum</strong>   
+  perex: Koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
+  location: Art Cafe, terasa
+  price: 0 
+  slug: cirkus-problem
+-
+  time: 14:00 – 14:45
+  performer: Džumelec 
+  age: 5+
+  title: KONCERT PROTI DOSPELOSTI
+  perex: performatívne piesne Erika Sikoru pre deti   
   location: Art Cafe, terasa
   price: 0
-  slug: koncert-timingeriu
+  slug: dzumelec
 -
   time: 13:00 – 13:30
   performer: Divadelný spevácky zbor (SLO)
@@ -27,31 +27,12 @@
   price: 3 €
   slug: ups
 -
-  time: 14:00 – 15:45
-  performer: AND (SK)
-  age: 5+
-  title: ŠTIAVNICA NIELEN STRIEBORNÁ alebo Mešťania, básnici a Náckovia
-  perex: Jedinečné pochôdzkové  divadlo o hľadaní súčasného pokladu Štiavnice. Putovanie hercov a divákov so živou hudbou, spevom a tancom za károu šťastia. <strong>Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019</strong>
-  location: Radničné námestie – Námestie sv. Trojice – Starý zámok
-  price: 0
-  slug: stiavnica-nielen-strieborna
--
-  time: 16:30 – 17:30
-  performer: Slovenský filmový ústav (SK)
-  age: 12+
-  title: LETOVÁ SPRÁVA OK 89 – 90
-  perex: Projekcia dokumentárneho filmu o udalostiach v období jedného prelomového roka, ktorý na pozadí príbehu (ne)známeho dievčatka predstavuje problém celej našej spoločnosti
-  location: Art Cafe, povala
-  price: 0
-  slug: vsetci-spolu
--
-  time: 18:00 – 19:00
-  performer: BodyVoiceBand (CZ)
+  time: 17:00 – 18:20
+  performer: Divadlo Commedia (SK)
   argentum: true
-  top: true
-  age: 15+
-  title: MUZIKÁL TŘETÍHO VĚKU
-  perex: hudobno-tanečná show mladých o starobe s pesničkami Jana Buriana
+  age: 12+
+  title: ZÁPISNÍKY DÔSTOJNÍKA ČERVENEJ ARMÁDY
+  perex: skvelá tragikomédia o tom, čo urobí s hlúpim človekom moc
   location: Kultúrne centrum, Hlavná sála
-  price: 8 €
-  slug: muzikal-tretiho-veku
+  price: 6 €
+  slug: divadlo-commedia

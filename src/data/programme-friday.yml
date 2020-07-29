@@ -1,66 +1,77 @@
 - 
-  time: 17:00 – 17:20
+  time: 16:00 – 16:30
   title: OTVORENIE FESTIVALU
-  perex: Happening + hymna + promo komika Pere Hostu (ES) a kapely Vrbovskí víťazi (SK)
+  perex: Hymna + promo komika El Gomu (ARG/DE), kapely Syčáci (CZ) a akro-tanečníkov Umami (ES/FR)
   age: Family
-  location: Námestie sv. Trojice
   price: 0
+  location: Námestie sv. Trojice
   slug: otvorenie-festivalu
 -
-  time: 17:20 – 19:00
-  performer: AND + hostia (SK+CZ)
-  age: 12+
-  title: "INVENTÚRA REVOLÚCIE: BIG BANG'89"
-  perex: Špeciálny zážitkový program vo výkladoch obchodov! 
-  location: Trotuár, ul. A. Kmeťa
-  price: 0
-  slug: inventura-revolucie
--  
-  time: 18:00 – 18:35
-  performer: Pere Hosta (ES)
-  title: OPEN DOOR
-  perex: pouličná komédia pre celú rodinu
-  location: Záhrada Skautského domu, A. Pécha
-  age: Family
-  price: 4/6 €
+  time: 17:00 – 17:45
+  performer: Umami Dancetheatre (ES/FR)
+  age: 6+
+  title: "BITTER-SWEET"
+  perex: Španielska pohybová show s prvkami pantomímy, breakdance a cirkusu
+  location: Rubigall, Námestie sv. Trojice
+  price: 3/5 €
   argentum: true 
   premiere: true
-  slug: open-door
--
-  time: 19:00 – 20:30
-  performer: Ján Mitáč (SK)
-  age: 15+
-  title: LES MESS REVOLUCIONERS
-  perex: inteligentne zábavný kvíz o novembri 1989 pre mladých
-  location: Art Cafe, povala
-  price: 3 €
-  slug: less-mess-revolucioners
+  slug: umami-dancetheathre
 -  
-  time: 20:30– 21:30
-  performer: Markeliñe (ES)
-  premiere: true
-  top: true
+  time: 18:00 – 18:45
+  performer: DS Lano (SK)
+  title: PREČO SA DIEŤA VARÍ V KAŠI
+  perex: Premiéra nového kabaretu 1. víťaza súťaže SKETCH UP 
+  location: Kocka, Kammerhofská 6
   age: 12+
-  title: CARBON CLUB
-  perex: tragikomická kabaretná show o sile, priateľstve aj láske baníkov. <br><strong>Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019</strong>
-  location: Asfaltová plocha pri SOŠLS, Kol&shy;pašská ul.
   price: 0
-  slug: carbon-club
+  premiere: true
+  slug: ds-lano
+-
+  time: 19:00 – 20:20
+  performer: Přemysl Rut & Markéta Potužáková (CZ)
+  age: 15+
+  title: "OKOLO 100LALA: Ohlas písní francouzských 1900 - 1990"
+  perex: Jedinečný šansónový večer českej kabaretnej legendy s pútavými príbehmi medzi Parížom a Prahou
+  location: Kino Akademik, Námestie sv. Trojice
+  argentum: true 
+  price: 8 €
+  slug: premysl
 -  
-  time: 22:00 – 23:30
-  performer: D'89 dženerejšn + Režimy (SK)
-  age: 18+
-  title: AFTER THE REVOLUTION
-  perex: neuhladené prednesy 5 mladých osobností a autorské čítanie hostí na tému slobody po neslobode + jam session s kapelou Režimy (SK)
-  location: Art Cafe, povala
-  price: 7 €
+  time: 19:15 – 21:15
+  performer: Nightcall (SK)
+  age: 8+
+  title:  INCALL
+  perex: Projekcia online kreslenej počítačovej hry na hranie pre všetkých
+  location: ZUŠ, Námestie sv. Trojice
+  price: 0
+  slug: nightcall
+-  
+  time: 20:00 – 20:45
+  performer: Mattatoio Sospeso (FR/IT)
+  argentum: true
+  premiere: true
+  age: 10+
+  title: OUT!
+  perex: Akrobatická talianska love story ako vertical dance s nečakaným koncom
+  location: Starý zámok
+  price: 5/8 €
   slug: after-the-revolution
 -  
-  time: 23:00 – 24:00
-  performer: Vrbovskí víťazi (SK)
-  age: 15+
-  title: KONCERT
-  perex: Koncert hudobno-pracovnej skupiny recesistov 
+  time: 21:00 – 22:00
+  performer: D` dištanc dženerejšn + Ponorka (SK+CZ)
+  age: 12+
+  title: NO TOUCH, NO FUN 
+  perex: Neuhladené prednesy 5 mladých osobností na tému blízkosť&nbsp;vs.&nbsp;vzdialenosť s balkánskou muzikou kapely Ponorka (CZ)
   location: Kocka/Cube, Kammerhofská 6
   price: 6 €
-  slug: koncert-vrbovski-vitazi
+  slug: ponorka
+-  
+  time: 22:30 – 23:45
+  performer: Ty Syčáci (CZ)
+  age: 15+
+  title: KONCERT
+  perex: Strhujúca retro-futuristická trampská kapela slobodomyseľnej energie 
+  location: Art Cafe, povala
+  price: 7 €
+  slug: sycaci

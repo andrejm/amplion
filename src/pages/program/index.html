@@ -86,6 +86,16 @@ sunday:
                 </ul> 
                 {{>_programmenav friday}}              
             </section>
+            <section class="section" style="background-color:white">
+
+            <h2 class="section__title">BUSKING</h2>
+              <ul class="programmes">
+              {{#each programme-off-friday}}
+                  {{>_progitem}}
+              {{/each}}
+            </ul>
+          </section>
+
           </div>
           <div class="tabs-panel" id="sobota">
             <section class="section section--plain section--straight section--top">
@@ -96,6 +106,15 @@ sunday:
                 </ul> 
                 {{>_programmenav saturday}}               
             </section>
+            <section class="section" style="background-color:white">
+
+                <h2 class="section__title">BUSKING</h2>
+                  <ul class="programmes">
+                  {{#each programme-off-saturday}}
+                      {{>_progitem}}
+                  {{/each}}
+                </ul>
+              </section>
           </div>
           <div class="tabs-panel" id="nedela">
             <section class="section section--plain section--straight section--top">
@@ -106,36 +125,48 @@ sunday:
                 </ul> 
                 {{>_programmenav sunday}}               
             </section>
+            <section class="section" style="background-color:white">
+
+                <h2 class="section__title">BUSKING</h2>
+                  <ul class="programmes">
+                  {{#each programme-off-sunday}}
+                      {{>_progitem}}
+                  {{/each}}
+                </ul>
+              </section>
           </div>
         </div>
     </div>
-<!-- </section> -->
-<section class="section">
+<!-- </section> 
+ <section class="section">
   <div class="section__inner">
     <h2 class="section__title">Špeciálne výstavy počas festivalu</h2>
-    <!-- <div class="schedule"> -->
+    <div class="schedule">
       <ul class="programmes">
         {{#each programme-exhibitions}}
             {{>_progitem}}
         {{/each}}
-      </ul>
-    <!-- </div> -->
+      </ul> 
+    </div> 
 
     <p>&nbsp;</p>
 
     <h2 class="section__title">BUSKING</h2>
-    <!-- <div class="schedule"> -->
+     <div class="schedule"> 
       <ul class="programmes">
         {{#each programme-off}}
             {{>_progitem}}
         {{/each}}
       </ul>
-    <!-- </div> -->
+    </div> 
   </div>
-</section>
+</section> -->
 
-<section id="download" class="section section--plain">
+<section id="download" class="section section--plain section--top">
   <div class="section__inner">
+    <div class="section__content">
+        <p>Počas celého festivalu bude na bezpečie divákov dohliadať špeciálna <br> <strong>KLAUNSKÁ ZDRAVOTNÁ HLIADKA</strong> Občianskeho združenia <br><strong>ČERVENÝ NOS Clowndoctors</strong></strong></p>
+    </div>
     <h2 class="section__title">Program do vrecka, stačí vytlačiť</h2>
     <div class="section__content">
       <p>Pozrite si celý program v jednom PDF či rovno naše festivalové noviny:</p>
