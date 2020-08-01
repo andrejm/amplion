@@ -86,7 +86,7 @@ sunday:
                 </ul> 
                 {{>_programmenav friday}}              
             </section>
-            <section class="section" style="background-color:white">
+            <!-- <section class="section" style="background-color:white">
 
             <h2 class="section__title">BUSKING</h2>
               <ul class="programmes">
@@ -94,7 +94,7 @@ sunday:
                   {{>_progitem}}
               {{/each}}
             </ul>
-          </section>
+            </section> -->
 
           </div>
           <div class="tabs-panel" id="sobota">
@@ -106,7 +106,7 @@ sunday:
                 </ul> 
                 {{>_programmenav saturday}}               
             </section>
-            <section class="section" style="background-color:white">
+            <!-- <section class="section" style="background-color:white">
 
                 <h2 class="section__title">BUSKING</h2>
                   <ul class="programmes">
@@ -114,7 +114,24 @@ sunday:
                       {{>_progitem}}
                   {{/each}}
                 </ul>
-              </section>
+            <section class="section" style="background-color:white"> -->
+
+            <h2 class="section__title">BUSKING</h2>
+              <ul class="programmes">
+              {{#each programme-off-friday}}
+                  {{>_progitem}}
+              {{/each}}
+            </ul>
+            </section>
+            <!-- <section class="section" style="background-color:white">
+
+            <h2 class="section__title">BUSKING</h2>
+              <ul class="programmes">
+              {{#each programme-off-friday}}
+                  {{>_progitem}}
+              {{/each}}
+            </ul>
+            </section> -->
           </div>
           <div class="tabs-panel" id="nedela">
             <section class="section section--plain section--straight section--top">
@@ -162,12 +179,13 @@ sunday:
   </div>
 </section> -->
 
-<section id="download" class="section section--plain section--top">
+<!-- <section id="download" class="section section--plain section--top"> -->
+  <section id="download" class="section section section--top">
   <div class="section__inner">
     <div class="section__content">
         <p>Počas celého festivalu bude na bezpečie divákov dohliadať špeciálna <br> <strong>KLAUNSKÁ ZDRAVOTNÁ HLIADKA</strong> Občianskeho združenia <br><strong>ČERVENÝ NOS Clowndoctors</strong></strong></p>
     </div>
-    <h2 class="section__title">Program do vrecka, stačí vytlačiť</h2>
+    <!-- <h2 class="section__title">Program do vrecka, stačí vytlačiť</h2>
     <div class="section__content">
       <p>Pozrite si celý program v jednom PDF či rovno naše festivalové noviny:</p>
     </div>
@@ -180,7 +198,7 @@ sunday:
       <div class="presskit__item">
         <img src="/assets/img/pressico-pressrelease.svg" alt="" class="presskit__ico">
         <a href="/assets/FN_AMPLION_2019_nahlad_cele.pdf" class="button">Festivalové noviny (pdf)</a>
-      </div>
+      </div> -->
     </div>
   </div>
 </section>

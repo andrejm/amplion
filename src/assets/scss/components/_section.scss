@@ -12,6 +12,7 @@ section--notopspace - without top padding
 .section {
 	
 	@include section-skew();
+	padding-top:20px;
 	&::before,
 	&::after {
 		background-color: $white;

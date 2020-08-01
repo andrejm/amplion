@@ -56,7 +56,7 @@
   argentum: true
   title:  SILA ROZUMU v bláznivej dobe
   age: 12+
-  perex: prednáška o kritickom myslení ako životnom štýle s interaktívnym kvízom od šachového veľmajstra
+  perex: Prednáška o kritickom myslení ako životnom štýle s interaktívnym kvízom od šachového veľmajstra
   location: Art Cafe, povala
   price: 5 €
   slug: jan-markos
@@ -77,8 +77,8 @@
   argentum: true
   age: 12+
   title: OSKAR A RŮŽOVÁ PANÍ
-  perex: silný príbeh o nesmrteĺnosti priateľstva, lásky a nádeje v podaní výnimočných českých hercov slávneho divadla
-  location: kino akademik, Námestie sv. trojice
+  perex: Silný príbeh o nesmrteĺnosti priateľstva, lásky a nádeje v podaní výnimočných českých hercov slávneho divadla
+  location: Kino Akademik, Námestie sv. Trojice
   price: 9 €
   slug: divadlo-husa-na-provazku
 -
@@ -128,7 +128,7 @@
   general: Nový formát – len na AMPLIÓNE!
   # top: true
   perex: 2. ročník česko-slovenskej súťaže kabaretných skečov v skvelom obsadení. Moderujú Pavel Mihaľak & Roman Večerek, hrá kapela OZ červený nos Clowndoctors.
-  location: Kocka/Cube, Kammerhofská 6
+  location: Kocka, Kammerhofská 6
   price: 9 €
   slug: sketch-up
 -
@@ -138,6 +138,6 @@
   age: 15+
   title: KONCERT
   perex: Koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
-  location: Kocka/Cube, Kammerhofská 6
+  location: Kocka, Kammerhofská 6
   price: 0 
   slug: cirkus-problem
