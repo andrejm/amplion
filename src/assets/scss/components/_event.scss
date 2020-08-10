@@ -1,10 +1,10 @@
 .event {
 	&-header {
-		clip-path: polygon(0 0, 100% 28%, 98% 78%, 10% 100%);
+		clip-path: polygon(0 0, 100% 20%, 98% 78%, 10% 100%);
 		// border: 2px solid $amp-secondary;
 		position: relative;
 		background-color: $amp-secondary;
-		padding: rem-calc( 40px 40px 50px 60px );
+		padding: rem-calc( 40px 30px 50px 50px );
 		z-index: 1;
 		top: rem-calc( 16 );
 
@@ -15,7 +15,7 @@
 			right: 3px;
 			bottom: 3px;
 			left: 4px;
-			clip-path: polygon(0.15% 0, 100% 28%, 98% 78%, 10% 100%);
+			clip-path: polygon(0.15% 0, 100% 20%, 98% 78%, 10% 100%);
 			background-color: $amp-tertiary;
 			z-index: -1;
 		}

@@ -1,66 +1,79 @@
 - 
-  time: 17:00 – 17:20
+  time: 16:00 – 16:30
   title: FESTIVAL OPENING
-  perex: Happening + anthem + promo Pere Hosta (ES) and the band Vrbovskí víťazi (SK)
+  perex: Anthem + promo of the comedian El Goma (ARG/DE), the band Ty Syčáci (CZ) and acro-dancers Umami Dancetheatre (ES/FR)
   age: Family
-  location: Námestie sv. Trojice
   price: 0
+  location: St. Trinity Square
   slug: festival-opening
 -
-  time: 17:20 – 19:00
-  performer: AND + guests (SK+CZ)
-  age: 12+
-  title: "INVENTORY OF THE REVOLUTION: BIG BANG '89"
-  perex: Unique experience happening in the shop windows! 
-  location: Trotuár, ul. A. Kmeťa
-  price: 0
-  slug: inventory-of-revolution
--  
-  time: 18:00 – 18:35
-  performer: Pere Hosta (ES)
-  title: OPEN DOOR
-  perex: Street comedy show for the entire family
-  location: Garden of the Scout House, A. Pécha
-  age: Family
-  price: 4/6 €
+  time: 17:00 – 17:45
+  performer: Umami Dancetheatre (ES/FR)
+  age: 6+
+  title: "BITTER-SWEET"
+  perex: Spanish physical performance show with elements of pantomime, breakdance and circus
+  location: Rubigall, St. Trinity Square
+  price: 3/5 €
   argentum: true 
   premiere: true
-  slug: open-door
--
-  time: 19:00 – 20:30
-  performer: Ján Mitáč (SK)
-  age: 15+
-  title: LES MESS REVOLUCIONERS
-  perex: An entertaining quiz for the young about november 1989.
-  location: Art Cafe, attic
-  price: 3 €
-  slug: less-mess-revolucioners
+  slug: umami-dancetheathre
 -  
-  time: 20:30– 21:30
-  performer: Markeliñe (ES)
-  premiere: true
-  top: true
+  time: 18:00 – 18:45
+  performer: Theater ensemble Rope (SK)
+  title: WHY THE CHILD BOILS IN PORRIDGE  
+  perex: Premiere of the new cabaret of the 1st winner of the SKETCH UP competition 
+  location: Cube, Kammerhofská 6
   age: 12+
-  title: CARBON CLUB
-  perex: Tragic and comical cabaret show about strength, friendship and love among miners. <br><strong>The performance is a part of the Identity Renovation – Banská Štiavnica, City of Culture 2019 project</strong>
-  location: Asphalt area next to SOŠLS, Kolpašská street
   price: 0
-  slug: carbon-club
+  premiere: true
+  slug: ds-lano
+-
+  time: 19:00 – 20:20
+  performer: Přemysl Rut & Markéta Potužáková (CZ)
+  age: 15+
+  top: true
+  title: "AROUND 100LALA: The resonance of French songs 1900 - 1990"
+  perex: A unique chanson evening Czech cabaret legend with captivating stories between Paris and Prague
+  location: Cinema Akademik, St. Trinity Square
+  argentum: true 
+  price: 7 € pre-sale, 9 € onsale
+  slug: premysl
 -  
-  time: 22:00 – 23:30
-  performer: D'89 dženerejšn + Režimy (SK)
-  age: 18+
-  title: AFTER THE REVOLUTION
-  perex: Uncompromising modern spoken-work performances of the young about freedom and non-freedom featuring the authentic band Režimy
-  location: Art Cafe, attic
-  price: 7 €
+  time: 19:15 – 21:15
+  performer: Nightcall (SK)
+  age: 8+
+  title:  INCALL
+  perex: Projection of the video mapping online drawn computer game for everyone to play
+  location: ZUŠ, St. Trinity Square
+  price: 0
+  slug: nightcall
+-  
+  time: 20:00 – 20:45
+  performer: Mattatoio Sospeso (FR/IT)
+  top: true
+  argentum: true
+  premiere: true
+  age: 10+
+  title: OUT!
+  perex: Acrobatic Italian love story as a vertical dance with an unexpected ending
+  location: Old Castle
+  price: 4/6 € pre-sale, 5/8 onsale €
   slug: after-the-revolution
 -  
-  time: 23:00 – 24:00
-  performer: Vrbovskí víťazi (SK)
+  time: 21:00 – 22:00
+  performer: D` dištanc dženerejšn + Ponorka (SK+CZ)
+  age: 12+
+  title: NO TOUCH, NO FUN 
+  perex: Strong spoken performances of 5 young personalities on the topic of near vs. far, featuring the Balkan music of the band Ponorka
+  location: Cube, Kammerhofská 6
+  price: 6 €
+  slug: ponorka
+-  
+  time: 22:30 – 23:45
+  performer: Ty Syčáci (CZ)
   age: 15+
   title: CONCERT
-  perex: Concert of the work-music band of jokesters
-  location: Kocka/Cube, Kammerhofská 6
-  price: 6 €
-  slug: koncert-vrbovski-vitazi
+  perex: thrilling retro-futurist tramp band with free-thinking energy
+  location: Art Cafe, attic
+  price: predpredaj 7 €
+  slug: sycaci

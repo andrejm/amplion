@@ -49,6 +49,8 @@ sunday:
           <dd>Označenie vekovej skupiny, pre ktorú je podujatie vhodné. Smajlík označuje podujatie vhodné pre celú rodinu.</dd>
           <dt><span class="event-location">Námestie sv. Trojice</span></dt>
           <dd>Scéna — miesto, na ktorom prebieha dané predstavenie</dd>
+          <dt style="color:#E62E6C">Vstupné X/Y</dt>
+          <dd>Označenie X znamená zľavnené vstupné pre deti od 5 do 15 rokov, Y je vstupné pre dospelých. Deti do 5 rokov majú vstup zadarmo.</dd>
         </dl>
       </p>
       <button class="close-button" data-close aria-label="Close modal" type="button">
@@ -87,6 +89,17 @@ sunday:
                 </ul>
                 {{>_programmenav friday}}                
             </section>
+
+            <!-- <section class="section" style="background-color:white">
+
+                <h2 class="section__title">BUSKING</h2>
+                  <ul class="programmes">
+                  {{#each programme-off-friday-en}}
+                      {{>_progitem-en}}
+                  {{/each}}
+                </ul>
+              </section> -->
+
           </div>
           <div class="tabs-panel" id="saturday">
             <section class="section section--plain section--straight section--top">
@@ -97,6 +110,17 @@ sunday:
                 </ul> 
                 {{>_programmenav saturday}}               
             </section>
+
+            <!-- <section class="section" style="background-color:white">
+
+                <h2 class="section__title">BUSKING</h2>
+                  <ul class="programmes">
+                  {{#each programme-off-saturday-en}}
+                      {{>_progitem-en}}
+                  {{/each}}
+                </ul>
+              </section> -->
+
           </div>
           <div class="tabs-panel" id="sunday">
             <section class="section section--plain section--straight section--top">
@@ -106,12 +130,23 @@ sunday:
                 {{/each}}
                 </ul> 
                 {{>_programmenav sunday}}               
-            </section>
+           
+
+            <!-- <section class="section" style="background-color:white">
+
+                <h2 class="section__title">BUSKING</h2>
+                  <ul class="programmes">
+                  {{#each programme-off-sunday-en}}
+                      {{>_progitem-en}}
+                  {{/each}}
+                </ul>
+              </section> -->
+
           </div>
         </div>
     </div>
 <!-- </section> -->
-<section class="section">
+<!-- <section class="section">
   <div class="section__inner">
     <h2 class="section__title">Special exhibitions during the festival</h2>
       <ul class="programmes">
@@ -129,9 +164,12 @@ sunday:
         {{/each}}
       </ul>
   </div>
-</section>
+</section> -->
 
 <section class="section section--plain">
+    <div class="section__content">
+        <p>Počas celého festivalu bude na bezpečie divákov dohliadať špeciálna <br> <strong>KLAUNSKÁ ZDRAVOTNÁ HLIADKA</strong> Občianskeho združenia <br><strong>ČERVENÝ NOS Clowndoctors</strong></strong></p>
+    </div>
   <!-- <div class="section__inner">
     <h2 class="section__title">Print & keep it in your pocket</h2>
     <div class="section__content">

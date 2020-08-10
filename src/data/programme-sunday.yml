@@ -7,24 +7,24 @@
   perex: Koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
   location: Art Cafe, terasa
   price: 0 
-  slug: cirkus-problem
+  slug: cirkus-problem-after
 -
   time: 14:00 – 14:45
-  performer: Džumelec 
+  performer: Džumelec (SK)
   age: 5+
   title: KONCERT PROTI DOSPELOSTI
   perex: performatívne piesne Erika Sikoru pre deti   
   location: Art Cafe, terasa
   price: 0
-  slug: dzumelec
+  slug: dzumelec-proti-dospelosti
 
 -
   time: 17:00 – 18:20
   performer: Divadlo Commedia (SK)
   argentum: true
   age: 12+
-  title: ZÁPISNÍKY DÔSTOJNÍKA ČERVENEJ ARMÁDY
+  title: ZÁPISKY DÔSTOJNÍKA ČERVENEJ ARMÁDY
   perex: skvelá tragikomédia o tom, čo urobí s hlúpim človekom moc
   location: Kultúrne centrum, Hlavná sála
-  price: 6 €
+  price: predpredaj 5 €, na mieste 7 €
   slug: divadlo-commedia

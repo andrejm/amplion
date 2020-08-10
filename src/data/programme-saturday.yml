@@ -6,16 +6,16 @@
   location: Art Cafe, terasa
   age: 3+
   price: 2/4 €
-  slug: ustav-uzasu
+  slug: cirkus-prditko
 -
   time: 10:30 – 11:00
-  performer: Ty Syčáci (SK)
+  performer: Ty Syčáci (CZ)
   age: 12+
   title: "AFTER KONCERT"
   perex: Strhujúca retro-futuristická trampská kapela slobodomyseľnej energie
   location: Trotuár, ul. A. Kmeťa
   price: 0
-  slug: sycaci
+  slug: ty-sycaci-after
 -
   time: 11:00 – 11:45
   performer: El Goma (ARG/DE)
@@ -32,13 +32,13 @@
   performer: Mattatoio Sospeso (FR/IT)
   argentum: true
   premiere: true
-
+  top: true
   # general: Víťaz festivalu Nová dráma 2019!
   age: 10+
   title: OUT!
   perex: Akrobatická talianska love story ako vertical dance s nečakaným koncom
   location: Starý zámok
-  price: 6/9 €
+  price: predpredaj 5/7 €, na mieste 6/9 €
   slug: mattatoio-sospeso
 -
   time: 14:30 – 14:45
@@ -49,7 +49,7 @@
   location: Trotuár, ul. A. Kmeťa  
   price: 0
   # type: suppress
-  slug: cirkus-problem
+  slug: cirkus-problem-promo
 -
   time: 15:00 – 16:30
   performer: Ján Markoš (SK)
@@ -75,12 +75,13 @@
   time: 17:00 – 18:15
   performer: Divadlo Husa na provázku (CZ)
   argentum: true
+  top: true
   age: 12+
   title: OSKAR A RŮŽOVÁ PANÍ
   perex: Silný príbeh o nesmrteĺnosti priateľstva, lásky a nádeje v podaní výnimočných českých hercov slávneho divadla
   location: Kino Akademik, Námestie sv. Trojice
-  price: 9 €
-  slug: divadlo-husa-na-provazku
+  price: predpredaj 7 €, na mieste 9 €
+  slug: divadlo-husa
 -
   time: 17:30 – 18:15
   performer: Umami Dancetheatre (ES/FR)
@@ -88,9 +89,9 @@
   title: "BITTER-SWEET"
   perex: Španielska pohybová show s prvkami pantomímy, breakdance a cirkusu
   location: Záhrada Skautského domu, ul. A. Pécha
-  price: 3/5 €
+  price: 4/6 €
   argentum: true 
-  slug: umami-dancetheathre
+  slug: umami-dancetheatre
 -
   time: 18:00 – 19:00
   performer: Džumelec (CZ)
@@ -99,17 +100,18 @@
   title: VYSVETLOVATEĽ
   perex: performatívna prednáška a koncert nositeľa Ceny Oskara Čerpana 2019   
   location: Art Cafe, povala
-  price: 7 €
+  price: 8 €
   slug: dzumelec
 -
   time: 19:00 – 20:30
   performer: Divadlo Semafor (CZ)
   age: 15+
+  top: true
   argentum: true
   title: "KTO JINÉMU JÁMU KOPÁ, TOHO PÍSEŇ SPÍVEJ"
   perex: Jiří Suchý & Jitka Molavcová s časťou Big Bandu Semafor po prvýkrát v Banskej Štiavnici!
   location: Kultúrne centrum, Hlavná sála
-  price: 19 €
+  price: predpredaj 19 €, na mieste 23 €
   slug: divadlo-semafor
 -
   time: 19:15 – 21:15
@@ -129,7 +131,7 @@
   # top: true
   perex: 2. ročník česko-slovenskej súťaže kabaretných skečov v skvelom obsadení. Moderujú Pavel Mihaľak & Roman Večerek, hrá kapela OZ červený nos Clowndoctors.
   location: Kocka, Kammerhofská 6
-  price: 9 €
+  price: predpredaj 8 €, na mieste 10 €
   slug: sketch-up
 -
   time: 22:45 – 24:00
@@ -139,5 +141,5 @@
   title: KONCERT
   perex: Koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
   location: Kocka, Kammerhofská 6
-  price: 0 
+  price: predpredaj 7 €, na mieste 9 €
   slug: cirkus-problem

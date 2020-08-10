@@ -10,6 +10,27 @@
 				{{perex}}
 			</p>
 			<p>
+				{{#if this.top}}
+					<span class="event-top">TOP</span>
+					<br>
+				{{/if}}
+				{{#if this.novy-format}}
+					<span class="event-top">Nový formát – len na AMPLIÓNE!</span>
+					<br>
+				{{/if}}
+				{{#if this.premiere}}
+					<span class="event-premiere">Slovenská premiéra</span>
+					<br>
+				{{/if}}
+				{{#if this.argentum}}
+					<span class="event-argentum">Nominácia na Amplion Argentum</span>
+					<br>
+				{{/if}}
+				{{#if this.general}}
+					<span class="event-top">{{this.general}}</span>
+					<br>
+				{{/if}}
+				
 				{{#each occurences}}
 					<span class="event-time">{{this.time}}</span>
 					<span class="event-location">{{this.location}}</span>
@@ -18,6 +39,9 @@
 					{{/if}}
 					<br>
 				{{/each}}
+				
+
+				
 			</p>
 			{{#if @root.site-config.show-tickets}}
 			    {{#ifequal price 0}}

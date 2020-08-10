@@ -3,18 +3,20 @@
   performer: Umami Dancetheathre (ES/FR)
   age: Family
   title: BUSKING  
-  perex: rozlúčka zábavných tanečníkov
+  perex: a farewell of the entertaining dancers
   price: 0
   location: Námestie sv. Trojice
+  slug: umami-dancetheatre
 
 -
   time: 12:00 – 12:45
   performer: Mariusz Goli (PL)
   age: 15+
   title: BUSKING  
-  perex: neobyčajný poľský gitarista
+  perex: unusual Polish guitarist
   price: 0
   location: Námestie sv. Trojice
+  slug: mariusz-goli
 
 
 -
@@ -22,6 +24,7 @@
   performer: Ponorka (SK)
   age: Family
   title: BUSKING  
-  perex: podmanivá balkánska street kapela
+  perex: captivating Balkan street band
   price: 0
-  location: Trotuár, ul. A. Kmeťa
+  location: Trotuár, A. Kmeť street
+  slug: ponorka

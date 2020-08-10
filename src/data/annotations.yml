@@ -14,561 +14,681 @@ otvorenie-festivalu:
       Otvorenie_festivalu_Amplion18_031_by Michal Svitok.jpg
     -
       Otvorenie_festivalu_Amplion18_033_by Michal Svitok.jpg
-carbon-club:
-  performer: Markeliñe (ES)
-  premiere: true
-  title: CARBON CLUB 
-  price: 0
-  occurences: 
-    -
-      time: PIATOK 20:30
-      location: Asfaltová plocha pri SOŠLS, Kolpašská ul.
-      price: 0
-      tickets: 
-  perex: Tragikomická kabaretná show o sile, priateľstve aj láske baníkov 
-  content:
-    -
-      <strong>Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019</strong>
-    -
-      Prichádza banícky kabaretný klub, plný spevu a tanca v jedinečnom španielskom štýle. Dynamická a zábavná tragikomédia je pohybovo-výtvarno-hudobný zážitok s atraktívnymi pyrotechnickými efektami. Nastoľuje otázky, či je šťastie alebo prekliatie byť baníkom alebo aká je hodnota priateľstva pri tragických osudoch v hlbinách zeme. Veľkolepý zážitok na niekoľkých mikropódiách je plný humoru aj dojatia a je poctou všetkým anonymným hrdinom, ktorí zomreli pri poctivej, ale ťažkej práci. 
-    -
-      Baskický divadelný súbor Markeliñe (*1987) vytvára divadlo jedinečného štýlu. Tvorí pôvodné príbehy zo súčasnosti, ktoré poskytujú kritický pohľad na dnešok i minulosť. Prelamuje staré formy, skúma a hľadá nové vyjadrenia scénického jazyka a využitia priestoru. Diváci môžu rozjímať nad svojimi vlastnými konfliktami a protirečeniami, ktoré sú však zobrazené príjemným a inteligentným spôsobom. Súbor vo svojej tvorbe dáva dôraz na slobodné vyjadrenie emócií, vizuálny aspekt a herecký prejav. Cestuje a hrá po celom svete od východu po západ.
-  link: http://www.markeline.com
-  foto: Archív divadla Markeliñe
-  pictures:
-    - Markeline_Carbon_Club_01.jpg
-    - Markeline_Carbon_Club_02.jpg
-    - Markeline_Carbon_Club_08.jpg
-muzikal-tretiho-veku:
-  performer: BodyVoiceBand (CZ)
-  title: MUZIKÁL TŘETÍHO VĚKU           
-  premiere: true
+
+divadlo-semafor:
+  performer: Divadlo Semafor, Praha (CZ)
+  title: KTO JINÉMU JÁMU KOPÁ, TOHO PÍSEŇ SPÍVEJ          
+  argentum: true
   general: TOP PROGRAM pre dospelých 
   occurences: 
     -
-      time: nedeľa 18:00
+      time: sobota 19:00
       location: Kultúrne centrum, hlavná sála
-      price: 8
+      price: predpredaj 19 €, na mieste 23 € 
       tickets:
-      toot-iframe-id: toot-btckts-ifr16c44402e95
-      toot-event-id: 5d3893aabba62e0fb8a618ed
-  perex: Tanečný revue-kabaret mladých o starobe s pesničkami Jana Buriana 
+      # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+  perex: Jiří Suchý & Jitka Molavcová, slávna pražská kabaretná dvojica, po prvýkrát v Banskej Štiavnici!
   content: 
     -
-      Máloktorá samota je tak konkrétna a bezvýchodisková, ako tá, ktorú zažívajú starí ľudia. Ako myslieť na starobu a nebáť sa? O tom je výnimočný kabaret pre mladých aj starších! Mladí interpreti cez svoje svieže telá humorne a s nadhľadom reflektujú texty českého pesničkára a prozaika Jana Buriana o starobe. Burian svojimi piesňami vytvára krehký svet starnúceho človeka a reflektuje strach z potenciálnej nemohúcnosti. Toto spojenie s mladými performermi BodyVoiceBandu zaručuje svieži hudobno-tanečný revue-kabaret v podaní členov Bizarre Bandu, Dušana Navaříka a Zdeňka Dočekala. Nebojme sa staroby!
-    -
-      <em>Dcera se stěhuje z domu<br>
-            já ani nevím kvůli komu<br>
-            že prej si našla prima byt<br>
-            takže to musím pochopit<br></em>
-    -
-      <em>Chápu to chápu Chce mít život<br>
-            ve vlastích rukou jako krotitelka<br>
-            chápu to chápu<br>
-            už je velká</em>
-    -
-      BodyVoiceBand je pražský divadelný súbor (2013), ktorý pôsobí v priestore Venuša ve Švehlovce. Divadlo vzniklo z túžby neustále sa učiť nové veci a zároveň udržiavať živé to, čo počas spoločných rokov práce na DAMU vytvorili. Kľúčové pre ich tvorbu sú telo, hlas a skupinová spolupráca, pričom tvoria pohybovo-hlasové projekty. Ich inscenácia hudobno-dramatickej skladby E. F. Buriana Vojna sa v roku 2013 umiestnila medzi prvými desiatimi inscenáciami roka podľa ankety divadelných novín. 
-  foto: Tomáš Svoboda
+     Legendy Suchý & Molavcová sprevádzané časťou Big Bandu Semafor prídu do Banskej Štiavnice na 5. narodeniny Festivalu Amplión! Nechajte sa nadchnúť touto oslavou kabaretu, ktorá vám vyčarí nádherný svet prvej republiky, 60. rokov až po súčasné chytľavé songy. Hviezdne duo vás pozýva na spontánny a uvoľnený večierok, v ktorom vek ani čas nehrá rolu. Dôležité je, koho z nich napadne lepší hit českej piesne posledných 100 rokov. Komici slobodne improvizujú, spievajú, žartujú a svojimi tipmi na hranie prekvapujú aj samotný Big Band. Ten sa nenechá zaskočiť a excelentne zahrá pre radosť dvojice, a snáď i na želanie publika, slávne hity aj obľúbené srdcovky. Každý večer je iný, jedinečný. A ako to už na oslave býva, určite bude aj prekvapenie! Chyťte si svoje miesto pri kabaretnom stole, kým ešte je...
   pictures:
-    -
-      BVB_Muzikal tretiho veku _by Tomas Svoboda_1.jpg
-    -
-      BVB_Muzikal tretiho veku _by Tomas Svoboda_2.jpg
-    -
-      BVB_Muzikal tretiho veku _by Tomas Svoboda_3.jpg
-  link: http://www.bodyvoiceband.cz 
-shakespeare-za-120-minut:
-  performer: Divadlo Jána Palárika (SK)    
-  title: KOMPLETNÝ SHAKESPEARE ZHLTNUTÝ ZA 120 MINÚT
-  general: TOP PROGRAM pre mladých a dospelých   
+    - SEMAFOR_Kdo jinemu jamu kopa_1.JPG
+    - SEMAFOR_Kdo jinemu jamu kopa_2.JPG
+    - SEMAFOR_Kdo jinemu jamu kopa_3.JPG
+  link: www.semafor.cz 
+
+premysl:
+  performer: Přemysl Rut & Markéta Potužáková, Praha (CZ)
+  title: "OKOLO 100LALA: Ohlas písní francouzských 1900 – 1990"           
+  general: TOP PROGRAM pre dospelých 
   occurences: 
     -
-      location: Amfiteáter/ Kultúrne centrum (v prípade nepriaznivého počasia)
-      time: "sobota 20:30"
-      price: 13
-      toot-iframe-id: toot-btckts-ifr16c443a4d3b
-      toot-event-id: 5d38887ed198cd0c1488151d
-  perex: Rebelská kabaretná show svetoznámeho punkáča ušitá na slovenské pomery
+      time: piatok 19:00 
+      location: Kino Akademik, Nám. sv. Trojice
+      price: predpredaj 7 €, na mieste 9 € 
+      tickets:
+      # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+  perex: Jedinečný šansónový večer odborníka a milovníka českej kabaretnej piesne s pútavými príbehmi medzi Parížom a Prahou 
   content: 
     -
-      Odohrať všetkých 39 Shakespearových hier za dve hodiny? Štvorčlenná Zredukovaná shakespearovská spoločnosť to dokáže! Predvedie skrátené verzie majstrových tragédií, komédií aj historických hier plné odkazov na súčasnú popkultúru. Jej interpretácia Shakespearových diel je nekonvenčná, rebelská. Príbeh Othella ako veľký rapový koncert? Žiadny problém, veď bol černoch. Vďaka režisérovi Martinovi Čičvákovi v Shakespearovi nájdete aj kus slovenských reálií a aktuálneho spoločenského diania. Herci prednášajú vo všetkej vážnosti verše dramatika a súčasne sprevádzajú výstupy živou hudbou. Kompletný Shakespeare zhltnutý za 120 minút je poctou univerzálnemu odkazu W. Shakespeara a veľkosti jeho génia, ktorý bol na svoju dobu jednoducho – PANKÁČ. Šťavnatá lahôdka pre všetkých rebelov od 15 rokov!   
+     Máte chuť zmeniť domáce prostredie a zažiť nonšalantný večer vo výbornej spoločnosti? Chceli by ste vycestovať do ulíc parížskeho Montmartru či aspoň do skrytých zákutí pražských uličiek? Vieme, ako bezpečne na to! Príďte na šarmantný večer tých najlepších francúzskych šansónov, piesní a príbehov, ktoré zarezonovali aj v Čechách a prišli až k nám. Vašimi hostiteľmi na tejto pôvabnej hudobno-speváckej trase Paríž-Praha a späť budú šarmantní partneri Přemysl Rut a Markéta Potužáková. Práve vďaka nim nezanikli a už mnoho rokov ožívajú vzácne starostlivo zozbierané piesne a songy z tých najlepších časov kabaretu. Zažijete vzácne ľudské stretnutie pri klavíri s dobrým vínom a príjemnými zimomriavkami.  
+
     -
-      Divadlo Jána Palárika v Trnave (1974) je jediné profesionálne divadlo v Trnavskom kraji. Prvou generáciou, ktorá kreovala poetiku divadla boli režiséri Blaho Uhlár a Juraj Nvota a herci ako Marián Zednikovič, Jaro Filip, Marián Geišberg, Vladimír Jedľovský, Anna Šišková, Zuzana Krónerová  a i. Odvaha experimentovať a uplatňovať v kamennom divadle netradičné formy napríklad klauniády pre deti i dospelých, vydobyla trnavskému divadlu jedinečné miesto v dejinách slovenského divadla. Na odkaz inovácií a implementovania rozmanitých divadelných žánrov do tradičného repertoárového divadla sa snaží nadviazať aj súčasné vedenie. Hra Kompletný Shakespeare zhltnurý za 120 minut  vychádza z textu troch amerických hercov, ktorí týmto predstavením dobyli newyorský Broadway aj londýnsky West-End. 
-  foto: DJP
-  pictures:
-    -
-      DJP_Kompletny Shakespeare (23 of 76).jpg
-    -
-      DJP_Kompletny Shakespeare (45 of 76).jpg
-    -
-      DJP_Kompletny Shakespeare (74 of 76).jpg
-  link: http://www.djp.sk
-moral-insanity:
-  performer: Prešovské národné divadlo (SK)                                    
-  title: MORAL INSANITY
-  general: Grand Prix festivalu Nová dráma 2019!                                                                                                              
-  top: true
-   # pre mladých a dospelých     
-  occurences: 
-    -
-      time: sobota 14:00
-      location: Kocka/Cube
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c44328d73
-      toot-event-id: 5d387481d198cd0c1486e75c
-  perex: Monodráma na motívy románu Umberta Eca Pražský cintorín
-  content: 
-    -
-      Vtipné, nekonvenčné a odvážne divadlo! Chcete vedieť, kto je zodpovedný za to, že sa vám nedarí? Hľadáte toho, kto môže za to, čo sa tu deje? Príďte a niekoho si určite vyberiete. Autorská monodráma herca Petra Brajerčíka a režisérky Júlie Rázusovej na motívy románu Umberta Eca Pražský cintorín skúma konšpiračné teórie, antisemitské a rasistické predstavy vychádzajúce z nepriaznivej ekonomickej a spoločenskej situácie a ich odraz v médiách a politike. Eco ako historik, filozof, estetik pracuje s rafinovaným výkladom dejín, na ktorom odhaľuje princípy politickej a účelovej hry. Hra získala Grand Prix festivalu Nová Dráma/New Drama 2019. 
-    -
-      Prešovské národné divadlo je nezávislé profesionálne divadlo (2013) v Prešove. Jeho líderkami sú dramatička Michaela Zakuťanská a režisérka Júlia Rázusová. Dilema ostať v Bratislave, alebo sa vrátiť do Prešova, spojená s takmer synonymným rozhodovaním sa medzi prácou na západe a životom na východe, vyústila do principiálneho riešenia - presťahovaním sa do rodného Prešova a založením divadla. PND inscenuje texty so súčasnými spoločenskými, generačnými a sociologickými témami, dotýka sa napätia medzi východom a západom Slovenska a pomenúva rozdiely medzi úrovňou života v krajine. Zároveň chce inšpirovať ľudí z rôznych pracovných odvetví, aby sa vrátili žiť do Prešova a realizovali sa v menších mestách a na perifériách.
-  foto: Róbert Tappert
-  pictures:
-    -
-      PND_Moral insanity by_Robert Taperd (28 of 44).jpg
-    -
-      PND_Moral insanity by_Robert Taperd (41 of 44).jpg
-    -
-      PND_Moral insanity by_Robert Taperd (9 of 44).jpg
-  link: http://www.pnd. sk
-sketch-up:
-  performer: AND + hostia (SK+CZ)                                                                           
-  title: SKETCH UP
-  general: Nový formát – len na AMPLIÓNE!
-  # Program pre mladých a dospelých                                                                                
-  occurences: 
-    -
-      time: sobota 21:00
-      location: Kocka/Cube
-      price: 9
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c443b736f
-      toot-event-id: 5d388b81bba62e0fb8a5d156
-  perex: Prvá česko-slovenská súťaž kabaretných skečov v skvelom obsadení
-  content: 
-    -
-      Pilotný ročník súťaže nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla. Všetky skeče prepojí jedna téma – Inventúra revolúcie, ktoré zážitkovou a zábavnou formou priblížia históriu a význam slobody mladým divákom.
+     '<em>„Ondy potkal mě pan Urban, ta jeho paní, tá ma tuze krásný turban,
+      já poznám jí vždy po ránu dle toho turbanu. 
+      Napřed jde pan Urban a pak ten její turban.
+      Jak já spatřím ten turban, hned si řeknu: Ha, pan Urban.“</em>'
     - 
-      "Účinkujú: klaunské duo Mirek a Jaroslava Sýkorovci (CZ+SK),  famózny improvizátor Daniel Kunz & comp. (CZ), odvážny raper a slamer Mišo Bruce Lee Kováč (SK), Jakub Pohle (SK) ako neuhladený standapista či mladí divadelníci zo súborov Falangir a Lano (SK). Dravú energiu a vlastné herecko-hudobné výstupy predvedú moderátori večera, skvelí Tomáš Dianiška a Jakub Albrecht, so svojimi kolegami z pražského Divadla pod Palmovkou. Porotcom bude pesničkár a aktér revolúcie Jan Burian (CZ), herec Tomáš Dianiška a dramaturgička a režisérka festivalu Jana Mikitková. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 5. ročníku Festivalu AMPLIÓN 2020."
-    -
-      Nenechajte si tento nadupaný pilot ujsť!
-  foto: archív umelcov
+     'Prof. Přemysl Rut vyštudoval divadelnú réžiu, pôsobil však prevažne ako kabaretný klavirista a spevák v rôznych divadelných zoskupeniach, napr. v Nedivadle Ivana Vyskočila. Spolu s V. Krausom a V. Havlom vydával samizdatový časopis O divadle. Je autorom množstva kníh poézie, poviedok, divadelných aj rozhlasových hier. Učí na katedre autorskej tvorby a pedagogiky DAMU. Venuje sa histórii a interpretácii českej autorskej piesne, o ktorej vydal pozoruhodné publikácie. 
+      Markéta Potužáková je vyštudovaná herečka, ktorá pôsobila najmä v divadlách vo Francúzsku. Dnes učí na DAMU prednes a tvorí projekty medzi divadlom a slovesnosťou, napr. scénické čítania a rozhlasové cykly najmä s Přemyslom Rutom. V Prahe spolu pravidelne uvádzajú kabaretné piesňové večery rôznych období.'
   pictures:
-    - SKETCH_UP_Tomas_Dianiska_moderator_3.jpg
-    - SKETCH_UP_FALANGIR_sutaziaci.jpg
-    - SKETCH_UP_Mirek a Jarka_S.jpg
-  link: http://www.and-theatre.art
-neviditelni:
-  performer: Bratislavské bábkové divadlo (SK)
-  title: NEVIDITEĽNÍ 
-  # Program  pre rodiny s deťmi       
+    - Premysl_Rut_1 Marketa Potuzakova.jpg
+    - Premysl_Rut_2 Marketa Potuzakova.jpg
+    - Premysl_Rut_3.jpg
+  link: https://cs.wikipedia.org/wiki/Přemysl_Rut
+
+dzumelec:
+  performer: Džumelec, Košice (SK)
+  title: VYSVETĽOVATEĽ 
+  general: Program pre mladých a dospelých  
   occurences: 
     -
-      time: sobota 16:00
-      location: Kultúrne centrum, hlavná sála
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c44351f85
-      toot-event-id: 5d387861d198cd0c14872b79
-  perex: Dobrodružná kabaretná rozprávka o permoníkoch, Lochneskej príšere či elfoch! 
+      time: sobota 18:00 
+      location: Art Cafe, povala
+      price: 8 €
+      tickets:
+      # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+  perex: Performatívny koncert a nonsensová prednáška nositeľa Ceny Oskára Čepana 2019 Erika Sikoru
   content: 
     -
-      Vydajte sa so svojimi deťmi do sveta Lochnesskej príšery, elfov, yetiho, drakov aj permoníkov! V autorskom príbehu o (ne)jestvujúcich bytostiach spoločne s hercami pocestujete priestorom a časom za záhadnými bytosťami, ktorých existencia nikdy nebola vedecky potvrdená. Malí diváci sa stanú svedkami premeny zvukov na hudbu, materiálu na živé bytosti a slov na poéziu. Hravá inscenácia plná magických momentov pošteklí fantáziu a prenesie vás do sveta vízií, snov a fantastických dobrodružných objavov. Na tejto úžasnej ceste vás bude sprevádzať hudba Juraja Haška, lídra kapely Sto múch. Pre všetky zvedavé deti od 5 rokov.
+     Čo zažijete? Hudobne jednoduché ba až naivné, podomácky vyrobené pesničky v garáži alebo kúpeľni, hrané so španielkou alebo basou, jemne korenené lúskaním, domácimi či lesnými šumami, či naivnými klávesovými sólkami. Texty sú nadšeným pozorovaním sveta a jeho bizarných detailov. Hrajú sa so slovami, experimentujú s východoslovenskou rytmickosťou jazyka a spievajú sa na hranici s hovoreným slovom. Džumelec prezentuje svoju umeleckú tvorbu zdanlivo neformálnym prístupom na aktiváciu politických tém, ktoré vedú k základným a nevyhnutným otázkam o tom, kto sme teraz. 
+
     -
-      Inscenáciu vytvorili pre Bratislavské bábkové divadlo (1957) tvorkyne z progresívneho divadelného zoskupenia ODIVO. BBD je dôležitý priestor, ktorý svojich divákov nielen baví, provokuje a inšpiruje, ale im prostredníctvom divadelných a umeleckých prostriedkov umožňuje duchovný rast, zvyšuje ich kultúrno-spoločenské povedomie, dáva podnety, aby rozvíjali svoje názory a schopnosti. V čele divadla stojí umelecká šéfka Katarína Aulitisová. Na svojom konte má množstvo ocenení z domácich aj zahraničných festivalov. 
-  foto: Juraj Starovecký
+     Erik Sikora cez performatívne stratégie tlmočí otázky národnej identity, ekológie či udržateľnosti. Jeho výstupy majú často podobu prednášky alebo koncertu naživo, mimo priestoru galérie. V opačnom prípade komunikuje prostredníctvom nahratého videa na hranici nonsensu a poetického symbolizmu. Zaujíma ho banálnosť a jej imaginatívny potenciál. Má rád, keď majú ľudia k jeho výstupom voľný prístup. Predkladá svoje teórie, nápady, pozorovania, ktoré zväčša dospievajú k záveru v podobe manuálu, napr. Tešenie či Dážďovník. Vo svojej tvorbe oslobodzuje predstavivosť od vžitých návykov a pravidiel, umožňuje autentické bytie a potenciálne môže spustiť i povestnú sociálnu bombu. 
   pictures:
-    -
-      BBD_Neviditelni_by_Juraj Starovecky_01.jpg
-    -
-      BBD_Neviditelni_by_Juraj Starovecky_05.jpg
-    -
-      BBD_Neviditelni_by_Juraj Starovecky_07.jpg
-  link: http://www.babkovedivadlo.sk
-open-door:
-  performer: Pere Hosta (ES) 
-  title: OPEN DOOR
+    - Erik_Sikora_Dzumelec_1.jpg
+    - Erik_Sikora_Dzumelec_2.jpg
+    - Erik_Sikora_Dzumelec_3.jpg
+    
+  link: www.eriksikora.com
+
+
+lano:
+  performer: Divadelný súbor Lano, Bratislava (SK) 
   premiere: true
-  general: TOP PROGRAM pre rodiny s deťmi
+  title: PREČO SA DIEŤA VARÍ V KAŠI
+  general: Program pre mladých a dospelých    
   occurences: 
     -
       time: piatok 18:00
-      location: Záhrada Skautského domu
+      location: Kocka, Kammerhofská 6
       price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c49b36607
-      toot-event-id: 5d373844bba62e03b8a07fe5
-    -
-      time: sobota 10:00
-      location: Záhrada Skautského domu
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c44303ec6
-      toot-event-id: 5d381d65d198cd0c1482926e
-    -
-      time: nedeľa 15:00
-      location: Starý zámok
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c44342f2a
-      toot-event-id: 5d3828b8bba62e0fb8a15d7b
-  perex: Pouličná komediálna show pre celú rodinu
+      
+  perex: Premiéra nového kabaretu 1. víťaza súťaže SKETCH UP 
   content: 
     -
-      Z ničoho nič sa objavia dvere "..." máte príležitosť otvoriť ich! Čo je na druhej strane? No predsa náš každodenný obyčajný život! Ale vďaka španielskemu pouličnému komikovi Pere Hostovi to bude pohľad farebný a plný vtipných momentov. Jednoduché, ale neobyčajné dvere vás dovedú na nevšedné miesta. Prejdite nimi, žite každý deň inak, originálne a najmä so smiechom na tvári. Komik reflektuje súčasné črty doby ako ľudskú izoláciu a osamelosť a je odhodlaný objaviť pre vás optimizmus a humor ukrytý v každodennej rutine.
-  foto: Jordi Gestí
-  pictures: 
+     A je to tu, plníme sľuby! Rok sa s rokom stretol a z krátkeho víťazného skeču študentov divadelného súboru Lano vo vlaňajšej súťaži SKETCH UP vznikol celovečerný nový kabaret. Ako prví máte možnosť vidieť čerstvú slovenskú kabaretnú novinku s prvkami nového cirkusu na motívy knihy rumunskej autorky Aglaje Veteranyi, Prečo sa dieťa varí v kaši. Hororový názov o uvarenom dieťati má odviesť pozornosť hlavnej postavy od ešte väčšieho hororu – od toho, že jej mama, artistka, denne visí v kopule cirkusového stanu za vlasy a žongluje. Zdanlivo naivné detské rozprávanie z prostredia kočovných cirkusantov vás vtiahne do magického príbehu o hodnote ľudského života. A naozaj, je v nebi cirkus?!
+
     -
-      Peter_Hosta_opendoor_01.jpg
-    -
-      Peter_Hosta_opendoor_04.jpg
-    -
-      Peter_Hosta_opendoor_05.jpg
-  link: http://www.perehosta.com
-ups:
-  performer: Divadelný spevácky zbor (SLO)
-  title: UPS!  
-  premiere: true
+     Divadelný súbor Lano vznikol v roku 1986 pri literárno-dramatickom odbore ZUŠ J. Kresánka v Bratislave. Zakladateľkou, režisérkou a vedúcou umeleckou osobnosťou súboru bola pani Alexandra Skořepová. Lano sa počas 30 rokov svojej existencie pravidelne zúčastňuje najvyšších divadelných súťaží na Slovensku, je dvojnásobným držiteľom ceny Ministerstva kultúry SR za Tvorivý čin roka udeľovaného na Scénickej žatve. Zúčastnil sa aj zahraničných festivalov v Lingene, v Paderborne, v Sankt Pőltene či v Bressanone.
+  pictures:
+    # - Erik_Sikora_Dzumelec_1.jpg
+    
+    
+  link: www.zuskresanka.sk
+
+divadlo-husa:
+  performer: Divadlo Husa na provázku, Brno (CZ) 
+  argentum: true 
+  top: true
+  title: OSKAR A RŮŽOVÁ PANÍ    
+  general: Program pre mladých a dospelých    
   occurences: 
     -
       time: sobota 17:00
-      location: Starý zámok
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c4436dc30
-      toot-event-id: 5d387bf2d198cd0c14875b68
-    -
-      time: sobota 19:30
-      location: Kocka
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c4439d014
-      toot-event-id: 5d3884bbbba62e0fb8a58db2
-    -
-      time: nedeľa 13:00
-      location: Art Cafe, terasa
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c443f8ea5
-      toot-event-id: 5d3890b5d198cd0c148866fc
-  perex: Skvelá paródia na koncert a capelly zo Slovinska
+      location: Kino Akademik, Nám. sv. Trojice
+      price: predpredaj 7 €, na mieste 9 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      
+  perex: Nevídaný príbeh o sile detských snov, ktoré by si mali zachovať aj dospelí  
   content: 
     -
-      Divadelný zbor sympatických mladých ľudí a jeho netypická líderka prekonajú vaše očakávania o spevákoch vážnej hudby. Aké to je, keď sa zbor nedokáže zladiť? Čo sa stane, keď sa v ňom prejaví názor jednotlivca? A ako to „ups“ ustojí bláznivá dirigentka?! Séria neočakávaných groteskných situácií vás svojím humorom i profesionálnym speváckym prejavom nielen dobre naladí, ale aj nadchne, až vám bude do spevu!
+     Viete, čo vám zahrajú výnimoční českí herci slávneho divadla, ktoré príde po prvýkrát do Banskej Štiavnice? Pútavý príbeh priateľstva zvedavého 10-ročného Oskara, ktorý v nemocnici píše svoj prvý list Pánubohu, a staršej, ale správňackej baby Růži. S humorom a bez sentimentu hovorí o otázkach, na ktoré ste sa možno už dávno prestali pýtať. Divadelná inscenácia vznikla na motívy oceňovanej prózy francúzskeho autora É. E. Schmitta. Predvedú ju herci slávnej éry Provázku – Vladimír Hauser a Ivana Hloužková. 
+
     -
-      Gledališki pevski zbor je skupina profesionálnych slovinských interpretov a hudobníkov pod vedením speváčky a divadelníčky Tey Vidmar, ktorá zažiarila na festivale pouličného divadla Ana Desetnica 2019 v Ljubljane. Na Slovensku sa predstavia po prvýkrát!
-  foto: Luka Dakskobler, Tadej Čauševič
-  pictures: 
-   -
-    GPZ_UPS_by_Luka Dakskobler 5.jpg
-   -
-    GPZ_UPS_by_Luka Dakskobler_3.jpg
-   -
-    GPZ_UPS_by_Tadej ¼auþeviƒ 2.jpg 
-  link: http://www.anamonro.si
-vitezny-november:
-  performer: Jan Burian (CZ)  
-  title: VÍŤĚZNÝ NOVEMBER & EKOLOGIE DUŠE 
+     <em>„Milý Bože, volám sa Oskar, je mi 10 a píšem Ti svoj prvý list. Prepáč, skôr som fakt nemohol. Musel som sa učiť. Nikdy som sa na Teba neobracal, ale...“</em>
+    -
+     Divadlo Husa na provázku je scéna súčasných tém a nečakaných foriem. Od roku 1967 spája tvorcov rôznych žánrov, pre ktorých je umenie životným postojom. Svoju tvorbu stavia na slobode prejavu, otvorenosti dialógu a názorovej pluralite, čím sa snaží o kultiváciu stredoeurópskej občianskej spoločnosti. Vďaka jeho výnimočným oceňovaným osobnostiam akými boli Peter Scherhaufer, Eva Tálska či akými sú Petr Oslzlý, Vladimír Morávek a Anna Davidová, má jedinečné miesto na európskej divadelnej mape.
+
+  pictures:
+    - Husa na provazku_Oskar_2.jpg
+    - Husa na provazku_Oskar_3.jpg
+    - Husa na provazku_Oskar_4.jpg
+    
+    
+  link: www.provazek.cz
+
+
+divadlo-commedia:
+  performer: Divadlo Commedia, Poprad (SK)
+  argentum: true 
+  title: ZÁPISKY DÔSTOJNÍKA ČERVENEJ ARMÁDY     
+  general: Program pre mladých a dospelých    
   occurences: 
     -
-      time: sobota 17:30
-      location: Art Cafe, terasa
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c443849e1
-      toot-event-id: 5d387f3ebba62e0fb8a55c9a
-  perex: Koncert legendárneho pesničkára o konci doby dvoch druhov jogurtov a jednej politickej strany
+      time: nedeľa 17:00
+      location: Kultúrne centrum, hlavná sála
+      # price: predpredaj 5 €, na mieste 7 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      
+  perex: Skvelá tragikomédia o tom, čo urobí s hlúpym človekom moc
   content: 
     -
-      Piesne aj rozprávanie pri klavíri ako cyklus nezaujatých spomienok na dobu novembra 89. To je večierok nonšalantného pesničkára, kabaretiéra i prozaika Jana Buriana z Prahy. Vhodné pre mládež, ktorá túto dobu nezažila, ale aj pre starších, ktorí si radi zaspomínajú na rady na pomaranče, pašovanie dederonových košieľ či železné nedele. Všetko vyvážia skladby z cyklu EKOLOGIE DUŠE na tému súčasného života človeka obklopeného médiami, ohromovaného supermarketmi a SuperStar. Dozviete sa, čo sa dá robiť, aby sme si uchovali zdravý rozum a kultúrnu úroveň.
-  foto: MALL.tv, archív Jana Buriana
+     Aktuálny sarkastický príbeh na motívy rovnomenného románu Siergiusza Piaseckého prináša svedectvo o ľudskej hrubosti, hlúposti a pokrivenom charaktere. Je to brilantná herecká ukážka toho, čo urobí s človekom moc v kombinácii s primitívnosťou. Tento príbeh napísaný podľa skutočných udalostí neuvidíte nikde inde, pretože Divadlo Commedia ho zdramatizovalo ako prvé a jediné na Slovensku! Obrovská dávka humoru aj cez slzy. 
+
+    -
+     '<em>Súbor zarezonoval so svojou citlivou hrou Neprebudený a neskôr pobavil divákov aj Čechovovými jednoaktovkami pod názvom Keď muži plačú už v rámci Mesta kultúry: Banská Štiavnica 2019. Vznikol v Poprade v roku 1968 a desaťročia patrí k špičke slovenského neprofesionálneho divadla, čo dokazuje účasť na celoslovenských prehliadkach aj festivaloch v zahraničí. Commedia je dvojnásobným účastníkom Svetového festivalu divadla v Monaku.</em>'
+    -
+     V tomto roku si pripomíname 190. výročie prvého ochotníckeho predstavenia na Slovensku. Aj touto hrou chceme prejaviť úctu práci slovenských ochotníkov.
+
   pictures:
+    - Commedia_Zapisky_06.jpg
+    - Commedia_Zapisky_03.jpg
+    - Commedia_Zapisky_02.jpg
+
+  link: www.commedia.sk
+
+jan-markos:
+  performer: Ján Markoš, Bratislava (SK) 
+  argentum: true 
+  title: SILA ROZUMU v bláznivej dobe        
+  general: Program pre mladých a dospelých    
+  occurences: 
     -
-      Jan Burian (foto MALL.TV)1.jpeg
+      time: sobota 15:00
+      location: Art Cafe, povala
+      price: 5 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      
+  perex: Majstrovská prednáška o kritickom myslení ako životnom štýle s interaktívnym kvízom od šachového veľmajstra
+  content: 
     -
-      Jan Burian s veslom.jpg 
-  link: http://www.janburian.cz
-koncert-timingeriu:
-  performer: Timingeriu (PL)  
-  title: KONCERT
-  # xx+
+     Ján Markoš je lektor kritického myslenia a autor jednej z najlepších kníh minulého roka na Slovensku Sila rozumu v bláznivej dobe. Ide o prvý manuál kritického myslenia s výbornými praktickými príkladmi zo slovenského prostredia. Súčasne je aj šachovým veľmajstrom. Pútavo, trefne a s humorom vás zasvätí do tajomstiev, ktoré spísal pod heslami My, digitálni narkomani, Hekeri mozgov, Človek človeku vlkom a mnohé ďalšie. Dozviete sa praktické stratégie, ako chrániť slobodu v 21. storočí. S touto prednáškou a kvízom dáte všetkým konšpirátorom šach-mat!
+
+  pictures:
+    - Jan_Markos_1.jpg
+    - Jan_Markos_2_Sila rozumu.jpg
+    - Jan_Markos_3.jpg
+  
+  link: www.medziknihami.dennikn.sk/clanky/jan-markos-sila-rozumu-v-blaznivej-dobe 
+	
+mattatoio-sospeso:
+  performer: Mattatoio Sospeso, Toulouse/Pisa (FR/IT)
+  argentum: true 
+  premiere: true
+  title: OUT!            
+  general: TOP program pre mladých a rodiny s deťmi       
+  occurences: 
+    -
+      time: piatok 20:00
+      location: Starý zámok
+      price: 5 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+    -
+      time: sobota 14:00
+      location: Starý zámok
+      price: 5 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      
+  perex: Majstrovská prednáška o kritickom myslení ako životnom štýle s interaktívnym kvízom od šachového veľmajstra
+  content: 
+    -
+     Vtipné i odvážne pouličné divadlo s ľúbostným príbehom! Muž vykopnutý z domu blúdi ulicami a hľadá nový zmysel života. Čo ak, práve v Banskej Štiavnici, na zabudnutej pavlači Starého zámku, žije jeho nová láska? Uleťte si s nami! Príďte sa presvedčiť, či ju má na dosah alebo je od nej nenávratne vzdialený. Pouličná akrobatická show o dobýjaní svojej lásky je bravúrnym kúskom lietania formou neobyčajného vertikálneho tanca na stenách starobylých budov. Taliansku romantiku pod balkónom strieda irónia, sarkazmus a, samozrejme, zábava. Vrcholom hry je pôvodný spev talianskeho bel canta 30. rokov a dychberúce finále, kedy sa všetko zastaví vo vzduchu. Lebo – love is in the air! Lietajúca fantázia je poctou Busterovi Keatonovi a Charliemu Chaplinovi, majstrom nemej filmovej grotesky a vďaka Ampliónu ju uvidíte v slovenskej premiére! Zalietajte si a snívajte naplno – recept nielen pre zamilovaných!
+    -
+     '<em>Divadelné zoskupenie MATTATOIO SOSPESO ste mali možnosť zažiť na 2. ročníku Festivalu AMPLIÓN 2017 s úspešnou inscenáciou Milovníci neba. Pre veľký ohlas sme sa rozhodli pozvať aj ich ďalšiu produkciu OUT!, v ktorej lietajúci akrobati v citlivom spojení s miestnou architektúrou rozprávajú snové príbehy. Hviezdami večera sú Marco Mannucci a Massimiliano Ferrari. </em>'
+
+  pictures:
+    - Mattatoio_03_OUT_web.jpg
+    - Mattatoio_05_OUT_web.jpg
+    - Mattatoio_02_OUT_web.jpg
+  
+  
+  link: www.mattatoio.org
+
+el-goma:
+  performer: El Goma, Kolín (ARG/DE)
+  argentum: true 
+  premiere: true
+  title: THE ATARI SHOW                      
+  general: Program pre mladých a rodiny s deťmi       
+  occurences: 
+    -
+      time: sobota 11:00
+      location: Záhrada Skautského domu
+      price: 4/6 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+    -
+      time: sobota 16:00
+      location: Starý zámok
+      price: 4/6 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      
+  perex: Špičková pouličná komédia svetového improvizátora plná filmových a vizuálnych trikov 
+  content: 
+    -
+     Akrobacia, tanec, triky a veľa nečakanej smiešnej improvizácie. To sú tajomstvá pouličného umenia El Gomu, ktoré predvádza v originálnom vycibrenom štýle po celom svete. Bežné situácie premieňa na neuveriteľnú a prekvapivú zábavnú komédiu. Vo svojej show využíva princíp hracej konzoly Atari, v ktorej joistikom ovláda rôzne zvuky, púšťa známe filmy či ukazuje karikatúry, do ktorých citlivo zapája publikum. To reaguje hurónskym smiechom a spontánnym potleskom. Stretnutie s ním vás nielen osvieži, ale aj ozdraví, veď smiech je liek! Doprajte si tento zázrak pre celú rodinu.
+    -
+     '<em>El Goma, vlastným menom Juan Manuel Gomez, je pôvodom z Argentíny, ale už 10 rokov žije v Nemecku. Začínal na uliciach Buenos Aires a dnes má už za sebou vystúpenia v 35 krajinách na 4 kontinentoch, pretože jeho pouličné kúsky sú skutočným umením. Na Slovensku vystúpi vo svojej premiére, lebo 5 rokov má Amplión len raz! </em>'
+
+  pictures:
+    - Goma_by Mike Kingdon.jpg
+    - Goma_by SteffanoChiolo.jpg
+    - Goma_print 2.jpg
+  
+  
+  link: www.theatarishow.com 
+
+umami-dancetheatre:
+  performer: Umami Dancetheatre, Madrid (ES/FR)
+  argentum: true 
+  premiere: true
+  title: BITTER-SWEET                                 
+  general: Program pre mladých a rodiny s deťmi            
+  occurences: 
+    -
+      time: piatok 17:00
+      location: Klub Rubigall, Námestie sv. Trojice
+      price: 4/6 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+    -
+      time: sobota 17:30
+      location: Záhrada Skautského domu, ul. A. Pécha
+      price: 4/6 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      
+  perex: Španielska pohybová show s prvkami pantomímy, breakdance a cirkusu o medziľudskom pochopení
+  content: 
+    -
+     Jeden je malý útly beloch a druhý vysoký vyšportovaný černoch. Jedného volajú Papi Kaos a druhého Chocolate Sexy. Táto nezvyčajná dvojica vám predvedie atraktívny dynamický tanečný príbeh o medziľudskej tolerancii. Spočiatku sú si obaja vzdialení a rozdielni, ale postupne ich vášeň k pohybu spojí natoľko, až sa spriatelia. Táto svieža show vás nielen očarí, ale aj obohatí o rozmer ľudskej rôznorodosti a rozmanitosti. Hudba, rýchle tempo, súčasný tanec rôznych štýlov, taká bude oslava priateľstva, kde by ste nemali chýbať!
+
+    -
+     '<em>Umami Dancetheatre je španielsko-francúzske zoskupenie, ktoré vydarene hrá a slobodne buskuje po celom svete.</em>'
+
+  pictures:
+    - Umami_bittersweet_1.jpg
+    - Umami_bittersweet_2.jpg
+    - Umami_bittersweet_3.jpg
+
+  link: umamidancetheatre.wixsite.com/umami 
+
+nightcall:
+  performer: Nightcall, Bratislava (SK)     
+  title: INCALL                                 
+  general: Program pre mladých a rodiny s deťmi            
+  occurences: 
+    -
+      time: piatok 19:15
+      location: ZUŠ, Nám. sv. Trojice
+      price: 0
+      
+    -
+      time: sobota 19:15
+      location: ZUŠ, Nám. sv. Trojice
+      price: 0
+ 
+  perex: Videomapingová počítačová online hra premietaná na budovu na hranie pre všetkých 
+  content: 
+    -
+     'Sú ľudia, ktorí sa sťažujú na všetko okolo seba. V tomto prípade frflú cez komiksové
+bubliny, ktoré ich napokon „zjedia“. Chcete im pomôcť dostať sa von z bubliny? Stačí vyslať
+impulz prostredníctvom zvuku – potlesku, ktorý budú snímať mikrofóny. Impulzy snímané na
+zmapovanú stenu budovy oslobodia frfľošov z ich obmedzených bublín. A možno aj my sami
+občas žijeme v takej bubline. Tak nech sa páči, táto hra je pre všetkých, ktorí sa chcú bublín
+zbaviť! Svojím hlasným potleskom praskneme všetky bubliny a bublinky, nielen tie virtuálne na
+stene, ale aj tie vnútorné. Lebo dobrý potlesk je oslobodzujúci. Čím viac nás bude, tým
+budeme my aj svet naokolo slobodnejší, bez bublinový, reálny a pritom autenticky
+krásny.'
+
+    -
+     '<em>Autormi projektu sú Tomáš Eniac Cíger a Kristián Balaj (SK). Tomáš Eniac Cíger, ilustrátor,
+game artist, comics artist, animátor, karikaturista, nadšenec sci-fi, milovník béčkových filmov,
+pochádza z Kremnice. Je aj autorom komixu Dobrodružstvá Milana Rastislava Štefánika. 
+Kristián Balaj sa venuje programovaniu, najviac ho baví oblasť počítačovej grafiky 
+a renderingu.</em>'
+
+  pictures:
+    - Nightcall_Incall_1.jpg
+    - Nightcall_Incall_2.jpg
+    
+  link:  www.facebook.com/nightcallsk 
+
+cirkus-problem:
+  performer: Cirkus Problem, Praha (CZ)   
+  title: KONCERT                                    
+  general: Program pre mladých a rodiny s deťmi            
   occurences: 
     -
       time: sobota 22:45
-      location: Art Cafe, terasa
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c443cf3ce
-      toot-event-id: 5d388eded198cd0c14885a4d
-    -
-      time: AFTER KONCERT nedeľa 11:00
-      location: Art Cafe, povala
-      price: 0
-      tickets:         
-  perex: Koncert balkánskej, cigánskej a židovskej hudby bicyklujúcich muzikantov
+      location: Kocka, Kammerhofská 6
+      price: predpredaj 7 €, na mieste 9 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+   
+      
+  perex: Koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
   content: 
     -
-      Doprajte si poľskú dávku hudobnej energie a tanca! Kapela Timingeriu je ďalším originálnym hudobným kúskom na Festivale AMPLIÓN. Hrá a spieva živú, tanec provokujúcu cigánsku, balkánsku aj židovskú hudbu. Akordeón, trúbku, klarinet, perkusie aj kontrabas si často dovezú jej členovia na bicykloch. Radi reagujú na momentálnu situáciu a náladu publika, ktoré si nájdu aj pod vaším oknom či v miestnej krčme. Kapela cestuje a hráva po celom svete, najradšej stopuje, bicykluje alebo sa len tak slobodne člnkuje, pričom tvorí ľuďom svojou muzikou nevšedné zážitky.
+     'Máte problém sa kvalitne zabaviť? Chcete si aj poriadne zatancovať? Hľadáte dávku
+hudobnej energie podľa vášho gusta? Žiaden problém, a ak, tak len Cirkus Problem! Dobite si
+baterky koncertom parádnej českej kapely v originálnom umeleckom vizuále. Akordeón,
+klarinet, trombón, husle, basová gitara a bicie vyrobia parádny hudobný cirkus. Veď skupina
+ohuruje publikum na mnohých zahraničných festivaloch a pýši sa aj úspešným vystúpením
+v Česko Slovensko má talent 2016.'
     -
-      Začiatky skupiny vychádzajú z hudobnej výpravy do Rumunska v roku 2009. Tvorí ju skupina všestranných umelcov, ktorí sú tiež súčasťou alternatívnej hudobnej scény (Małe Instrumenty, Sutari), jazzovej scény (Jazzové oddelenie na Hudobnej akadémii Wrocław) a tiež divadelnej scény (Gardzienice Theater, Song of the Goat divadlo). Ich debutový album s názvom Radio Rom vyšiel v marci 2015 a dokumentoval koncert skupiny v Radio Ram vo Vroclavi. 
-  foto: Piotr Spigiel
+     '<em>Kapela Cirkus Problem vznikla v roku 2012 a jej frontmanom je zakladajúci člen Jirka Čevela
+(spev a akordeón). Doteraz vydala 4 albumy a natočila 3 videoklipy. Tešíme sa na ich
+energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy povestné   
+</em>'
+
   pictures:
-    -
-      Kapela Timingeriu_by_Piotr Spigiel_1.jpg
-    -
-      Kapela Timingeriu_by_Piotr Spigiel_3.jpg
-    -
-      Kapela Timingeriu_by_Piotr Spigiel_4.jpg
-  link: http://www.kapelatimingeriu.pl
-koncert-vrbovski-vitazi:
-  performer: Vrbovskí víťazi (SK)  
-  title: KONCERT
-  # xx+   
-  link: http://www.vrbovskivitazi.sk                                                                            
+    - circus problem PR 2.jpg
+    - circus problem PR 3.JPG
+    - circus problem PR 5.JPG
+  
+
+  link: www.circusproblem.com 
+
+cirkus-problem-promo:
+  performer: Cirkus Problem, Praha (CZ)   
+  title: PROMO                                  
+  general: Program pre mladých a rodiny s deťmi            
   occurences: 
     -
-      time: piatok 23:00
-      location: Kocka/Cube
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c442f9a7d
-      toot-event-id: 5d383ee9bba62e0fb8a28ccb
-    -
-      time: sobota 12:00
-      location: Art Cafe, terasa
-      price: 3 €
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c4431f6e9
-      toot-event-id: 5d38725cd198cd0c1486c8b4
-  perex: Koncert hudobno-pracovnej skupiny recesistov
+      time: sobota 14:30
+      location: Trotuár, ul. A. Kmeťa
+      
+  perex: Promo koncertu nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
   content: 
     -
-      Kapela z Vrbového hrá na recesistických, vlastnoručne vyrobených nástrojoch priemyselný folklór a ich piesne sú zásadne o práci. Tvoria ju v modrých montérkach oblečení spevák hráč na „hajzlový kopák“ Braňo Jobus a jeho „pán brat“ Andrej Budislav Jobus. Ten  obsluhuje inštrumentár bizarných, prevažne dýchacích hudobných nástrojov, ktoré zhotovuje zásadne len z umelohmotných rúrok, rúr, hadíc, plastikových fliaš a starého vysávača. V jeho zbierke nájdete také nástroje, ako je ZKTDZV čiže Zúrivý karpatský trojhlavý drak z Vrbového, šesťmetrový Ropovod družba, Gajdy hovnocucky a i. Ich aforisticky humorné, „minimalisticko-industriálne“, aj vo vrbovčine spievané piesne sú prejavom jedinečného novodobého hudobného, každú prácu oslavujúceho štýlu – univerzálneho robotníckeho priemyselného folklóru, pre ktorý je typická umelecká recyklácia priemyselných produktov a elektrických spotrebičov. Dôkazom toho, že v prípade VV nejde len o povrchnú recesiu, nie sú len ich (zdanlivo banálne) texty, ale i obnova potreby a radosti z (hoci už postindustrálneho) ľudového muzicírovania. Na ich koncertoch burácajú „salvy“ ozajstného i hudobného smiechu. 
+     'Máte problém sa kvalitne zabaviť? Chcete si aj poriadne zatancovať? Hľadáte dávku
+hudobnej energie podľa vášho gusta? Žiaden problém, a ak, tak len Cirkus Problem! Dobite si
+baterky koncertom parádnej českej kapely v originálnom umeleckom vizuále. Akordeón,
+klarinet, trombón, husle, basová gitara a bicie vyrobia parádny hudobný cirkus. Veď skupina
+ohuruje publikum na mnohých zahraničných festivaloch a pýši sa aj úspešným vystúpením
+v Česko Slovensko má talent 2016.'
     -
-      Toto hudobné teleso je pomenované podľa „véčka“, ktoré vytvára nahnutá veža tamojšieho kostola a priamka vedená stredom jeho kolmo postavenej brány – VRBOVSKÍ VÍŤAZI (VV).
-  foto: Archív kapely
+     '<em>Kapela Cirkus Problem vznikla v roku 2012 a jej frontmanom je zakladajúci člen Jirka Čevela
+(spev a akordeón). Doteraz vydala 4 albumy a natočila 3 videoklipy. Tešíme sa na ich
+energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy povestné   
+</em>'
+
   pictures:
-    - 
-      Vrbovski_vitazi_web.jpg
-    - 
-      Vrbovski_vizati_by_archiv_1.jpg
-    - 
-      Vrbovski_vizati_by_archiv_2.jpg
-stiavnica-nielen-strieborna:
-  performer: Ansámbel nepravidelného divadla (SK)  
-  title: ŠTIAVNICA NIELEN STRIEBORNÁ alebo Mešťania, básnici a Náckovia
-  price: 0
-  # Program pre rodiny                                                                               
+    - circus problem PR 2.jpg
+    - circus problem PR 3.JPG
+    - circus problem PR 5.JPG
+  
+
+  link: www.circusproblem.com 
+
+
+cirkus-problem-after:
+  performer: Cirkus Problem, Praha (CZ)   
+  title: AFTER KONCERT                               
+  general: Program pre mladých a rodiny s deťmi            
+  occurences: 
+    -
+      time: nedela 11:00
+      location: Art Cafe, terasa
+      
+  perex: After koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
+  content: 
+    -
+     'Máte problém sa kvalitne zabaviť? Chcete si aj poriadne zatancovať? Hľadáte dávku
+hudobnej energie podľa vášho gusta? Žiaden problém, a ak, tak len Cirkus Problem! Dobite si
+baterky koncertom parádnej českej kapely v originálnom umeleckom vizuále. Akordeón,
+klarinet, trombón, husle, basová gitara a bicie vyrobia parádny hudobný cirkus. Veď skupina
+ohuruje publikum na mnohých zahraničných festivaloch a pýši sa aj úspešným vystúpením
+v Česko Slovensko má talent 2016.'
+    -
+     '<em>Kapela Cirkus Problem vznikla v roku 2012 a jej frontmanom je zakladajúci člen Jirka Čevela
+(spev a akordeón). Doteraz vydala 4 albumy a natočila 3 videoklipy. Tešíme sa na ich
+energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy povestné   
+</em>'
+
+  pictures:
+    - circus problem PR 2.jpg
+    - circus problem PR 3.JPG
+    - circus problem PR 5.JPG
+  
+
+  link: www.circusproblem.com 
+
+
+ty-sycaci:
+  performer: Ty Syčáci, Brno (CZ)     
+  title: KONCERT                                         
+  general: Program pre mladých a dospelých            
+  occurences: 
+    -
+      time: piatok 22:30
+      location: Art Cafe, povala
+      price: predpredaj 7 €, na mieste 10 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+   
+      
+  perex: Strhujúca retro-futuristická kapela slobodomyseľnej energie, ktorá sa neprispôsobuje žánrom, ale žánre sama vytvára
+  content: 
+    -
+     'Koncert Týchto Syčákov bude zážitkom z toho najlepšieho, čo nespútane vytvorili.
+Experimentálne opery, trampské trilógie o deťoch, rodičoch aj prarodičoch a dokonca aj
+piesne v translatine, teda texty zložené z medzinárodne zrozumiteľných latinských slov, jasné
+komukoľvek na svete. Takže nikomu nebude z ich hudby nič vzdialené, naopak, poetické
+esperanto spojí všetkých vo víre kvalitnej muziky. Títo ostrieľaní muži sú povestní svojím
+nasadením a strhujúcou atmosférou, ktorú dokážu počas hrania vytvoriť. Dokonca naživo
+ozvučujú aj premietania nemých filmov. Sú to skrátka nespútané živly, ktoré stojí za to zažiť!'
+    -
+     '<em>„Ptáci zpívají, houby mluví, kaktus naříká, leguán cvičí jógu, námořníci uklidňují záhadného
+netvora, egyptská královna hledí do budoucnosti a čas běží. Rajské jablko z Eldorada zraje a zraje.“
+</em>'
+
+    -
+     'Skupinu založil v roku 2000 Petr Váša spoločne s gitaristom Petrem Zavadilem a basgitaristom Tomášem Frohlichem, známych z kapely Pluto Pavla Fajta. Váša je označovaný ako fyzický básnik, ktorý spája poéziu s hudbou, pohybom a hľadá nové umelecké postupy. Najväčšou devízou kapely je tak nekompromisný štýl a vytrvalosť vo stvárňovaní vlastných predstáv. '
+
+  pictures:
+    - TySycaci_1_Klara Litterova.jpg
+    - TySycaci_2_Luzanky_Richard Prochazka.jpg
+    - TySycaci_3_Klara Litterova.jpg
+
+  link: www.tysycaci.cz 
+
+ty-sycaci-after:
+  performer: Ty Syčáci, Brno (CZ)     
+  title: AFTER KONCERT                                         
+  general: Program pre mladých a dospelých            
+  occurences: 
+    -
+      time: sobota 10:30
+      location: Trotuár, ul. A. Kmeťa
+     
+      
+  perex: Strhujúca retro-futuristická kapela slobodomyseľnej energie, ktorá sa neprispôsobuje žánrom, ale žánre sama vytvára
+  content: 
+    -
+     'Koncert Týchto Syčákov bude zážitkom z toho najlepšieho, čo nespútane vytvorili.
+Experimentálne opery, trampské trilógie o deťoch, rodičoch aj prarodičoch a dokonca aj
+piesne v translatine, teda texty zložené z medzinárodne zrozumiteľných latinských slov, jasné
+komukoľvek na svete. Takže nikomu nebude z ich hudby nič vzdialené, naopak, poetické
+esperanto spojí všetkých vo víre kvalitnej muziky. Títo ostrieľaní muži sú povestní svojím
+nasadením a strhujúcou atmosférou, ktorú dokážu počas hrania vytvoriť. Dokonca naživo
+ozvučujú aj premietania nemých filmov. Sú to skrátka nespútané živly, ktoré stojí za to zažiť!'
+    -
+     '<em>„Ptáci zpívají, houby mluví, kaktus naříká, leguán cvičí jógu, námořníci uklidňují záhadného
+netvora, egyptská královna hledí do budoucnosti a čas běží. Rajské jablko z Eldorada zraje a zraje.“
+</em>'
+
+    -
+     'Skupinu založil v roku 2000 Petr Váša spoločne s gitaristom Petrem Zavadilem a basgitaristom Tomášem Frohlichem, známych z kapely Pluto Pavla Fajta. Váša je označovaný ako fyzický básnik, ktorý spája poéziu s hudbou, pohybom a hľadá nové umelecké postupy. Najväčšou devízou kapely je tak nekompromisný štýl a vytrvalosť vo stvárňovaní vlastných predstáv. '
+
+  pictures:
+    - TySycaci_1_Klara Litterova.jpg
+    - TySycaci_2_Luzanky_Richard Prochazka.jpg
+    - TySycaci_3_Klara Litterova.jpg
+
+  link: www.tysycaci.cz 
+
+sketch-up:
+  performer: AND + hostia (SK+CZ)           
+  title: SKETCH UP    
+  novy-format: true                                  
+  general: Program pre mladých a dospelých      
+  occurences: 
+    -
+      time: sobota 20:30
+      location: Kocka, Kammerhofská 6
+      price: predpredaj 8 €, na mieste 10 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+   
+      
+  perex: "2. ročník česko-slovenskej súťaže kabaretných skečov plné nových talentov! Moderujú Pavel Mihaľák & Roman Večerek, hrá perfektná kapela OZ Červený nos Clowndoctors."
+  content:    
+   -
+    'Po úspešnom pilotnom ročníku súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla, pokračuje! Všetky skeče prepojí jedna téma – blízkosť vs. vzdialenosť, ktoré podajú zážitkovou a zábavnou formou títo účinkujúci: šarmantný herec a slamer Jakub Folvarčný (CZ), herecko-hudobné duo študentov herectva VŠMU Martin Toman & Tadeáš Bolo (SK), famózny standapista inteligentného humoru zo Silných rečí, Matej Makovický (SK), svieži herci a tanečníci z cirkevného konzervatória v Bratislave, mladí divadelníci zoskupenia Ulita (SK) a nádejná slovenská herečka a dirigentka Emília Lehotská so svojím šibalským prednesom. Hravú energiu a vlastné herecko-hudobné výstupy predvedie komické duo moderátorov Pavel Mihaľák a Roman Večerek a jedinečnú atmosféru vytvorí bláznivá klaunská kapela z OZ Červený nos Clowndoctors. Porotcami budú performer Džumelec alias Erik Sikora, legenda českého kabaretu Přemysl Rut a Dušan Krnáč, performer, scénograf a designér Festivalu AMPLIÓN. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 6. ročníku Festivalu AMPLIÓN 2021. Nenechajte si tento nadupaný program ujsť!' 
+    
+     
+  pictures:
+    - Sketch_up_1_Matej Makovicky_2.jpg
+    - Sketch_up_2_Martin &amp; Tadeas_1.png
+    - Sketch_up_3_Ulita_3.jpg
+    - Sketch_up_4_Jakub_Folvarcny_foto_Ivan Cillik_2015.JPG
+
+  link: www.amplion.eu 
+
+no-touch:
+  performer: D´Dištanc Dženerejšn (SK) + Ponorka (CZ)
+  title: NO TOUCH, NO FUN                                
+  general: Program pre mladých a dospelých      
+  occurences: 
+    -
+      time: piatok 21:00
+      location: Kocka, Kammerhofská 6
+      price: 6 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+   
+      
+  perex: Moderné prednesy 5 mladých osobností na tému blízkosť vs. vzdialenosť s balkánskou muzikou kapely Ponorka 
+  content:    
+   -
+    Piati mladí interpreti a ich autentické výpovede textov svetovej i slovenskej prózy a poézie. Chcete vedieť, čo je schopná spôsobiť detská rozmaznanosť a nadradenosť? Ste zvedaví na tragikomický príbeh nenaplnenej celoživotnej lásky len pre číre malichernosti? Viete, ako hlboko treba padnúť, aby človek znova vzlietol alebo to, že keď žijeme s niekým blízkym, môže nám byť v skutočnosti až neviditeľne vzdialený? A ozaj, stávajú sa ženy v čase vojny mužmi? Aj o tom všetkom bude špeciálne komponovaný večer prudko kvalitnej literatúry, ktorý vás opäť vyvedie z predsudkov o konvenčnom recitovaní. Veď myšlienky sú menou 21. storočia!
+   -
+    'Čakajú vás obohacujúce texty Etkara Kereta, Vicenta Huidobra, nositeľky nobelovej ceny za literatúru, Svetlany Alexijevič či Daniela Majlinga a Ivany Dobrakovovej. Účinkujú: Paulína Knížatová, Patrícia Rotterová, Alex Madová, Lea Hadnagyová a Alfréd Tóth. Programom sprevádza pouličná balkánska kapela PONORKA (CZ). Výborná spoločnosť, čo poviete?'
+     
+  pictures:
+    - No touch_no fun_Hadnagyova_Lea_1.jpg
+
+  link: www.and-theatre.art
+
+dzumelec-proti-dospelosti:
+  performer: Džumelec, Košice (SK)
+  title: KONCERT PROTI DOSPELOSTI                              
+  general: Program  pre rodiny s deťmi    
   occurences: 
     -
       time: nedeľa 14:00
-      location: Radničné námestie – Námestie Sv. Trojice – Starý zámok
+      location: Art Cafe, terasa
       price: 0
-      tickets: 
-  perex: Jedinečná pouličné pochôdzkové divadlo o hľadaní súčasného pokladu Banskej Štiavnice
-  content: 
-    -
-      <strong>Predstavenie je súčasťou projektu Renovácia identity – Banská Štiavnica, Mesto kultúry 2019</strong>
-    -
-      Doprajte si zábavné putovanie hercov, psa Cyrila a divákov za károu šťastia. Čaká vás cesta za neobjaveným pokladom baníckeho mesta, ktorý sa neukrýva iba v striebre, ale najmä v ľuďoch a ich osobných príbehoch. Námetom je mysteriózna legenda o osude bohatej meštianky Barbory Rösselovej. Historické a zároveň súčasnou formou inscenované putovanie prechádza trasou od Radničného námestia cez Nám. Sv. Trojice až po Starý zámok. Štrnásť zastavení v jedinečných exteriéroch a interiéroch centra humorne oživí fragmenty z dejín Štiavnice priamo pred fasádami objektov pôvodných udalostí. Bude sa hrať, spievať, tancovať aj ochutnávať a najmä sa smiať. 
-    -
-      Ansámbel nepravidelného divadla je nezávislá skupina divadelníkov a priateľov súčasného divadla, ktorá sa sformovala z ľudí podobného humanistického zmýšľania a svetonázoru. Vznikla generačnou a programovou transformáciou Kremnického divadla v podzemí (2012 – 2017). Venuje sa hľadaniu nových foriem moderného kabaretu, pouličným a angažovaným produkciám a sídli v Banskej Štiavnici.
-  foto: Ľubomír Lužina
+   
+      
+  perex: Performatívne piesne Erika Sikoru pre deti
+  content:    
+   -
+    Vydajte sa so svojimi deťmi do sveta slobodných hravých piesní. Zahrá a zaspieva vám nositeľ Ceny Oskára Čepena za rok 2019, mladý otec 4 detí, Džumelec. Hlavným motívom jeho tvorby je propagácia písmena DŽ a potreba jeho šťavnatosti. Môžete sa tešiť na hudobne jednoduché ba až naivné, podomácky vyrobené pesničky v garáži alebo kúpeľni, hrané so španielkou alebo basou, jemne korenené lúskaním, domácimi či lesnými šumami, či naivnými klávesovými sólkami. Texty sú nadšeným pozorovaním sveta a jeho bizarných detailov. Hrajú sa so svetom a so slovami, experimentujú s východoslovenskou rytmickosťou jazyka a spievajú sa na hranici s hovoreným slovom. Skvelá inteligentná zábava!
+
+  
   pictures:
-    -
-      tiavnica nielen striebornß - 31.05.19 - Foto®Luina (124).jpg
-    -
-      tiavnica nielen striebornß - 31.05.19 - Foto®Luina (155).jpg
-    -
-      tiavnica nielen striebornß - 31.05.19 - Foto®Luina (9).jpg
-  link: https://almaziastiavnica.sk/podujatie/stiavnica-nielen-strieborna-premiera/
-inventura-revolucie:
-  performer: Ansámbel <br>nepravidelného divadla&nbsp;(SK)  
-  title: "INVENTÚRA REVOLÚCIE: BIG BANG '89"
-  general: Len na Amplióne!
-  top: true
-  price: 0
-  # pre mladých a dospelých                                                                         
+    - Erik_Sikora_Dzumelec_4_Koncert proti_dospelosti.jpg
+
+  link: www.eriksikora.sk
+
+cirkus-prditko:
+  performer: Ústav úžasu, Praha (CZ)
+  title: CIRKUS PRDÍTKO                                
+  general: Program  pre rodiny s deťmi           
   occurences: 
     -
-      time: piatok 17:30
-      location: Trotuár
-      price: 0
-      tickets: 
-    -
-      time: sobota 10:30
-      location: Trotuár
-      price: 0
-      tickets: 
-  perex: Špeciálny zážitkový program vo výkladoch obchodov!
-  content: 
-    - "Pouličný happening umelcov vo výkladoch obchodov reflektujúci revolúciu 1989 a dobu po nej. 8 zastávok – modelových situácií na Trotuári, pri ktorých sa môžete ľubovoľne zastavovať. Už pod Hríbom narazíte na autorské angažované piesne aktivistu Jakuba Pohleho. V Piercome na vás čaká Arifur Rahman z Bangladéša, ktorý bude naživo kresliť na tému 1989, pretože sám najlepšie vie, akú hodnotu má sloboda. Vo svojej krajine ho odsúdili za jeho diela na smrť. V Starej škole si budete môcť pozrieť zo starej telky autentické zábery z 1989 dokonca aj z Banskej Štiavnice! Letnú terasu Divnej Pani v Zlatom dvore svojimi scénkami a pesničkami pobavia skvelí pražskí herci z Divadla pod Palmovkou, v Trotuár Café bude naživo kresliť karikaturista Firuz Kutal z Turecka. Vo výkladoch Tratórie vás ohromí výstava karikatúr výtvarníkov z celého sveta s názvom FREE BRAIN EVOLUTION. Z okien hotela Bristol to rozbalí kapela Režimy a svoje vystúpenie jej líder, Mišo Bruce Lee Kovač, pretká aj čítaním zo svojej ocenenej knihy o režimoch Čo sa nás týka. Všetko dotvoria mladí divadelníci zo súboru Lano z Bratislavy. Čaká nás poriadny happening. To zamätené pod rohožky vyprášime, špinavé umyjeme a všetko zrátame. Nech opäť vieme, akú cenu má sloboda! Réžia: Jana Mikitková & AND."
-  foto: Archív kapely režimy a grafika Dušana Krnáča
+      time: sobota 10:00
+      location: Art Cafe, terasa
+      price: 2/4 €
+       # toot-iframe-id: toot-btckts-ifr16c44402e95
+      # toot-event-id: 5d3893aabba62e0fb8a618ed
+   
+      
+  perex: Šarmantná prdíková pshow pre smelé deti i hanblivých rodičov
+  content:    
+   -
+    'Rodinné divadlo o tom, čo sa týka nás všetkých. Ide predsa o prdy či prdíky. Hlavné heslo znie: „Ten, kto prdí, je mu líp.“ Diváci zažijú nevídané a uvidia neviditeľné. Dekontaminátor, flatulátor, mamut, ... všetko v jednom balení. Malí ocenia vtipnú interakciu a dozvedia sa, že prdieť je ľudské. Veľkí sa zbavia strachu a hanby. Ale pozor! „Kdo se bojí, nesmí do cirkusu. Protože v cirkusu, se říká jenom pravda: Malí, velcí, ale i ti vyhynulí, všichni prděli. A kdo neprděl, prasknul.“ PSHOW o tabuizovanej téme s nesmiernym čarom. Do popukania – od smiechu!'
+   -
+    Jakub Folvarčný je český herec, komik, režisér, spevák aj poetry slamer, ktorého hravosť je neuveriteľne nákazlivá. Hrá nielen pre rodičov s deťmi, ale aj pre širokú verejnosť bez vekového obmedzenia.
+     
   pictures:
-    -
-      Inventura_revolucie_logo_3.jpg
-    -
-      INVENTURA REVOLUCIE_kapela_Rezimy_02.jpg
-    -
-      INVENTURA REVOLUCIE_kapela_Rezimy_05.JPG
-  link: http://www.and-theatre.art
-detska-inventura-revolucie:
-  performer: Ansámbel nepravidelného divadla + hostia (SK)
-  title: DETSKÁ INVENTÚRA REVOLÚCIE
-  price: 0
-  # Program  pre rodiny s deťmi                                                                         
+    # - 
+
+  link: www.ustavuzasu.cz
+
+mariusz-goli:
+  performer: Mariusz Goli, Katowice (PL)                                                
   occurences: 
     -
-      time: nedeľa 10:00
-      location: Trotuár
-      price: 0
-      tickets: 
-  perex: Špeciálny zážitkový program vo verzii pre deti!
-  content: 
-    -
-      Čítanie z knihy Príbehy stien + tvorivé dramatické hry pre deti. Zábavné táraninky, kreslenie aj pesničky na vážnu tému. 
-  foto: Host
+      location: Kedykoľvek, kdekoľvek 
+      
+  content:    
+   -
+    'Neobyčajný poľský gitarista, hudobník a skladateľ, ktorý svojím podmanivým
+hraním zastaví čas na každej ulici. Hranie na gitare mení na kúzelnícku show nečakaných
+kúskov.'
+
+  
   pictures:
-    - Detska IR_Pribehy stien_titulka.jpg
-    - Detska IR_Pribehy stien_ilustracia_2.jpg
-    - Detska IR_Pribehy stien_ilustracia_1.jpg
-  link: http://www.and-theatre.art
-after-the-revolution:
-  performer: D'89 Dženerejšn + Režimy (SK)  
-  title: AFTER THE REVOLUTION  
-  general: TOP PROGRAM  pre mladých a dospelých
+   - Mariusz Goli_1.jpg
+   - Mariusz Goli_2.jpg
+   - Mariusz Goli_3.jpg
+
+  link: www.facebook.com/Vargall 
+
+
+ponorka:
+  performer: Ponorka, Praha (CZ)                                                          
   occurences: 
     -
-      time: piatok 22:00
-      location: Art Cafe, povala
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c442d2c66
-      toot-event-id: 5d383b7bd198cd0c14842479
-  perex: Neuhladené moderné prednesy mladých o slobode po neslobode s autentickou kapelou Režimy
-  content: 
-    -
-      "Šiesti mladí interpreti a ich autentické názory na slobodu tlače v neslobodnom svete, na umeleckú pretvárku či vraždu dvoch mladých ľudí v známej krajine. Špeciálne komponovaný večer, ktorý vás vyvedie z predsudkov o konvenčnom recitovaní voľne nadväzuje na vlaňajší pilotný večer No freedom, no fun. Účinkujú: Anna Lehotská, Filip Pavuk, Michaela Slobodová, Nina Olešová a Radoslava Bačová. Programom sprevádza hip-hopová kapela raperov REŽIMY (SK), špeciálny hosť: Jakub Pohle."
-  foto: archív recitátorov
+      location: Kedykoľvek, kdekoľvek 
+      
+  content:    
+   -
+    'Podmanivá pražská pouličná kapela vás ponorí do chytľavého autentického balkánu. 
+Stretnutie s nimi si užijete a verte, že z neho nebudete mať žiadnu ponorku. Husle, viola, gitara
+a kontrabas, to je more dobrej muziky.'
+
+  
   pictures:
-    - D89 dzenerejsn_Anna Lehotska.jpg
-    - D89 dzenerejsn_Filip Pavuk.jpg
-    - D89 dzenerejsn_Michaela Slobodova.jpg
-    - D89 dzenerejsn_Nina Olesova.jpg
-    - D89 dzenerejsn_Radoslava Bacova.jpg
-  link: http://www.and-theatre.art
-less-mess-revolucioners:
-  performer: Ján Mitáč (SK)
-  title: LES MESS REVOLUCIONERS 
-  # Program  pre mladých a dospelých       
+   - Ponorka_CZ_1.jpg
+   - Ponorka_CZ_2.jpg
+   - Ponorka_CZ_3.jpg
+
+
+  link: www.prahazijehudbou.cz/artists/ponorka 
+
+
+bilek:
+  performer: Dávid Bílek, Banská Bystrica (SK)                                                          
   occurences: 
     -
-      time: piatok 19:00
-      location: Art Cafe, povala
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c442b5372
-      toot-event-id: 5d382ec8bba62e0fb8a1b9fe
-  perex: Zábavný kvíz o novembri 1989 s bývalým pracovníkom Ústavu pamäti národa pre mladých aj pamätníkov
-  content: 
-    -
-      Neviete čo bola Charta 77, Sviečková manifestácia, pochod Študentov zo 16. novembra 1989, kto boli hlavní rečníci na tribúnach alebo prečo názov Nežná revolúcia? Nevadí, kvíz Les Mess Revolucioners to dá do poriadku. Vtipne a hravou formou, ale aj kriticky sa pozrieme na to, čo pre nás znamená táto významná udalosť, ktorej tridsiate výročie si práve pripomíname. Nebudú chýbať fotky, videá, novinové články aj otázky o aktéroch revolúcie v Banskej Štiavnici. Hrajú tímy 3 - 6 osôb. Máš už ten svoj?
-  foto: Ján Mitáč, archív
+      location: Kedykoľvek, kdekoľvek 
+      
+  content:    
+   -
+    'Mladý talentovaný muzikant pop, latino a flamengo. Hrá na gitaru od 7 rokov.
+Aj napriek svojmu mladému veku hral už sólo na koncerte veľkého Symfonického orchestra v 
+Bratislave podvedením Braňa Kostku. Zúčastnil sa aj súťaže Česko Slovensko má talent. '
+
+  
   pictures:
-    -
-      Les mess revolucioners_titul.png
-    -
-      Les Mess Revolucioners_Jan Mitac.jpg
-    -
-      Les Mess Revolucioners_Revolucia_v BS_1989.png
-  link: http://www.and-theatre.art
-diskusne-forum-revolucia-1989:
-  performer: Fedor Gál &<br>Jakub Pohle (CZ/SK)
-  title: "Diskusné fórum: REVOLÚCIA 1989 – VÍŤAZSTVO ČI PREHRA 2019?" 
-  # Program pre mladých a dospelých       
-  occurences: 
-    -
-      time: sobota 19:00
-      location: Art Cafe, povala
-      price: 0
-      tickets: 
-      toot-iframe-id: toot-btckts-ifr16c443967a7
-      toot-event-id: 5d388227bba62e0fb8a56c95
-  perex: 30-roční dediči slobody sa pýtajú aktérov revolúcie, čo by bolo, keby... 
-  content: 
-    -
-      "Mladí ľudia a ich priame otázky k priebehu revolúcie 1989. Hostia: Fedor Gál, slovenský sociológ a politický prognostik, bol spoluzakladateľom Verejnosti proti násiliu, viedol Koordinačné centrum VPN, neskôr sa stal predsedom tohto hnutia a poradcom vlády, narodil sa v Terezíne a žije v Prahe.  Mladých bude zastupovať Jakub Pohle, 30-ročný investigatívny spisovateľ a aktivista. Ako vnímate revolúciu 1989 vy? Bolo to pre nás víťazstvo či prehra? Prídťe sa s nami podeliť o Váš názor. Moderuje: Monika Tódová z Denníka N."
-  foto: Archív 
-  pictures:
-    -
-      DISKUSNE FORUM_Fedor Gal_1989.jpg
-    -
-      DISKUSNE FORUM_Jakub Pohle_moderator.jpg
-    -
-      Monika Todova_N.jpg 
-  link: http://www.and-theatre.art
-free-brain-evolution:
-  performer: PRERAG (SK) & MIA (NOR)
-  title: FREE BRAIN EVOLUTION 
-  price: 0
-  # Program pre mladých a dospelých       
-  occurences: 
-    -
-      time: počas celého festivalu
-      location: Trotuár
-      price: 0
-      tickets: 
-  perex: Výstava karikatúr výtvarníkov z celého sveta vo výkladoch obchodov
-  content: 
-    - Všimnite si výklady Banskej Štiavnice na Trotuári, tri dni budú niesť silné odkazy. Obohatia ich karikatúry oceňovaných autorov z celého sveta a dvaja z nich, so silnými ľudskými príbehmi prídu aj osobne. Prvým je Arifur Rahman, bangladéšsky autor kresleného humoru, ktorý bol za svoje kresby odsúdený na 6 mesiacov, pričom podľa ich náboženského súdu ho môžu beztrestne zabiť za urážku Mohameda. Vďaka organizácii ICORN mu v Nórsku udelili politický azyl. Druhým je, Firuz Kutal z Turecka, aktivista za ľudské práva a karikaturista oceňovaný za svoju tvorbu v boji  proti násiliu, rovnako žije v Nórsku. Obaja budú aj naživo kresliť počas happeningu Inventúra revolúcie. To všetko najmä vďaka Prešovskej agentúre PRERAG, nórskej karikaturistickej galérii MiA a Active Citizens Fund - Slovakia. Privítame aj pani riaditeľku galérie v Drobaku Kjersti Lillebø a ďalších hostí z Nórska.
-  foto:  Arifur Rahman, Firuz Kutal a archív P. Rázusa
-  pictures:
-    -
-      PRERAG_Arifur Rahman 01.jpg
-    -
-      PRERAG_Arifur Rahman a Peter Razus.jpg
-    -
-      Firuz KUTAL , Norway 07.jpg
-  link: http://prerag.sk
-vsetci-spolu:
-  performer: Slovenský filmový ústav (SK)                                                                                                                               
-  title: LETOVÁ SPRÁVA OK 89 – 90
-  price: 0
-  occurences: 
-    -
-      time: nedeľa 16:30
-      location: Art Cafe, povala
-      price: 0
-      tickets: 
-  perex: Projekcia dokumentárneho filmu o udalostiach v období jedného prelomového roka, ktorý na pozadí príbehu (ne)známeho dievčatka predstavuje problém celej našej spoločnosti
-  content: 
-    - "Moderátor a spoluautor filmu, Fedor Gál, v úvode filmu hovorí: „Uvidíte film o spoločnosti, ktorá sa ocitla na rázcestí. Jedna cesta vedie do priepasti, druhá do neznáma. Do priepasti sa nám nechce, do neznáma by sme mali vykročiť poučení. Mali by sme pochopiť, prečo žijeme v spoločnosti, kde sú ľudia demotivovaní, ľahostajní, kde prestali veriť reprezentantom moci. Mali by sme vedieť, prečo inštitúcie, ktoré sa starajú o naše zdravie, o naše deti zlyhávajú. Mali by sme pochopiť patológiu každodenného života, prečo nám pred očami bujnie korupcia, lajdáctvo, neporiadok. Toto všetko by sme mali vedieť preto, aby sme dokázali pristúpiť k činu, aby sme dokázali riešiť problémy, ktoré nás trápia. Tu a teraz, v záujme budúcnosti.“ Uvidíte film stále aktuálny. Réžia Iľja Ruppeldt, dramaturgia Dežo Ursíny."
-  foto: Archív
-  pictures:
-    - Letova_sprava_89_90_Lenka Falisova.jpg
-  link: http://www.sfu.sk
-instalacia-revolucia-v-hlave:
-  performer: Dušan Krnáč (SK)  
-  title: REVOLÚCIA V HLAVE – túžby vs. realita
-  price: 0
-  # Program pre mladých a dospelých       
-  occurences: 
-    -
-      time: počas celého festivalu
-      location: Námestie sv. Trojice
-      price: 0
-      tickets: 
-  perex: Výtvarná inštalácia nadrozmernej rozdelenej hlavy na vyjadrenie vašich (ne)splnených túžob
-  content: 
-    -
-      O čom ste snívali po páde železnej opony? A koľko z vašich snov sa vám za 30 rokov slobody podarilo splniť? Svoje túžby a ich stav v realite si teraz môžete zvečniť.  Výtvarník a performer Dušan Krnáč uzatvára svoj cyklus nadrozmernej hlavy a ponúka vám jej priestor na vaše vyjadrenia. Hlava, už oslobodená od spútania ostatnými drôtmi premýšľa, porovnáva aj bilancuje. A čo naše hlavy, sú už nadobro slobodné? Alebo je ostatný drôt stále v nás? Zastavte sa a nechajte nám odkaz.
-  foto: Michal Svítok a grafika Dušana Krnáča
-  pictures:
-    -
-      REVOLUCIA V HLAVE_Amplion17_otvorenie_051.jpg
-    -
-      Inventura_revolucie_logo_3.jpg
-    -
-      REVOLUCIA V HLAVE_Amplion18_Film_vykricnik_002.jpg
-  link: http://and-theatre.art
+  #  - Ponorka_CZ_1.jpg
+  #  - Ponorka_CZ_2.jpg
+  #  - Ponorka_CZ_3.jpg
+
+
+  link: www.facebook.com/davidbilekofficial 

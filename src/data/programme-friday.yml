@@ -5,7 +5,7 @@
   age: Family
   price: 0
   location: Námestie sv. Trojice
-  slug: otvorenie-festivalu
+  # slug: otvorenie-festivalu
 -
   time: 17:00 – 17:45
   performer: Umami Dancetheatre (ES/FR)
@@ -16,7 +16,7 @@
   price: 3/5 €
   argentum: true 
   premiere: true
-  slug: umami-dancetheathre
+  slug: umami-dancetheatre
 -  
   time: 18:00 – 18:45
   performer: DS Lano (SK)
@@ -26,16 +26,17 @@
   age: 12+
   price: 0
   premiere: true
-  slug: ds-lano
+  slug: lano
 -
   time: 19:00 – 20:20
   performer: Přemysl Rut & Markéta Potužáková (CZ)
+  top: true
   age: 15+
   title: "OKOLO 100LALA: Ohlas písní francouzských 1900 - 1990"
   perex: Jedinečný šansónový večer českej kabaretnej legendy s pútavými príbehmi medzi Parížom a Prahou
   location: Kino Akademik, Námestie sv. Trojice
   argentum: true 
-  price: 8 €
+  price: predpredaj 7 €, na mieste 9 €
   slug: premysl
 -  
   time: 19:15 – 21:15
@@ -49,14 +50,15 @@
 -  
   time: 20:00 – 20:45
   performer: Mattatoio Sospeso (FR/IT)
+  top: true
   argentum: true
   premiere: true
   age: 10+
   title: OUT!
   perex: Akrobatická talianska love story ako vertical dance s nečakaným koncom
   location: Starý zámok
-  price: 5/8 €
-  slug: after-the-revolution
+  price: 4/6 € v predpredaji, na mieste 5/8 €
+  slug: mattatoio-sospeso
 -  
   time: 21:00 – 22:00
   performer: D` dištanc dženerejšn + Ponorka (SK+CZ)
@@ -65,7 +67,7 @@
   perex: Neuhladené prednesy 5 mladých osobností na tému blízkosť&nbsp;vs.&nbsp;vzdialenosť s balkánskou muzikou kapely Ponorka (CZ)
   location: Kocka, Kammerhofská 6
   price: 6 €
-  slug: ponorka
+  slug: no-touch
 -  
   time: 22:30 – 23:45
   performer: Ty Syčáci (CZ)
@@ -74,4 +76,4 @@
   perex: Strhujúca retro-futuristická trampská kapela slobodomyseľnej energie 
   location: Art Cafe, povala
   price: predpredaj 7 €, na mieste 10 €
-  slug: sycaci
+  slug: ty-sycaci
