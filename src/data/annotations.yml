@@ -1,19 +1,19 @@
 otvorenie-festivalu:
   title: OTVORENIE FESTIVALU
-  perex: Happening + hymna + promo komika Pere Hostu (ES) a kapely Vrbovskí víťazi (SK)
+  perex: Hymna + promo komika El Gomu (ARG/DE), kapely Ty Syčáci (CZ) a akro-tanečníkov Umami Dancetheatre (ES/FR)
   price: 0
   occurences:
     -
-      time: "piatok 17:00"
+      time: "piatok 16:00"
       location: Námestie sv. Trojice
-  foto: Michal Svítok
+
   pictures:
     -
-      Otvorenie_festivalu_Amplion18_030_by Michal Svitok.jpg
+      Amplion19_otvorenie_festivalu_MS_029.jpg
     -
-      Otvorenie_festivalu_Amplion18_031_by Michal Svitok.jpg
+      Amplion19_otvorenie_festivalu_MS_060.jpg
     -
-      Otvorenie_festivalu_Amplion18_033_by Michal Svitok.jpg
+      Amplion19_otvorenie_festivalu_MS_097.jpg
 
 divadlo-semafor:
   performer: Divadlo Semafor, Praha (CZ)
@@ -32,11 +32,15 @@ divadlo-semafor:
   content: 
     -
      Legendy Suchý & Molavcová sprevádzané časťou Big Bandu Semafor prídu do Banskej Štiavnice na 5. narodeniny Festivalu Amplión! Nechajte sa nadchnúť touto oslavou kabaretu, ktorá vám vyčarí nádherný svet prvej republiky, 60. rokov až po súčasné chytľavé songy. Hviezdne duo vás pozýva na spontánny a uvoľnený večierok, v ktorom vek ani čas nehrá rolu. Dôležité je, koho z nich napadne lepší hit českej piesne posledných 100 rokov. Komici slobodne improvizujú, spievajú, žartujú a svojimi tipmi na hranie prekvapujú aj samotný Big Band. Ten sa nenechá zaskočiť a excelentne zahrá pre radosť dvojice, a snáď i na želanie publika, slávne hity aj obľúbené srdcovky. Každý večer je iný, jedinečný. A ako to už na oslave býva, určite bude aj prekvapenie! Chyťte si svoje miesto pri kabaretnom stole, kým ešte je...
+    -
+     '<em>Divadlo Semafor založili Jiří Suchý a Jiří Šlitr v roku 1959 ako akronym názvu SEdm MAlých FOrem. Za vyše 60 rokov existencie divadla sa v ňom vystriedali poprední českí umelci ako Jiří Grossmann, Miloslav Šimek, Pavlína Filipovská, Eva Pilarová, Naďa Urbánková, Hana Hegerová, Waldemar Matuška, Karel Gott, František Ringo Čech, Petr Nárožný, Ferdinand Havlík, Petra Černocká a mnohí ďalší. Hitmi sa stali mnohé piesne (Včera neděle byla, Zuzana je sama doma či Papírové blues) a inscenácie (Kdyby tisíc klarinetů, Jonáš a Tingl Tangl, Kytice, Začalo to Vestpocketkou). Súčasný Big Band Semafor vedie a na piáno hrá Jiří J.N. Svoboda, tenor saxofón krotí David Vrobel, kontrabas Ján Střížovský a bicie nástroje Petr Zimák.</em>'
+
   pictures:
     - SEMAFOR_Kdo jinemu jamu kopa_1.JPG
     - SEMAFOR_Kdo jinemu jamu kopa_2.JPG
     - SEMAFOR_Kdo jinemu jamu kopa_3.JPG
-  link: www.semafor.cz 
+
+  link: http://www.semafor.cz 
 
 premysl:
   performer: Přemysl Rut & Markéta Potužáková, Praha (CZ)
@@ -56,13 +60,13 @@ premysl:
      Máte chuť zmeniť domáce prostredie a zažiť nonšalantný večer vo výbornej spoločnosti? Chceli by ste vycestovať do ulíc parížskeho Montmartru či aspoň do skrytých zákutí pražských uličiek? Vieme, ako bezpečne na to! Príďte na šarmantný večer tých najlepších francúzskych šansónov, piesní a príbehov, ktoré zarezonovali aj v Čechách a prišli až k nám. Vašimi hostiteľmi na tejto pôvabnej hudobno-speváckej trase Paríž-Praha a späť budú šarmantní partneri Přemysl Rut a Markéta Potužáková. Práve vďaka nim nezanikli a už mnoho rokov ožívajú vzácne starostlivo zozbierané piesne a songy z tých najlepších časov kabaretu. Zažijete vzácne ľudské stretnutie pri klavíri s dobrým vínom a príjemnými zimomriavkami.  
 
     -
-     '<em>„Ondy potkal mě pan Urban, ta jeho paní, tá ma tuze krásný turban,
-      já poznám jí vždy po ránu dle toho turbanu. 
-      Napřed jde pan Urban a pak ten její turban.
+     '<em>„Ondy potkal mě pan Urban, ta jeho paní, tá ma tuze krásný turban,<br>
+      já poznám jí vždy po ránu dle toho turbanu. <br>
+      Napřed jde pan Urban a pak ten její turban.<br>
       Jak já spatřím ten turban, hned si řeknu: Ha, pan Urban.“</em>'
     - 
-     'Prof. Přemysl Rut vyštudoval divadelnú réžiu, pôsobil však prevažne ako kabaretný klavirista a spevák v rôznych divadelných zoskupeniach, napr. v Nedivadle Ivana Vyskočila. Spolu s V. Krausom a V. Havlom vydával samizdatový časopis O divadle. Je autorom množstva kníh poézie, poviedok, divadelných aj rozhlasových hier. Učí na katedre autorskej tvorby a pedagogiky DAMU. Venuje sa histórii a interpretácii českej autorskej piesne, o ktorej vydal pozoruhodné publikácie. 
-      Markéta Potužáková je vyštudovaná herečka, ktorá pôsobila najmä v divadlách vo Francúzsku. Dnes učí na DAMU prednes a tvorí projekty medzi divadlom a slovesnosťou, napr. scénické čítania a rozhlasové cykly najmä s Přemyslom Rutom. V Prahe spolu pravidelne uvádzajú kabaretné piesňové večery rôznych období.'
+     '<em>Prof. Přemysl Rut vyštudoval divadelnú réžiu, pôsobil však prevažne ako kabaretný klavirista a spevák v rôznych divadelných zoskupeniach, napr. v Nedivadle Ivana Vyskočila. Spolu s V. Krausom a V. Havlom vydával samizdatový časopis O divadle. Je autorom množstva kníh poézie, poviedok, divadelných aj rozhlasových hier. Učí na katedre autorskej tvorby a pedagogiky DAMU. Venuje sa histórii a interpretácii českej autorskej piesne, o ktorej vydal pozoruhodné publikácie. 
+      Markéta Potužáková je vyštudovaná herečka, ktorá pôsobila najmä v divadlách vo Francúzsku. Dnes učí na DAMU prednes a tvorí projekty medzi divadlom a slovesnosťou, napr. scénické čítania a rozhlasové cykly najmä s Přemyslom Rutom. V Prahe spolu pravidelne uvádzajú kabaretné piesňové večery rôznych období.</em>'
   pictures:
     - Premysl_Rut_1 Marketa Potuzakova.jpg
     - Premysl_Rut_2 Marketa Potuzakova.jpg
@@ -81,19 +85,19 @@ dzumelec:
       tickets:
       # toot-iframe-id: toot-btckts-ifr16c44402e95
       # toot-event-id: 5d3893aabba62e0fb8a618ed
-  perex: Performatívny koncert a nonsensová prednáška nositeľa Ceny Oskára Čepana 2019 Erika Sikoru
+  perex: Performatívny koncert a nonsensová prednáška nositeľa Ceny Oskára Čepana 2019, Erika Sikoru
   content: 
     -
      Čo zažijete? Hudobne jednoduché ba až naivné, podomácky vyrobené pesničky v garáži alebo kúpeľni, hrané so španielkou alebo basou, jemne korenené lúskaním, domácimi či lesnými šumami, či naivnými klávesovými sólkami. Texty sú nadšeným pozorovaním sveta a jeho bizarných detailov. Hrajú sa so slovami, experimentujú s východoslovenskou rytmickosťou jazyka a spievajú sa na hranici s hovoreným slovom. Džumelec prezentuje svoju umeleckú tvorbu zdanlivo neformálnym prístupom na aktiváciu politických tém, ktoré vedú k základným a nevyhnutným otázkam o tom, kto sme teraz. 
 
     -
-     Erik Sikora cez performatívne stratégie tlmočí otázky národnej identity, ekológie či udržateľnosti. Jeho výstupy majú často podobu prednášky alebo koncertu naživo, mimo priestoru galérie. V opačnom prípade komunikuje prostredníctvom nahratého videa na hranici nonsensu a poetického symbolizmu. Zaujíma ho banálnosť a jej imaginatívny potenciál. Má rád, keď majú ľudia k jeho výstupom voľný prístup. Predkladá svoje teórie, nápady, pozorovania, ktoré zväčša dospievajú k záveru v podobe manuálu, napr. Tešenie či Dážďovník. Vo svojej tvorbe oslobodzuje predstavivosť od vžitých návykov a pravidiel, umožňuje autentické bytie a potenciálne môže spustiť i povestnú sociálnu bombu. 
+     '<em>Erik Sikora cez performatívne stratégie tlmočí otázky národnej identity, ekológie či udržateľnosti. Jeho výstupy majú často podobu prednášky alebo koncertu naživo, mimo priestoru galérie. V opačnom prípade komunikuje prostredníctvom nahratého videa na hranici nonsensu a poetického symbolizmu. Zaujíma ho banálnosť a jej imaginatívny potenciál. Má rád, keď majú ľudia k jeho výstupom voľný prístup. Predkladá svoje teórie, nápady, pozorovania, ktoré zväčša dospievajú k záveru v podobe manuálu, napr. Tešenie či Dážďovník. Vo svojej tvorbe oslobodzuje predstavivosť od vžitých návykov a pravidiel, umožňuje autentické bytie a potenciálne môže spustiť i povestnú sociálnu bombu.</em>' 
   pictures:
     - Erik_Sikora_Dzumelec_1.jpg
     - Erik_Sikora_Dzumelec_2.jpg
     - Erik_Sikora_Dzumelec_3.jpg
     
-  link: www.eriksikora.com
+  link: http://www.eriksikora.com
 
 
 lano:
@@ -110,20 +114,19 @@ lano:
   perex: Premiéra nového kabaretu 1. víťaza súťaže SKETCH UP 
   content: 
     -
-     A je to tu, plníme sľuby! Rok sa s rokom stretol a z krátkeho víťazného skeču študentov divadelného súboru Lano vo vlaňajšej súťaži SKETCH UP vznikol celovečerný nový kabaret. Ako prví máte možnosť vidieť čerstvú slovenskú kabaretnú novinku s prvkami nového cirkusu na motívy knihy rumunskej autorky Aglaje Veteranyi, Prečo sa dieťa varí v kaši. Hororový názov o uvarenom dieťati má odviesť pozornosť hlavnej postavy od ešte väčšieho hororu – od toho, že jej mama, artistka, denne visí v kopule cirkusového stanu za vlasy a žongluje. Zdanlivo naivné detské rozprávanie z prostredia kočovných cirkusantov vás vtiahne do magického príbehu o hodnote ľudského života. A naozaj, je v nebi cirkus?!
+     A je to tu, plníme sľuby! Rok sa s rokom stretol a z krátkeho víťazného skeču študentov divadelného súboru Lano vo vlaňajšej súťaži SKETCH UP vznikol celovečerný nový kabaret. Ako prví máte možnosť vidieť čerstvú slovenskú kabaretnú novinku s prvkami nového cirkusu na motívy knihy rumunskej autorky Aglaje Veteranyi, <em>Prečo sa dieťa varí v kaši</em>. Hororový názov o uvarenom dieťati má odviesť pozornosť hlavnej postavy od ešte väčšieho hororu – od toho, že jej mama, artistka, denne visí v kopule cirkusového stanu za vlasy a žongluje. Zdanlivo naivné detské rozprávanie z prostredia kočovných cirkusantov vás vtiahne do magického príbehu o hodnote ľudského života. A naozaj, je v nebi cirkus?!
 
     -
-     Divadelný súbor Lano vznikol v roku 1986 pri literárno-dramatickom odbore ZUŠ J. Kresánka v Bratislave. Zakladateľkou, režisérkou a vedúcou umeleckou osobnosťou súboru bola pani Alexandra Skořepová. Lano sa počas 30 rokov svojej existencie pravidelne zúčastňuje najvyšších divadelných súťaží na Slovensku, je dvojnásobným držiteľom ceny Ministerstva kultúry SR za Tvorivý čin roka udeľovaného na Scénickej žatve. Zúčastnil sa aj zahraničných festivalov v Lingene, v Paderborne, v Sankt Pőltene či v Bressanone.
+     '<em>Divadelný súbor Lano vznikol v roku 1986 pri literárno-dramatickom odbore ZUŠ J. Kresánka v Bratislave. Zakladateľkou, režisérkou a vedúcou umeleckou osobnosťou súboru bola pani Alexandra Skořepová. Lano sa počas 30 rokov svojej existencie pravidelne zúčastňuje najvyšších divadelných súťaží na Slovensku, je dvojnásobným držiteľom ceny Ministerstva kultúry SR za Tvorivý čin roka udeľovaného na Scénickej žatve. Zúčastnil sa aj zahraničných festivalov v Lingene, v Paderborne, v Sankt Pőltene či v Bressanone.</em>'
   pictures:
-    # - Erik_Sikora_Dzumelec_1.jpg
+    - DS Lano_Lubo_Lužina.jpg
     
     
-  link: www.zuskresanka.sk
+  link: http://www.zuskresanka.sk
 
 divadlo-husa:
   performer: Divadlo Husa na provázku, Brno (CZ) 
   argentum: true 
-  top: true
   title: OSKAR A RŮŽOVÁ PANÍ    
   general: Program pre mladých a dospelých    
   occurences: 
@@ -142,15 +145,15 @@ divadlo-husa:
     -
      <em>„Milý Bože, volám sa Oskar, je mi 10 a píšem Ti svoj prvý list. Prepáč, skôr som fakt nemohol. Musel som sa učiť. Nikdy som sa na Teba neobracal, ale...“</em>
     -
-     Divadlo Husa na provázku je scéna súčasných tém a nečakaných foriem. Od roku 1967 spája tvorcov rôznych žánrov, pre ktorých je umenie životným postojom. Svoju tvorbu stavia na slobode prejavu, otvorenosti dialógu a názorovej pluralite, čím sa snaží o kultiváciu stredoeurópskej občianskej spoločnosti. Vďaka jeho výnimočným oceňovaným osobnostiam akými boli Peter Scherhaufer, Eva Tálska či akými sú Petr Oslzlý, Vladimír Morávek a Anna Davidová, má jedinečné miesto na európskej divadelnej mape.
+     '<em>Divadlo Husa na provázku je scéna súčasných tém a nečakaných foriem. Od roku 1967 spája tvorcov rôznych žánrov, pre ktorých je umenie životným postojom. Svoju tvorbu stavia na slobode prejavu, otvorenosti dialógu a názorovej pluralite, čím sa snaží o kultiváciu stredoeurópskej občianskej spoločnosti. Vďaka jeho výnimočným oceňovaným osobnostiam akými boli Peter Scherhaufer, Eva Tálska či akými sú Petr Oslzlý, Vladimír Morávek a Anna Davidová, má jedinečné miesto na európskej divadelnej mape.</em>'
 
   pictures:
-    - Husa na provazku_Oskar_2.jpg
     - Husa na provazku_Oskar_3.jpg
+    - Husa na provazku_Oskar_2.jpg
     - Husa na provazku_Oskar_4.jpg
     
     
-  link: www.provazek.cz
+  link: http://www.provazek.cz
 
 
 divadlo-commedia:
@@ -170,7 +173,6 @@ divadlo-commedia:
   content: 
     -
      Aktuálny sarkastický príbeh na motívy rovnomenného románu Siergiusza Piaseckého prináša svedectvo o ľudskej hrubosti, hlúposti a pokrivenom charaktere. Je to brilantná herecká ukážka toho, čo urobí s človekom moc v kombinácii s primitívnosťou. Tento príbeh napísaný podľa skutočných udalostí neuvidíte nikde inde, pretože Divadlo Commedia ho zdramatizovalo ako prvé a jediné na Slovensku! Obrovská dávka humoru aj cez slzy. 
-
     -
      '<em>Súbor zarezonoval so svojou citlivou hrou Neprebudený a neskôr pobavil divákov aj Čechovovými jednoaktovkami pod názvom Keď muži plačú už v rámci Mesta kultúry: Banská Štiavnica 2019. Vznikol v Poprade v roku 1968 a desaťročia patrí k špičke slovenského neprofesionálneho divadla, čo dokazuje účasť na celoslovenských prehliadkach aj festivaloch v zahraničí. Commedia je dvojnásobným účastníkom Svetového festivalu divadla v Monaku.</em>'
     -
@@ -181,7 +183,7 @@ divadlo-commedia:
     - Commedia_Zapisky_03.jpg
     - Commedia_Zapisky_02.jpg
 
-  link: www.commedia.sk
+  link: http://www.commedia.sk
 
 jan-markos:
   performer: Ján Markoš, Bratislava (SK) 
@@ -199,14 +201,14 @@ jan-markos:
   perex: Majstrovská prednáška o kritickom myslení ako životnom štýle s interaktívnym kvízom od šachového veľmajstra
   content: 
     -
-     Ján Markoš je lektor kritického myslenia a autor jednej z najlepších kníh minulého roka na Slovensku Sila rozumu v bláznivej dobe. Ide o prvý manuál kritického myslenia s výbornými praktickými príkladmi zo slovenského prostredia. Súčasne je aj šachovým veľmajstrom. Pútavo, trefne a s humorom vás zasvätí do tajomstiev, ktoré spísal pod heslami My, digitálni narkomani, Hekeri mozgov, Človek človeku vlkom a mnohé ďalšie. Dozviete sa praktické stratégie, ako chrániť slobodu v 21. storočí. S touto prednáškou a kvízom dáte všetkým konšpirátorom šach-mat!
+     '<em>Ján Markoš je lektor kritického myslenia a autor jednej z najlepších kníh minulého roka na Slovensku <em> Sila rozumu v bláznivej dobe </em>. Ide o prvý manuál kritického myslenia s výbornými praktickými príkladmi zo slovenského prostredia. Súčasne je aj šachovým veľmajstrom. Pútavo, trefne a s humorom vás zasvätí do tajomstiev, ktoré spísal pod heslami <em>My, digitálni narkomani, Hekeri mozgov, Človek človeku vlkom</em> a mnohé ďalšie. Dozviete sa praktické stratégie, ako chrániť slobodu v 21. storočí. S touto prednáškou a kvízom dáte všetkým konšpirátorom šach-mat!</em>'
 
   pictures:
     - Jan_Markos_1.jpg
     - Jan_Markos_2_Sila rozumu.jpg
     - Jan_Markos_3.jpg
   
-  link: www.medziknihami.dennikn.sk/clanky/jan-markos-sila-rozumu-v-blaznivej-dobe 
+  link: http://medziknihami.dennikn.sk/clanky/jan-markos-sila-rozumu-v-blaznivej-dobe 
 	
 mattatoio-sospeso:
   performer: Mattatoio Sospeso, Toulouse/Pisa (FR/IT)
@@ -228,7 +230,9 @@ mattatoio-sospeso:
        # toot-iframe-id: toot-btckts-ifr16c44402e95
       # toot-event-id: 5d3893aabba62e0fb8a618ed
       
-  perex: Majstrovská prednáška o kritickom myslení ako životnom štýle s interaktívnym kvízom od šachového veľmajstra
+  perex: > 
+    Vertikálny tanec, akrobatická talianska love story <br>
+    s nečakaným koncom
   content: 
     -
      Vtipné i odvážne pouličné divadlo s ľúbostným príbehom! Muž vykopnutý z domu blúdi ulicami a hľadá nový zmysel života. Čo ak, práve v Banskej Štiavnici, na zabudnutej pavlači Starého zámku, žije jeho nová láska? Uleťte si s nami! Príďte sa presvedčiť, či ju má na dosah alebo je od nej nenávratne vzdialený. Pouličná akrobatická show o dobýjaní svojej lásky je bravúrnym kúskom lietania formou neobyčajného vertikálneho tanca na stenách starobylých budov. Taliansku romantiku pod balkónom strieda irónia, sarkazmus a, samozrejme, zábava. Vrcholom hry je pôvodný spev talianskeho bel canta 30. rokov a dychberúce finále, kedy sa všetko zastaví vo vzduchu. Lebo – love is in the air! Lietajúca fantázia je poctou Busterovi Keatonovi a Charliemu Chaplinovi, majstrom nemej filmovej grotesky a vďaka Ampliónu ju uvidíte v slovenskej premiére! Zalietajte si a snívajte naplno – recept nielen pre zamilovaných!
@@ -241,7 +245,7 @@ mattatoio-sospeso:
     - Mattatoio_02_OUT_web.jpg
   
   
-  link: www.mattatoio.org
+  link: http://www.mattatoio.org
 
 el-goma:
   performer: El Goma, Kolín (ARG/DE)
@@ -268,7 +272,7 @@ el-goma:
     -
      Akrobacia, tanec, triky a veľa nečakanej smiešnej improvizácie. To sú tajomstvá pouličného umenia El Gomu, ktoré predvádza v originálnom vycibrenom štýle po celom svete. Bežné situácie premieňa na neuveriteľnú a prekvapivú zábavnú komédiu. Vo svojej show využíva princíp hracej konzoly Atari, v ktorej joistikom ovláda rôzne zvuky, púšťa známe filmy či ukazuje karikatúry, do ktorých citlivo zapája publikum. To reaguje hurónskym smiechom a spontánnym potleskom. Stretnutie s ním vás nielen osvieži, ale aj ozdraví, veď smiech je liek! Doprajte si tento zázrak pre celú rodinu.
     -
-     '<em>El Goma, vlastným menom Juan Manuel Gomez, je pôvodom z Argentíny, ale už 10 rokov žije v Nemecku. Začínal na uliciach Buenos Aires a dnes má už za sebou vystúpenia v 35 krajinách na 4 kontinentoch, pretože jeho pouličné kúsky sú skutočným umením. Na Slovensku vystúpi vo svojej premiére, lebo 5 rokov má Amplión len raz! </em>'
+     '<em>El Goma, vlastným menom Juan Manuel Gomez, je pôvodom z Argentíny, ale už 10 rokov žije v Nemecku. Začínal na uliciach Buenos Aires a dnes má už za sebou vystúpenia v 35 krajinách na 4 kontinentoch, pretože jeho pouličné kúsky sú skutočným umením. Na Slovensku vystúpi v premiére, lebo 5 rokov má Amplión len raz! </em>'
 
   pictures:
     - Goma_by Mike Kingdon.jpg
@@ -276,7 +280,7 @@ el-goma:
     - Goma_print 2.jpg
   
   
-  link: www.theatarishow.com 
+  link: http://www.theatarishow.com 
 
 umami-dancetheatre:
   performer: Umami Dancetheatre, Madrid (ES/FR)
@@ -311,7 +315,7 @@ umami-dancetheatre:
     - Umami_bittersweet_2.jpg
     - Umami_bittersweet_3.jpg
 
-  link: umamidancetheatre.wixsite.com/umami 
+  link: http://www.umamidancetheatre.com
 
 nightcall:
   performer: Nightcall, Bratislava (SK)     
@@ -338,7 +342,7 @@ zmapovanú stenu budovy oslobodia frfľošov z ich obmedzených bublín. A mo�
 občas žijeme v takej bubline. Tak nech sa páči, táto hra je pre všetkých, ktorí sa chcú bublín
 zbaviť! Svojím hlasným potleskom praskneme všetky bubliny a bublinky, nielen tie virtuálne na
 stene, ale aj tie vnútorné. Lebo dobrý potlesk je oslobodzujúci. Čím viac nás bude, tým
-budeme my aj svet naokolo slobodnejší, bez bublinový, reálny a pritom autenticky
+budeme my aj svet naokolo slobodnejší, bezbublinový, reálny a pritom autenticky
 krásny.'
 
     -
@@ -352,7 +356,7 @@ a renderingu.</em>'
     - Nightcall_Incall_1.jpg
     - Nightcall_Incall_2.jpg
     
-  link:  www.facebook.com/nightcallsk 
+  link:  http://www.facebook.com/nightcallsk 
 
 cirkus-problem:
   performer: Cirkus Problem, Praha (CZ)   
@@ -379,7 +383,7 @@ v Česko Slovensko má talent 2016.'
     -
      '<em>Kapela Cirkus Problem vznikla v roku 2012 a jej frontmanom je zakladajúci člen Jirka Čevela
 (spev a akordeón). Doteraz vydala 4 albumy a natočila 3 videoklipy. Tešíme sa na ich
-energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy povestné   
+energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy povestné. 
 </em>'
 
   pictures:
@@ -388,7 +392,7 @@ energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy po
     - circus problem PR 5.JPG
   
 
-  link: www.circusproblem.com 
+  link: http://www.circusproblem.com 
 
 cirkus-problem-promo:
   performer: Cirkus Problem, Praha (CZ)   
@@ -411,7 +415,7 @@ v Česko Slovensko má talent 2016.'
     -
      '<em>Kapela Cirkus Problem vznikla v roku 2012 a jej frontmanom je zakladajúci člen Jirka Čevela
 (spev a akordeón). Doteraz vydala 4 albumy a natočila 3 videoklipy. Tešíme sa na ich
-energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy povestné   
+energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy povestné.
 </em>'
 
   pictures:
@@ -420,7 +424,7 @@ energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy po
     - circus problem PR 5.JPG
   
 
-  link: www.circusproblem.com 
+  link: http://www.circusproblem.com 
 
 
 cirkus-problem-after:
@@ -435,16 +439,11 @@ cirkus-problem-after:
   perex: After koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
   content: 
     -
-     'Máte problém sa kvalitne zabaviť? Chcete si aj poriadne zatancovať? Hľadáte dávku
-hudobnej energie podľa vášho gusta? Žiaden problém, a ak, tak len Cirkus Problem! Dobite si
-baterky koncertom parádnej českej kapely v originálnom umeleckom vizuále. Akordeón,
-klarinet, trombón, husle, basová gitara a bicie vyrobia parádny hudobný cirkus. Veď skupina
-ohuruje publikum na mnohých zahraničných festivaloch a pýši sa aj úspešným vystúpením
-v Česko Slovensko má talent 2016.'
+     'Amplion Argentum je cena organizátorov festivalu v troch kategóriách: nový kabaret, pouličné umenie a spoločensko-angažovaná tvorba. Nominácie vyberá dramaturgický tím festivalu, ktorý vopred videl všetky programy a vybral tie výnimočné. Tento rok boli nominovaní za nový kabaret: Přemysl Rut & Markéta Potužáková (CZ), Divadlo Semafor (CZ) a Džumelec (SK). V kategórii pouličné umenie budú o cenu súťažiť: Mattatoio Sospeso (IT/FR), El Goma (ARG/DE) a Umami Dancetheatre (ES/FR). Za spoločensko- angažovanú tvorbu boli vybraní Divadlo Husa na provázku (CZ), Ján Markoš (SK) a Divadlo Commedia (SK). Ak budete pozorne sledovať celý festival, určite si svojich favoritov vyberiete aj vy.  '
     -
      '<em>Kapela Cirkus Problem vznikla v roku 2012 a jej frontmanom je zakladajúci člen Jirka Čevela
 (spev a akordeón). Doteraz vydala 4 albumy a natočila 3 videoklipy. Tešíme sa na ich
-energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy povestné   
+energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy povestné.  
 </em>'
 
   pictures:
@@ -453,7 +452,7 @@ energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy po
     - circus problem PR 5.JPG
   
 
-  link: www.circusproblem.com 
+  link: http://www.circusproblem.com 
 
 
 ty-sycaci:
@@ -485,14 +484,14 @@ netvora, egyptská královna hledí do budoucnosti a čas běží. Rajské jabl
 </em>'
 
     -
-     'Skupinu založil v roku 2000 Petr Váša spoločne s gitaristom Petrem Zavadilem a basgitaristom Tomášem Frohlichem, známych z kapely Pluto Pavla Fajta. Váša je označovaný ako fyzický básnik, ktorý spája poéziu s hudbou, pohybom a hľadá nové umelecké postupy. Najväčšou devízou kapely je tak nekompromisný štýl a vytrvalosť vo stvárňovaní vlastných predstáv. '
+     '<em>Skupinu založil v roku 2000 Petr Váša spoločne s gitaristom Petrem Zavadilem a basgitaristom Tomášem Frohlichem, známych z kapely Pluto Pavla Fajta. Váša je označovaný ako fyzický básnik, ktorý spája poéziu s hudbou, pohybom a hľadá nové umelecké postupy. Najväčšou devízou kapely je tak nekompromisný štýl a vytrvalosť vo stvárňovaní vlastných predstáv. </em>'
 
   pictures:
     - TySycaci_1_Klara Litterova.jpg
     - TySycaci_2_Luzanky_Richard Prochazka.jpg
     - TySycaci_3_Klara Litterova.jpg
 
-  link: www.tysycaci.cz 
+  link: http://www.tysycaci.cz 
 
 ty-sycaci-after:
   performer: Ty Syčáci, Brno (CZ)     
@@ -520,14 +519,14 @@ netvora, egyptská královna hledí do budoucnosti a čas běží. Rajské jabl
 </em>'
 
     -
-     'Skupinu založil v roku 2000 Petr Váša spoločne s gitaristom Petrem Zavadilem a basgitaristom Tomášem Frohlichem, známych z kapely Pluto Pavla Fajta. Váša je označovaný ako fyzický básnik, ktorý spája poéziu s hudbou, pohybom a hľadá nové umelecké postupy. Najväčšou devízou kapely je tak nekompromisný štýl a vytrvalosť vo stvárňovaní vlastných predstáv. '
+     '<em>Skupinu založil v roku 2000 Petr Váša spoločne s gitaristom Petrem Zavadilem a basgitaristom Tomášem Frohlichem, známych z kapely Pluto Pavla Fajta. Váša je označovaný ako fyzický básnik, ktorý spája poéziu s hudbou, pohybom a hľadá nové umelecké postupy. Najväčšou devízou kapely je tak nekompromisný štýl a vytrvalosť vo stvárňovaní vlastných predstáv. </em>'
 
   pictures:
     - TySycaci_1_Klara Litterova.jpg
     - TySycaci_2_Luzanky_Richard Prochazka.jpg
     - TySycaci_3_Klara Litterova.jpg
 
-  link: www.tysycaci.cz 
+  link: http://www.tysycaci.cz 
 
 sketch-up:
   performer: AND + hostia (SK+CZ)           
@@ -543,10 +542,10 @@ sketch-up:
       # toot-event-id: 5d3893aabba62e0fb8a618ed
    
       
-  perex: "2. ročník česko-slovenskej súťaže kabaretných skečov plné nových talentov! Moderujú Pavel Mihaľák & Roman Večerek, hrá perfektná kapela OZ Červený nos Clowndoctors."
+  perex: "2. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov! Moderujú Pavel Mihaľák & Roman Večerek, hrá perfektná kapela OZ Červený nos Clowndoctors."
   content:    
    -
-    'Po úspešnom pilotnom ročníku súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla, pokračuje! Všetky skeče prepojí jedna téma – blízkosť vs. vzdialenosť, ktoré podajú zážitkovou a zábavnou formou títo účinkujúci: šarmantný herec a slamer Jakub Folvarčný (CZ), herecko-hudobné duo študentov herectva VŠMU Martin Toman & Tadeáš Bolo (SK), famózny standapista inteligentného humoru zo Silných rečí, Matej Makovický (SK), svieži herci a tanečníci z cirkevného konzervatória v Bratislave, mladí divadelníci zoskupenia Ulita (SK) a nádejná slovenská herečka a dirigentka Emília Lehotská so svojím šibalským prednesom. Hravú energiu a vlastné herecko-hudobné výstupy predvedie komické duo moderátorov Pavel Mihaľák a Roman Večerek a jedinečnú atmosféru vytvorí bláznivá klaunská kapela z OZ Červený nos Clowndoctors. Porotcami budú performer Džumelec alias Erik Sikora, legenda českého kabaretu Přemysl Rut a Dušan Krnáč, performer, scénograf a designér Festivalu AMPLIÓN. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 6. ročníku Festivalu AMPLIÓN 2021. Nenechajte si tento nadupaný program ujsť!' 
+    'Po úspešnom pilotnom ročníku súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla, pokračuje! Všetky skeče prepojí jedna téma – blízkosť vs. vzdialenosť, ktoré podajú zážitkovou a zábavnou formou títo účinkujúci: šarmantný herec a slamer Jakub Folvarčný (CZ), herecko-hudobné duo študentov VŠMU Martin Toman & Tadeáš Bolo (SK), famózny standapista inteligentného humoru zo Silných rečí, Matej Makovický (SK), zdravotný klaun a performer Ján Mikuš (SK), svieži herci a tanečníci súboru Cirkeváčik (SK) z konzervatória v Bratislave, mladí divadelníci zoskupenia Ulita (SK) a nádejná slovenská herečka a dirigentka Emília Lehotská (SK) so svojím šibalským prednesom. Hravú energiu a vlastné herecko-hudobné výstupy predvedie komické duo moderátorov Pavel Mihaľák a Roman Večerek a jedinečnú atmosféru vytvorí bláznivá klaunská kapela z OZ Červený nos Clowndoctors. Porotcami budú performer Džumelec alias Erik Sikora, legenda českého kabaretu Přemysl Rut a Dušan Krnáč, performer, scénograf a designér Festivalu AMPLIÓN. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 6. ročníku Festivalu AMPLIÓN 2021. Nenechajte si tento nadupaný program ujsť!' 
     
      
   pictures:
@@ -554,11 +553,12 @@ sketch-up:
     - Sketch_up_2_Martin &amp; Tadeas_1.png
     - Sketch_up_3_Ulita_3.jpg
     - Sketch_up_4_Jakub_Folvarcny_foto_Ivan Cillik_2015.JPG
+    
 
-  link: www.amplion.eu 
+  link: http://www.amplion.eu 
 
 no-touch:
-  performer: D´Dištanc Dženerejšn (SK) + Ponorka (CZ)
+  performer: D´ dištanc dženerejšn (SK) + Ponorka (CZ)
   title: NO TOUCH, NO FUN                                
   general: Program pre mladých a dospelých      
   occurences: 
@@ -575,12 +575,14 @@ no-touch:
    -
     Piati mladí interpreti a ich autentické výpovede textov svetovej i slovenskej prózy a poézie. Chcete vedieť, čo je schopná spôsobiť detská rozmaznanosť a nadradenosť? Ste zvedaví na tragikomický príbeh nenaplnenej celoživotnej lásky len pre číre malichernosti? Viete, ako hlboko treba padnúť, aby človek znova vzlietol alebo to, že keď žijeme s niekým blízkym, môže nám byť v skutočnosti až neviditeľne vzdialený? A ozaj, stávajú sa ženy v čase vojny mužmi? Aj o tom všetkom bude špeciálne komponovaný večer prudko kvalitnej literatúry, ktorý vás opäť vyvedie z predsudkov o konvenčnom recitovaní. Veď myšlienky sú menou 21. storočia!
    -
-    'Čakajú vás obohacujúce texty Etkara Kereta, Vicenta Huidobra, nositeľky nobelovej ceny za literatúru, Svetlany Alexijevič či Daniela Majlinga a Ivany Dobrakovovej. Účinkujú: Paulína Knížatová, Patrícia Rotterová, Alex Madová, Lea Hadnagyová a Alfréd Tóth. Programom sprevádza pouličná balkánska kapela PONORKA (CZ). Výborná spoločnosť, čo poviete?'
+    '<em>Čakajú vás obohacujúce texty Etkara Kereta, Vicenta Huidobra, nositeľky nobelovej ceny za literatúru, Svetlany Alexijevič či Daniela Majlinga a Ivany Dobrakovovej. Účinkujú: Paulína Knížatová, Patrícia Rotterová, Alex Madová, Lea Hadnagyová a Alfréd Tóth. Programom sprevádza pouličná balkánska kapela PONORKA. Výborná spoločnosť, čo poviete?</em>'
      
   pictures:
+    - Toth_Alfred_2.jpg n   
+    - Rotterova_Patricia_1.jpg
     - No touch_no fun_Hadnagyova_Lea_1.jpg
 
-  link: www.and-theatre.art
+  link: http://www.and-theatre.art
 
 dzumelec-proti-dospelosti:
   performer: Džumelec, Košice (SK)
@@ -602,7 +604,7 @@ dzumelec-proti-dospelosti:
   pictures:
     - Erik_Sikora_Dzumelec_4_Koncert proti_dospelosti.jpg
 
-  link: www.eriksikora.sk
+  link: http://www.eriksikora.com
 
 cirkus-prditko:
   performer: Ústav úžasu, Praha (CZ)
@@ -622,12 +624,11 @@ cirkus-prditko:
    -
     'Rodinné divadlo o tom, čo sa týka nás všetkých. Ide predsa o prdy či prdíky. Hlavné heslo znie: „Ten, kto prdí, je mu líp.“ Diváci zažijú nevídané a uvidia neviditeľné. Dekontaminátor, flatulátor, mamut, ... všetko v jednom balení. Malí ocenia vtipnú interakciu a dozvedia sa, že prdieť je ľudské. Veľkí sa zbavia strachu a hanby. Ale pozor! „Kdo se bojí, nesmí do cirkusu. Protože v cirkusu, se říká jenom pravda: Malí, velcí, ale i ti vyhynulí, všichni prděli. A kdo neprděl, prasknul.“ PSHOW o tabuizovanej téme s nesmiernym čarom. Do popukania – od smiechu!'
    -
-    Jakub Folvarčný je český herec, komik, režisér, spevák aj poetry slamer, ktorého hravosť je neuveriteľne nákazlivá. Hrá nielen pre rodičov s deťmi, ale aj pre širokú verejnosť bez vekového obmedzenia.
-     
+    '<em>Jakub Folvarčný je český herec, komik, režisér, spevák aj poetry slamer, ktorého hravosť je neuveriteľne nákazlivá. Hrá nielen pre rodičov s deťmi, ale aj pre širokú verejnosť bez vekového obmedzenia.</em>'     
   pictures:
     # - 
 
-  link: www.ustavuzasu.cz
+  link: http://www.ustavuzasu.cz
 
 mariusz-goli:
   performer: Mariusz Goli, Katowice (PL)                                                
@@ -637,9 +638,9 @@ mariusz-goli:
       
   content:    
    -
-    'Neobyčajný poľský gitarista, hudobník a skladateľ, ktorý svojím podmanivým
+    '<em>Neobyčajný poľský gitarista, hudobník a skladateľ, ktorý svojím podmanivým
 hraním zastaví čas na každej ulici. Hranie na gitare mení na kúzelnícku show nečakaných
-kúskov.'
+kúskov.</em>'
 
   
   pictures:
@@ -647,7 +648,7 @@ kúskov.'
    - Mariusz Goli_2.jpg
    - Mariusz Goli_3.jpg
 
-  link: www.facebook.com/Vargall 
+  link: http://www.facebook.com/Vargall 
 
 
 ponorka:
@@ -669,7 +670,7 @@ a kontrabas, to je more dobrej muziky.'
    - Ponorka_CZ_3.jpg
 
 
-  link: www.prahazijehudbou.cz/artists/ponorka 
+  link: http://www.prahazijehudbou.cz/artists/ponorka 
 
 
 bilek:
@@ -680,9 +681,9 @@ bilek:
       
   content:    
    -
-    'Mladý talentovaný muzikant pop, latino a flamengo. Hrá na gitaru od 7 rokov.
+    '<em>Mladý talentovaný muzikant pop, latino a flamengo. Hrá na gitaru od 7 rokov.
 Aj napriek svojmu mladému veku hral už sólo na koncerte veľkého Symfonického orchestra v 
-Bratislave podvedením Braňa Kostku. Zúčastnil sa aj súťaže Česko Slovensko má talent. '
+Bratislave podvedením Braňa Kostku. Zúčastnil sa aj súťaže Česko Slovensko má talent. </em>'
 
   
   pictures:
@@ -691,4 +692,4 @@ Bratislave podvedením Braňa Kostku. Zúčastnil sa aj súťaže Česko Sloven
   #  - Ponorka_CZ_3.jpg
 
 
-  link: www.facebook.com/davidbilekofficial 
+  link: http://www.facebook.com/davidbilekofficial 

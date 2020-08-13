@@ -1,10 +1,9 @@
 -
   time: 11:00 – 11:45
   performer: Cirkus problem (CZ)
-  argentum: true
   age: 12+
   title: AFTER KONCERT
-  perex: Koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
+  perex: Nespútaná word music kapela & vyhlásenie cien festivalu Amplion Argentum  
   location: Art Cafe, terasa
   price: 0 
   slug: cirkus-problem-after
@@ -13,7 +12,7 @@
   performer: Džumelec (SK)
   age: 5+
   title: KONCERT PROTI DOSPELOSTI
-  perex: performatívne piesne Erika Sikoru pre deti   
+  perex: Originálne performatívne piesne Erika Sikoru pre deti 
   location: Art Cafe, terasa
   price: 0
   slug: dzumelec-proti-dospelosti
@@ -25,6 +24,6 @@
   age: 12+
   title: ZÁPISKY DÔSTOJNÍKA ČERVENEJ ARMÁDY
   perex: skvelá tragikomédia o tom, čo urobí s hlúpim človekom moc
-  location: Kultúrne centrum, Hlavná sála
+  location: Kultúrne centrum, hlavná sála
   price: predpredaj 5 €, na mieste 7 €
   slug: divadlo-commedia

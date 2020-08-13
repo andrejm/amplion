@@ -29,12 +29,12 @@
     <div class="progitem__gutter">
         <div class="progitem__content">
             <div class="progitem__titles">
-                <h5 class="progitem__performer">{{this.performer}}</h5>
+                <h5 class="progitem__performer">{{{this.performer}}}</h5>
                 <h4 class="progitem__title">
                     {{#if this.slug}}
                     <a href="/program/{{this.slug}}/">
                     {{/if}}
-                        {{this.title}}
+                        {{{this.title}}}
                     {{#if this.slug}}    
                     </a>
                     {{/if}}
@@ -42,7 +42,8 @@
             </div>
             <div class="progitem__text">
                 <p>
-                    {{{this.perex}}} {{#if this.slug}}<a href="/program/{{this.slug}}/">Čítať viac...</a>{{/if}}
+                    {{{this.perex}}} 
+                    {{#if this.slug}}<br><a href="/program/{{this.slug}}/">Čítať viac...</a>{{/if}}
                 </p>
             </div>
         </div>

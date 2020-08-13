@@ -65,6 +65,7 @@ section--notopspace - without top padding
 
 	&__inner {
 		@include xy-grid-container;
+		padding-top:4px;
 
 		.section--narrow & {
 			@include xy-grid-container( $narrow-section-width ); //limit grid container width

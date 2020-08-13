@@ -1,11 +1,11 @@
 - 
   time: 16:00 – 16:30
   title: OTVORENIE FESTIVALU
-  perex: Hymna + promo komika El Gomu (ARG/DE), kapely Syčáci (CZ) a akro-tanečníkov Umami (ES/FR)
+  perex: Hymna + promo komika El Gomu (ARG/DE), kapely Ty Syčáci (CZ) a akro-tanečníkov Umami Dancetheatre (ES/FR)
   age: Family
   price: 0
   location: Námestie sv. Trojice
-  # slug: otvorenie-festivalu
+  slug: otvorenie-festivalu
 -
   time: 17:00 – 17:45
   performer: Umami Dancetheatre (ES/FR)
@@ -32,9 +32,9 @@
   performer: Přemysl Rut & Markéta Potužáková (CZ)
   top: true
   age: 15+
-  title: "OKOLO 100LALA: Ohlas písní francouzských 1900 - 1990"
-  perex: Jedinečný šansónový večer českej kabaretnej legendy s pútavými príbehmi medzi Parížom a Prahou
-  location: Kino Akademik, Námestie sv. Trojice
+  title: "OKOLO 100LALA: Ohlas písní francouzských 1900 – 1990"
+  perex: Jedinečný šansónový večer milovníka a odborníka kabaretnej piesne a jeho šarmantnej múzy pri klavíri
+  location: Kino Akademik, Nám. sv. Trojice
   argentum: true 
   price: predpredaj 7 €, na mieste 9 €
   slug: premysl
@@ -43,7 +43,7 @@
   performer: Nightcall (SK)
   age: 8+
   title:  INCALL
-  perex: Projekcia online kreslenej počítačovej hry na hranie pre všetkých
+  perex: Videomappingová PC hra, ktorá lieči frfľanie, online na hranie pre všetkých 
   location: ZUŠ, Námestie sv. Trojice
   price: 0
   slug: nightcall
@@ -55,16 +55,16 @@
   premiere: true
   age: 10+
   title: OUT!
-  perex: Akrobatická talianska love story ako vertical dance s nečakaným koncom
+  perex: Vertikálny tanec, akrobatická talianska love story s nečakaným koncom 
   location: Starý zámok
   price: 4/6 € v predpredaji, na mieste 5/8 €
   slug: mattatoio-sospeso
 -  
   time: 21:00 – 22:00
-  performer: D` dištanc dženerejšn + Ponorka (SK+CZ)
+  performer: D´dištanc dženerejšn + Ponorka (SK+CZ)
   age: 12+
   title: NO TOUCH, NO FUN 
-  perex: Neuhladené prednesy 5 mladých osobností na tému blízkosť&nbsp;vs.&nbsp;vzdialenosť s balkánskou muzikou kapely Ponorka (CZ)
+  perex: Pútavé prednesy 5 mladých osobností na tému blízkosť&nbsp;vs.&nbsp;vzdialenosť s balkánskou muzikou kapely Ponorkas
   location: Kocka, Kammerhofská 6
   price: 6 €
   slug: no-touch
@@ -73,7 +73,7 @@
   performer: Ty Syčáci (CZ)
   age: 15+
   title: KONCERT
-  perex: Strhujúca retro-futuristická trampská kapela slobodomyseľnej energie 
+  perex: Strhujúca retro-futuristická kapela slobodomyseľnej energie 
   location: Art Cafe, povala
-  price: predpredaj 7 €, na mieste 10 €
+  price: predpredaj 7 €
   slug: ty-sycaci

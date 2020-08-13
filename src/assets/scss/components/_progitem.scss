@@ -144,7 +144,7 @@
 	@include breakpoint( large ) {
 		&__content {
 			@include xy-cell(8);
-			padding-right: 15%;
+			padding-right: 11%
 		}
 
 		&__factual {
