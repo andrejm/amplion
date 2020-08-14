@@ -32,7 +32,7 @@
   performer: Přemysl Rut & Markéta Potužáková (CZ)
   age: 15+
   top: true
-  title: "AROUND 100LALA: The resonance of French songs 1900 - 1990"
+  title: "AROUND 100LALA: The resonance of French songs 1900 –  1990"
   perex: A unique chanson evening Czech cabaret legend with captivating stories between Paris and Prague
   location: Cinema Akademik, St. Trinity Square
   argentum: true 
@@ -57,7 +57,7 @@
   title: OUT!
   perex: Acrobatic Italian love story as a vertical dance with an unexpected ending
   location: Old Castle
-  price: 4/6 € pre-sale, 5/8 onsale €
+  price: 4/6 € pre-sale, 5/8 € onsale
   slug: after-the-revolution
 -  
   time: 21:00 – 22:00
@@ -75,5 +75,5 @@
   title: CONCERT
   perex: thrilling retro-futurist tramp band with free-thinking energy
   location: Art Cafe, attic
-  price: predpredaj 7 €
+  price: 7 €
   slug: sycaci

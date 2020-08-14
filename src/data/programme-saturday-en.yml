@@ -21,10 +21,10 @@
   performer: El Goma (ARG/DE)
   argentum: true
   premiere: true
-  age: Family (6+)
+  age: Family
   title: The ATARI SHOW
   perex: Street comedy of a world-class improviser full of movie and physical tricks
-  location: Scout house garden, A. Pécha street
+  location: Scout house garden, <br> A. Pécha street
   price: 4/6 €
   slug: el-goma
 -
@@ -73,12 +73,12 @@
   slug: el-goma
 -
   time: 17:00 – 18:00
-  performer: Theatre Husa na provázku (CZ)
+  performer: Goose on a string Theatre (CZ)
   top: true
   argentum: true
   age: 12+
   title: OSKAR AND THE PINK LADY
-  perex: Strong story about the immortality of friendship, love and hope preformed by remarkable Czech actors of the famous theatre
+  perex: Strong story about the immortality of friendship, love and hope performed by remarkable Czech actors of the famous theatre
   location: Cinema Akademik, St. Trinity Square
   price: pre-sale 7 €, onsale 9 €
   slug: divadlo-husa-na-provazku
@@ -88,13 +88,13 @@
   age: 6+
   title: "BITTER-SWEET"
   perex: Spanish physical performance show with elements of pantomime, breakdance and circus
-  location: Scout house garden, A. Pécha street
+  location: Scout house garden,<br> A. Pécha street
   price: 4/6 €
   argentum: true 
   slug: umami-dancetheathre
 -
   time: 18:00 – 19:00
-  performer: Džumelec (CZ)
+  performer: Džumelec (SK)
   argentum: true 
   age: 15+
   title: EXPLAINER
@@ -124,10 +124,10 @@
   slug: nightcall
 -
   time: 20:30 – 22:00  
-  performer: AND + hostia (SK+CZ) 
+  performer: AND + guests (SK+CZ) 
   age: 15+
   title: SKETCH UP 
-  general: Nový formát – len na AMPLIÓNE!
+  general: New Format – only at AMPLIFIER!
   top: true
   perex: The 2nd annual edition of the Czech-Slovak competition of cabaret sketches with an amazing lineup. Hosted by Pavel Mihaľák &amp; Roman Večerek, music by the band of the Red Nose Clowndoctors organisation
   location: Cube, Kammerhofská 6
@@ -136,7 +136,6 @@
 -
   time: 22:45 – 24:00
   performer: Circus problem (CZ)
-  argentum: true
   age: 15+
   title: CONCERT
   perex: Concert of an unhinged klezmer, balkan and world music band for everyone to dance
