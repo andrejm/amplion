@@ -29,9 +29,9 @@ sunday:
       <li class="programmehelpers__item">
         <button class="clear button programmehelpers__action" data-open="modal-argentum">Amplion Argentum, cena festivalu</button>
       </li>
-      <li class="programmehelpers__item" data-smooth-scroll>
+      <!-- <li class="programmehelpers__item" data-smooth-scroll>
         <a href="#download" class="clear button programmehelpers__action">Stiahnite si</a>
-      </li>
+      </li> -->
     </ul>
 
     <div class="reveal amp-modal" id="modal-legend" data-reveal>
@@ -84,7 +84,7 @@ sunday:
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
                 {{#each programme-friday}}
-                    {{>_progitem}}
+                    {{>_progitem-en}}
                 {{/each}}
                 </ul> 
                 {{>_programmenav friday}}              
@@ -94,7 +94,7 @@ sunday:
             <h2 class="section__title">BUSKING</h2>
               <ul class="programmes">
               {{#each programme-off-friday}}
-                  {{>_progitem}}
+                  {{>_progitem-en}}
               {{/each}}
             </ul>
             </section> -->
@@ -104,7 +104,7 @@ sunday:
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
                 {{#each programme-saturday}}
-                    {{>_progitem}}
+                    {{>_progitem-en}}
                 {{/each}}
                 </ul> 
                 {{>_programmenav saturday}}               
@@ -114,7 +114,7 @@ sunday:
                 <h2 class="section__title">BUSKING</h2>
                   <ul class="programmes">
                   {{#each programme-off-saturday}}
-                      {{>_progitem}}
+                      {{>_progitem-en}}
                   {{/each}}
                 </ul>
             
@@ -125,7 +125,7 @@ sunday:
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
                 {{#each programme-sunday}}
-                    {{>_progitem}}
+                    {{>_progitem-en}}
                 {{/each}}
                 </ul> 
                 {{>_programmenav sunday}}               
@@ -135,7 +135,7 @@ sunday:
                 <h2 class="section__title">BUSKING</h2>
                   <ul class="programmes">
                   {{#each programme-off-sunday}}
-                      {{>_progitem}}
+                      {{>_progitem-en}}
                   {{/each}}
                 </ul>
               </section> -->

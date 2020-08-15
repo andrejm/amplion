@@ -2,7 +2,7 @@
   time: 10:00 – 10:35
   performer: Ústav úžasu (CZ)
   title: CIRKUS PRDÍTKO
-  perex: Zábavná pshow pre smelé deti i hamblivých rodičov  
+  perex: Zábavná pshow pre smelé deti i hanblivých rodičov  
   location: Art Cafe, terasa
   age: 3+
   price: 2/4 €
@@ -104,7 +104,7 @@
   slug: dzumelec
 -
   time: 19:00 – 20:30
-  performer: Divadlo Semafor (CZ)<br> <strong style="color:#362982">Headliner Festivalu</strong>
+  performer: Divadlo Semafor (CZ) <strong style="color:#362982;font-size:0.75em;">Headliner festivalu</strong>
   age: 15+
   top: true
   argentum: true
@@ -129,7 +129,7 @@
   title: SKETCH UP 
   general: Nový formát – len na AMPLIÓNE!
   # top: true
-  perex: 2. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov Moderujú Pavel Mihaľák & Roman Večerek, hrá kapela OZ Červený nos Clowndoctors.
+  perex: 2. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov! Moderujú Pavel Mihaľák & Roman Večerek, hrá kapela OZ Červený nos Clowndoctors.
   location: Kocka, Kammerhofská 6
   price: predpredaj 8 €, na mieste 10 €
   slug: sketch-up

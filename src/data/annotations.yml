@@ -2,6 +2,9 @@ otvorenie-festivalu:
   title: OTVORENIE FESTIVALU
   perex: Hymna + promo komika El Gomu (ARG/DE), kapely Ty Syčáci (CZ) a akro-tanečníkov Umami Dancetheatre (ES/FR)
   price: 0
+  content: 
+   -
+    "Príďte aj tento rok otvoriť jubilejný 5. ročník festivalu, tentokrát sloganom: Umenie šíriporozUmenie"
   occurences:
     -
       time: "piatok 16:00"
@@ -9,11 +12,13 @@ otvorenie-festivalu:
 
   pictures:
     -
-      Amplion19_otvorenie_festivalu_MS_029.jpg
-    -
       Amplion19_otvorenie_festivalu_MS_060.jpg
     -
+      Amplion19_otvorenie_festivalu_MS_029.jpg
+    -
       Amplion19_otvorenie_festivalu_MS_097.jpg
+
+  link: http://www.and-theatre.art
 
 divadlo-semafor:
   performer: Divadlo Semafor, Praha (CZ)
@@ -85,7 +90,7 @@ dzumelec:
       tickets:
       # toot-iframe-id: toot-btckts-ifr16c44402e95
       # toot-event-id: 5d3893aabba62e0fb8a618ed
-  perex: Performatívny koncert a nonsensová prednáška nositeľa Ceny Oskára Čepana 2019, Erika Sikoru
+  perex: Performatívny koncert a nonsensová prednáška nositeľa Ceny Oskára Čepana 2019 Erika Sikoru
   content: 
     -
      Čo zažijete? Hudobne jednoduché ba až naivné, podomácky vyrobené pesničky v garáži alebo kúpeľni, hrané so španielkou alebo basou, jemne korenené lúskaním, domácimi či lesnými šumami, či naivnými klávesovými sólkami. Texty sú nadšeným pozorovaním sveta a jeho bizarných detailov. Hrajú sa so slovami, experimentujú s východoslovenskou rytmickosťou jazyka a spievajú sa na hranici s hovoreným slovom. Džumelec prezentuje svoju umeleckú tvorbu zdanlivo neformálnym prístupom na aktiváciu politických tém, ktoré vedú k základným a nevyhnutným otázkam o tom, kto sme teraz. 
@@ -201,7 +206,7 @@ jan-markos:
   perex: Majstrovská prednáška o kritickom myslení ako životnom štýle s interaktívnym kvízom od šachového veľmajstra
   content: 
     -
-     '<em>Ján Markoš je lektor kritického myslenia a autor jednej z najlepších kníh minulého roka na Slovensku <em> Sila rozumu v bláznivej dobe </em>. Ide o prvý manuál kritického myslenia s výbornými praktickými príkladmi zo slovenského prostredia. Súčasne je aj šachovým veľmajstrom. Pútavo, trefne a s humorom vás zasvätí do tajomstiev, ktoré spísal pod heslami <em>My, digitálni narkomani, Hekeri mozgov, Človek človeku vlkom</em> a mnohé ďalšie. Dozviete sa praktické stratégie, ako chrániť slobodu v 21. storočí. S touto prednáškou a kvízom dáte všetkým konšpirátorom šach-mat!</em>'
+     'Ján Markoš je lektor kritického myslenia a autor jednej z najlepších kníh minulého roka na Slovensku <em> Sila rozumu v bláznivej dobe </em>. Ide o prvý manuál kritického myslenia s výbornými praktickými príkladmi zo slovenského prostredia. Súčasne je aj šachovým veľmajstrom. Pútavo, trefne a s humorom vás zasvätí do tajomstiev, ktoré spísal pod heslami <em>My, digitálni narkomani, Hekeri mozgov, Človek človeku vlkom</em> a mnohé ďalšie. Dozviete sa praktické stratégie, ako chrániť slobodu v 21. storočí. S touto prednáškou a kvízom dáte všetkým konšpirátorom šach-mat!'
 
   pictures:
     - Jan_Markos_1.jpg
@@ -439,7 +444,7 @@ cirkus-problem-after:
   perex: After koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
   content: 
     -
-     'Amplion Argentum je cena organizátorov festivalu v troch kategóriách: nový kabaret, pouličné umenie a spoločensko-angažovaná tvorba. Nominácie vyberá dramaturgický tím festivalu, ktorý vopred videl všetky programy a vybral tie výnimočné. Tento rok boli nominovaní za nový kabaret: Přemysl Rut & Markéta Potužáková (CZ), Divadlo Semafor (CZ) a Džumelec (SK). V kategórii pouličné umenie budú o cenu súťažiť: Mattatoio Sospeso (IT/FR), El Goma (ARG/DE) a Umami Dancetheatre (ES/FR). Za spoločensko- angažovanú tvorbu boli vybraní Divadlo Husa na provázku (CZ), Ján Markoš (SK) a Divadlo Commedia (SK). Ak budete pozorne sledovať celý festival, určite si svojich favoritov vyberiete aj vy.  '
+     'Amplion Argentum je cena organizátorov festivalu v troch kategóriách: nový kabaret, pouličné umenie a spoločensko-angažovaná tvorba. Nominácie vyberá dramaturgický tím festivalu, ktorý vopred videl všetky programy a vybral tie výnimočné. Tento rok boli nominovaní za nový kabaret: Přemysl Rut & Markéta Potužáková (CZ), Divadlo Semafor (CZ) a Džumelec (SK). V kategórii pouličné umenie budú o cenu súťažiť: Mattatoio Sospeso (IT/FR), El Goma (ARG/DE) a Umami Dancetheatre (ES/FR). Za spoločensko-angažovanú tvorbu boli vybraní Divadlo Husa na provázku (CZ), Ján Markoš (SK) a Divadlo Commedia (SK). Ak budete pozorne sledovať celý festival, určite si svojich favoritov vyberiete aj vy.  '
     -
      '<em>Kapela Cirkus Problem vznikla v roku 2012 a jej frontmanom je zakladajúci člen Jirka Čevela
 (spev a akordeón). Doteraz vydala 4 albumy a natočila 3 videoklipy. Tešíme sa na ich
@@ -578,7 +583,7 @@ no-touch:
     '<em>Čakajú vás obohacujúce texty Etkara Kereta, Vicenta Huidobra, nositeľky nobelovej ceny za literatúru, Svetlany Alexijevič či Daniela Majlinga a Ivany Dobrakovovej. Účinkujú: Paulína Knížatová, Patrícia Rotterová, Alex Madová, Lea Hadnagyová a Alfréd Tóth. Programom sprevádza pouličná balkánska kapela PONORKA. Výborná spoločnosť, čo poviete?</em>'
      
   pictures:
-    - Toth_Alfred_2.jpg n   
+    - Toth_Alfred_2.jpg  
     - Rotterova_Patricia_1.jpg
     - No touch_no fun_Hadnagyova_Lea_1.jpg
 
@@ -598,7 +603,7 @@ dzumelec-proti-dospelosti:
   perex: Performatívne piesne Erika Sikoru pre deti
   content:    
    -
-    Vydajte sa so svojimi deťmi do sveta slobodných hravých piesní. Zahrá a zaspieva vám nositeľ Ceny Oskára Čepena za rok 2019, mladý otec 4 detí, Džumelec. Hlavným motívom jeho tvorby je propagácia písmena DŽ a potreba jeho šťavnatosti. Môžete sa tešiť na hudobne jednoduché ba až naivné, podomácky vyrobené pesničky v garáži alebo kúpeľni, hrané so španielkou alebo basou, jemne korenené lúskaním, domácimi či lesnými šumami, či naivnými klávesovými sólkami. Texty sú nadšeným pozorovaním sveta a jeho bizarných detailov. Hrajú sa so svetom a so slovami, experimentujú s východoslovenskou rytmickosťou jazyka a spievajú sa na hranici s hovoreným slovom. Skvelá inteligentná zábava!
+    Vydajte sa so svojimi deťmi do sveta slobodných hravých piesní. Zahrá a zaspieva vám nositeľ Ceny Oskára Čepana za rok 2019, mladý otec 4 detí, Džumelec. Hlavným motívom jeho tvorby je propagácia písmena DŽ a potreba jeho šťavnatosti. Môžete sa tešiť na hudobne jednoduché ba až naivné, podomácky vyrobené pesničky v garáži alebo kúpeľni, hrané so španielkou alebo basou, jemne korenené lúskaním, domácimi či lesnými šumami, či naivnými klávesovými sólkami. Texty sú nadšeným pozorovaním sveta a jeho bizarných detailov. Hrajú sa so svetom a so slovami, experimentujú s východoslovenskou rytmickosťou jazyka a spievajú sa na hranici s hovoreným slovom. Skvelá inteligentná zábava!
 
   
   pictures:

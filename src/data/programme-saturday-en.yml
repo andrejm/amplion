@@ -1,12 +1,12 @@
 -
   time: 10:00 – 10:35
-  performer: Ústav úžasu (CZ)
+  performer: Institute Of Wonder, Prague (CZ)
   title: CIRCUS PRDÍTKO
   perex: Entertaining show for both bold children and their shy parents 
   location: Art Cafe, terrace
   age: 3+
   price: 2/4 €
-  slug: ustav-uzasu
+  slug: cirkus-prditko
 -
   time: 10:30 – 11:00
   performer: Ty Syčáci (CZ)
@@ -15,7 +15,7 @@
   perex: Thrilling retro-futurist tramp band with free-thinking energy
   location: Trotuár, A. Kmeť street
   price: 0
-  slug: sycaci
+  slug: ty-sycaci-after
 -
   time: 11:00 – 11:45
   performer: El Goma (ARG/DE)
@@ -81,7 +81,7 @@
   perex: Strong story about the immortality of friendship, love and hope performed by remarkable Czech actors of the famous theatre
   location: Cinema Akademik, St. Trinity Square
   price: pre-sale 7 €, onsale 9 €
-  slug: divadlo-husa-na-provazku
+  slug: divadlo-husa
 -
   time: 17:30 – 18:15
   performer: Umami Dancetheatre (ES/FR)
@@ -91,7 +91,7 @@
   location: Scout house garden,<br> A. Pécha street
   price: 4/6 €
   argentum: true 
-  slug: umami-dancetheathre
+  slug: umami-dancetheatre
 -
   time: 18:00 – 19:00
   performer: Džumelec (SK)

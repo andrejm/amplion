@@ -5,7 +5,7 @@
   age: Family
   price: 0
   location: St. Trinity Square
-  slug: festival-opening
+  slug: otvorenie-festivalu
 -
   time: 17:00 – 17:45
   performer: Umami Dancetheatre (ES/FR)
@@ -16,7 +16,7 @@
   price: 3/5 €
   argentum: true 
   premiere: true
-  slug: umami-dancetheathre
+  slug: umami-dancetheatre
 -  
   time: 18:00 – 18:45
   performer: Theater ensemble Rope (SK)
@@ -26,7 +26,7 @@
   age: 12+
   price: 0
   premiere: true
-  slug: ds-lano
+  slug: lano
 -
   time: 19:00 – 20:20
   performer: Přemysl Rut & Markéta Potužáková (CZ)
@@ -58,7 +58,7 @@
   perex: Acrobatic Italian love story as a vertical dance with an unexpected ending
   location: Old Castle
   price: 4/6 € pre-sale, 5/8 € onsale
-  slug: after-the-revolution
+  slug: mattatoio-sospeso
 -  
   time: 21:00 – 22:00
   performer: D` dištanc dženerejšn + Ponorka (SK+CZ)
@@ -67,7 +67,7 @@
   perex: Strong spoken performances of 5 young personalities on the topic of near vs. far, featuring the Balkan music of the band Ponorka
   location: Cube, Kammerhofská 6
   price: 6 €
-  slug: ponorka
+  slug: no-touch
 -  
   time: 22:30 – 23:45
   performer: Ty Syčáci (CZ)
@@ -76,4 +76,4 @@
   perex: thrilling retro-futurist tramp band with free-thinking energy
   location: Art Cafe, attic
   price: 7 €
-  slug: sycaci
+  slug: ty-sycaci
