@@ -29,7 +29,7 @@
     <div class="progitem__gutter">
         <div class="progitem__content">
             <div class="progitem__titles">
-                <h5 class="progitem__performer">{{this.performer}}</h5>
+                <h5 class="progitem__performer">{{{this.performer}}}</h5>
                 <h4 class="progitem__title">
                     {{#if this.slug}}
                     <a href="/en/programme/{{this.slug}}/">
@@ -48,6 +48,7 @@
         </div>
         <div class="progitem__factual">
             <span class="event-location">{{{this.location}}}</span>
+            <br>
             <span class="event-price">
                 {{#ifequal this.price 0}}
                   Free entry!

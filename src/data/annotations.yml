@@ -4,7 +4,7 @@ otvorenie-festivalu:
   price: 0
   content: 
    -
-    "Príďte aj tento rok otvoriť jubilejný 5. ročník festivalu, tentokrát sloganom: Umenie šíriporozUmenie"
+    "Príďte aj tento rok otvoriť jubilejný 5. ročník festivalu, tentokrát sloganom: Umenie šíri porozUmenie"
   occurences:
     -
       time: "piatok 16:00"
@@ -31,8 +31,8 @@ divadlo-semafor:
       location: Kultúrne centrum, hlavná sála
       price: predpredaj 19 €, na mieste 23 € 
       tickets:
-      # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400e024d4
+      toot-event-id: 5f39529f1609210b582720b1
   perex: Jiří Suchý & Jitka Molavcová, slávna pražská kabaretná dvojica, po prvýkrát v Banskej Štiavnici!
   content: 
     -
@@ -57,8 +57,9 @@ premysl:
       location: Kino Akademik, Nám. sv. Trojice
       price: predpredaj 7 €, na mieste 9 € 
       tickets:
-      # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400cf4c6a
+      toot-event-id: 5f3a810d16092106341e07aa
+
   perex: Jedinečný šansónový večer odborníka a milovníka českej kabaretnej piesne s pútavými príbehmi medzi Parížom a Prahou 
   content: 
     -
@@ -88,8 +89,8 @@ dzumelec:
       location: Art Cafe, povala
       price: 8 €
       tickets:
-      # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400df3a89
+      toot-event-id: 5f3959901609210b582ad94
   perex: Performatívny koncert a nonsensová prednáška nositeľa Ceny Oskára Čepana 2019 Erika Sikoru
   content: 
     -
@@ -139,8 +140,8 @@ divadlo-husa:
       time: sobota 17:00
       location: Kino Akademik, Nám. sv. Trojice
       price: predpredaj 7 €, na mieste 9 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400dcc392
+      toot-event-id: 5f3a8df26a4fc1064ce6fe23
       
   perex: Nevídaný príbeh o sile detských snov, ktoré by si mali zachovať aj dospelí  
   content: 
@@ -170,9 +171,9 @@ divadlo-commedia:
     -
       time: nedeľa 17:00
       location: Kultúrne centrum, hlavná sála
-      # price: predpredaj 5 €, na mieste 7 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      price: predpredaj 5 €, na mieste 7 €
+      toot-iframe-id: toot-ifr17400e35f0a
+      toot-event-id: 5f3a91e116092106342a389f
       
   perex: Skvelá tragikomédia o tom, čo urobí s hlúpym človekom moc
   content: 
@@ -200,8 +201,8 @@ jan-markos:
       time: sobota 15:00
       location: Art Cafe, povala
       price: 5 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400dbe7c9
+      toot-event-id: 5f3a963316092106342d2b5e
       
   perex: Majstrovská prednáška o kritickom myslení ako životnom štýle s interaktívnym kvízom od šachového veľmajstra
   content: 
@@ -225,15 +226,15 @@ mattatoio-sospeso:
     -
       time: piatok 20:00
       location: Starý zámok
-      price: 5 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      price: predpredaj 4/6 €, na mieste 5/8 €
+      toot-iframe-id: toot-ifr17400d05d2c
+      toot-event-id: 5f3b91e86a4fc1064c40817a
     -
       time: sobota 14:00
       location: Starý zámok
-      price: 5 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      price: predpredaj 5/7 €, na mieste 6/9 €
+      toot-iframe-id: toot-ifr17400dafdad
+      toot-event-id: 5f3aa3711609210634342361
       
   perex: > 
     Vertikálny tanec, akrobatická talianska love story <br>
@@ -263,14 +264,14 @@ el-goma:
       time: sobota 11:00
       location: Záhrada Skautského domu
       price: 4/6 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400d639eb
+      toot-event-id: 5f3aa943160921063436f871
     -
       time: sobota 16:00
-      location: Starý zámok
+      location: Záhrada Skautského Domu
       price: 4/6 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400d639eb
+      toot-event-id: 5f3aa943160921063436f871
       
   perex: Špičková pouličná komédia svetového improvizátora plná filmových a vizuálnych trikov 
   content: 
@@ -297,15 +298,15 @@ umami-dancetheatre:
     -
       time: piatok 17:00
       location: Klub Rubigall, Námestie sv. Trojice
-      price: 4/6 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      price: 3/5 €
+       toot-iframe-id: toot-ifr17400ce54f5
+      toot-event-id: 5f3abf176a4fc1064c028b5f
     -
       time: sobota 17:30
       location: Záhrada Skautského domu, ul. A. Pécha
       price: 4/6 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400de3829
+      toot-event-id: 5f3ac1026a4fc1064c03dc6e
       
   perex: Španielska pohybová show s prvkami pantomímy, breakdance a cirkusu o medziľudskom pochopení
   content: 
@@ -372,8 +373,8 @@ cirkus-problem:
       time: sobota 22:45
       location: Kocka, Kammerhofská 6
       price: predpredaj 7 €, na mieste 9 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400e2491e
+      toot-event-id: 5f3ac2c46a4fc1064c04d95a
    
       
   perex: Koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
@@ -468,9 +469,9 @@ ty-sycaci:
     -
       time: piatok 22:30
       location: Art Cafe, povala
-      price: predpredaj 7 €, na mieste 10 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      price: 7 €
+      toot-iframe-id: toot-ifr17400d363d0
+      toot-event-id: 5f3ad285160921063452404a
    
       
   perex: Strhujúca retro-futuristická kapela slobodomyseľnej energie, ktorá sa neprispôsobuje žánrom, ale žánre sama vytvára
@@ -543,8 +544,8 @@ sketch-up:
       time: sobota 20:30
       location: Kocka, Kammerhofská 6
       price: predpredaj 8 €, na mieste 10 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400e16c65
+      toot-event-id: 5f3ad60f6a4fc1064c111b1b
    
       
   perex: "2. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov! Moderujú Pavel Mihaľák & Roman Večerek, hrá perfektná kapela OZ Červený nos Clowndoctors."
@@ -571,8 +572,8 @@ no-touch:
       time: piatok 21:00
       location: Kocka, Kammerhofská 6
       price: 6 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400d1d682
+      toot-event-id: 5f3b840c1609210634992064
    
       
   perex: Moderné prednesy 5 mladých osobností na tému blízkosť vs. vzdialenosť s balkánskou muzikou kapely Ponorka 
@@ -620,8 +621,8 @@ cirkus-prditko:
       time: sobota 10:00
       location: Art Cafe, terasa
       price: 2/4 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400d4d99c
+      toot-event-id: 5f3b85a116092106349a1d32
    
       
   perex: Šarmantná prdíková pshow pre smelé deti i hanblivých rodičov
@@ -631,7 +632,9 @@ cirkus-prditko:
    -
     '<em>Jakub Folvarčný je český herec, komik, režisér, spevák aj poetry slamer, ktorého hravosť je neuveriteľne nákazlivá. Hrá nielen pre rodičov s deťmi, ale aj pre širokú verejnosť bez vekového obmedzenia.</em>'     
   pictures:
-    # - 
+    - Jakub Folvarcny_Cirkus prditko_1.jpg
+    - Jakub Folvarcny_Cirkus prditko_2.jpg
+    - Jakub Folvarcny_Cirkus prditko_3.jpg
 
   link: http://www.ustavuzasu.cz
 

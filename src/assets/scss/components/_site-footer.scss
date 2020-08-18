@@ -65,9 +65,14 @@
 
 		&::before,
 		&::after {
-			display: inline-block;
+			display: flex;
+			justify-content: center;
+			margin: auto 0;
+			
 			padding: rem-calc( 0 16 );
+			// padding-top:15px;
 			line-height: rem-calc( 48 );
+			
 		}
 
 		&::before {
