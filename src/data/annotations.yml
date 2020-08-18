@@ -33,6 +33,7 @@ divadlo-semafor:
       tickets:
       toot-iframe-id: toot-ifr17400e024d4
       toot-event-id: 5f39529f1609210b582720b1
+  
   perex: Jiří Suchý & Jitka Molavcová, slávna pražská kabaretná dvojica, po prvýkrát v Banskej Štiavnici!
   content: 
     -
@@ -174,7 +175,7 @@ divadlo-commedia:
       price: predpredaj 5 €, na mieste 7 €
       toot-iframe-id: toot-ifr17400e35f0a
       toot-event-id: 5f3a91e116092106342a389f
-      
+    
   perex: Skvelá tragikomédia o tom, čo urobí s hlúpym človekom moc
   content: 
     -
@@ -299,7 +300,7 @@ umami-dancetheatre:
       time: piatok 17:00
       location: Klub Rubigall, Námestie sv. Trojice
       price: 3/5 €
-       toot-iframe-id: toot-ifr17400ce54f5
+      toot-iframe-id: toot-ifr17400ce54f5
       toot-event-id: 5f3abf176a4fc1064c028b5f
     -
       time: sobota 17:30
@@ -370,7 +371,7 @@ cirkus-problem:
   general: Program pre mladých a rodiny s deťmi            
   occurences: 
     -
-      time: sobota 22:45
+      time: sobota 21:30
       location: Kocka, Kammerhofská 6
       price: predpredaj 7 €, na mieste 9 €
       toot-iframe-id: toot-ifr17400e2491e
@@ -467,7 +468,7 @@ ty-sycaci:
   general: Program pre mladých a dospelých            
   occurences: 
     -
-      time: piatok 22:30
+      time: piatok 21:30
       location: Art Cafe, povala
       price: 7 €
       toot-iframe-id: toot-ifr17400d363d0
@@ -541,7 +542,7 @@ sketch-up:
   general: Program pre mladých a dospelých      
   occurences: 
     -
-      time: sobota 20:30
+      time: sobota 19:30
       location: Kocka, Kammerhofská 6
       price: predpredaj 8 €, na mieste 10 €
       toot-iframe-id: toot-ifr17400e16c65

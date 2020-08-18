@@ -31,8 +31,9 @@ divadlo-semafor:
       location: Cultural centre, main hall
       price: presale 19 €, onsale 23 € 
       tickets:
-      # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400e024d4
+      toot-event-id: 5f39529f1609210b582720b1 
+  
   perex: Jiří Suchý & Jitka Molavcová, the famous cabaret duo from Prague, are coming to Banská Štiavnica for the first time!
   content: 
     -
@@ -57,8 +58,10 @@ premysl:
       location: Cinema Akademik, St. Trinity square
       price: presale 7 €, onsale 9 € 
       tickets:
-      # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400cf4c6a
+      toot-event-id: 5f3a810d16092106341e07aa
+    
+
   perex: A unique chanson evening of a true Czech cabaret song expert and enthusiast and his muse, featuring captivating stories between Paris and Prague
   content: 
     -
@@ -87,8 +90,8 @@ dzumelec:
       location: Art Cafe, attic
       price: 8 €
       tickets:
-      # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400df3a89
+      toot-event-id: 5f3959901609210b582ad94
   perex: Performative concert and the nonsensical lecture of the laureate of the Oskár Čepan award 2019 Erik Sikora
   content: 
     -
@@ -136,8 +139,8 @@ divadlo-husa:
       time: Saturday 17:00
       location: Cinema Akademik, St. Trinity square
       price: pre-sale 7 €, on-sale 9 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400dcc392
+      toot-event-id: 5f3a8df26a4fc1064ce6fe23
       
   perex: One-of-a-kind story about the power of childhood dreams that the adults should keep too
   content: 
@@ -166,9 +169,9 @@ divadlo-commedia:
     -
       time: Sunday 17:00
       location: Cultural centre, main hall
-      # price: pre-sale 5 €, on-sale 7 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      price: pre-sale 5 €, on-sale 7 €
+      toot-iframe-id: toot-ifr17400e35f0a
+      toot-event-id: 5f3a91e116092106342a389f
       
   perex: Wonderful tragi-comedy about what power can do to a stupid person
   content: 
@@ -197,8 +200,8 @@ jan-markos:
       time: Saturday 15:00
       location: Art Cafe, attic
       price: 5 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400dbe7c9
+      toot-event-id: 5f3a963316092106342d2b5e
       
   perex: A masterclass lecture about critical thinking as a lifestyle by a chess grandmaster, featuring an interactive quiz
   content: 
@@ -223,14 +226,14 @@ mattatoio-sospeso:
       time: Friday 20:00
       location: Old Castle
       price: 5 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400d05d2c
+      toot-event-id: 5f3b91e86a4fc1064c40817a
     -
       time: Saturday 14:00
       location: Old Castle
       price: 5 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400dafdad
+      toot-event-id: 5f3aa3711609210634342361
       
   perex: > 
     Vertical dance on the balcony, an acrobatic Italian love story <br>
@@ -261,14 +264,14 @@ el-goma:
       time:  Saturday 11:00
       location: Scout house garden
       price: 4/6 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400d639eb
+      toot-event-id: 5f3aa943160921063436f871
     -
       time: Saturday 16:00
       location: Old Castle
       price: 4/6 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400d639eb
+      toot-event-id: 5f3aa943160921063436f871
       
   perex: Spectacular street comedy of a world-class improviser full of film and visual tricks
   content: 
@@ -296,14 +299,14 @@ umami-dancetheatre:
       time:  Friday 17:00
       location: Club Rubigall, St. Trinity square
       price: 4/6 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400ce54f5
+      toot-event-id: 5f3abf176a4fc1064c028b5f
     -
       time: Saturday 17:30
       location: Scout house garden
       price: 4/6 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400de3829
+      toot-event-id: 5f3ac1026a4fc1064c03dc6e
       
   perex: The Spanish physical performance with elements of pantomime, breakdance and circus about mutual understanding
   content: 
@@ -356,11 +359,11 @@ cirkus-problem:
   general: Programme for both the youth and the adults      
   occurences: 
     -
-      time: Saturday 22:45
+      time: Saturday 21:30
       location: Cube, Kammerhofská 6
       price: pre-sale 7 €, on-sale 9 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400e2491e
+      toot-event-id: 5f3ac2c46a4fc1064c04d95a
    
       
   perex: Concert of an unhinged klezmer, balkan and world music band for everyone to dance to
@@ -445,11 +448,11 @@ ty-sycaci:
   general: Programme for both the youth and the adults        
   occurences: 
     -
-      time: Friday 22:30
+      time: Friday 21:30
       location: Art Cafe, attic
       price: pre-sale 7 €, on-sale 10 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400d363d0
+      toot-event-id: 5f3ad285160921063452404a
    
       
   perex: Captivating retro-futurist band of free-thinking energy that does not conform to genres, but rather creates its own ones
@@ -503,11 +506,11 @@ sketch-up:
   general: Program for both the youth and adults       
   occurences: 
     -
-      time: Saturday 20:30
+      time: Saturday 19:30
       location: Cube, Kammerhofská 6
       price: pre-sale 8 €, on-sale 10 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400e16c65
+      toot-event-id: 5f3ad60f6a4fc1064c111b1b
    
       
   perex: "The 2nd annual edition of the Czech-Slovak cabaret sketch competition featuring many new talents! Hosted by Pavel Mihaľák & Roman Večerek, with music by the perfect band of the civic org. Red Nose Clowndoctors."
@@ -534,8 +537,8 @@ no-touch:
       time: Friday 21:00
       location: Cube,Kammerhofská 6
       price: 6 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400d1d682
+      toot-event-id: 5f3b840c1609210634992064
    
       
   perex: Captivating spoken word performances of 5 young personalities on the topic of closeness vs. distance with the Balkan music by the band Ponorka
@@ -583,8 +586,8 @@ cirkus-prditko:
       time: Saturday 10:00
       location: Art Cafe, terrace
       price: 2/4 €
-       # toot-iframe-id: toot-btckts-ifr16c44402e95
-      # toot-event-id: 5d3893aabba62e0fb8a618ed
+      toot-iframe-id: toot-ifr17400d4d99c
+      toot-event-id: 5f3b85a116092106349a1d32
    
       
   perex: Charming farting show for both bold children and their shy parents
