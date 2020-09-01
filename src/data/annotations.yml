@@ -90,8 +90,8 @@ dzumelec:
       location: Art Cafe, povala
       price: 8 €
       tickets:
-      toot-iframe-id: toot-ifr17400df3a89
-      toot-event-id: 5f3959901609210b582ad94
+      toot-iframe-id: toot-ifr17446a49d2e
+      toot-event-id: 5f3959901609210b582ad94c
   perex: Performatívny koncert a nonsensová prednáška nositeľa Ceny Oskára Čepana 2019 Erika Sikoru
   content: 
     -
@@ -265,14 +265,14 @@ el-goma:
       time: sobota 11:00
       location: Záhrada Skautského domu
       price: 4/6 €
-      toot-iframe-id: toot-ifr17400d639eb
+      toot-iframe-id: toot-ifr17446970605
       toot-event-id: 5f3aa943160921063436f871
     -
       time: sobota 16:00
       location: Záhrada Skautského Domu
-      price: 4/6 €
-      toot-iframe-id: toot-ifr17400d639eb
-      toot-event-id: 5f3aa943160921063436f871
+      price: 5/8 €
+      toot-iframe-id: toot-ifr174469957d4
+      toot-event-id: 5f43cdedf12e590d18871956
       
   perex: Špičková pouličná komédia svetového improvizátora plná filmových a vizuálnych trikov 
   content: 
