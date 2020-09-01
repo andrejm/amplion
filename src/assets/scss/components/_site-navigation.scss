@@ -56,12 +56,13 @@
 			}
 		}
 
-		.top-bar {
-		}
+		
 	}
 
 	.top-bar {
+		
 		@include xy-grid-container;
+		max-width: 87em;
 
 		.menu {
 			li {
