@@ -94,7 +94,11 @@ paid-events:
 		<img src="/assets/img/header-vstupenky-mobile.png" alt="AMPLION 2019" class="section__headerimage">
 		<!-- <h1 class="section__title">Vstupenky na predstavenia</h1> -->
 		<p class="section__introtext text-center">
-			Všetky platené predstavenia pekne pokope.
+      Všetky platené predstavenia pekne pokope.
+      <br><br>
+      V prípade, že sa Vám vstupenky nenačítajú môžete prejsť na stránku predajcu <a target="_blank" href="https://tootoot.fm/sk/5d372de8d198cd077ceaa65f" style="color:#E62E6C">tootoot.sk</a>
+      <br><br>
+      Ak máte problém, alebo sa chcete poradiť pri nákupe vstupeniek, volajte na Tootoot support: <a href="tel:+421948960696"  style="color:#E62E6C">+421 948 960 696</a>
 		</p>
 	</div>
 </section>
@@ -122,19 +126,34 @@ paid-events:
 						</h3>
 						<h2 class="ticketslist__title">
 							{{lookup (lookup @root.annotations event.pev-title) 'title'}}
-						</h2>
+            </h2>
+            
 					
 						{{#with (lookup (lookup (lookup @root.annotations event.pev-title) 'occurences' ) event.pev-occurence)}}
 							<p>{{time}}</p>
-							{{#if @root.site-config.show-tickets}}
+							<!-- {{#if @root.site-config.show-tickets}}
 								{{!--  --}}
 								{{>_toot-iframe iframelang="sk"}}
 								{{!-- --}}
 							{{else}}
 							<p><em>Vstupenky zatiaľ nedostupné</em></p>
-							{{/if}}
-						{{/with}}
-					</li>
+							{{/if}}  odstranene vstupenky pre dlhe načítavanie-->
+            {{/with}}
+
+            <!-- novy content pridany v roku 2020-->
+            {{#ifequal this.price 0}}
+                    {{!-- intentionally left blank, dont have opposit helper --}}
+                {{else}}
+            <div class="progitem__cta">
+                <a href="/program/{{event.pev-title}}#vstupenky" class="button progitem__cty" style="width:70%; height:7%;margin: 0 auto;padding: 1.4em 1.5em 1.5em 1.3em;">Kúpiť vstupenku</a>
+            </div>
+                {{/ifequal}}
+
+            <!-- novy content -->
+          </li>
+         
+          
+
 				{{/each}}
 			</ul>
       <p>&nbsp;</p>

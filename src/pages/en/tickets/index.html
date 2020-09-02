@@ -85,7 +85,12 @@ paid-events:
 		<!-- <h1 class="section__title">Vstupenky na predstavenia</h1> -->
 		<p class="section__introtext text-center">
       All the events with their tickets together.
-		</p>
+
+      <br><br>
+      If your tickets are not being loaded, you can go to the seller's website <a target="_blank" href="https://tootoot.fm/sk/5d372de8d198cd077ceaa65f" style="color:#E62E6C">tootoot.sk</a>
+      <br><br>
+      If you have a problem or you need an advice on buying tickets, call Tootoot support: <a href="tel:+421948960696"  style="color:#E62E6C">+421 948 960 696</a>
+    </p>
 	</div>
 </section>
 <section class="section">
@@ -116,15 +121,24 @@ paid-events:
 					
 						{{#with (lookup (lookup (lookup @root.annotations-en event.pev-title) 'occurences' ) event.pev-occurence)}}
 							<p>{{time}}</p>
-							{{#if @root.site-config.show-tickets}}
+							<!-- {{#if @root.site-config.show-tickets}}
 								{{!--  --}}
 								{{>_toot-iframe iframelang="en"}}
 								{{!-- --}}
 							{{else}}
 							<p><em>Tickets not available yet</em></p>
-							{{/if}}
-						{{/with}}
-					</li>
+							{{/if}} -->
+            {{/with}}
+
+           
+    <div class="progitem__cta">
+        <a href="/en/programme/{{event.pev-title}}#tickets" class="button progitem__cty" style="width:40%; height:7%;margin: 0 auto;padding: 1.5em 1.5em 1.1em 1.5em;">Buy ticket</a>
+    </div>
+       
+
+            
+          </li>
+        
 				{{/each}}
 			</ul>
       <p>&nbsp;</p>

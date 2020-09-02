@@ -73,6 +73,7 @@
 					color: $amp-primary-alt;
 					background: transparent url("../img/menu-arrow.svg") no-repeat 85% center;
 					margin-bottom: rem-calc( 16 );
+					
 				}
 			}
 		}
@@ -91,11 +92,12 @@
 				li {
 					display: flex;
 					align-items: center;
-					padding: rem-calc( 0 12 );
+					padding: rem-calc( 0 0 );
 					a {
 						background: none;
 						font-size: rem-calc( 14 );
 						margin-bottom: 0;
+					
 
 						&:hover {
 							color: $amp-secondary;
