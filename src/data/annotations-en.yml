@@ -111,6 +111,7 @@ lano:
   premiere: true
   title: WHY THE CHILD BOILS IN PORRIDGE
   general: Programme for both the youth and the adults        
+  price: 0
   occurences: 
     -
       time: Friday 18:00
@@ -327,7 +328,8 @@ umami-dancetheatre:
 nightcall:
   performer: Nightcall, Bratislava (SK)     
   title: INCALL                                 
-  general: Programme for the youth and families with children                          
+  general: Programme for the youth and families with children    
+  price: 0                      
   occurences: 
     -
       time: Friday 19:15
@@ -382,28 +384,22 @@ cirkus-problem:
   link: http://www.circusproblem.com 
 
 cirkus-problem-promo:
-  performer: Cirkus Problem, Praha (CZ)   
+  performer: Circus Problem, Prague (CZ)   
   title: PROMO                                  
-  general: Program pre mladých a rodiny s deťmi            
+  general: Programme for both the youth and the adults      
+  price: 0         
   occurences: 
     -
-      time: sobota 14:30
-      location: Trotuár, ul. A. Kmeťa
+      time: saturday 14:30
+      location: Trotuár, A. Kmeť street
       
-  perex: Promo koncertu nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
+  perex: Concert of an unhinged klezmer, balkan and world music band for everyone to dance to
   content: 
     -
-     'Máte problém sa kvalitne zabaviť? Chcete si aj poriadne zatancovať? Hľadáte dávku
-hudobnej energie podľa vášho gusta? Žiaden problém, a ak, tak len Cirkus Problem! Dobite si
-baterky koncertom parádnej českej kapely v originálnom umeleckom vizuále. Akordeón,
-klarinet, trombón, husle, basová gitara a bicie vyrobia parádny hudobný cirkus. Veď skupina
-ohuruje publikum na mnohých zahraničných festivaloch a pýši sa aj úspešným vystúpením
-v Česko Slovensko má talent 2016.'
+     'Do you have issues having some quality fun? Do you also want to dance your heart out? Are you searching for a dose of musical energy to your taste? No problem, and even if, then only Circus Problem! Recharge your batteries with a concert of an amazing Czech band with an original artistic visual. An accordion, clarinet, trombone, violin, bass guitar and drums will create a wonderful musical circus. After all, the band has been stunning audiences of many foreign festivals and can be also proud of their successful performance in Czecho Slovakia has Talent 2016.'
     -
-     '<em>Kapela Cirkus Problem vznikla v roku 2012 a jej frontmanom je zakladajúci člen Jirka Čevela
-(spev a akordeón). Doteraz vydala 4 albumy a natočila 3 videoklipy. Tešíme sa na ich
-energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy povestné.
-</em>'
+     '<em>The band Circus Problem was formed in 2012, fronted by the founding member, Jirka Čevela (vocals and accordion). They have released 4 albums and 3 video clips so far. We are looking forward to their energetic music-acting performance, because concerts and Amplifier are always legendary.</em>'
+
 
   pictures:
     - circus problem PR 2.jpg
@@ -417,7 +413,8 @@ energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy po
 cirkus-problem-after:
   performer: Cirkus Problem, Praha (CZ)   
   title: AFTER KONCERT                               
-  general: Program pre mladých a rodiny s deťmi            
+  general: Program pre mladých a rodiny s deťmi   
+  price: 0         
   occurences: 
     -
       time: nedela 11:00
@@ -476,6 +473,7 @@ ty-sycaci-after:
   performer: Ty Syčáci, Brno (CZ)     
   title: AFTER CONCERT                                         
   general: Programme for both the youth and the adults      
+  price: 0
   occurences: 
     -
       time: Saturday 10:30
@@ -558,6 +556,7 @@ dzumelec-proti-dospelosti:
   performer: Džumelec, Košice (SK)
   title: CONCERT AGAINST ADULTHOOD                              
   general: Programme for families with children   
+  price: 0
   occurences: 
     -
       time: Sunday 14:00
@@ -605,7 +604,8 @@ cirkus-prditko:
   link: http://www.ustavuzasu.cz
 
 mariusz-goli:
-  performer: Mariusz Goli, Katowice (PL)                                                
+  performer: Mariusz Goli, Katowice (PL)     
+  price: 0                                           
   occurences: 
     -
       location: Kedykoľvek, kdekoľvek 
@@ -626,7 +626,8 @@ kúskov.</em>'
 
 
 ponorka:
-  performer: Ponorka, Praha (CZ)                                                          
+  performer: Ponorka, Praha (CZ)      
+  price: 0                                                    
   occurences: 
     -
       location: Kedykoľvek, kdekoľvek 
@@ -648,7 +649,8 @@ a kontrabas, to je more dobrej muziky.'
 
 
 bilek:
-  performer: Dávid Bílek, Banská Bystrica (SK)                                                          
+  performer: Dávid Bílek, Banská Bystrica (SK)      
+  price: 0                                                    
   occurences: 
     -
       location: Kedykoľvek, kdekoľvek 

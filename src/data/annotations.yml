@@ -112,6 +112,7 @@ lano:
   premiere: true
   title: PREČO SA DIEŤA VARÍ V KAŠI
   general: Program pre mladých a dospelých    
+  price: 0
   occurences: 
     -
       time: piatok 18:00
@@ -327,7 +328,8 @@ umami-dancetheatre:
 nightcall:
   performer: Nightcall, Bratislava (SK)     
   title: INCALL                                 
-  general: Program pre mladých a rodiny s deťmi            
+  general: Program pre mladých a rodiny s deťmi      
+  price: 0      
   occurences: 
     -
       time: piatok 19:15
@@ -404,7 +406,8 @@ energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy po
 cirkus-problem-promo:
   performer: Cirkus Problem, Praha (CZ)   
   title: PROMO                                  
-  general: Program pre mladých a rodiny s deťmi            
+  general: Program pre mladých a rodiny s deťmi      
+  price: 0      
   occurences: 
     -
       time: sobota 14:30
@@ -437,7 +440,8 @@ energické hudobno-herecké vystúpenie, lebo koncerty na Amplióne sú vždy po
 cirkus-problem-after:
   performer: Cirkus Problem, Praha (CZ)   
   title: AFTER KONCERT                               
-  general: Program pre mladých a rodiny s deťmi            
+  general: Program pre mladých a rodiny s deťmi      
+  price: 0
   occurences: 
     -
       time: nedela 11:00
@@ -503,7 +507,8 @@ netvora, egyptská královna hledí do budoucnosti a čas běží. Rajské jabl
 ty-sycaci-after:
   performer: Ty Syčáci, Brno (CZ)     
   title: AFTER KONCERT                                         
-  general: Program pre mladých a dospelých            
+  general: Program pre mladých a dospelých     
+  price: 0       
   occurences: 
     -
       time: sobota 10:30
@@ -552,7 +557,7 @@ sketch-up:
   perex: "2. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov! Moderujú Pavel Mihaľák & Roman Večerek, hrá perfektná kapela OZ Červený nos Clowndoctors."
   content:    
    -
-    'Po úspešnom pilotnom ročníku súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla, pokračuje! Všetky skeče prepojí jedna téma – blízkosť vs. vzdialenosť, ktoré podajú zážitkovou a zábavnou formou títo účinkujúci: šarmantný herec a slamer Jakub Folvarčný (CZ), herecko-hudobné duo študentov VŠMU Martin Toman & Tadeáš Bolo (SK), famózny standapista inteligentného humoru zo Silných rečí, Matej Makovický (SK), zdravotný klaun a performer Ján Mikuš (SK), svieži herci a tanečníci súboru Cirkeváčik (SK) z konzervatória v Bratislave, mladí divadelníci zoskupenia Ulita (SK) a nádejná slovenská herečka a dirigentka Emília Lehotská (SK) so svojím šibalským prednesom. Hravú energiu a vlastné herecko-hudobné výstupy predvedie komické duo moderátorov Pavel Mihaľák a Roman Večerek a jedinečnú atmosféru vytvorí bláznivá klaunská kapela z OZ Červený nos Clowndoctors. Porotcami budú performer Džumelec alias Erik Sikora, legenda českého kabaretu Přemysl Rut a Dušan Krnáč, performer, scénograf a designér Festivalu AMPLIÓN. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 6. ročníku Festivalu AMPLIÓN 2021. Nenechajte si tento nadupaný program ujsť!' 
+    'Po úspešnom pilotnom ročníku súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla, pokračuje! Všetky skeče prepojí jedna téma – blízkosť vs. vzdialenosť, ktoré podajú zážitkovou a zábavnou formou títo účinkujúci: šarmantný herec a slamer Jakub Folvarčný (CZ), herecko-hudobné duo študentov VŠMU Martin Toman & Tadeáš Bolo (SK), famózny standapista inteligentného humoru zo Silných rečí, Matej Makovický (SK), svieži herci a tanečníci súboru Cirkeváčik (SK) z konzervatória v Bratislave, mladí divadelníci zoskupenia Ulita (SK) a nádejná slovenská herečka a dirigentka Emília Lehotská (SK) so svojím šibalským prednesom. Hravú energiu a vlastné herecko-hudobné výstupy predvedie komické duo moderátorov Pavel Mihaľák a Roman Večerek a jedinečnú atmosféru vytvorí bláznivá klaunská kapela z OZ Červený nos Clowndoctors. Porotcami budú performer Džumelec alias Erik Sikora, legenda českého kabaretu Přemysl Rut a Dušan Krnáč, performer, scénograf a designér Festivalu AMPLIÓN. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 6. ročníku Festivalu AMPLIÓN 2021. Nenechajte si tento nadupaný program ujsť!' 
     
      
   pictures:
@@ -595,6 +600,7 @@ dzumelec-proti-dospelosti:
   performer: Džumelec, Košice (SK)
   title: KONCERT PROTI DOSPELOSTI                              
   general: Program  pre rodiny s deťmi    
+  price: 0
   occurences: 
     -
       time: nedeľa 14:00
@@ -640,7 +646,8 @@ cirkus-prditko:
   link: http://www.ustavuzasu.cz
 
 mariusz-goli:
-  performer: Mariusz Goli, Katowice (PL)                                                
+  performer: Mariusz Goli, Katowice (PL)    
+  price: 0                                            
   occurences: 
     -
       location: Kedykoľvek, kdekoľvek 
@@ -661,7 +668,8 @@ kúskov.</em>'
 
 
 ponorka:
-  performer: Ponorka, Praha (CZ)                                                          
+  performer: Ponorka, Praha (CZ)       
+  price: 0                                                   
   occurences: 
     -
       location: Kedykoľvek, kdekoľvek 
@@ -683,7 +691,8 @@ a kontrabas, to je more dobrej muziky.'
 
 
 bilek:
-  performer: Dávid Bílek, Banská Bystrica (SK)                                                          
+  performer: Dávid Bílek, Banská Bystrica (SK)   
+  price: 0                                                       
   occurences: 
     -
       location: Kedykoľvek, kdekoľvek 
