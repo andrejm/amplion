@@ -2,7 +2,7 @@
   time: 11:15 – 11:45
   performer: Ponorka (SK)
   age: Family
-  title: BUSKING  
+  # title: BUSKING  
   perex: podmanivá balkánska street kapela
   price: 0
   location: Art Cafe, terasa
@@ -10,19 +10,19 @@
 
 -
   time: 11:45 – 12:15
-  performer: David Bílek (SK)
-  age: Family
-  title: BUSKING  
-  perex: Talentovaný muzikant pop, latino a flamengo
+  performer: Mariusz Goli (PL)
+  age: 15+
+  # title: BUSKING  
+  perex: neobyčajný poľský gitarista
   price: 0
   location: Radičné námestie
-  slug: bilek
+  slug: mariusz-goli
 
 -
   time: 12:30 – 12:50
   performer: Umami Dancetheathre (ES/FR)
   age: Family
-  title: BUSKING  
+  # title: BUSKING  
   perex: pozvánka na pohybovú show
   price: 0
   location: Radičné námestie
@@ -32,7 +32,7 @@
   time: 13:15 – 13:45
   performer: Mariusz Goli (PL)
   age: 15+
-  title: BUSKING  
+  # title: BUSKING  
   perex: neobyčajný poľský gitarista
   price: 0
   location: Trotuár, ul. A. Kmeťa
@@ -42,7 +42,7 @@
   time: 15:00 – 15:45
   performer: Ponorka (SK)
   age: Family
-  title: BUSKING  
+  # title: BUSKING  
   perex: podmanivá balkánska street kapela
   price: 0
   location: Trotuár, ul. A. Kmeťa
@@ -52,7 +52,7 @@
   time: 16:30 – 16:45
   performer: Umami Dancetheathre (ES/FR)
   age: Family
-  title: BUSKING  
+  # title: BUSKING  
   perex: pozvánka na pohybovú show
   price: 0
   location: Námestie sv. Trojice
@@ -60,13 +60,13 @@
 
 -
   time: 17:15 – 17:45
-  performer: David Bílek (SK)
-  age: Family
-  title: BUSKING  
-  perex: talentovaný muzikant pop, latino a flamengo
+  performer: Mariusz Goli (PL)
+  age: 15+
+  # title: BUSKING  
+  perex: neobyčajný poľský gitarista
   price: 0
   location: Art Cafe, terasa
-  slug: bilek
+  slug: mariusz-goli
 
 
 

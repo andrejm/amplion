@@ -604,17 +604,16 @@ cirkus-prditko:
   link: http://www.ustavuzasu.cz
 
 mariusz-goli:
-  performer: Mariusz Goli, Katowice (PL)     
+  performer: Mariusz Goli, Katowice (PL)   
   price: 0                                           
   occurences: 
     -
-      location: Kedykoľvek, kdekoľvek 
+      location: Anytime, anywhere
       
   content:    
    -
-    '<em>Neobyčajný poľský gitarista, hudobník a skladateľ, ktorý svojím podmanivým
-hraním zastaví čas na každej ulici. Hranie na gitare mení na kúzelnícku show nečakaných
-kúskov.</em>'
+    '<em>An unusual Polish guitarist, musician and composer who can stop time in any street with his
+enthralling playing. His guitar playing turns into a magic show filled with unexpected tricks.</em>'
 
   
   pictures:
@@ -626,17 +625,17 @@ kúskov.</em>'
 
 
 ponorka:
-  performer: Ponorka, Praha (CZ)      
+  performer: Submarine, Prague (CZ)     
   price: 0                                                    
   occurences: 
     -
-      location: Kedykoľvek, kdekoľvek 
+      location: Anytime, anywhere
       
   content:    
    -
-    'Podmanivá pražská pouličná kapela vás ponorí do chytľavého autentického balkánu. 
-Stretnutie s nimi si užijete a verte, že z neho nebudete mať žiadnu ponorku. Husle, viola, gitara
-a kontrabas, to je more dobrej muziky.'
+    'A captivating Prague street band will immerse you in the world of catchy authentic Balkan
+music. You will enjoy meeting them and believe us, there will be no deep-sea silence. Violin,
+viola, guitar and upright bass, that is a sea of good music.'
 
   
   pictures:
@@ -645,21 +644,23 @@ a kontrabas, to je more dobrej muziky.'
    - Ponorka_CZ_3.jpg
 
 
-  link: http://www.prahazijehudbou.cz/artists/ponorka 
+  link: https://m.facebook.com/Ponorka-104030337930498/
 
 
 bilek:
-  performer: Dávid Bílek, Banská Bystrica (SK)      
+  performer: Dávid Bílek, Banská Bystrica (SK)
   price: 0                                                    
   occurences: 
     -
-      location: Kedykoľvek, kdekoľvek 
+      location: Anytime, anywhere
       
   content:    
    -
-    '<em>Mladý talentovaný muzikant pop, latino a flamengo. Hrá na gitaru od 7 rokov.
-Aj napriek svojmu mladému veku hral už sólo na koncerte veľkého Symfonického orchestra v 
-Bratislave podvedením Braňa Kostku. Zúčastnil sa aj súťaže Česko Slovensko má talent. </em>'
+    '<em>A young, talented musician of pop, latino and flamenco. He has been playing guitar since he
+turned 7.
+Despite his young age, he has already played solo at the concert of the big Symphonic
+Orchestra in Bratislava under the direction of Braňo Kostka. He has taken part in the Czecho-
+Slovakia has Talent competition.</em>'
 
   
   pictures:
