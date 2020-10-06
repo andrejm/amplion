@@ -70,6 +70,8 @@ section--notopspace - without top padding
 		.section--narrow & {
 			@include xy-grid-container( $narrow-section-width ); //limit grid container width
 		}
+
+		
 	}
 
 	&__headerimage {
