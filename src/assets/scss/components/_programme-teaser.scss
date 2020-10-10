@@ -2,11 +2,13 @@
 	@include xy-grid;
 
 	&__item {
+		// @include xy-cell( 6 ); pre styri predstavenia
 		@include xy-cell( 6 );
+		margin: 0 auto;
 	}
 
 	&__title {
-		font-size: rem-calc( 16 );
+		font-size: rem-calc( 14 );
 		font-weight: $global-weight-bold;
 		color: $amp-secondary;
 		@include rotate-cw-m;
@@ -54,6 +56,22 @@
 	@include breakpoint( large ) {
 		&__item {
 			@include xy-cell( 3 );
+			
 		}
+		&__item_full {
+			@include xy-cell( 4 );
+			margin: 0 auto;
+			transform: rotate( 0deg );
+			margin-top: 20px;
+			text-align: center;
+			
+		}
+		&__item_full:nth-child(2n+3) &__title {
+			transform: rotate( 0deg );
+			
+			
+		}
+		
+		
 	}
 }

@@ -20,7 +20,7 @@
 
 	&__href {
 		@include amp-polygon-border();
-		padding: rem-calc( 45 30 40 50 );
+		padding: rem-calc( 45 15 45 40 );
 		display: flex;
 		flex-flow: row nowrap;
 		@include amp-subtle-jump;
