@@ -1,0 +1,60 @@
+edition: 5
+date: 25. – 27. 27. 9.2020
+introtext: Témou 5. ročníka festivalu bola blízkosť verzus vzdialenosť <br>v dobe koronakrízy. Umenie šíri porozumenie.
+premieres:
+  -
+    performer: Umami Dancetheater (ES+FR)
+    title: BITTER SWEET
+  -
+    performer: El Goma (ARG/DE)
+    title: ATARI SHOW
+  -
+    performer: Mattatoio Sospeso (FR+IT)
+    title: OUT!
+  -
+    performer: Divadlo Husa na provázku (CZ)
+    title: OSKAR A RŮŽOVÁ PANÍ 
+argentums:
+  - Džumelec 
+  - Umami Dancetheatre
+  - Ján Markoš
+  - Ponorka
+argentums-pro:
+  - Jiří Suchý a Jitka Molavcová & Divadlo SEMAFOR
+text:
+  - Piaty ročník AMPLIÓNU, opäť v pôvodnom jesennom termíne, sa stal pre rýchlo meniace sa pravidlá a podmienky organizovania hromadných akcií v čase koronakrízy manažérskou výzvou. A podaril sa zázračne! 
+  - Jubilejný ročník bol plnohodnotným trojdňom 25 programov so 75 umelcami zo 7 krajín Európy vrátane 4 slovenských premiér. A nechýbali ani diváci. 
+  - Ako jeden z mála festivalov sa AMPLIÓN rozhodol vytrvať a festival vo všeobecnom chaose a napätí uskutočniť. Podarilo sa vybaviť všemožné výnimky pre zahraničných umelcov, ktorí pricestovali na festival s negatívnymi PCR-testami, uplatnili sa tiež výnimky pre umelcov z Českej republiky. 
+  - Aj vďaka tomu festival po niekoľkoročnom úsilí historicky po prvýkrát v Banskej Štiavnici privítal slávne Divadlo Semafor s Jiřím Suchým a Jitkou Molavcovou, ale aj Divadlo Husa na provázku či odborníka a milovníka európskej kabaretnej piesne, prof. Přemysla Ruta. 
+  - Novinkou festivalu boli BUSKERI – zahraniční pouliční umelci vybraní na základe výzvy, ktorí umocnili genius loci štiavnických ulíc či kaviarní. Atmosféru akcie výnimočne osviežila Klaunská zdravotná jednotka, ktorá rozdávala smiech pre zdravie a veselo dohliadala na dodržiavanie všetkých hygienických opatrení. 
+  - Vydaril sa aj druhý ročník česko-slovenskej súťaže na podporu vzniku nových kabaretov SKETCH UP so skvelou klaunskou kapelou aj moderátorským duom. Víťazom sa stala novoobjavená pražská kapela Ponorka, na ktorej celovečerný program sa AMPLIÓN môže tešiť o rok. 
+  - Už po druhýkrát na festival zavítala francúzsko-talianska skupina Mattatoio Sospeso, tentokrát s romantickou akrobatickou show OUT! Výbornú interaktívnu improvizáciu s divákmi predviedol Argentínčan El Goma. 
+  - Cenu AMPLION ARGENTUM v kategórii Nový kabaret získal Erik Sikora alias DŽUMELEC (SK) za performatívnu prednášku pre dospelých VYSVETĽOVATEĽ a KONCERT PROTI DOSPELOSTI pre deti, v kategórii Pouličné umenie si cenu prevzalo španielske duo Umami Dancetheatre (ES/FR) s akrobaticko-tanečnou performanciou BITTER-SWEET o porozumení a v kategórii Spoločensko-angažovaná tvorba si cenu zaslúžil JÁN MARKOŠ (SK) za interaktívnu prednášku s kvízom o kritickom myslení SILA ROZUMU, o ktorú bol veľký divácky záujem. 
+  - Organizátori udelili aj mimoriadnu cenu AMPLION ARGENTUM za celoživotné dielo v oblasti kabaretu – Divadlu SEMAFOR (CZ). 5. ročník ukázal, aké je dôležité šíriť medzi ľudmi porozumenie a tiež, že umenie je na to výborným nástrojom. Prijímateľa inšpiruje, poskytuje mu relax, zábavu či poznanie, ale najmä obohacuje jeho duševné zdravie – teda aj v umení ide o život! 
+  - Ďakujeme všetkým, ktorí svojou návštevou podporili piaty AMPLIÓN. Rovnako ďakujeme nezištným donorom, ktorí chápu potrebu kvalitnej kultúry pre život v regióne.
+
+download:
+  -
+    title: x
+    link: x
+videos:
+  -
+    title: Aftermovie
+    id: aftermovie
+    link: https://www.youtube.com/embed/yIvFYa9OO8w
+    screenshot: video-aftermovie-5rocnik.jpg
+  -
+    title: Dokument
+    id: dokument
+    link: https://www.youtube.com/embed/5XCgdKXzDlI
+    screenshot: video-dokument-5rocnik.jpg
+  -
+    title: Promo spot
+    id: promospot
+    link: https://www.youtube.com/embed/HecnWIFKmyo
+    screenshot: video-promo-5rocnik.jpg
+festival-newspaper: FN_AMPLION_2020_web.pdf
+photofolder: fotogaleria-festivalu-2020
+photos:
+  # - Amplión - Less Mess Revolucioners - 30.08.19 - FotoLuºina (16).jpg
+ 

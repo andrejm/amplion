@@ -8,6 +8,7 @@
 		width: 100%;
 		max-width: rem-calc( 300 );
 		margin-bottom: rem-calc( 32 );
+		margin-left:30px;
 
 		&--disabled {
 			opacity: 0.5;
@@ -70,7 +71,8 @@
 
 	@include breakpoint( medium ) {
 		flex-flow: row wrap;
-		justify-content: space-between;
+		justify-content: center;
+		
 		margin-top: rem-calc( 32 );
 		
 		&__item { 

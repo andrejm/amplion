@@ -65,7 +65,8 @@ section--notopspace - without top padding
 
 	&__inner {
 		@include xy-grid-container;
-		padding-top:4px;
+		padding-top:10px;
+		
 
 		.section--narrow & {
 			@include xy-grid-container( $narrow-section-width ); //limit grid container width
@@ -264,7 +265,6 @@ section--notopspace - without top padding
 				// margin-top: -8%;
 			}
 		}
-
 		&__introsubtext {
 			display: block;
 			text-align: center;
@@ -296,7 +296,7 @@ section--notopspace - without top padding
 			}
 
 			&--left { //horizonatal
-				left: 5%;
+				left: 0%;
 			}
 
 			&--anatol {
