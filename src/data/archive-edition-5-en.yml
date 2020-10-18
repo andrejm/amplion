@@ -1,14 +1,13 @@
 edition: 5
-date: 25. – 27. 27. 9.2020
-# treba napisat motiv anglicky
-introtext: The motifs of 5<sup>th</sup> edition were openness versus closeness, anniversary of the Velvet revolution and a new cabaret of young creatives. We open minds and hearts with art!
+date: 25. – 27. 9.2020
+introtext: The topic of the 5th year of the festival was closeness vs. distance  in the time of the corona-crisis. Art creates understanding.
 premieres:
   -
     performer: Umami Dancetheater (ES+FR)
     title: BITTER SWEET
   -
     performer: El Goma (ARG/DE)
-    title: ATARI SHOW
+    title: The ATARI SHOW
   -
     performer: Mattatoio Sospeso (FR+IT)
     title: OUT!
@@ -23,16 +22,16 @@ argentums:
 argentums-pro:
   - Jiří Suchý a Jitka Molavcová & Divadlo SEMAFOR
 text:
-  - Piaty ročník AMPLIÓNU, opäť v pôvodnom jesennom termíne, sa stal pre rýchlo meniace sa pravidlá a podmienky organizovania hromadných akcií v čase koronakrízy manažérskou výzvou. A podaril sa zázračne! 
-  - Jubilejný ročník bol plnohodnotným trojdňom 25 programov so 75 umelcami zo 7 krajín Európy vrátane 4 slovenských premiér. A nechýbali ani diváci. 
-  - Ako jeden z mála festivalov sa AMPLIÓN rozhodol vytrvať a festival vo všeobecnom chaose a napätí uskutočniť. Podarilo sa vybaviť všemožné výnimky pre zahraničných umelcov, ktorí pricestovali na festival s negatívnymi PCR-testami, uplatnili sa tiež výnimky pre umelcov z Českej republiky. 
-  - Aj vďaka tomu festival po niekoľkoročnom úsilí historicky po prvýkrát v Banskej Štiavnici privítal slávne Divadlo Semafor s Jiřím Suchým a Jitkou Molavcovou, ale aj Divadlo Husa na provázku či odborníka a milovníka európskej kabaretnej piesne, prof. Přemysla Ruta. 
-  - Novinkou festivalu boli BUSKERI – zahraniční pouliční umelci vybraní na základe výzvy, ktorí umocnili genius loci štiavnických ulíc či kaviarní. Atmosféru akcie výnimočne osviežila Klaunská zdravotná jednotka, ktorá rozdávala smiech pre zdravie a veselo dohliadala na dodržiavanie všetkých hygienických opatrení. 
-  - Vydaril sa aj druhý ročník česko-slovenskej súťaže na podporu vzniku nových kabaretov SKETCH UP so skvelou klaunskou kapelou aj moderátorským duom. Víťazom sa stala novoobjavená pražská kapela Ponorka, na ktorej celovečerný program sa AMPLIÓN môže tešiť o rok. 
-  - Už po druhýkrát na festival zavítala francúzsko-talianska skupina Mattatoio Sospeso, tentokrát s romantickou akrobatickou show OUT! Výbornú interaktívnu improvizáciu s divákmi predviedol Argentínčan El Goma. 
-  - Cenu AMPLION ARGENTUM v kategórii Nový kabaret získal Erik Sikora alias DŽUMELEC (SK) za performatívnu prednášku pre dospelých VYSVETĽOVATEĽ a KONCERT PROTI DOSPELOSTI pre deti, v kategórii Pouličné umenie si cenu prevzalo španielske duo Umami Dancetheatre (ES/FR) s akrobaticko-tanečnou performanciou BITTER-SWEET o porozumení a v kategórii Spoločensko-angažovaná tvorba si cenu zaslúžil JÁN MARKOŠ (SK) za interaktívnu prednášku s kvízom o kritickom myslení SILA ROZUMU, o ktorú bol veľký divácky záujem. 
-  - Organizátori udelili aj mimoriadnu cenu AMPLION ARGENTUM za celoživotné dielo v oblasti kabaretu – Divadlu SEMAFOR (CZ). 5. ročník ukázal, aké je dôležité šíriť medzi ľudmi porozumenie a tiež, že umenie je na to výborným nástrojom. Prijímateľa inšpiruje, poskytuje mu relax, zábavu či poznanie, ale najmä obohacuje jeho duševné zdravie – teda aj v umení ide o život! 
-  - Ďakujeme všetkým, ktorí svojou návštevou podporili piaty AMPLIÓN. Rovnako ďakujeme nezištným donorom, ktorí chápu potrebu kvalitnej kultúry pre život v regióne.
+  - The fifth annual edition of AMPLIFIER, returning to its original autumn date became a true managerial challenge due to the ever-shifting rules and regulations of organizing public events. But it turned out magically! 
+  - The anniversary edition was a full-fledged three-day event with 25 programmes with 75 artists from 7 European countries, and included 4 Slovak premieres. And there was no shortage of viewers, either. 
+  - As one of the few, AMPLIFIER decided to persevere and let the festival take place despite the overall chaos. It was possible to secure various exceptions for foreign artists, who travelled to the festival with negative PCR-tests, and exceptions were also in place for Czech artists. It was one of the reasons why the festival was able to introduce the famous Theatre Semafor with Jiří Suchý and Jitka Molavcová for the first time ever in Banská Štiavnica after several years of effort, as well as The Theatre Goose on a String and the expert and European cabaret song aficionado, professor Přemysl Rut. 
+  - For the first time, the festival introduced BUSKERS ̶ foreign street artists who, chosen based on an open call, strengthened the genius loci of the streets and cafés of Štiavnica. The atmosphere of the event was strongly freshened up by the Clown health unit, which handed out healthy laughter and merrily watched over following all the hygienic regulations. 
+  - The second edition of the Czecho-Slovak competition for supporting new cabarets, SKETCH UP, featuring a great clown band and duo of hosts. The winner was the new-found Prague band Ponorka, whose full-length programme is already anticipated for the AMPLIFIER programme for the following year. 
+  - For the second time, the French-Italian group Mattatoio Sospeso visited the festival, this time, with the romantic acrobatic show OUT! An amazing interactive improvisation with the crowd was conducted by the Argentinian artist El Goma. The AMPLION ARGENTUM prize in the New Cabaret was awarded to Erik Sikora, a.k.a. Džumelec (SK) for his performative lecture for adults, EXPLAINER, and the CONCERT AGAINST ADULTHOOD for children.
+  - In the Street art category, the prize was accepted by the Spanish duo Umami Dancetheatre (ES/FR) with their acrobatic-dance performance BITTER-SWEET about understanding, and in the category Civically engaged production, JÁN MARKOŠ (SK) earned his award by the interactive lecture with a quiz about critical thought THE POWER OF REASON, which enjoyed a very significant interest from the viewers.
+  - The organizers also awarded a special award for life-long achievements in the field of cabaret to the Theatre SEMAFOR (CZ). 
+  - The 5th annual edition has shown how important it is to spread understanding among people and how art stands as a great means to do so. The receiver becomes inspired, is able to relax, to be entertained, but also , their mental health is enriched ̶ that is why art is a matter of life and death! 
+  - We would like to thank everyone who visited, and thereby supported the fifth AMPLIFIER. We also thank our selfless donors who understand the need for quality culture for the life in the region.
 download:
   -
     title: x
