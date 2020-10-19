@@ -31,10 +31,12 @@
       {{#each argentums}}
       <span class="amp-arg-winner">{{this}}</span>
       {{/each}}
-      Mimoriadnu cenu za celoživotné dielo získali
+      {{#if argentums-pro}}
+        Mimoriadnu cenu za celoživotné dielo získali
       {{#each argentums-pro}}
       <span class="amp-arg-winner">{{this}}</span>
       {{/each}}
+      {{/if}}
     </p>
   </div>
 </section>
