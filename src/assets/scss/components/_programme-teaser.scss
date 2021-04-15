@@ -1,77 +1,78 @@
 .programme-teaser {
-	@include xy-grid;
+  @include xy-grid;
 
-	&__item {
-		// @include xy-cell( 6 ); pre styri predstavenia
-		@include xy-cell( 6 );
-		margin: 0 auto;
-	}
+  &__item {
+    // @include xy-cell( 6 ); pre styri predstavenia
+    @include xy-cell(6);
+    margin: 0 auto;
+  }
 
-	&__title {
-		font-size: rem-calc( 14 );
-		font-weight: $global-weight-bold;
-		color: $amp-secondary;
-		@include rotate-cw-m;
-	}
+  &__title {
+    font-size: rem-calc(14);
+    font-weight: $global-weight-bold;
+    color: $amp-secondary;
+    @include rotate-cw-m;
+  }
 
-	&__performer {
-		color: $amp-button-color;
-	}
+  &__performer {
+    color: $amp-button-color;
+  }
 
-	&__item:nth-child(2n+2) &__title,
-	&__item:nth-child(2n+3) &__title {
-		@include rotate-ccw-m;
-	}
+  &__item:nth-child(2n + 2) &__title,
+  &__item:nth-child(2n + 3) &__title {
+    @include rotate-ccw-m;
+  }
 
-	&__item:nth-child(2n+4) &__title {
-		@include rotate-cw-m;
-	}
+  &__item:nth-child(2n + 4) &__title {
+    @include rotate-cw-m;
+  }
 
-	&__description {
-		font-size: rem-calc( 16 );
-	}
+  &__description {
+    font-size: rem-calc(16);
+  }
 
-	@include breakpoint( medium ) {
-		margin: rem-calc( 24 0 );
+  &__item_full {
+    @include xy-cell(6);
+    // margin: 0 auto;
+    transform: rotate(0deg);
+    margin-top: 80px;
+    text-align: center;
+  }
 
-		&__item {
-			// @include xy-cell( 3 );
-			@include xy-gutters( 25px, 'padding' );
-			display: flex;
-			flex-flow: column nowrap;
-			justify-content: center;
-		}
+  @include breakpoint(medium) {
+    margin: rem-calc(24 0);
 
-		&__title {
-			font-size: rem-calc( 21 );
-			margin-bottom: rem-calc( 24 );
-		}
+    &__item {
+      // @include xy-cell( 3 );
+      @include xy-gutters(25px, "padding");
+      display: flex;
+      flex-flow: column nowrap;
+      justify-content: center;
+    }
 
-		&__description {
-			font-size: rem-calc( 21 );
-		}
+    &__title {
+      font-size: rem-calc(21);
+      margin-bottom: rem-calc(24);
+    }
 
-	}
+    &__description {
+      font-size: rem-calc(21);
+    }
+  }
 
-	@include breakpoint( large ) {
-		&__item {
-			@include xy-cell( 3 );
-			
-		}
-		&__item_full {
-			@include xy-cell( 4 );
-			margin: 0 auto;
-			transform: rotate( 0deg );
-			margin-top: 20px;
-			text-align: center;
-			
-		}
-		&__item_full:nth-child(2n+3) &__title {
-			transform: rotate( 0deg );
-			
-			
-		}
-		
-		
-	}
+  @include breakpoint(large) {
+    &__item {
+      @include xy-cell(3);
+    }
+    &__item_full {
+      @include xy-cell(4);
+      margin: 0 auto;
+      transform: rotate(0deg);
+      margin-top: 20px;
+      text-align: center;
+    }
+    &__item_full:nth-child(2n + 3) &__title {
+      transform: rotate(0deg);
+    }
+  }
 }

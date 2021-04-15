@@ -1,12 +1,35 @@
 .amp-arg-winner {
-	font-size: rem-calc( 21 );
-	color: $amp-secondary;
-	font-weight: $global-weight-bold;
-	transform: rotate( 4deg );
-	display: block;
-	margin: rem-calc( 20 ) auto rem-calc( 5 ) auto;
+  font-size: rem-calc(21);
+  color: $amp-secondary;
+  font-weight: $global-weight-bold;
+  transform: rotate(4deg);
+  display: block;
+  margin: rem-calc(20) auto rem-calc(5) auto;
 }
 
-// iframe {
-// 	min-height: rem-calc(550);
-// }
+.hide-small {
+  @include breakpoint(small) {
+    display: none;
+  }
+  @include breakpoint(medium) {
+    display: inherit;
+  }
+}
+
+.hide-medium {
+  @include breakpoint(medium) {
+    display: none;
+  }
+  @include breakpoint(large) {
+    display: inherit;
+  }
+}
+
+.hide-large {
+  @include breakpoint(large) {
+    display: none;
+  }
+  @include breakpoint(xlarge) {
+    display: inherit;
+  }
+}
