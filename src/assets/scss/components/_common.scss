@@ -7,28 +7,21 @@
   margin: rem-calc(20) auto rem-calc(5) auto;
 }
 
-.hide-small {
-  @include breakpoint(small) {
-    display: none;
-  }
+.show-medium {
+  display: none;
   @include breakpoint(medium) {
     display: inherit;
   }
 }
 
-.hide-medium {
-  @include breakpoint(medium) {
-    display: none;
-  }
+.show-large {
+  display: none;
   @include breakpoint(large) {
     display: inherit;
   }
 }
-
-.hide-large {
-  @include breakpoint(large) {
-    display: none;
-  }
+.show-xlarge {
+  display: none;
   @include breakpoint(xlarge) {
     display: inherit;
   }

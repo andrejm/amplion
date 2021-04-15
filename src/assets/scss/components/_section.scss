@@ -125,6 +125,7 @@ section--notopspace - without top padding
   }
 
   &__illustration {
+    position: absolute;
     // clip-path: polygon(0 0, 100% 0, 100% 100%, 0 97%);
 
     &--bottom {
@@ -326,7 +327,7 @@ section--notopspace - without top padding
         font-size: rem-calc(30);
 
         margin: 0 auto;
-        margin-top: -150px;
+        margin-top: -180px;
         margin-bottom: 150px;
       }
     }

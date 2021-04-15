@@ -33,9 +33,9 @@
 
   &__item_full {
     @include xy-cell(6);
-    // margin: 0 auto;
+    margin: 0 auto;
     transform: rotate(0deg);
-    margin-top: 80px;
+    margin-top: 40px;
     text-align: center;
   }
 
