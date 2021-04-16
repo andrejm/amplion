@@ -1,36 +1,40 @@
 .counter {
-	@include xy-grid;
-	margin: rem-calc( 24 0 );
+  @include xy-grid;
+  margin: rem-calc(24 0);
 
-	&__item {
-		@include xy-cell( 4 );
-		background: url( '../img/counter-bg.svg' ) no-repeat center top;
-		background-size: contain;
-			font-size: 16px;
-		font-weight: bold;
-		padding-top: rem-calc( 24 );
+  &__item {
+    @include xy-cell(4);
+    background: url("../img/counter-bg.svg") no-repeat center top;
+    background-size: contain;
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: rem-calc(24);
 
-		span {
-			font-size: rem-calc( 16 );
-			text-align: center;
-			display: block;
-			text-transform: uppercase;
-			font-weight: $global-weight-normal;
-			color: $amp-primary-alt;
-			margin-top: rem-calc( 16 );
-		}
-	}
+    span {
+      font-size: rem-calc(16);
+      text-align: center;
+      display: block;
+      text-transform: uppercase;
+      font-weight: $global-weight-normal;
+      color: $amp-primary-alt;
+      margin-top: rem-calc(16);
+    }
+  }
 
-	@include breakpoint( medium ) {
-		&__item {
-			font-size: 56px;
-			padding-top: rem-calc( 24 );
+  &__label {
+    transform: rotate(7deg);
+    margin-top: 5px;
+  }
 
-			span {
-				font-size: rem-calc( 18 );
-				margin-top: rem-calc( 16 );
-			}
-		}
+  @include breakpoint(medium) {
+    &__item {
+      font-size: 56px;
+      padding-top: rem-calc(24);
 
-	}
+      span {
+        font-size: rem-calc(18);
+        margin-top: rem-calc(16);
+      }
+    }
+  }
 }

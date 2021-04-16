@@ -132,6 +132,9 @@ section--notopspace - without top padding
       clip-path: polygon(0 0, 100% 0, 100% 100%, 0 92%);
       margin-bottom: -12.5%;
     }
+    &--smaller {
+      max-height: 330px;
+    }
   }
 
   &__footertext {
@@ -369,7 +372,7 @@ section--notopspace - without top padding
     &__title {
       &--dateplace {
         margin: 0 auto;
-        margin-top: -150px;
+        margin-top: -180px;
         margin-bottom: 150px;
       }
     }
@@ -378,8 +381,7 @@ section--notopspace - without top padding
   @include breakpoint(jano) {
     &__title {
       &--dateplace {
-        left: 50%;
-        transform: translateX(-50%);
+        margin: 0 auto;
       }
     }
   }
