@@ -1,43 +1,71 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="Cache-control" content="must-revalidate">
-{{!-- This is the base layout for your project, and will be used on every page unless specified. --}}
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Cache-control" content="must-revalidate" />
+{{!-- This is the base layout for your project, and will be used on every page
+unless specified. --}}
 
-<!doctype html>
+<!DOCTYPE html>
 <html class="no-js" lang="sk">
   <head>
     <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="Medzinárodný festival nových foriem kabaretného divadla a pouličného umenia v Banskej Štiavnici. Doprajte si počas babieho leta 3 dni plné najlepšieho slovenského i zahraničného kabaretného a pouličného umenia. ">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta
+      name="description"
+      content="Medzinárodný festival nových foriem kabaretného divadla a pouličného umenia v Banskej Štiavnici. Doprajte si počas babieho leta 3 dni plné najlepšieho slovenského i zahraničného kabaretného a pouličného umenia. "
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- {{> social-markup}} -->
     <title>Festival AMPLIÓN</title>
     <!-- <link rel="stylesheet" href="{{root}}assets/css/app.css?v=2019081"> -->
-    <link rel="stylesheet" href="/assets/css/app.css?v=2019081">
+    <link rel="stylesheet" href="/assets/css/app.css?v=2019081" />
     <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&amp;subset=latin-ext" rel="stylesheet">
+    <link
+      href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&amp;subset=latin-ext"
+      rel="stylesheet"
+    />
     {{>_gtm_HEAD}}
   </head>
-<body>
+  <body>
     {{>_gtm_BODY}}
     <nav id="top" class="site-navigation">
-      <div class="title-bar" data-responsive-toggle="example-animated-menu" data-hide-for="medium">
+      <div
+        class="title-bar"
+        data-responsive-toggle="example-animated-menu"
+        data-hide-for="medium"
+      >
         <div class="title-bar__logo">
-          <a href="/"><img src="/assets/img/logo-amplion.svg" alt="logo amplionu"></a>
+          <a href="/"
+            ><img src="/assets/img/logo-amplion.svg" alt="logo amplionu"
+          /></a>
         </div>
         <div class="title-bar__langswitcher"><a href="/en/">English</a></div>
         <div class="title-bar__controls">
           <!-- <div class="title-bar-title">menuu
           </div> -->
-          <button class="menu-icon" type="button" data-toggle><span class="menu-icon-open">Menu</span><span class="menu-icon-close">Zavrieť</span></button>
+          <button class="menu-icon" type="button" data-toggle>
+            <span class="menu-icon-open">Menu</span
+            ><span class="menu-icon-close">Zavrieť</span>
+          </button>
         </div>
       </div>
 
-      <div class="top-bar" id="example-animated-menu" data-animate="slide-in-down slide-out-up">
+      <div
+        class="top-bar"
+        id="example-animated-menu"
+        data-animate="slide-in-down slide-out-up"
+      >
         <div class="top-bar-left">
           <div class="show-for-medium logo-image">
-            <a href="/"><img src="/assets/img/logo-amplion.svg" alt="Amplion festival logo" class=""></a>
+            <a href="/"
+              ><img
+                src="/assets/img/logo-amplion.svg"
+                alt="Amplion festival logo"
+                class=""
+            /></a>
           </div>
-          <ul class="vertical medium-horizontal menu" data-responsive-menu="accordion medium-dropdown">
+          <ul
+            class="vertical medium-horizontal menu"
+            data-responsive-menu="accordion medium-dropdown"
+          >
             <li>
               <a href="/">Úvod</a>
             </li>
@@ -45,8 +73,7 @@
             <li>
               <a href="/program">Program</a>
             </li>
-            {{/if}}
-            {{#if @root.site-config.show-tickets}}
+            {{/if}} {{#if @root.site-config.show-tickets}}
             <li>
               <a href="/vstupenky/">Vstupenky</a>
             </li>
@@ -96,8 +123,8 @@
       </div>
     </nav>
 
-{{!-- Pages you create in the src/pages/ folder are inserted here when the flattened page is created. --}}
-{{> body}}
+    {{!-- Pages you create in the src/pages/ folder are inserted here when the
+    flattened page is created. --}} {{> body}}
 
     <footer class="site-footer" data-smooth-scroll>
       <div class="site-footer__inner">
@@ -114,61 +141,90 @@
                 <li class="menu-item"><a href="/program">Program 2020</a></li>
                 <li class="menu-item"><a href="/press/">Press</a></li>
                 <li class="menu-item"><a href="/partneri/">Partneri</a></li>
-                <li class="menu-item"><a href="/partnerstvo/">Partnerstvo</a></li>
-                <li class="menu-item"><a href="/ochrana-sukromia/">Ochrana súkromia</a></li>
+                <li class="menu-item">
+                  <a href="/partnerstvo/">Partnerstvo</a>
+                </li>
+                <li class="menu-item">
+                  <a href="/ochrana-sukromia/">Ochrana súkromia</a>
+                </li>
                 <li class="menu-item"><a href="/kontakt/">Kontakt</a></li>
-              
-                
               </ul>
-              
             </nav>
           </div>
           <div class="necessities__col">
             <h5 class="site-footer__title">Hlavný partner</h5>
-            <p class="text-center"><a href="https://fpu.sk/sk/" target="_blank">Fond na podporu umenia</a></p>
+            <p class="text-center">
+              <a href="https://fpu.sk/sk/" target="_blank"
+                >Fond na podporu umenia</a
+              >
+            </p>
 
             <h5 class="site-footer__title">Organizátor</h5>
-            <p class="text-center"><a href="https://www.and-theatre.art/" target="_blank">Ansámbel nepravidelného divadla n.o.</a></p>
+            <p class="text-center">
+              <a href="https://www.and-theatre.art/" target="_blank"
+                >Ansámbel nepravidelného divadla n.o.</a
+              >
+            </p>
 
-            {{#if hideFooterNewsletter}}
-            {{else}}
-              <h5 class="site-footer__title">Sledujte nás</h5>
-              {{>social-icons}}
-            {{/if}}
-
+            {{#if hideFooterNewsletter}} {{else}}
+            <h5 class="site-footer__title">Sledujte nás</h5>
+            {{>social-icons}} {{/if}}
           </div>
           <div class="necessities__col">
-            <h5 class="site-footer__title site-footer__title--alt">Nech vám nič neujde!</h5>
-            {{#if hideFooterNewsletter}}
-              {{>social-icons}}
-            {{else}}
-              {{>_mailchimp-form}}
-            {{/if}}
-
+            <h5 class="site-footer__title site-footer__title--alt">
+              Nech vám nič neujde!
+            </h5>
+            {{#if hideFooterNewsletter}} {{>social-icons}} {{else}}
+            {{>_mailchimp-form}} {{/if}}
           </div>
         </div>
 
-        <p class="site-footer__shoutout">
-          Umenie šíri porozumenie!
-        </p>
+        <p class="site-footer__shoutout">DÔVERA JE UMENIE!</p>
 
         <ul class="site-footer__credits">
-          <li class="site-footer__creditsitem">&copy; <strong>2020</strong> Ansámbel nepravidelného divadla n.o.</li>
-          <li class="site-footer__creditsitem">&copy;  <strong>Foto:</strong> Michal Svítok, Lubomír Lužina, Peter Štít, Ján Petrík, Kristína Mayerová </li>
-          <li class="site-footer__creditsitem"><strong>Design:</strong> michoin.com</li>
-          <li class="site-footer__creditsitem"><strong>UX & code:</strong> andrzej.sk</li>
+          <li class="site-footer__creditsitem">
+            &copy; <strong>2020</strong> Ansámbel nepravidelného divadla n.o.
+          </li>
+          <li class="site-footer__creditsitem">
+            &copy; <strong>Foto:</strong> Michal Svítok, Lubomír Lužina, Peter
+            Štít, Ján Petrík, Kristína Mayerová
+          </li>
+          <li class="site-footer__creditsitem">
+            <strong>Design:</strong> michoin.com
+          </li>
+          <li class="site-footer__creditsitem">
+            <strong>UX & code:</strong> andrzej.sk
+          </li>
         </ul>
       </div>
     </footer>
 
-<script src="{{root}}assets/js/app.js?v=20190516"></script>
-<!-- countdown script can delete when done -->
-<!-- TODO load conditionally -->
-<script type="text/javascript" src="/assets/vendor/jquery.plugin.min.js"></script> 
-<script type="text/javascript" src="/assets/vendor/jquery.countdown.min.js"></script>
-<script type="text/javascript" src="/assets/vendor/jquery.countdown-sk.js"></script>
-<script type="text/javascript" src="/assets/vendor/countdown.js?v=2"></script>
-<script type="text/javascript" src="/assets/vendor/jquery.magnific-popup.min.js"></script>
-<script type="text/javascript" src="/assets/vendor/lazyload.min.js"></script>
-</body>
+    <script src="{{root}}assets/js/app.js?v=20190516"></script>
+    <!-- countdown script can delete when done -->
+    <!-- TODO load conditionally -->
+    <script
+      type="text/javascript"
+      src="/assets/vendor/jquery.plugin.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="/assets/vendor/jquery.countdown.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="/assets/vendor/jquery.countdown-sk.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="/assets/vendor/countdown.js?v=2"
+    ></script>
+    <script
+      type="text/javascript"
+      src="/assets/vendor/jquery.magnific-popup.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="/assets/vendor/lazyload.min.js"
+    ></script>
+  </body>
 </html>
