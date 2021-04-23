@@ -87,6 +87,7 @@ section--notopspace - without top padding
     margin-bottom: rem-calc(24);
 
     &--dateplace {
+      margin-top: 0;
       font-size: rem-calc(20);
       text-align: center;
       @include rotate-cw-s;
@@ -239,9 +240,10 @@ section--notopspace - without top padding
       }
 
       &--dateplace {
-        font-size: rem-calc(20);
+        font-size: rem-calc(24);
         text-align: center;
-        margin-top: rem-calc(-96);
+        margin-top: rem-calc(-86);
+        margin-bottom: 2em;
       }
     }
 
@@ -371,7 +373,7 @@ section--notopspace - without top padding
 
     &__title {
       &--dateplace {
-        margin: 0 auto;
+        margin: 0px auto;
         margin-top: -210px;
         margin-bottom: 150px;
       }
@@ -379,9 +381,12 @@ section--notopspace - without top padding
   }
 
   @include breakpoint(jano) {
+    padding-bottom: rem-calc(96);
+
     &__title {
       &--dateplace {
-        margin: 0 auto;
+        margin: -100px auto;
+        margin-bottom: 150px;
       }
     }
   }
