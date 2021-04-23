@@ -15,7 +15,7 @@ used where specified. --}}
     />
     <!-- {{> social-markup-en}} -->
     <title>AMPLIFIER festival</title>
-    <link rel="stylesheet" href="{{root}}assets/css/app.css?v=20190816" />
+    <link rel="stylesheet" href="{{root}}assets/css/app.css?v=20190817" />
     <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
     <link
       href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&amp;subset=latin-ext"
@@ -98,6 +98,16 @@ used where specified. --}}
                 <li><a href="#">Item 1B</a></li>
               </ul> -->
             </li>
+            {{#if @root.site-config.busking-menu}}
+            <li>
+              <a href="/en/busking/">Busking</a>
+            </li>
+            {{/if}}
+            <!-- {{#if @root.site-config.sketchup-menu}}
+            <li>
+              <a href="/en/sketchup/">SketchUp</a>
+            </li>
+            {{/if}} -->
             <li>
               <a href="/en/partners/">Partners</a>
             </li>

@@ -3,37 +3,54 @@ layout: english
 meta-desc: We wrote a short survival guide for you, our precious visitor. Make sure to read at least the first chapter for busy ones!
 ---
 
-<section class="section section--plain section--straight section--top" data-smooth-scroll>
+<section
+  class="section section--plain section--straight section--top"
+  data-smooth-scroll
+>
   <div class="section__inner">
-    <img src="/assets/img/header-prakticke-en-mobile.png" alt="AMPLION 2019 Prakticke info" class="section__headerimage">
-    <img src="/assets/img/header-prakticke-en.png" alt="AMPLION 2019 Prakticke info" class="section__headerimage--large">
+    <img
+      src="/assets/img/header-info-en.png"
+      alt="AMPLION 2019 Prakticke info"
+      class="section__headerimage"
+    />
+    <!-- TODO vymenit -->
+    <img
+      src="/assets/img/header-info-en.png"
+      alt="AMPLION 2019 Prakticke info"
+      class="section__headerimage--large"
+    />
     <p class="section__introtext">
       Ten good pieces of advice on how to have a good time as a festival-goer.
     </p>
     <div class="section__content section__content--wide">
-    	<h2 id="obsah-stranky" class="section__title">What can you find here</h2>
-    	<ol class="toc">
-    		{{#each practical-info-en}}
-    		<li class="toc__item"><a href="#{{id}}" class="toc__href">{{title}}</a></li>
-    		{{/each}}
-    	</ol>
-    	
+      <h2 id="obsah-stranky" class="section__title">What can you find here</h2>
+      <ol class="toc">
+        {{#each practical-info-en}}
+        <li class="toc__item">
+          <a href="#{{id}}" class="toc__href">{{title}}</a>
+        </li>
+        {{/each}}
+      </ol>
     </div>
   </div>
 </section>
 
 {{#each practical-info-en}}
-<section id="{{id}}" class="section section--narrow section--straight section--straight-bottom" data-smooth-scroll>
-	<div class="section__inner">
-		<h2 class="section__title">{{chapter}}. {{title}}</h2>
-	{{#each content}}
-		<p>
-			{{{this}}}
-		</p>
-	{{/each}}
-	<p class="text-right">
-		<a href="#obsah-stranky" class="section__return-top">⬆ Back to the table of contents</a>
-	</p>
-	</div>
+<section
+  id="{{id}}"
+  class="section section--narrow section--straight section--straight-bottom"
+  data-smooth-scroll
+>
+  <div class="section__inner">
+    <h2 class="section__title">{{chapter}}. {{title}}</h2>
+    {{#each content}}
+    <p>{{{this}}}</p>
+    {{/each}}
+    <p class="text-right">
+      <a href="#obsah-stranky" class="section__return-top"
+        >⬆ Back to the table of contents</a
+      >
+    </p>
+  </div>
 </section>
 {{/each}}

@@ -16,7 +16,7 @@ unless specified. --}}
     <!-- {{> social-markup}} -->
     <title>Festival AMPLIÓN</title>
     <!-- <link rel="stylesheet" href="{{root}}assets/css/app.css?v=2019081"> -->
-    <link rel="stylesheet" href="/assets/css/app.css?v=2019081" />
+    <link rel="stylesheet" href="/assets/css/app.css?v=2019082" />
     <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
     <link
       href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&amp;subset=latin-ext"
@@ -100,6 +100,16 @@ unless specified. --}}
             <!-- <li>
               <a href="/sketchup/">Sketch UP</a>
             </li> -->
+
+            {{#if @root.site-config.busking-menu}}
+            <li>
+              <a href="/busking/">Busking</a>
+            </li>
+            {{/if}} {{#if @root.site-config.sketchup-menu}}
+            <li>
+              <a href="/sketchup/">SketchUp</a>
+            </li>
+            {{/if}}
             <li>
               <a href="/partneri/">Partneri</a>
             </li>
