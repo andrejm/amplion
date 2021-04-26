@@ -7,6 +7,13 @@
   margin: rem-calc(20) auto rem-calc(5) auto;
 }
 
+.show-mobile-only {
+  display: inherit;
+  @include breakpoint(medium) {
+    display: none;
+  }
+}
+
 .show-medium {
   display: none;
   @include breakpoint(medium) {

@@ -1,4 +1,4 @@
-show-tickets: true
-show-program: true
+show-tickets: false
+show-program: false
 busking-menu: true
 sketchup-menu: true
