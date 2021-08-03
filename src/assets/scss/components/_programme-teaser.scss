@@ -40,7 +40,7 @@
   }
 
   @include breakpoint(medium) {
-    margin: rem-calc(24 0);
+    margin: rem-calc(50 0);
 
     &__item {
       // @include xy-cell( 3 );
@@ -62,13 +62,15 @@
 
   @include breakpoint(large) {
     &__item {
-      @include xy-cell(3);
+      @include xy-cell(6);
+      // padding: 0 4rem;
+      margin-bottom: rem-calc(40);
     }
     &__item_full {
       @include xy-cell(4);
       margin: 0 auto;
       transform: rotate(0deg);
-      margin-top: 20px;
+      margin-top: 60px;
       text-align: center;
     }
     &__item_full:nth-child(2n + 3) &__title {

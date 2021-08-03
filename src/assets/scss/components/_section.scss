@@ -329,6 +329,7 @@ section--notopspace - without top padding
 
   @include breakpoint(large) {
     &__title {
+      margin-bottom: rem-calc(52);
       &--dateplace {
         font-size: rem-calc(30);
 
