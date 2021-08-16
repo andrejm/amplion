@@ -1,144 +1,136 @@
--
-  time: 10:00 – 10:35
-  performer: Institute Of Wonder, Prague (CZ)
-  title: CIRCUS PRDÍTKO
-  perex: Entertaining show for both bold children and their shy parents 
-  location: Art Cafe, terrace
-  age: 3+
-  price: 2/4 €
-  slug: cirkus-prditko
--
+- 
+  time: 10:00 – 18:00
+  performer: Dušan Krnáč (SK)
+  title: ANTIDEPRESÁRIUM
+  perex: A visual performance exhibition in the dark
+  location: Old Castle – karner
+  age: 12+
+  price: 0
+  slug: dusan-krnac
+- 
   time: 10:30 – 11:00
-  performer: Ty Syčáci (CZ)
-  age: 12+
-  title: "AFTER CONCERT"
-  perex: Thrilling retro-futurist tramp band with free-thinking energy
-  location: Trotuár, A. Kmeť street
-  price: 0
-  slug: ty-sycaci-after
--
-  time: 11:00 – 11:45
-  performer: El Goma (ARG/DE)
-  argentum: true
-  premiere: true
+  performer: Mikropodium Family Puppet Theatre (HU)
   age: Family
-  title: The ATARI SHOW
-  perex: Street comedy of a world-class improviser full of movie and physical tricks
-  location: Scout house garden, <br> A. Pécha street
-  price: 4/6 €
-  slug: el-goma
--
-  time: 14:00 – 14:45
-  performer: Mattatoio Sospeso (FR/IT)
+  title: STOP
+  perex: A world-unique puppet theatre for the youngest ones
+  location: Gavalier cafe, St. Trinity Square
+  price: 2/4 €
+  slug: family-puppet-theatre
+- 
+  time: 11:00 – 11:35
+  performer: Ludo & Arsène (BE)
   argentum: true
   premiere: true
-  top: true 
-  # general: Víťaz festivalu Nová dráma 2019!
-  age: 10+
-  title: OUT!
-  perex: Acrobatic Italian love story as a vertical dance with an unexpected ending
+  age: 12+
+  title: BE FLAT
+  perex: Circus acrobatics and urban parkour of the fabulous Belgian duo
   location: Old Castle
-  price: pre-sale 5/7 €, onsale 6/9 €
-  slug: mattatoio-sospeso
--
-  time: 14:30 – 14:45
-  performer: Circus Problem (CZ)
+  price: predpredaj 7 €, na mieste 9 €
+  slug: ludo-arsene
+- 
+  time: 13:00 – 16:25
+  performer: AMPLIFIER Caravan (USA/GB/DE/BE/HU/CZ)
   age: Family
-  title: PROMO
-  perex: Invitation to the concert of an unhinged klezmer, balkan and world music band
-  location: Trotuár, A. Kmeť street   
+  title: TRUST IS ART 
+  perex: Travelling performances of artists to the periphery + invitations to the centre
+  location: Terrace u Blaškov, Počúvadlo, Clergy house Beluj, K. point - residential area Drieňová Banská Štiavnica
   price: 0
-  # type: suppress
-  slug: cirkus-problem-promo
--
-  time: 15:00 – 16:30
-  performer: Ján Markoš (SK)
+  slug: amplion-karavana
+- 
+  time: 14:00 – 14:40
+  performer: City theatre – Theatre from Passage (SK)
   argentum: true
-  title:  THE POWER OF REASON in a crazy age 
   age: 12+
-  perex: Lecture about critical thought as a lifestyle with an interactive quiz, presented by chess grandmaster
+  title: LOVE SHOCK
+  perex: An immersive theatre-dance experience with a strong message
+  location: Kocka, Kammerhofská 6
+  price: predpredaj 5 €, na mieste 7 €
+  slug: mestske-divadlo
+- 
+  time: 14:15 – 14:45
+  performer: Mojše Band (SK)
+  age: 12+
+  title: AFTER PROMO
+  perex: A music invitation to the SKETCH UP competition
+  location: Trotuár, A. Kmeť st.
+  price: 0
+  slug: mojse-band
+- 
+  time: 15:00 – 16:30
+  performer: Dušan Ondrušek, PDCS (SK)
+  age: 15+
+  title: ART PUB  – How to fish out the truth in a sea of disinformation?
+  perex: Entertaining pub quiz
   location: Art Cafe, attic
   price: 5 €
-  slug: jan-markos
--
-  time: 16:00 – 16:45
-  performer: El Goma (ARG/DE)
-  argentum: true
+  slug: dusan-ondrusek
+-  
+  time: 15:30 – 16:15
+  performer: 'Paul Morocco (USA/GB/DE) <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
   premiere: true
-  age: Family
-  title: The ATARI SHOW
-  perex: Street comedy of a world-class improviser full of movie and physical tricks
-  location: Old Castle
-  price: 4/6 €
-  slug: el-goma
--
-  time: 17:00 – 18:00
-  performer: Goose on a String Theatre (CZ)
-  top: true
   argentum: true
   age: 12+
-  title: OSKAR AND THE PINK LADY
-  perex: Strong story about the immortality of friendship, love and hope performed by remarkable Czech actors of the famous theatre
-  location: Cinema Akademik, St. Trinity Square
-  price: pre-sale 7 €, onsale 9 €
-  slug: divadlo-husa
--
-  time: 17:30 – 18:15
-  performer: Umami Dancetheatre (ES/FR)
-  age: 6+
-  title: "BITTER-SWEET"
-  perex: Spanish physical performance show with elements of pantomime, breakdance and circus
-  location: Scout house garden,<br> A. Pécha street
-  price: 4/6 €
-  argentum: true 
-  slug: umami-dancetheatre
--
-  time: 18:00 – 19:00
-  performer: Džumelec (SK)
-  argentum: true 
-  age: 15+
-  title: EXPLAINER
-  perex: Performative lecture and concert of the laureate of the Oskár Čepan Prize 2019
-  location: Art Cafe, attic
-  price: 8 €
-  slug: dzumelec
--
-  time: 19:00 – 20:30
-  performer: Theatre Semafor (CZ) <strong style="color:#362982;font-size:0.75em;"> Festival headliner </strong>
-  top: true
-  age: 15+
+  title: OLÉ! Music & Comedy
+  perex: Crazy music-artistic guitar show
+  location: Old Castle, lapidarium
+  price: predpredaj 12 €, na mieste 14 €
+  slug: paul-morocco
+-  
+  time: 16:30 – 17:15
+  performer: AND (SK-CZ/HR-SK) 
+  age: Family
+  title: WELCOME TO STUPIDITY 
+  perex: Sad street show about small stupidities with a big impact
+  location: Scout House Garden, A. Pécha st.
+  price: 5 / 7 €
+  slug: and
+-  
+  time: 18:00 – 20:15
+  performer: 'The Goose on a String Theatre (CZ)  <strong style="color:#362982;font-size:0.8em;"> Festival headliner  </strong>'
   argentum: true
-  title: "WHO DIGS SOMEONE ELSE`S HOLE, YOU SING THEIR SONG"
-  perex: storied Jiří Suchý &amp; Jitka Molavcová with a part of the Big Band Semafor for the first time in Banská Štiavnica!
-  location: Cultural centre, Main Hall
-  price: pre-sale 19 €, onsale 23 €
-  slug: divadlo-semafor
--
-  time: 19:15 – 21:15
-  performer: Nightcall (SK)
-  age: 8+
-  title:  INCALL
-  perex: Projection of the video mapping online drawn computer game for everyone to play
-  location: ZUŠ, St. Trinity square
-  price: 0
-  slug: nightcall
--
-  time: 19:30 – 21:00
-  performer: AND + guests (SK+CZ) 
+  premiere: true
   age: 15+
-  title: SKETCH UP 
-  general: New Format – only at AMPLIFIER!
-  top: true
-  perex: The 2nd annual edition of the Czech-Slovak competition of cabaret sketches with an amazing lineup. Hosted by Pavel Mihaľák &amp; Roman Večerek, music by the band of the Red Nose Clowndoctors organisation
-  location: Cube, Kammerhofská 6
-  price: pre-sale 8 €, onsale 10 €
+  title: WHITEYS GO TO HEAVEN 
+  perex: Comedy Ghetto a.k.a. the Czech-Roma cabaret with bashavel
+  location: Amphitheater / Cultural centre, main hall
+  price: predpredaj 19 € / na mieste 23 €
+  slug: divadlo-husa-na-provazku
+-  
+  time: 19:00 – 20:30
+  performer: AND & Mojše Band (SK+CZ) 
+  general: Len na Amplióne
+  age: 15+
+  title: SKETCH UP
+  perex: "3. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov Moderujú: Mirek & Jarka Sýkorovci"
+  location: Kocka, Kammerhofská 6
+  price: predpredaj 8 € / na mieste 10 €
   slug: sketch-up
--
-  time: 21:30 – 22:45
-  performer: Circus problem (CZ)
+-  
+  time: 20:30 – 22:30
+  performer: 	Jiří Dědeček (CZ)
+  age: 12+
+  title: NEBUDU BYDLET V QUÉBECU 
+  perex: Šansóny, kuplety, odrhovačky legendárneho folkového pesničkára 
+  location: Art Cafe, povala
+  price: 10 €
+  slug: jiri-dedecek
+-  
+  time: 21:00 – 22:30
+  performer: 	Samuel Marec & Ján Markoš (SK)
   age: 15+
-  title: CONCERT
-  perex: Concert of an unhinged klezmer, balkan and world music band for everyone to dance
-  location: Cube, Kammerhofská 6
-  price: pre-sale 7 €, onsale 9 € 
-  slug: cirkus-problem
+  title: ART PUTIKA – Medzi dobrom a zlom
+  perex: Krčmové dišputy o morálnych dilemách dneška 
+  location: Archanjel caffe bar
+  price: 0
+  slug: samuel-marec-jan-markos
+-  
+  time: 22:00 – 23:00
+  performer: 'Paul Morocco (USA/GB/DE) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
+  premiere: true
+  argentum: true
+  age: 12+
+  title: OLÉ! Music & Comedy
+  perex: Bláznivá hudobno-artistická gitarová show
+  location: Kocka, Kammerhofská 6
+  price: predpredaj 13 €, na mieste 15 €
+  slug: paul-morocco

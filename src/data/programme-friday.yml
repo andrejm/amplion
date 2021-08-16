@@ -1,79 +1,93 @@
 - 
   time: 16:00 – 16:30
-  title: OTVORENIE FESTIVALU
-  perex: Hymna + promo komika El Gomu (ARG/DE), kapely Ty Syčáci (CZ) a akro-tanečníkov Umami Dancetheatre (ES/FR)
+  title: OTVORENIE FESTIVAL
+  perex: "Hymna + promo: Paul Morocco (USA/GB/ES) +&nbsp;Ludo&nbsp;&&nbsp;Arsène&nbsp;(BE) +&nbsp;Šimon&nbsp;&&nbsp;Eliáš&nbsp;(CZ) +&nbsp;Mojše&nbsp;band&nbsp;(SK)"
   age: Family
   price: 0
   location: Námestie sv. Trojice
   slug: otvorenie-festivalu
 -
-  time: 17:00 – 17:45
-  performer: Umami Dancetheatre (ES/FR)
-  age: 6+
-  title: "BITTER-SWEET"
-  perex: Španielska pohybová show s prvkami pantomímy, breakdance a cirkusu
-  location: Rubigall, Námestie sv. Trojice
-  price: 3/5 €
-  argentum: true 
-  premiere: true
-  slug: umami-dancetheatre
+  time: 16:30 – 16:50
+  performer: Mikropodium Family Puppet Theatre (HU)
+  age: 3+
+  title: STOP
+  perex: Svetovo unikátne bábkové divadlo pre najmenších
+  location: Kaviareň Gavalier <br> Námestie sv. Trojice
+  price: 2/4 €
+  slug: family-puppet-theatre
 -  
-  time: 18:00 – 18:45
-  performer: DS Lano (SK)
-  title: PREČO SA DIEŤA VARÍ V KAŠI
-  perex: Premiéra nového kabaretu 1. víťaza súťaže SKETCH UP 
-  location: Kocka, Kammerhofská 6
-  age: 12+
-  price: 0
-  premiere: true
-  slug: lano
+  time: 17:00 – 17:35
+  performer: Lukáš Šimon + Anton Eliáš (CZ)
+  title: "ROBO ERECTUS: Šugar & Bič"
+  perex: Komická sci-fi pantomíma robotov
+  location: Záhrada Skautského domu, <br> ul. A. Pécha
+  age: Family
+  price: 4/6 €
+  slug: lukas-simon-anton-elias
 -
-  time: 19:00 – 20:20
-  performer: Přemysl Rut & Markéta Potužáková (CZ)
-  top: true
-  age: 15+
-  title: "OKOLO 100LALA: Ohlas písní francouzských 1900 – 1990"
-  perex: Jedinečný šansónový večer milovníka a odborníka kabaretnej piesne a jeho šarmantnej múzy pri klavíri
-  location: Kino Akademik, Nám. sv. Trojice
-  argentum: true 
-  price: predpredaj 7 €, na mieste 9 €
-  slug: premysl
--  
-  time: 19:15 – 21:15
-  performer: Nightcall (SK)
-  age: 8+
-  title:  INCALL
-  perex: Videomappingová PC hra, ktorá lieči frfľanie, online na hranie pre všetkých 
-  location: ZUŠ, Námestie sv. Trojice
+  time: 17:30 – 18:45
+  performer: Dušan Krnáč (SK)
+  age: 12+
+  title: ANTIDEPRESÁRIUM
+  perex: "Vizuálno-performatívna výstava v tme, hosť: psychiater Michal Patarák"
+  location: Starý zámok – karner
   price: 0
-  slug: nightcall
+  slug: dusan-krnac-friday
 -  
-  time: 20:00 – 20:45
-  performer: Mattatoio Sospeso (FR/IT)
-  top: true
+  time: 17:30 – 20:30
+  performer: AMPLIÓN KARAVANA (SK)
+  age: Family
+  title: DÔVERA JE UMENIE
+  perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+  location: Kino Štiavnické Bane, Krčma u Michala Banská Belá
+  price: 0
+  slug: amplion-karavana
+-  
+  time: 18:00 – 19:00
+  performer: D´&nbsp;renewed dženerejšn + Martin Toman & Tadeáš Bolo (SK)
+  age: 12+
+  title: NO TRUST, NO FUN
+  perex: Moderné prednesy mladých na tému (ne)dôvera s hudbou Lasicu & Satinského 
+  location: Art Cafe, Pod orechom
+  price: 7 €
+  slug: dzenerejsn
+-  
+  time: 19:30 – 20:30
+  performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
+  premiere: true
+  argentum: true
+  age: 12+
+  title: OLÉ! Music & Comedy
+  perex: Bláznivá hudobno-artistická gitarová show
+  location: Kultúrne centrum, hlavná sála
+  price: Predpredaj 13 €, na mieste 15 €
+  slug: paul-morocco
+-  
+  time: 20:00 – 21:15
+  performer: Samo Marec (SK)
+  age: 15+
+  title: ART PUTIKA – Roky bezprávia
+  perex: Samoautorské čítanie so samodiskusiou
+  location: Art Cafe, povala
+  price: 5 €
+  slug: samo-marec
+-  
+  time: 21:00 – 22:15
+  performer: Geisslers Hoffcomoedianten (CZ)
   argentum: true
   premiere: true
-  age: 10+
-  title: OUT!
-  perex: Vertikálny tanec, akrobatická talianska love story s nečakaným koncom 
-  location: Starý zámok
-  price: predpredaj 4/6 €, na mieste 5/8 €
-  slug: mattatoio-sospeso
--  
-  time: 21:00 – 22:00
-  performer: D´ dištanc dženerejšn + Ponorka (SK+CZ)
-  age: 12+
-  title: NO TOUCH, NO FUN 
-  perex: Pútavé prednesy 5 mladých osobností na tému blízkosť&nbsp;vs.&nbsp;vzdialenosť s balkánskou muzikou kapely Ponorka
-  location: Kocka, Kammerhofská 6
-  price: 6 €
-  slug: no-touch
--  
-  time: 21:30 – 22:45
-  performer: Ty Syčáci (CZ)
   age: 15+
-  title: KONCERT
-  perex: Strhujúca retro-futuristická kapela slobodomyseľnej energie 
+  title: RAUT
+  perex: Bravúrny nový kabaret La Fontaine alebo večierok veľkých zvierat
+  location: Kocka, Kammerhofská 6
+  price: 9 €
+  slug: geisslers-hoffcomoedianten
+-  
+  time: 22:30 – 23:30
+  performer: Mojše Band (SK)
+  age: 15+
+  title: KONCERT 
+  perex: Židovské hudobné dedičstvo v sviežom prevedení
   location: Art Cafe, povala
-  price: 7 €
-  slug: ty-sycaci
+  price: 8 €
+  slug: mojse-band

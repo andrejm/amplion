@@ -22,7 +22,9 @@
 		color: $amp-secondary;
 		font-weight: $global-weight-bold;
 
+
 		&::before {
+			padding-right: 1rem;
 			content: url('../img/arrow-left-blue.svg');
 		}
 
@@ -32,6 +34,7 @@
 			}
 
 			&::after {
+				padding-left: 1rem;
 				content: url('../img/arrow-right-blue.svg');
 			}
 		}

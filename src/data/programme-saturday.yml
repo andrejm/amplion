@@ -1,144 +1,136 @@
--
-  time: 10:00 – 10:35
-  performer: Ústav úžasu (CZ)
-  title: CIRKUS PRDÍTKO
-  perex: Zábavná pshow pre smelé deti i hanblivých rodičov  
-  location: Art Cafe, terasa
-  age: 3+
-  price: 2/4 €
-  slug: cirkus-prditko
--
-  time: 10:30 – 11:00
-  performer: Ty Syčáci (CZ)
+- 
+  time: 10:00 – 18:00
+  performer: Dušan Krnáč (SK)
+  title: ANTIDEPRESÁRIUM
+  perex: Vizuálno-performatívna výstava v tme
+  location: Starý zámok – karner
   age: 12+
-  title: "AFTER KONCERT"
-  perex: Strhujúca retro-futuristická kapela slobodomyseľnej energie
+  price: 0
+  slug: dusan-krnac
+- 
+  time: 10:30 – 11:00
+  performer: Mikropodium Family Puppet Theatre (HU)
+  age: Family
+  title: STOP
+  perex: Svetovo unikátne bábkové divadlo pre najmenších
+  location: Kaviareň Gavalier, <br> Námestie sv. Trojice
+  price: 2/4 €
+  slug: family-puppet-theatre
+- 
+  time: 11:00 – 11:35
+  performer: Ludo & Arsène (BE)
+  argentum: true
+  premiere: true
+  age: 12+
+  title: BE FLAT
+  perex: Cirkusová akrobacia a urban parkúr famóznej belgickej dvojice
+  location: Starý zámok
+  price: Predpredaj 7 €, na mieste 9 €
+  slug: ludo-arsene
+- 
+  time: 13:00 – 16:25
+  performer: AMPLIÓN Karavana (USA/GB/ES/BE/HU/CZ)
+  age: Family
+  title: DÔVERA JE UMENIE
+  perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+  location: Terasa u Blaškov, Počúvadlo,<br> Na fare Beluj, Bod K. sídlisko Drieňová Banská Štiavnica
+  price: 0
+  slug: amplion-karavana
+- 
+  time: 14:00 – 14:40
+  performer: Mestské divadlo – Divadlo z Pasáže (SK)
+  argentum: true
+  age: 12+
+  title: LÁSKY SHOCK
+  perex: Zážitková divadelno-tanečná inscenácia so silným odkazom
+  location: Kocka, Kammerhofská 6
+  price: Predpredaj 5 €, na mieste 7 €
+  slug: mestske-divadlo
+- 
+  time: 14:15 – 14:45
+  performer: Mojše Band (SK)
+  age: 12+
+  title: AFTER PROMO
+  perex: Hudobná pozvánka na súťaž SKETCH UP
   location: Trotuár, ul. A. Kmeťa
   price: 0
-  slug: ty-sycaci-after
--
-  time: 11:00 – 11:45
-  performer: El Goma (ARG/DE)
-  argentum: true
-  premiere: true
-  age: Family
-  title: The ATARI SHOW
-  perex:  Špičková pouličná komédia svetového improvizátora plná filmových trikov
-  location: Záhrada Skautského domu,<br> Ul. A. Pécha 
-  price: 4/6 €
-  slug: el-goma
--
-  time: 14:00 – 14:45
-  performer: Mattatoio Sospeso (FR/IT)
-  argentum: true
-  premiere: true
-  top: true
-  # general: Víťaz festivalu Nová dráma 2019!
-  age: 10+
-  title: OUT!
-  perex:  Vertikálny tanec, akrobatická talianska love story s nečakaným koncom
-  location: Starý zámok
-  price: predpredaj 4/6 €, na mieste 5/8 €
-  slug: mattatoio-sospeso
--
-  time: 14:30 – 14:45
-  performer: Cirkus Problem (CZ)
-  age: Family
-  title: PROMO
-  perex: pozvánka na koncert nespútanej klezmer, balkan a word music kapely  
-  location: Trotuár, ul. A. Kmeťa  
-  price: 0
-  # type: suppress
-  slug: cirkus-problem-promo
--
+  slug: mojse-band
+- 
   time: 15:00 – 16:30
-  performer: Ján Markoš (SK)
-  argentum: true
-  title:  SILA ROZUMU v bláznivej dobe
-  age: 12+
-  perex: Majstrovská prednáška o kritickom myslení ako životnom štýle s interaktívnym kvízom od šachového veľmajstra
+  performer: Dušan Ondrušek, PDCS (SK)
+  age: 15+
+  title: ART PUTIKA – Ako si vybrať pravdu v mori dezinformácií?
+  perex: Zábavný krčmový kvíz
   location: Art Cafe, povala
   price: 5 €
-  slug: jan-markos
--
-  time: 16:00 – 16:45
-  performer: El Goma (ARG/DE)
+  slug: dusan-ondrusek
+-  
+  time: 15:30 – 16:15
+  performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
+  premiere: true
   argentum: true
-  premiere: truešpičková 
-  age: Family
-  title: The ATARI SHOW
-  perex: Špičková pouličná komédia svetového improvizátora plná filmových trikov
-  location: Starý zámok
-  price: 4/6 €
-  slug: el-goma
--
-  time: 17:00 – 18:15
-  performer: Divadlo Husa na provázku (CZ)
-  argentum: true
-  top: true
   age: 12+
-  title: OSKAR A RŮŽOVÁ PANÍ
-  perex: Silný príbeh o nesmrteľnosti priateľstva, lásky a nádeje v podaní výnimočných českých hercov slávneho divadla
-  location: Kino Akademik, Nám. sv. Trojice
-  price: predpredaj 7 €, na mieste 9 €
-  slug: divadlo-husa
--
-  time: 17:30 – 18:15
-  performer: Umami Dancetheatre (ES/FR)
-  age: 6+
-  title: "BITTER-SWEET"
-  perex: Španielska pohybová show s prvkami pantomímy, breakdance a cirkusu
-  location: Záhrada Skautského domu, <br> Ul. A. Pécha
-  price: 4/6 €
-  argentum: true 
-  slug: umami-dancetheatre
--
-  time: 18:00 – 19:00
-  performer: Džumelec (SK)
-  argentum: true 
-  age: 15+
-  title: VYSVETLOVATEĽ
-  perex: Performatívny koncert a nonsensová prednáška <br> nositeľa Ceny Oskára Čepana 2019
-  location: Art Cafe, povala
-  price: 8 €
-  slug: dzumelec
--
-  time: 19:00 – 20:30
-  performer: 'Divadlo Semafor (CZ) <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong> '
-  age: 15+
-  top: true
+  title: OLÉ! Music & Comedy
+  perex: Bláznivá hudobno-artistická gitarová show
+  location: Starý zámok, lapidárium
+  price: Predpredaj 12 €, na mieste 14 €
+  slug: paul-morocco
+-  
+  time: 16:30 – 17:15
+  performer: AND (SK-CZ/HR-SK) 
+  age: Family
+  title: WELCOME TO STUPIDITY 
+  perex: Sad street show o malých hlúpostiach s veľkým dopadom
+  location: Záhrada Skautského domu, <br> ul. A. Pécha
+  price: 5 / 7 €
+  slug: and
+-  
+  time: 18:00 – 20:15
+  performer: 'Divadlo Husa na provázku (CZ) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
   argentum: true
-  title: "KTO JINÉMU JÁMU KOPÁ, TOHO PÍSEŇ SPÍVEJ"
-  perex: Jiří Suchý & Jitka Molavcová, slávna pražská kabaretná dvojica a ich výnimočná oslava kabaretu, prvýkrát v Banskej Štiavnici!
-  location: Kultúrne centrum, hlavná sála
-  price: predpredaj 19 €, na mieste 23 €
-  slug: divadlo-semafor
--
-  time: 19:15 – 21:15
-  performer: Nightcall (SK)
-  age: 8+
-  title:  INCALL
-  perex: Videomappingová PC hra, ktorá lieči frfľanie, online na hranie pre všetkých	
-  location: ZUŠ, Námestie sv. Trojice
-  price: 0
-  slug: nightcall
--
-  time: 19:30 – 21:00  
-  performer: AND + hostia (SK+CZ) 
+  premiere: true
   age: 15+
-  title: SKETCH UP 
-  general: Nový formát – len na AMPLIÓNE!
-  # top: true
-  perex: 2. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov! Moderujú Pavel Mihaľák & Roman Večerek, hrá kapela OZ Červený nos Clowndoctors.
+  title: GADŽOVÉ JDOU DO NEBE
+  perex: Comedy Ghetto alebo česko-rómsky kabaret s bašavelom
+  location: Amfiteáter / Kultúrne centrum, hlavná sála
+  price: Predpredaj 19 € / na mieste 23 €
+  slug: divadlo-husa-na-provazku
+-  
+  time: 19:00 – 20:30
+  performer: AND & Hostia & Mojše Band (SK+CZ) 
+  general: Len na Amplióne
+  age: 15+
+  title: SKETCH UP
+  perex: "3. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov"
   location: Kocka, Kammerhofská 6
-  price: predpredaj 8 €, na mieste 10 €
+  price: Predpredaj 8 € / na mieste 10 €
   slug: sketch-up
--
-  time: 21:30 – 22:45
-  performer: Cirkus problem (CZ)
+-  
+  time: 20:30 – 22:30
+  performer: 	Jiří Dědeček (CZ)
+  age: 12+
+  title: NEBUDU BYDLET V QUÉBECU 
+  perex: Šansóny, kuplety, odrhovačky legendárneho folkového pesničkára 
+  location: Art Cafe, povala
+  price: 10 €
+  slug: jiri-dedecek
+-  
+  time: 21:00 – 22:30
+  performer: 	Samuel Marec & Ján Markoš (SK)
   age: 15+
-  title: KONCERT
-  perex: Koncert nespútanej klezmer, balkan a word music kapely do tanca pre všetkých
+  title: ART PUTIKA – Medzi dobrom a zlom
+  perex: Krčmové dišputy o morálnych dilemách dneška 
+  location: Archanjel caffe bar
+  price: 0
+  slug: samuel-marec-jan-markos
+-  
+  time: 22:00 – 23:00
+  performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
+  premiere: true
+  argentum: true
+  age: 12+
+  title: OLÉ! Music & Comedy
+  perex: Bláznivá hudobno-artistická gitarová show
   location: Kocka, Kammerhofská 6
-  price: predpredaj 7 €, na mieste 9 €
-  slug: cirkus-problem
+  price: Predpredaj 13 €, na mieste 15 €
+  slug: paul-morocco

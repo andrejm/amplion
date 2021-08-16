@@ -1,79 +1,93 @@
 - 
   time: 16:00 – 16:30
   title: FESTIVAL OPENING
-  perex: Anthem + promo of the comedian El Goma (ARG/DE), the band Ty Syčáci (CZ) and acro-dancers Umami Dancetheatre (ES/FR)
+  perex: "Anthem + promo: Paul Morocco (USA/GB/ES) + Ludo & Arsène (BE) + Šimon & Eliáš (CZ) 	+ Mojše band (SK)"
   age: Family
   price: 0
   location: St. Trinity Square
   slug: otvorenie-festivalu
 -
-  time: 17:00 – 17:45
-  performer: Umami Dancetheatre (ES/FR)
-  age: 6+
-  title: "BITTER-SWEET"
-  perex: Spanish physical performance show with elements of pantomime, breakdance and circus
-  location: Rubigall, St. Trinity Square
-  price: 3/5 €
-  argentum: true 
-  premiere: true
-  slug: umami-dancetheatre
+  time: 16:30 – 16:50
+  performer: Mikropodium Family Puppet Theatre (HU)
+  age: 3+
+  title: STOP
+  perex: A world-unique puppet theatre for the youngest ones
+  location: Gavalier Cafe, St. Trinity Square
+  price: 2/4 €
+  slug: family-puppet-theatre
 -  
-  time: 18:00 – 18:45
-  performer: Theater ensemble Rope (SK)
-  title: WHY THE CHILD BOILS IN PORRIDGE  
-  perex: Premiere of the new cabaret of the 1st winner of the SKETCH UP competition 
-  location: Cube, Kammerhofská 6
-  age: 12+
-  price: 0
-  premiere: true
-  slug: lano
+  time: 17:00 – 17:35
+  performer: Lukáš Šimon + Anton Eliáš (CZ)
+  title: "ROBO ERECTUS: Šugar & Bič"
+  perex: Comedic sci-fi pantomime of robots
+  location: Scout House Garden, A. Pécha st.
+  age: Family
+  price: 4/6 €
+  slug: lukas-simon-anton-elias
 -
-  time: 19:00 – 20:20
-  performer: Přemysl Rut & Markéta Potužáková (CZ)
-  age: 15+
-  top: true
-  title: "AROUND 100LALA: The resonance of French songs 1900 –  1990"
-  perex: A unique chanson evening Czech cabaret legend with captivating stories between Paris and Prague
-  location: Cinema Akademik, St. Trinity Square
-  argentum: true 
-  price: 7 € pre-sale, 9 € onsale
-  slug: premysl
--  
-  time: 19:15 – 21:15
-  performer: Nightcall (SK)
-  age: 8+
-  title:  INCALL
-  perex: Projection of the video mapping online drawn computer game for everyone to play
-  location: ZUŠ, St. Trinity Square
+  time: 17:30 – 18:45
+  performer: Dušan Krnáč (SK)
+  age: 12+
+  title: ANTIDEPRESÁRIUM
+  perex: "A visual performance exhibition in the dark, guest: psychiatrist M. Patarák"
+  location: Old Castle – karner
   price: 0
-  slug: nightcall
+  slug: dusan-krnac
 -  
-  time: 20:00 – 20:45
-  performer: Mattatoio Sospeso (FR/IT)
-  top: true
+  time: 17:30 – 20:30
+  performer: AMPLIFIER Caravan (SK)
+  age: Family
+  title: TRUST IS ART
+  perex: Travelling performances of artists to the periphery + invitations to the centre
+  location: Cinema Štiavnické Bane, Tavern STEIGER Banská Belá
+  price: 0
+  slug: amplion-karavana
+-  
+  time: 18:00 – 19:00
+  performer: D´ &nbsp;renewed dženerejšn + Martin Toman & Tadeáš Bolo (SK)
+  age: 12+
+  title: NO TRUST, NO FUN
+  perex: Young reciters on the topic of (dis)trust, featuring the music of Lasica & Satinský 
+  location: Art Cafe, Under the walnut tree
+  price: 7 €
+  slug: dzenerejsn
+-  
+  time: 19:30 – 20:30
+  performer: 'Paul Morocco (USA/GB/DE) <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
+  premiere: true
+  argentum: true
+  age: 12+
+  title: OLÉ! Music & Comedy
+  perex: Crazy music-artistic guitar show
+  location: Cultural centre, main hall
+  price: predpredaj 13 €, na mieste 15 €
+  slug: paul-morocco
+-  
+  time: 20:00 – 21:15
+  performer: Samo Marec (SK)
+  age: 15+
+  title: ART PUB – Lawless years 
+  perex: Self-reading with self-discussion
+  location: Art Cafe, attic
+  price: 5 €
+  slug: samo-marec
+-  
+  time: 21:00 – 22:15
+  performer: Geisslers Hoffcomoedianten (CZ)
   argentum: true
   premiere: true
-  age: 10+
-  title: OUT!
-  perex: Acrobatic Italian love story as a vertical dance with an unexpected ending
-  location: Old Castle
-  price: 4/6 € pre-sale, 5/8 € onsale
-  slug: mattatoio-sospeso
--  
-  time: 21:00 – 22:00
-  performer: D` dištanc dženerejšn + Ponorka (SK+CZ)
-  age: 12+
-  title: NO TOUCH, NO FUN 
-  perex: Strong spoken performances of 5 young personalities on the topic of near vs. far, featuring the Balkan music of the band Ponorka
-  location: Cube, Kammerhofská 6
-  price: 6 €
-  slug: no-touch
--  
-  time: 21:30 – 22:45
-  performer: Ty Syčáci (CZ)
   age: 15+
-  title: CONCERT
-  perex: thrilling retro-futurist tramp band with free-thinking energy
+  title: RAUT
+  perex: A brilliant new cabaret La Fontaine, or, an evening of big animals
+  location: Cube, Kammerhofská 6
+  price: 9 €
+  slug: geisslers-hoffcomoedianten
+-  
+  time: 22:30 – 23:30
+  performer: Mojše Band (SK)
+  age: 15+
+  title: KONCERT 
+  perex: Jewish musical heritage in a fresh version
   location: Art Cafe, attic
-  price: 7 €
-  slug: ty-sycaci
+  price: 8 €
+  slug: mojse-band

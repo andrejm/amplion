@@ -1,29 +1,49 @@
 -
-  time: 11:00 – 11:45
-  performer: Cirkus problem (CZ)
-  age: 12+
-  title: AFTER KONCERT
-  perex: Nespútaná word music kapela & vyhlásenie cien festivalu Amplion Argentum 
-  location: Art Cafe, terasa
+  time: 10:30 – 11:00
+  performer: Mikropodium Family Puppet Theatre (HU)
+  age: 3+
+  title: STOP 
+  perex: Svetovo unikátne bábkové divadlo pre najmenších
+  location: Art Cafe, Pod orechom
   price: 0 
-  slug: cirkus-problem-after
+  slug: family-puppet-theatre
 -
-  time: 14:00 – 14:45
-  performer: Džumelec (SK)
-  age: 5+
-  title: KONCERT PROTI DOSPELOSTI
-  perex: Originálne performatívne piesne Erika Sikoru pre deti 
+  time: 11:00 – 11:30
+  performer: 5 a pes (CZ)
+  age: 12+
+  title: AFTER KONCERT 
+  perex: + Vyhlásenie cien festivalu Amplion Argentum 
   location: Art Cafe, terasa
   price: 0
-  slug: dzumelec-proti-dospelosti
+  slug: 5-a-pes-nedela
 
 -
-  time: 17:00 – 18:20
-  performer: Divadlo Commedia (SK)
+  time: 13:30 - 14:05
+  performer: Ludo & Arsène (BE)
   argentum: true
+  premiere: true
   age: 12+
-  title: ZÁPISKY DÔSTOJNÍKA ČERVENEJ ARMÁDY
-  perex: skvelá tragikomédia o tom, čo urobí s hlúpim človekom moc
-  location: Kultúrne centrum, hlavná sála
-  price: predpredaj 5 €, na mieste 7 €
-  slug: divadlo-commedia
+  title: BE FLAT
+  perex: Cirkusová akrobacia a urban parkúr famóznej belgickej dvojice
+  location: Starý zámok
+  price: Predpredaj 6 €, na mieste 8 €
+  slug: ludo-arsene
+-
+  time: 14:00 – 16:35
+  performer: AMPLIÓN Karavana (HU/BE)
+  age: 3+
+  title: DÔVERA JE UMENIE 
+  perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+  location: KTC Hájovňa Červená studňa
+  price: 0
+  slug: amplion-karavana
+-
+  time: 15:00 – 16:30
+  performer: Mirek Tóda & Mojše band (SK) 
+  argentum: true
+  age: 15+
+  title: ART PUTIKA – Kóšer podcast
+  perex: Verejná nahrávka s pamätníkmi židovskej Štiavnice
+  location: Art Cafe, povala
+  price: 5 €
+  slug: mirek-toda-mojse-band
