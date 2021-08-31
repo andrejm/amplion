@@ -236,5 +236,266 @@ unless specified. --}}
       type="text/javascript"
       src="/assets/vendor/lazyload.min.js"
     ></script>
+
+    <!-- <script src="https://partners.goout.net/sk-other/amplioneu.js"></script> -->
+    <script>
+      var goOut = {
+        init: function (callback) {
+          var s, d;
+          d = document;
+          s = d.createElement("script");
+          s.src = "https://partners.goout.net/framework/api.vue.js";
+          d.body.appendChild(s);
+          window.addEventListener("goApiReady", callback);
+        },
+      };
+
+      goOut.init(function () {
+        var lang = goOut.currentLang();
+
+        goOut.headAppendStyle(function () {
+          /*
+        .event-price-clickable {
+            cursor: pointer;
+        }
+
+        .goOutWidgetTitle {
+            text-align: center;
+            margin-top: 1em;
+        }
+
+        .goOutWidgetSubtitle {
+            text-align: center;
+            margin-top: 1em
+        }
+    */
+        });
+
+        // one time event with more sales, this was easiest and most reliable way to store them
+        var events = {
+          "/program/5-a-pes/": [
+            "https://goout.net/" + lang + "/listky/komar-velbloudem/bptj/",
+          ],
+          "/en/programme/5-a-pes/": [
+            "https://goout.net/" + lang + "/listky/komar-velbloudem/bptj/",
+          ],
+          "/program/family-puppet-theatre/": [
+            "https://goout.net/" + lang + "/listky/stop/eptj/",
+            "https://goout.net/" + lang + "/listky/stop/fqtj/",
+          ],
+          "/en/programme/family-puppet-theatre/": [
+            "https://goout.net/" + lang + "/listky/stop/eptj/",
+            "https://goout.net/" + lang + "/listky/stop/fqtj/",
+          ],
+          "/program/lukas-simon-anton-elias/": [
+            "https://goout.net/" +
+              lang +
+              "/listky/robo-erectus-sugar-and-bic/gptj/",
+          ],
+          "/en/programme/lukas-simon-anton-elias/": [
+            "https://goout.net/" +
+              lang +
+              "/listky/robo-erectus-sugar-and-bic/gptj/",
+          ],
+          "/program/dzenerejsn/": [
+            "https://goout.net/" + lang + "/listky/no-trust-no-fun/hptj/",
+          ],
+          "/en/programme/dzenerejsn/": [
+            "https://goout.net/" + lang + "/listky/no-trust-no-fun/hptj/",
+          ],
+          "/program/paul-morocco/": [
+            "https://goout.net/" + lang + "/listky/ole-music-and-comedy/uptj/",
+            "https://goout.net/" + lang + "/listky/ole-music-and-comedy/oqtj/",
+            "https://goout.net/" + lang + "/listky/ole-music-and-comedy/brtj/",
+          ],
+          "/en/programme/paul-morocco/": [
+            "https://goout.net/" + lang + "/listky/ole-music-and-comedy/uptj/",
+            "https://goout.net/" + lang + "/listky/ole-music-and-comedy/oqtj/",
+            "https://goout.net/" + lang + "/listky/ole-music-and-comedy/brtj/",
+          ],
+          "/program/samo-marec/": [
+            "https://goout.net/" +
+              lang +
+              "/listky/art-putika-roky-bezpravia/wptj/",
+          ],
+          "/en/programme/samo-marec/": [
+            "https://goout.net/" +
+              lang +
+              "/listky/art-putika-roky-bezpravia/wptj/",
+          ],
+          "/program/geisslers-hoffcomoedianten/": [
+            "https://goout.net/" + lang + "/listky/raut/xptj/",
+          ],
+          "/en/programme/geisslers-hoffcomoedianten/": [
+            "https://goout.net/" + lang + "/listky/raut/xptj/",
+          ],
+          "/program/mojse-band/": [
+            "https://goout.net/" + lang + "/listky/mojse-band/aqtj/",
+          ],
+          "/en/programme/mojse-band/": [
+            "https://goout.net/" + lang + "/listky/mojse-band/aqtj/",
+          ],
+          "/program/ludo-arsene/": [
+            "https://goout.net/" + lang + "/listky/be-flat/jqtj/",
+            "https://goout.net/" + lang + "/listky/be-flat/ertj/",
+          ],
+          "/en/programme/ludo-arsene/": [
+            "https://goout.net/" + lang + "/listky/be-flat/jqtj/",
+            "https://goout.net/" + lang + "/listky/be-flat/ertj/",
+          ],
+          "/program/mestske-divadlo/": [
+            "https://goout.net/" + lang + "/listky/lasky-shock/lqtj/",
+          ],
+          "/en/programme/mestske-divadlo/": [
+            "https://goout.net/" + lang + "/listky/lasky-shock/lqtj/",
+          ],
+          "/program/dusan-ondrusek/": [
+            "https://goout.net/" +
+              lang +
+              "/listky/art-putika-ako-si-vybrat-pravdu-v-nekonecnom-mori-dezinformacii/nqtj/",
+          ],
+          "/en/programme/dusan-ondrusek/": [
+            "https://goout.net/" +
+              lang +
+              "/listky/art-putika-ako-si-vybrat-pravdu-v-nekonecnom-mori-dezinformacii/nqtj/",
+          ],
+          "/program/and/": [
+            "https://goout.net/" + lang + "/listky/welcome-to-stupidity/qqtj/",
+          ],
+          "/en/programme/and/": [
+            "https://goout.net/" + lang + "/listky/welcome-to-stupidity/qqtj/",
+          ],
+          "/program/divadlo-husa-na-provazku/": [
+            "https://goout.net/" + lang + "/listky/gadzove-jdou-do-nebe/sqtj/",
+          ],
+          "/en/programme/divadlo-husa-na-provazku/": [
+            "https://goout.net/" + lang + "/listky/gadzove-jdou-do-nebe/sqtj/",
+          ],
+          "/program/sketch-up/": [
+            "https://goout.net/" + lang + "/listky/sketch-up/vqtj/",
+          ],
+          "/en/programme/sketch-up/": [
+            "https://goout.net/" + lang + "/listky/sketch-up/vqtj/",
+          ],
+          "/program/jiri-dedecek/": [
+            "https://goout.net/" +
+              lang +
+              "/listky/nebudu-bydlet-v-quebecu/xqtj/",
+          ],
+          "/en/programme/jiri-dedecek/": [
+            "https://goout.net/" +
+              lang +
+              "/listky/nebudu-bydlet-v-quebecu/xqtj/",
+          ],
+          "/program/mirek-toda-mojse-band/": [
+            "https://goout.net/" +
+              lang +
+              "/listky/art-putika-koser-podcast+mojse-band/frtj/",
+          ],
+          "/en/programme/mirek-toda-mojse-band/": [
+            "https://goout.net/" +
+              lang +
+              "/listky/art-putika-koser-podcast+mojse-band/frtj/",
+          ],
+        };
+
+        if (
+          location.pathname === "/program/" ||
+          location.pathname === "/en/programme/"
+        ) {
+          refreshProgramButtons();
+          jQuery('a[role="tab"]').click(function (e) {
+            refreshProgramButtons();
+          });
+        } else {
+          var url = location.pathname;
+          var saleUrls = events[url];
+          if (saleUrls == null) {
+            return;
+          }
+
+          var section = jQuery(".popup-gallery").parent();
+          var saleTitle = jQuery(
+            '<h2 class="goOutWidgetTitle" id="vstupenky">Predaj vstupeniek</h2>'
+          );
+          section.append(saleTitle);
+
+          if (saleUrls.length > 1) {
+            goOut.eventApi(
+              {
+                source: "amplion.eu",
+                innerEventsForEvent: 2378503,
+                language: lang,
+              },
+              function (response) {
+                console.log(response);
+                urlLoop: for (var url of saleUrls) {
+                  for (eventId in response.timestamps) {
+                    var event = response.timestamps[eventId];
+                    if (event.sale.url.startsWith(url)) {
+                      var weekday = new Array(7);
+                        weekday[0] = "Nedeľa";
+                        weekday[1] = "Pondelok";
+                        weekday[2] = "Utorok";
+                        weekday[3] = "Streda";
+                        weekday[4] = "Štvrtok";
+                        weekday[5] = "Piatok";
+                        weekday[6] = "Sobota";
+
+                      var date = event.start;
+                      var time = new Date(date);
+                      var formattedDate = weekday[time.getDay()] + " " +moment(date).format('H:mm')
+                      
+                      // var formattedDate = goOut.dateFormat(
+                      //   date,
+                      //   "D. M. o H:mm",
+                      //   "YYYY-MM-DD HH:mm:ss"
+                      // );
+                      section.append(
+                        jQuery(
+                          '<h4 class="goOutWidgetSubtitle">' +
+                            formattedDate +
+                            "</h4>"
+                        )
+                      );
+                      var holder = goOut.createHolder();
+                      goOut.frame(holder, url + "?lessContact=2799");
+                      section.append(holder);
+
+                      continue urlLoop;
+                    }
+                  }
+                }
+              }
+            );
+          } else {
+            var holder = goOut.createHolder();
+            goOut.frame(holder, saleUrls[0] + "?lessContact=2799");
+            section.append(holder);
+          }
+
+          if (location.hash === "#vstupenky") {
+            goOut.scrollTo(saleTitle, 20);
+          }
+        }
+      });
+
+      function refreshProgramButtons() {
+        jQuery(".event-price").each(function (i, item) {
+          if (item.text().match("â‚¬")) {
+            item.classList.add("event-price-clickable");
+            item.onclick = function (e) {
+              e.preventDefault();
+
+              var url = jQuery(item)
+                .parents(".progitem__gutter")
+                .find(".progitem__title a")
+                .attr("href");
+              location.replace(url + "#vstupenky");
+            };
+          }
+        });
+      }
+    </script>
   </body>
 </html>

@@ -2,80 +2,82 @@
 # list of paid events as we want to list them in order
 paid-events:
   -
-    pev-title: umami-dancetheatre
+    pev-title: 5-a-pes
     pev-occurence: 0  
 
   - 
-    pev-title: premysl
+    pev-title: family-puppet-theatre
     pev-occurence: 0
   - 
-    pev-title: mattatoio-sospeso
+    pev-title: lukas-simon-anton-elias
     pev-occurence: 0
 
   - 
-    pev-title: no-touch
+    pev-title: dzenerejsn
     pev-occurence: 0
   - 
-    pev-title: ty-sycaci
+    pev-title: paul-morocco
     pev-occurence: 0
-  
-  
-
-
 
   - 
-    pev-title: cirkus-prditko
+    pev-title: samo-marec
     pev-occurence: 0
   
   - 
-    pev-title: el-goma
+    pev-title: geisslers-hoffcomoedianten
     pev-occurence: 0
   - 
-    pev-title: mattatoio-sospeso
-    pev-occurence: 1
+    pev-title: mojse-band
+    pev-occurence: 0
 
   - 
-    pev-title: jan-markos
-    pev-occurence: 0
-  
-  - 
-    pev-title: el-goma 
+    pev-title: family-puppet-theatre
     pev-occurence: 1
   
   - 
-    pev-title: divadlo-husa
+    pev-title: ludo-arsene
     pev-occurence: 0
   
   - 
-    pev-title: umami-dancetheatre
+    pev-title: mestske-divadlo
+    pev-occurence: 0
+  
+  - 
+    pev-title: dusan-ondrusek
+    pev-occurence: 0
+
+  - 
+    pev-title: paul-morocco
     pev-occurence: 1
-  
-  
-  
-  
   - 
-    pev-title: dzumelec
-    pev-occurence: 0
-  - 
-    pev-title: divadlo-semafor
+    pev-title: and
     pev-occurence: 0
   
+  - 
+    pev-title: divadlo-husa-na-provazku
+    pev-occurence: 0
+  
+
   - 
     pev-title: sketch-up
     pev-occurence: 0
   
-
-  - 
-    pev-title: cirkus-problem
-    pev-occurence: 0
-  
   
   - 
-    pev-title: divadlo-commedia
+    pev-title: jiri-dedecek
     pev-occurence: 0
  
+  - 
+    pev-title: paul-morocco
+    pev-occurence: 2
   
-  
+  - 
+    pev-title: ludo-arsene
+    pev-occurence: 1
+    
+  -
+    pev-title: mirek-toda-mojse-band
+    pev-occurence: 0
   
   
   
@@ -96,9 +98,9 @@ paid-events:
 		<p class="section__introtext text-center">
       Všetky platené predstavenia pekne pokope.
       <br><br>
-      V prípade, že sa Vám vstupenky nenačítajú môžete prejsť na stránku predajcu <a target="_blank" href="https://tootoot.fm/sk/5d372de8d198cd077ceaa65f" style="color:#E62E6C">tootoot.sk</a>
+      V prípade, že sa Vám vstupenky nenačítajú môžete prejsť na stránku predajcu <a target="_blank" href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie/szmybfr/." style="color:#E62E6C">GoOut.net</a>
       <br><br>
-      Ak máte problém, alebo sa chcete poradiť pri nákupe vstupeniek, volajte na Tootoot support: <a href="tel:+421948960696"  style="color:#E62E6C">+421 948 960 696</a>
+      Ak máte problém, alebo sa chcete poradiť pri nákupe vstupeniek, volajte na Tootoot support: <a href="tel:+421948960696"  style="color:#E62E6C">+421 948 145 483</a>
 		</p>
 	</div>
 </section>
@@ -122,10 +124,10 @@ paid-events:
 					
 					<li class="ticketslist__item">
 						<h3 class="ticketslist__subtitle">
-							{{lookup (lookup @root.annotations event.pev-title) 'performer'}}
+							{{{lookup (lookup @root.annotations event.pev-title) 'performer'}}}
 						</h3>
 						<h2 class="ticketslist__title">
-							{{lookup (lookup @root.annotations event.pev-title) 'title'}}
+							{{{lookup (lookup @root.annotations event.pev-title) 'title'}}}
             </h2>
             
 					

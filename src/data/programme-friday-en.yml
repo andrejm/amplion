@@ -1,7 +1,7 @@
 - 
   time: 16:00 – 16:30
   title: FESTIVAL OPENING
-  perex: "Anthem + promo: Paul Morocco (USA/GB/ES) + Ludo & Arsène (BE) + Šimon & Eliáš (CZ) 	+ Mojše band (SK)"
+  perex: "Anthem + promo: Paul Morocco (USA/GB/ES) &&nbsp;Ludo & Arsène (BE) &&nbsp;Šimon&nbsp;Eliáš (CZ) 	&&nbsp;Mojše band (SK)"
   age: Family
   price: 0
   location: St. Trinity Square
@@ -17,7 +17,7 @@
   slug: family-puppet-theatre
 -  
   time: 17:00 – 17:35
-  performer: Lukáš Šimon + Anton Eliáš (CZ)
+  performer: Lukáš Šimon & Anton Eliáš (CZ)
   title: "ROBO ERECTUS: Šugar & Bič"
   perex: Comedic sci-fi pantomime of robots
   location: Scout House Garden, A. Pécha st.
@@ -32,14 +32,14 @@
   perex: "A visual performance exhibition in the dark, guest: psychiatrist M. Patarák"
   location: Old Castle – karner
   price: 0
-  slug: dusan-krnac
+  slug: dusan-krnac-friday
 -  
   time: 17:30 – 20:30
   performer: AMPLIFIER Caravan (SK)
   age: Family
   title: TRUST IS ART
   perex: Travelling performances of artists to the periphery + invitations to the centre
-  location: Cinema Štiavnické Bane, Tavern STEIGER Banská Belá
+  location: Cinema Štiavnické Bane,<br> Pub of Michal Banská Belá
   price: 0
   slug: amplion-karavana
 -  
@@ -47,20 +47,20 @@
   performer: D´ &nbsp;renewed dženerejšn + Martin Toman & Tadeáš Bolo (SK)
   age: 12+
   title: NO TRUST, NO FUN
-  perex: Young reciters on the topic of (dis)trust, featuring the music of Lasica & Satinský 
+  perex: Young reciters on the topic of (dis)trust, featuring the songs of Filip, Lasica & Satinský 
   location: Art Cafe, Under the walnut tree
   price: 7 €
   slug: dzenerejsn
 -  
   time: 19:30 – 20:30
-  performer: 'Paul Morocco (USA/GB/DE) <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
+  performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
   premiere: true
   argentum: true
   age: 12+
   title: OLÉ! Music & Comedy
   perex: Crazy music-artistic guitar show
   location: Cultural centre, main hall
-  price: predpredaj 13 €, na mieste 15 €
+  price: 13 € pre-sale, 15 € onsale
   slug: paul-morocco
 -  
   time: 20:00 – 21:15
@@ -86,7 +86,7 @@
   time: 22:30 – 23:30
   performer: Mojše Band (SK)
   age: 15+
-  title: KONCERT 
+  title: CONCERT 
   perex: Jewish musical heritage in a fresh version
   location: Art Cafe, attic
   price: 8 €

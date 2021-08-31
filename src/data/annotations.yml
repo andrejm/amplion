@@ -5,6 +5,9 @@ otvorenie-festivalu:
   content: 
    -
     "Príďte aj tento rok otvoriť 6. ročník festivalu, tentokrát sloganom: Dôvera je umenie!"
+
+   -
+    "Máme radosť z Vašej dôvery, že pre Vás každý rok namixujeme originálny program plný Vašich výnimočných zážitkov. Ukážky z toho najlepšieho, čo vám počas festivalu nesmie ujsť, zažijete práve tu! Nebude chýbať ani ďalšia verzia festivalovej hymny."
   occurences:
     -
       time: "piatok 16:00"
@@ -35,9 +38,9 @@ amplion-karavana:
 
     -
       time: sobota 13:00 - 16:25 
-      location: Terasa u Blaškov, Počúvadlo, Na fare Beluja, Bod K. sídlisko Drieňová Banská Štiavnica <br>
+      location: Terasa u Blaškov, Počúvadlo, Na fare Beluja, <br> Bod K. sídlisko Drieňová Banská Štiavnica <br>
     -
-      time: nedeľa 14:00 - 16:35
+      time: nedeľa 14:00 - 16:35 <br>
       location: KTC Hájovňa Červená studňa
   pictures:
     
@@ -47,7 +50,7 @@ amplion-karavana:
 
 
 divadlo-husa-na-provazku:
-  performer: Divadlo Husa na Provázku, Brno (CZ)
+  performer: Divadlo Husa na provázku, Brno (CZ)
   argentum: true
   premiere: true
   top-general: TOP PROGRAM pre dospelých
@@ -113,7 +116,7 @@ paul-morocco:
       toot-event-id: 0
   
       
-  perex: Bláznivá hudobno-artistická gitarová show 
+  perex: Bravúrna hudobno-artistická gitarová show 
   content: 
     -
       Hrajú ako Paco de Lucia, spievajú ako Pavarotti a hýbu sa ako Gipsy Kings! Prichádza veľkolepé trio a ich búrlivo smiešna gitarová groteska. Španielky počas hrania točia, preklápajú či vyhadzujú do vzduchu, hrajú s nimi ping-pong či rozbíjajú vajíčka. Artistická hra v štýle flamenco, pop, swing, blues či klasiky vás podmaní. Pozastavte sa a nechajte sa očariť hudobným majstrovstvom a zábavnou vizuálnou komédiou. Paul, Miguel a Alessandro to na Amplióne roztočia v slovenskej premiére!
@@ -147,7 +150,7 @@ geisslers-hoffcomoedianten:
   perex: Štýlový nový kabaret La Fontaine alebo večierok veľkých zvierat 
   content: 
     -
-      "<em><Ladies and gentlemen! We show for you -̶  and for me -̶  we show you de La Fontaine show! </em> Prijmite pozvanie na večierok do vybranej spoločnosti zajaca, vlka, jeleňa a Lafontány. Zažijete medzinárodný bábkový kabaret na motívy francúzskeho bájkara Jeana de La Fontaine so zvieracími maskami, predmetovými bábkami, žemľami, chlebom, drinkami aj živou balkánskou hudbou. Kto je koho pán a kto koho skrotí? Človek zviera alebo zviera človeka? A je človek človekom? Doprajte si svieži RAUT v réžii jedného z najosobitejších a najvýraznejších bábkarov súčasného divadla Matiju Solce, ktorého hra KAR v roku 2019 získala na Amplióne cenu Amplion Argentum za nový kabaret! Pre všetkých od 15 rokov. "
+      "<em>Ladies and gentlemen! We show for you -  and for me -  we show you de La Fontaine show! </em> Prijmite pozvanie na večierok do vybranej spoločnosti zajaca, vlka, jeleňa a Lafontány. Zažijete medzinárodný bábkový kabaret na motívy francúzskeho bájkara Jeana de La Fontaine so zvieracími maskami, predmetovými bábkami, žemľami, chlebom, drinkami aj živou balkánskou hudbou. Kto je koho pán a kto koho skrotí? Človek zviera alebo zviera človeka? A je človek človekom? Doprajte si svieži RAUT v réžii jedného z najosobitejších a najvýraznejších bábkarov súčasného divadla Matiju Solce, ktorého hra KAR v roku 2019 získala na Amplióne cenu Amplion Argentum za nový kabaret! Pre všetkých od 15 rokov. "
     -
      '<em>Geisslers Hofcomoedianten je český nezávislý divadelný súbor, ktorý vznikol v roku 2002 v Kukse a pôsobí v pražskej VILE Štvanica. Vo svojej tvorbe prepája staré tradície so živým, súčasným divadlom. <br> K barokovej inšpirácii pristupujú slobodne, miešajú pôvodné s novým, vzletné s prízemným: činohru, spevohru, bábkohru aj tanec – tak, aby to divákov bavilo.</em>'
    
@@ -347,8 +350,8 @@ jiri-dedecek:
       time: štvrtok 19:00
       location: Art Cafe, povala
       price: 7 €
-      toot-iframe-id: 0
-      toot-event-id: 0
+      toot-iframe-id: 10
+      toot-event-id: 20
       
   perex: Hudobno-dramatický koncert víťaza súťaže SKETCH UP
   content: 
@@ -357,7 +360,7 @@ jiri-dedecek:
 Ponorka vzniklo celovečerné vystúpenie. Kapela sa za rok stihla premenovať a rozšíriť, takže
 ju zažijete vo vylepšenom zložení a s novým repertoárom pod názvom <b>5 a pes</b>.
 Autorské
-piesne v štýle balkan music s nadhľadom reflektujú radosti i strasti všedných aj nevšedných
+piesne v štýle poetického folku s nadhľadom reflektujú radosti i strasti všedných aj nevšedných
 dní. A robiť z komára velblouda býva zábava! '
     -
      '<em>5 a pes to je Alžběta Bláhová – viola, spev, Maria Nona Mlejnská – husle, spev, Jakub Mlejnský 
@@ -382,20 +385,12 @@ dní. A robiť z komára velblouda býva zábava! '
   perex: Vyhlásenie cien festivalu Amplion Argentum
   content: 
     -
-        'A je to tu, plníme sľuby! Rok sa s rokom stretol a z krátkeho víťazného skeču pražskej kapely
-Ponorka vzniklo celovečerné vystúpenie. Kapela sa za rok stihla premenovať a rozšíriť, takže
-ju zažijete vo vylepšenom zložení a s novým repertoárom pod názvom <b>5 a pes</b>.
-Autorské
-piesne v štýle balkan music s nadhľadom reflektujú radosti i strasti všedných aj nevšedných
-dní. A robiť z komára velblouda býva zábava! '
-    -
-     '<em>5 a pes to je Alžběta Bláhová – viola, spev, Maria Nona Mlejnská – husle, spev, Jakub Mlejnský 
-– gitara, spev, Bartoloměj Bláha – kontrabas, Johana Pastorová – perkusie. Tešte sa, haf!</em>'
-
+        'Aj 6. ročník Festivalu AMPLIÓN má svojich adeptov na cenu festivalu Amplion Argentum. Nájdete ich v programe s označením AA.  Tipnite si aj vy, komu udelíme cenu za nový kabaret, pouličné umenie či za spoločensko-angažované umenie. Výhercov odhalíme za zvukov fanfár skvelej kapely 5 & pes v štýle poetického folku.'
+  
   pictures:
     - 5 a pes-resp. Ponorka_1_Peter Stit.jpg
     - 5 a pes-resp. Ponorka_2_Foto_Michal Sv¡tok.jpg
-    - 5 a pes-resp. Ponorka_3_Peter Stit.jpg
+    - vyhlasenie-argentum.jpg
 
 mojse-band:
   performer: Mojše Band, <br> Spišská Belá (SK)    
@@ -408,7 +403,26 @@ mojse-band:
       price: 8 €
       toot-iframe-id: 0
       toot-event-id: 0
-    
+      
+  perex: Židovské hudobné dedičstvo v sviežom prevedení
+  content: 
+    -
+      Autentická kapela reprezentujúca inovatívny pohľad na židovskú hudobnú tradíciu zo Slovenska. Má stabilné postavenie na európskej scéne. Systematicky sa venuje mapovaniu židovského hudobného dedičstva z regiónov bývalej Rakúsko-Uhorskej monarchie (napr. Albumy Zipserim – Oberzips, 2018, Sárosi – Šarišskí, 2020). Hudobne spolupracuje aj na Kóšer podcastoch Mireka Tódu v Denníku N. Verejnú nahrávku s miestnymi pamätníkmi obohatí svojou muzikou aj v nedeľu v Art Cafe!
+    -
+     '<em>Mojše Band účinkovala na mnohých prestížnych scénach v Nemecku, Holandsku, v Poľsku aj v Izraeli a má za sebou viaceré spolupráce so svetovými umelcami. Je finalistom Celosvetovej súťaže židovskej hudby v Amsterdame v roku 2017 a držiteľom prestížnej Youtube Award za roky 2018-2019. Mojše Band je Michal Paľko – spev, cimbal, dychové nástroje, Jakub Stračina – kontrabas, spev a František Kubiš – akordeón, spev, bubon. </em>'
+
+  pictures:
+    - Mojse band_Bardejov_Iva Liptakova                                                                                   .jpg
+    - Mojse band_Raslavice_Iva Liptakova                                                                                   .jpg
+    - Mojse band_Zborov_Iva Liptakova                                                                                   .jpg
+
+  link: http://www.mojseband.sk
+
+mojse-band-after-promo:
+  performer: Mojše Band, <br> Spišská Belá (SK)    
+  title: AFTER PROMO                                
+  general: Program pre mladých a dospelých       
+  occurences: 
     -
       time: sobota 14:15
       location: Trotuár
@@ -468,9 +482,10 @@ nitku suchú. Nadhľad a humor all inclusive!'
 Samo Marec je prekladateľ a publicista, píše pre denník SME. Jeho životnou ambíciou je živiť sa nie písaním, ale čítaním kníh. Lásku k peknej literatúre vyvažuje láskou <br> k hudbe, ktorú málokto dokáže počúvať.</em>'
 
   pictures:
-    - Jan_Markos_3.jpg
-    - Samo Marec_by_TomasBenedikovic_2.jpg
     - Marec &amp; Markos_Medzi-dobrom-a-zlom_obalka.jpg
+    - Samo Marec_by_TomasBenedikovic_2.jpg
+    - Jan_Markos_3.jpg
+
     
   link: https://obchod.dennikn.sk/show/417/medzi-dobrom-a-zlom?autologin=done
 
@@ -505,7 +520,7 @@ samo-marec:
 mirek-toda-mojse-band:
   performer: Mirek Tóda & Mojše Band Bratislava/Spišská Belá (SK)
   argentum: true
-  title: ART PUTIKA – kóšer podcast                                  
+  title: ART PUTIKA – Kóšer podcast                                  
   general: Program pre mladých a dospelých             
   occurences: 
     -
@@ -536,7 +551,7 @@ susedov“, Ladislav Welward a Peter Gemeiner. '
 
 
 dzenerejsn:
-  performer: D´&nbsp; Renewed Dženerejšn + Martin Toman & Tadeáš Bolo (SK)
+  performer: D´&nbsp;renewed dženerejšn + Martin Toman & Tadeáš Bolo (SK)
   title: NO TRUST, NO FUN                               
   general: Program pre mladých a dospelých     
   occurences: 
@@ -547,7 +562,7 @@ dzenerejsn:
       toot-iframe-id: 0
       toot-event-id: 0
       
-  perex: Moderné prednesy mladých osobností na tému (ne)dôvera s hudbou Lasicu & Satinského
+  perex: Moderné prednesy mladých na tému (ne)dôvera s piesňami Filipa, Lasicu & Satinského
   content: 
     -
       'Piati mladí interpreti a ich autentické výpovede textov svetovej i slovenskej prózy a poézie obohatené o autorské čítanie mladej slovenskej poetky. Dobrodružstvo pre oči aj pre dušu! V krásnom prostredí pokojnej záhrady Art Cafe zaznie starostlivý výber silných autentických výpovedí o dôvere v medziľudské vzťahy, v samého seba, v základné ľudské hodnoty, ale aj v silu, zmysel a prínos umenia a umelcov pre kultivovanú spoločnosť. Aj o tom bude každoročne iný a špeciálne vymyslený večer prudko kvalitnej literatúry, ktorý vás opäť vyvedie z predsudkov o konvenčnom recitovaní. Programom sprevádza mladé kabaretné duo v štýle Lasica & Satinský. Výborná spoločnosť, čo poviete?'
@@ -660,12 +675,6 @@ family-puppet-theatre:
       time: sobota 10:30
       location: Kaviareň Gavalier
       price: 2 / 4 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-    -
-      time: nedeľa 10:30
-      location: Art Cafe
-      price: 0
       toot-iframe-id: 0
       toot-event-id: 0
       

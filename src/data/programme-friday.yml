@@ -1,6 +1,6 @@
 - 
   time: 16:00 – 16:30
-  title: OTVORENIE FESTIVAL
+  title: OTVORENIE FESTIVALU
   perex: "Hymna + promo: Paul Morocco (USA/GB/ES) +&nbsp;Ludo&nbsp;&&nbsp;Arsène&nbsp;(BE) +&nbsp;Šimon&nbsp;&&nbsp;Eliáš&nbsp;(CZ) +&nbsp;Mojše&nbsp;band&nbsp;(SK)"
   age: Family
   price: 0
@@ -17,7 +17,7 @@
   slug: family-puppet-theatre
 -  
   time: 17:00 – 17:35
-  performer: Lukáš Šimon + Anton Eliáš (CZ)
+  performer: Lukáš Šimon & Anton Eliáš (CZ)
   title: "ROBO ERECTUS: Šugar & Bič"
   perex: Komická sci-fi pantomíma robotov
   location: Záhrada Skautského domu, <br> ul. A. Pécha
@@ -39,15 +39,15 @@
   age: Family
   title: DÔVERA JE UMENIE
   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-  location: Kino Štiavnické Bane, Krčma u Michala Banská Belá
+  location: Kino Štiavnické Bane, <br>Krčma u Michala Banská Belá
   price: 0
   slug: amplion-karavana
 -  
   time: 18:00 – 19:00
-  performer: D´&nbsp;renewed dženerejšn + Martin Toman & Tadeáš Bolo (SK)
+  performer: D´ renewed dženerejšn + Martin Toman & Tadeáš Bolo (SK)
   age: 12+
   title: NO TRUST, NO FUN
-  perex: Moderné prednesy mladých na tému (ne)dôvera s hudbou Lasicu & Satinského 
+  perex: Moderné prednesy mladých na tému (ne)dôvera s piesňami Filipa, Lasicu & Satinského
   location: Art Cafe, Pod orechom
   price: 7 €
   slug: dzenerejsn
@@ -58,7 +58,7 @@
   argentum: true
   age: 12+
   title: OLÉ! Music & Comedy
-  perex: Bláznivá hudobno-artistická gitarová show
+  perex: Bravúrna hudobno-artistická gitarová show
   location: Kultúrne centrum, hlavná sála
   price: Predpredaj 13 €, na mieste 15 €
   slug: paul-morocco
@@ -78,7 +78,7 @@
   premiere: true
   age: 15+
   title: RAUT
-  perex: Bravúrny nový kabaret La Fontaine alebo večierok veľkých zvierat
+  perex: Štýlový nový kabaret La Fontaine alebo večierok veľkých zvierat
   location: Kocka, Kammerhofská 6
   price: 9 €
   slug: geisslers-hoffcomoedianten

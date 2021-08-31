@@ -28,12 +28,16 @@
 					<br>
 				{{/if}}
 				{{#if this.general}}
-					<span class="event-top">{{this.general}}</span>
+					<span class="event-more">{{this.general}}</span>
+					<br>
+				{{/if}}
+				{{#if this.top-general}}
+					<span class="event-top">{{this.top-general}}</span>
 					<br>
 				{{/if}}
 				{{#each occurences}}
-					<span class="event-time">{{this.time}}</span>
-					<span class="event-location">{{this.location}}</span>
+					<span class="event-time">{{{this.time}}}</span>
+					<span class="event-location">{{{this.location}}}</span>
 					{{#if @root.site-config.show-tickets}}
 					<!-- <span class="event-price">6 €</span> -->
 					{{/if}}
@@ -109,7 +113,31 @@
 	</div>
 </section>
 
+
 {{#if @root.site-config.show-tickets}}
+	{{#ifequal this.price 0}}
+	    {{!-- intentionally left blank, dont have opposit helper --}}
+	{{else}}
+<section id="tickets" class="section section--straight section--notopspace">
+	<div class="section__inner">
+		<div class="section__content">
+			<!-- <h2 class="section__title">Tickets for: {{title}}</h2> -->
+	<!-- {{#each occurences}}
+	{{#if toot-iframe-id}}
+		<h4>{{time}}</h4>
+		{{>_toot-iframe iframelang='en'}}
+	{{/if}}
+	<hr>
+	{{/each}} -->
+			<p>&nbsp;</p>
+			<p>By buying a ticket you agree with publishing photos of you taken during AMPLIFIER festival.</p>
+		</div>
+	</div>
+</section>
+	{{/ifequal}}
+{{/if}}
+
+<!-- {{#if @root.site-config.show-tickets}}
 	{{#ifequal this.price 0}}
 	    {{!-- intentionally left blank, dont have opposit helper --}}
 	{{else}}
@@ -130,7 +158,7 @@
 	</div>
 </section>
 	{{/ifequal}}
-{{/if}}
+{{/if}} -->
 
 <section class="section section--plain">
 	<div class="section__inner">

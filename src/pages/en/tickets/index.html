@@ -3,77 +3,83 @@ layout: english
 # list of paid events as we want to list them in order
 paid-events:
   -
-    pev-title: umami-dancetheatre
+    pev-title: 5-a-pes
     pev-occurence: 0  
 
   - 
-    pev-title: premysl
+    pev-title: family-puppet-theatre
     pev-occurence: 0
   - 
-    pev-title: mattatoio-sospeso
+    pev-title: lukas-simon-anton-elias
     pev-occurence: 0
 
   - 
-    pev-title: no-touch
+    pev-title: dzenerejsn
     pev-occurence: 0
   - 
-    pev-title: ty-sycaci
+    pev-title: paul-morocco
     pev-occurence: 0
-  
-  
-
-
 
   - 
-    pev-title: cirkus-prditko
+    pev-title: samo-marec
     pev-occurence: 0
   
   - 
-    pev-title: el-goma
+    pev-title: geisslers-hoffcomoedianten
     pev-occurence: 0
   - 
-    pev-title: mattatoio-sospeso
-    pev-occurence: 1
+    pev-title: mojse-band
+    pev-occurence: 0
 
   - 
-    pev-title: jan-markos
-    pev-occurence: 0
-  
-  - 
-    pev-title: el-goma 
+    pev-title: family-puppet-theatre
     pev-occurence: 1
   
   - 
-    pev-title: divadlo-husa
+    pev-title: ludo-arsene
     pev-occurence: 0
   
   - 
-    pev-title: umami-dancetheatre
+    pev-title: mestske-divadlo
+    pev-occurence: 0
+  
+  - 
+    pev-title: dusan-ondrusek
+    pev-occurence: 0
+
+  - 
+    pev-title: paul-morocco
     pev-occurence: 1
-  
-  
-  
-  
   - 
-    pev-title: dzumelec
-    pev-occurence: 0
-  - 
-    pev-title: divadlo-semafor
+    pev-title: and
     pev-occurence: 0
   
+  - 
+    pev-title: divadlo-husa-na-provazku
+    pev-occurence: 0
+  
+
   - 
     pev-title: sketch-up
     pev-occurence: 0
   
-
-  - 
-    pev-title: cirkus-problem
-    pev-occurence: 0
-  
   
   - 
-    pev-title: divadlo-commedia
+    pev-title: jiri-dedecek
     pev-occurence: 0
+ 
+  - 
+    pev-title: paul-morocco
+    pev-occurence: 2
+  
+  - 
+    pev-title: ludo-arsene
+    pev-occurence: 1
+    
+  -
+    pev-title: mirek-toda-mojse-band
+    pev-occurence: 0
+  
  
   
   
@@ -87,9 +93,9 @@ paid-events:
       All the events with their tickets together.
 
       <br><br>
-      If your tickets are not being loaded, you can go to the seller's website <a target="_blank" href="https://tootoot.fm/sk/5d372de8d198cd077ceaa65f" style="color:#E62E6C">tootoot.sk</a>
+      If your tickets are not being loaded, you can go to the seller's website <a target="_blank" href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie/szmybfr/." style="color:#E62E6C">GoOut.net</a>
       <br><br>
-      If you have a problem or you need an advice on buying tickets, call Tootoot support: <a href="tel:+421948960696"  style="color:#E62E6C">+421 948 960 696</a>
+      If you have a problem or you need an advice on buying tickets, call Tootoot support: <a href="tel:+421948960696"  style="color:#E62E6C">+421 948 145 483</a>
     </p>
 	</div>
 </section>
@@ -113,10 +119,10 @@ paid-events:
 					
 					<li class="ticketslist__item">
 						<h3 class="ticketslist__subtitle">
-							{{lookup (lookup @root.annotations-en event.pev-title) 'performer'}}
+							{{{lookup (lookup @root.annotations-en event.pev-title) 'performer'}}}
 						</h3>
 						<h2 class="ticketslist__title">
-							{{lookup (lookup @root.annotations-en event.pev-title) 'title'}}
+							{{{lookup (lookup @root.annotations-en event.pev-title) 'title'}}}
 						</h2>
 					
 						{{#with (lookup (lookup (lookup @root.annotations-en event.pev-title) 'occurences' ) event.pev-occurence)}}

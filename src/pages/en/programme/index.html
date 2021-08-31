@@ -1,8 +1,14 @@
 ---
 layout: english
-friday:
+
+thursday:
   previd:
   prevtext:
+  nextid: friday
+  nexttext: Friday
+friday:
+  previd: thursday
+  prevtext: Thursday
   nextid: saturday
   nexttext: Saturday
 saturday:
@@ -77,13 +83,36 @@ sunday:
 <!-- <section class="section"> -->
     <div class="schedule">
         <ul class="tabs" data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" data-tabs id="deeplinked-tabs">
-          <li class="tabs-title is-active"><a href="#friday" aria-selected="true">Friday</a></li>
+          <li class="tabs-title is-active"><a href="#thursday" aria-selected="true">Thursday</a></li>
+          <li class="tabs-title"><a href="#friday" >Friday</a></li>
           <li class="tabs-title"><a href="#saturday">Saturday</a></li>
           <li class="tabs-title"><a href="#sunday">Sunday</a></li>
         </ul>
 
         <div class="tabs-content" data-tabs-content="deeplinked-tabs">
-          <div class="tabs-panel is-active" id="friday">
+
+          <div class="tabs-panel is-active" id="thursday">
+            <section class="section section--plain section--straight section--top">
+                <ul class="programmes">
+                {{#each programme-thursday-en}}
+                    {{>_progitem-en}}
+                {{/each}}
+                </ul>
+                {{>_programmenav friday}}                
+            </section>
+<!-- 
+            <section class="section" style="background-color:white">
+
+                <h2 class="section__title">BUSKING</h2>
+                  <ul class="programmes">
+                  {{#each programme-off-thursday-en}}
+                      {{>_progitem-en}}
+                  {{/each}}
+                </ul>
+              </section> -->
+
+          </div>
+          <div class="tabs-panel" id="friday">
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
                 {{#each programme-friday-en}}
@@ -92,7 +121,7 @@ sunday:
                 </ul>
                 {{>_programmenav friday}}                
             </section>
-
+<!-- 
             <section class="section" style="background-color:white">
 
                 <h2 class="section__title">BUSKING</h2>
@@ -101,7 +130,7 @@ sunday:
                       {{>_progitem-en}}
                   {{/each}}
                 </ul>
-              </section>
+              </section> -->
 
           </div>
           <div class="tabs-panel" id="saturday">
@@ -114,7 +143,7 @@ sunday:
                 {{>_programmenav saturday}}               
             </section>
 
-            <section class="section" style="background-color:white">
+            <!-- <section class="section" style="background-color:white">
 
                 <h2 class="section__title">BUSKING</h2>
                   <ul class="programmes">
@@ -122,7 +151,7 @@ sunday:
                       {{>_progitem-en}}
                   {{/each}}
                 </ul>
-              </section>
+              </section> -->
 
           </div>
           <div class="tabs-panel" id="sunday">
@@ -135,7 +164,7 @@ sunday:
                 {{>_programmenav sunday}}               
            
 
-            <section class="section" style="background-color:white">
+            <!-- <section class="section" style="background-color:white">
 
                 <h2 class="section__title">BUSKING</h2>
                   <ul class="programmes">
@@ -143,7 +172,7 @@ sunday:
                       {{>_progitem-en}}
                   {{/each}}
                 </ul>
-              </section>
+              </section> -->
 
           </div>
         </div>
@@ -173,8 +202,7 @@ sunday:
     
     <div class="section__inner">
     <div class="section__content">
-        <p style="padding:0 20px;">During the entire festival, the safety of viewers will be observed by the special  <strong style="color:#E62E6C">CLOWN HEALTH PATROL</strong><br>of the civic organisation <strong style="color:#E62E6C">RED NOSE Clowndoctors</strong>.</p>
- 
+        <p style="padding:0 20px;">During the entire festival, the safety of viewers will be observed <br> by the <span style="color:#E62E6C">SPECIAL</span>  <strong style="color:#E62E6C">VOLUNTEER HEALTH PATROL</strong>.</p>
     </div>
     
   
@@ -186,7 +214,7 @@ sunday:
     <div class="presskit">
       <div class="presskit__item">
         <img src="/assets/img/pressico-logo.svg" alt="" class="presskit__ico">
-        <a href="/assets/FN_AMPLION_2020_program.pdf" class="button">Festival programme (pdf)</a>
+        <a href="/assets/PROGRAM_AMPLION_21_ENG_web.pdf" class="button">Festival programme (pdf)</a>
       </div>
     </div>
   </div> 
