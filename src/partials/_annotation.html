@@ -1,95 +1,82 @@
-
 <section class="section section--plain section--straight section--top">
-	<div class="section__inner">
-		<div class="event-header">
-			<span class="event-label event-label--top"><!-- Top --></span>
-			<h2 class="event-header__author">{{{performer}}}</h2>
-			<h1 class="event-header__title">{{{title}}}</h1>
-		</div>
-		<div class="section__content">
-			<p class="section__introtext">
-				{{{perex}}}
-			</p>
-			<p>
-				{{#if this.top}}
-					<span class="event-top">TOP</span>
-					<br>
-				{{/if}}
-				{{#if this.novy-format}}
-					<span class="event-top">Nový formát – len na AMPLIÓNE!</span>
-					<br>
-				{{/if}}
-				{{#if this.premiere}}
-					<span class="event-premiere">Slovenská premiéra</span>
-					<br>
-				{{/if}}
-				{{#if this.argentum}}
-					<span class="event-argentum">Nominácia na Amplion Argentum</span>
-					<br>
-				{{/if}}
-				{{#if this.top-general}}
-					<span class="event-top">{{this.top-general}}</span>
-					<br>
-				{{/if}}
-				{{#if this.general}}
-					<span class="event-more">{{this.general}}</span>
-					<br>
-				{{/if}}
-
-
-				{{#each occurences}}
-					<span class="event-time">{{{this.time}}}</span>
-					<span class="event-location">{{{this.location}}}</span>
-					{{#if @root.site-config.show-tickets}}
-					<!-- <span class="event-price">6 €</span> -->
-					{{/if}}
-					<br>
-				{{/each}}
-				
-
-				
-			</p>
-			{{#if @root.site-config.show-tickets}}
-			    {{#ifequal price 0}}
-			        {{!-- intentionally left blank, dont have opposit helper --}}
-			    {{else}}
-			<p data-smooth-scroll>
-				<a href="#vstupenky" class="button">Kúpiť vstupenky</a>
-			</p>
-				{{/ifequal}}
-			{{/if}}
-		</div>
-	</div>
+  <div class="section__inner">
+    <div class="event-header">
+      <span class="event-label event-label--top"><!-- Top --></span>
+      <h2 class="event-header__author">{{{performer}}}</h2>
+      <h1 class="event-header__title">{{{title}}}</h1>
+    </div>
+    <div class="section__content">
+      <p class="section__introtext">{{{perex}}}</p>
+      <p>
+        {{#if this.top}}
+        <span class="event-top">TOP</span>
+        <br />
+        {{/if}} {{#if this.novy-format}}
+        <span class="event-top">Nový formát – len na AMPLIÓNE!</span>
+        <br />
+        {{/if}} {{#if this.premiere}}
+        <span class="event-premiere">Slovenská premiéra</span>
+        <br />
+        {{/if}} {{#if this.argentum}}
+        <span class="event-argentum">Nominácia na Amplion Argentum</span>
+        <br />
+        {{/if}} {{#if this.top-general}}
+        <span class="event-top">{{this.top-general}}</span>
+        <br />
+        {{/if}} {{#if this.general}}
+        <span class="event-more">{{this.general}}</span>
+        <br />
+        {{/if}} {{#each occurences}}
+        <span class="event-time">{{{this.time}}}</span>
+        <span class="event-location">{{{this.location}}}</span>
+        {{#if @root.site-config.show-tickets}}
+        <!-- <span class="event-price">6 €</span> -->
+        {{/if}}
+        <br />
+        {{/each}}
+      </p>
+      {{#if @root.site-config.show-tickets}} {{#ifequal this.price 0}} {{!--
+      intentionally left blank, dont have opposit helper --}} {{else}}
+      <p data-smooth-scroll>
+        <a href="#vstupenky" class="button">Kúpiť vstupenky</a>
+      </p>
+      {{/ifequal}} {{/if}}
+    </div>
+  </div>
 </section>
 
 <section class="section">
-	<div class="section__inner">
-		<div class="section__content">
-			{{#each content}}
-			<p>{{{this}}}</p>
-			{{/each}}
-			{{#if link}}
-			<p>
-				<a href="{{link}}" class="event-more" target="_blank">Viac na: {{link}}</a>
-			</p>
-			{{/if}}
-		</div>
+  <div class="section__inner">
+    <div class="section__content">
+      {{#each content}}
+      <p>{{{this}}}</p>
+      {{/each}} {{#if link}}
+      <p>
+        <a href="{{link}}" class="event-more" target="_blank"
+          >Viac na: {{link}}</a
+        >
+      </p>
+      {{/if}}
+    </div>
 
-		
-
-		<div class="popup-gallery">
-			<div class="grid-container">
-				<div class="grid-x grid-margin-x medium-up-5">
-					{{#each pictures}}
-					<div class="cell small-12 medium-6 large-3">
-						<figure class="photodesc">
-							<div class="photodesc__photowrap">
-								<a href="/gallery/{{this}}"><img src="/gallery/small/{{this}}" width="300" class="photodesc__photo"></a>
-							</div>
-						</figure>
-					</div>
-					{{/each}}
-					<!-- <div class="cell small-12 large-2">
+    <div class="popup-gallery">
+      <div class="grid-container">
+        <div class="grid-x grid-margin-x medium-up-5">
+          {{#each pictures}}
+          <div class="cell small-12 medium-6 large-3">
+            <figure class="photodesc">
+              <div class="photodesc__photowrap">
+                <a href="/gallery/{{this}}"
+                  ><img
+                    src="/gallery/small/{{this}}"
+                    width="300"
+                    class="photodesc__photo"
+                /></a>
+              </div>
+            </figure>
+          </div>
+          {{/each}}
+          <!-- <div class="cell small-12 large-2">
 						<figure class="photodesc">
 							<div class="photodesc__photowrap">
 								<a href="/gallery/DJP_Kompletny Shakespeare (45 of 76).jpg"><img src="/gallery/small/DJP_Kompletny Shakespeare (45 of 76).jpg" class="photodesc__photo"></a>
@@ -103,32 +90,37 @@
 							</div>
 						</figure>
 					</div> -->
-				</div>
-			</div>
-			
-		</div>
+        </div>
+      </div>
+    </div>
 
-		{{#if foto}}
-		<p>&nbsp;</p>
+    {{#if foto}}
+    <p>&nbsp;</p>
 
-		<p class="text-center">
-			Foto: {{foto}}
-		</p>
-		{{/if}}
-	</div>
+    <p class="text-center">Foto: {{foto}}</p>
+    {{/if}}
+  </div>
 </section>
 
 <!-- <section id="vstupenky" class="section section--straight section--notopspace"> -->
 <section class="section section--straight section--notopspace">
-
-<div class="section__content">
-
-	<p>&nbsp;</p>
-<p style="font-size:0.75em">Majiteľ vstupenky berie na vedomie, že na Festivale AMPLIÓN alebo v priamej súvislosti s ním môžu organizátorom poverené tretie osoby zhotovovať rôzne formy záznamu (obrazové snímky, obrazové a zvukové záznamy) napr. na propagačné a umelecké účely a pre tlačové, filmové, rozhlasové a televízne spravodajstvo.
-<br><br>
-Majiteľ vstupenky sa zaväzuje dodržiavať pokyny organizátora a aktuálne hygienické opatrenia ÚVZ SR v súvislosti s pandémiou koronavírusu a ochorením Covid-19 zverejnené na www.korona.gov.sk. </p>
-
-</div>
+  <div class="section__content">
+    <p>&nbsp;</p>
+    <p style="font-size: 0.75em">
+      Majiteľ vstupenky berie na vedomie, že na Festivale AMPLIÓN alebo v
+      priamej súvislosti s ním môžu organizátorom poverené tretie osoby
+      zhotovovať rôzne formy záznamu (obrazové snímky, obrazové a zvukové
+      záznamy) napr. na propagačné a umelecké účely a pre tlačové, filmové,
+      rozhlasové a televízne spravodajstvo. <br /><br />
+      Majiteľ vstupenky sa zaväzuje dodržiavať pokyny organizátora a aktuálne
+      hygienické opatrenia ÚVZ SR v súvislosti s pandémiou koronavírusu a
+      ochorením Covid-19 zverejnené na www.korona.gov.sk.
+      <br /><br />
+      Pre návštevu <b>platených</b> podujatí Festivalu AMPLIÓN 2021 platí
+      kategória <b>OTP</b>, pre návštevu <b>neplatených</b> podujatí platí
+      kategória <b>Základ</b>.
+    </p>
+  </div>
 </section>
 <!-- todo treba fixnut to, kedy sa zobrazujú vstupenky -->
 
@@ -158,28 +150,28 @@ Majiteľ vstupenky sa zaväzuje dodržiavať pokyny organizátora a aktuálne hy
 {{/if}} -->
 
 <section class="section section--plain">
-	<div class="section__inner">
-		<!-- <h2 class="section__title section__title--noarrow">
+  <div class="section__inner">
+    <!-- <h2 class="section__title section__title--noarrow">
 			<span class="event-time">SOBOTA 29. 8. 2019, 19.30 — 20.00</span>
 			<span class="event-location">Radničné námestie</span>
 			<span class="event-price">6 €</span>
 		</h2> -->
 
-		<div class="section__content">
-			<!-- <p>
+    <div class="section__content">
+      <!-- <p>
 				<a href="/vstupenky/" class="button">Kúpiť vstupenky</a>
 			</p> -->
-			<p>
-				<a href="/program/" class="section__backlink">Späť na program</a>
-			</p>
-		</div>
-	</div>
-	<script type="text/javascript">
-		window.onload = function() {
-    if(!window.location.hash) {
-        window.location = window.location + '#loaded';
+      <p>
+        <a href="/program/" class="section__backlink">Späť na program</a>
+      </p>
+    </div>
+  </div>
+  <script type="text/javascript">
+    window.onload = function () {
+      if (!window.location.hash) {
+        window.location = window.location + "#loaded";
         window.location.reload();
-    }
-}		
-	</script>
+      }
+    };
+  </script>
 </section>

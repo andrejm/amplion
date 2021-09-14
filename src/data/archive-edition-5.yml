@@ -2,337 +2,326 @@ edition: 5
 date: 25. – 27. 9.2020
 introtext: Témou 5. ročníka festivalu bola blízkosť verzus vzdialenosť <br>v dobe koronakrízy. Umenie šíri porozumenie.
 premieres:
-  -
-    performer: Umami Dancetheater (ES+FR)
+  - performer: Umami Dancetheater (ES+FR)
     title: BITTER SWEET
-  -
-    performer: El Goma (ARG/DE)
+  - performer: El Goma (ARG/DE)
     title: The ATARI SHOW
-  -
-    performer: Mattatoio Sospeso (FR+IT)
+  - performer: Mattatoio Sospeso (FR+IT)
     title: OUT!
-  -
-    performer: Divadlo Husa na provázku (CZ)
-    title: OSKAR A RŮŽOVÁ PANÍ 
+  - performer: Divadlo Husa na provázku (CZ)
+    title: OSKAR A RŮŽOVÁ PANÍ
 argentums:
-  - Džumelec 
+  - Džumelec
   - Umami Dancetheatre
   - Ján Markoš
   - Ponorka
 argentums-pro:
   - Jiří Suchý a Jitka Molavcová & Divadlo SEMAFOR
 text:
-  - Piaty ročník AMPLIÓNU, opäť v pôvodnom jesennom termíne, sa stal pre rýchlo meniace sa pravidlá a podmienky organizovania hromadných akcií v čase koronakrízy manažérskou výzvou. A podaril sa zázračne! 
-  - Jubilejný ročník bol plnohodnotným trojdňom 25 programov so 75 umelcami zo 7 krajín Európy vrátane 4 slovenských premiér. A nechýbali ani diváci. 
-  - Ako jeden z mála festivalov sa AMPLIÓN rozhodol vytrvať a festival vo všeobecnom chaose a napätí uskutočniť. Podarilo sa vybaviť všemožné výnimky pre zahraničných umelcov, ktorí pricestovali na festival s negatívnymi PCR-testami, uplatnili sa tiež výnimky pre umelcov z Českej republiky. 
-  - Aj vďaka tomu festival po niekoľkoročnom úsilí historicky po prvýkrát v Banskej Štiavnici privítal slávne Divadlo Semafor s Jiřím Suchým a Jitkou Molavcovou, ale aj Divadlo Husa na provázku či odborníka a milovníka európskej kabaretnej piesne, prof. Přemysla Ruta. 
-  - Novinkou festivalu boli BUSKERI – zahraniční pouliční umelci vybraní na základe výzvy, ktorí umocnili genius loci štiavnických ulíc či kaviarní. Atmosféru akcie výnimočne osviežila Klaunská zdravotná jednotka, ktorá rozdávala smiech pre zdravie a veselo dohliadala na dodržiavanie všetkých hygienických opatrení. 
-  - Vydaril sa aj druhý ročník česko-slovenskej súťaže na podporu vzniku nových kabaretov SKETCH UP so skvelou klaunskou kapelou aj moderátorským duom. Víťazom sa stala novoobjavená pražská kapela Ponorka, na ktorej celovečerný program sa AMPLIÓN môže tešiť o rok. 
-  - Už po druhýkrát na festival zavítala francúzsko-talianska skupina Mattatoio Sospeso, tentokrát s romantickou akrobatickou show OUT! Výbornú interaktívnu improvizáciu s divákmi predviedol Argentínčan El Goma. 
-  - Cenu AMPLION ARGENTUM v kategórii Nový kabaret získal Erik Sikora alias DŽUMELEC (SK) za performatívnu prednášku pre dospelých VYSVETĽOVATEĽ a KONCERT PROTI DOSPELOSTI pre deti, v kategórii Pouličné umenie si cenu prevzalo španielske duo Umami Dancetheatre (ES/FR) s akrobaticko-tanečnou performanciou BITTER-SWEET o porozumení a v kategórii Spoločensko-angažovaná tvorba si cenu zaslúžil JÁN MARKOŠ (SK) za interaktívnu prednášku s kvízom o kritickom myslení SILA ROZUMU, o ktorú bol veľký divácky záujem. 
-  - Organizátori udelili aj mimoriadnu cenu AMPLION ARGENTUM za celoživotné dielo v oblasti kabaretu – Divadlu SEMAFOR (CZ). 5. ročník ukázal, aké je dôležité šíriť medzi ľudmi porozumenie a tiež, že umenie je na to výborným nástrojom. Prijímateľa inšpiruje, poskytuje mu relax, zábavu či poznanie, ale najmä obohacuje jeho duševné zdravie – teda aj v umení ide o život! 
+  - Piaty ročník AMPLIÓNU, opäť v pôvodnom jesennom termíne, sa stal pre rýchlo meniace sa pravidlá a podmienky organizovania hromadných akcií v čase koronakrízy manažérskou výzvou. A podaril sa zázračne!
+  - Jubilejný ročník bol plnohodnotným trojdňom 25 programov so 75 umelcami zo 7 krajín Európy vrátane 4 slovenských premiér. A nechýbali ani diváci.
+  - Ako jeden z mála festivalov sa AMPLIÓN rozhodol vytrvať a festival vo všeobecnom chaose a napätí uskutočniť. Podarilo sa vybaviť všemožné výnimky pre zahraničných umelcov, ktorí pricestovali na festival s negatívnymi PCR-testami, uplatnili sa tiež výnimky pre umelcov z Českej republiky.
+  - Aj vďaka tomu festival po niekoľkoročnom úsilí historicky po prvýkrát v Banskej Štiavnici privítal slávne Divadlo Semafor s Jiřím Suchým a Jitkou Molavcovou, ale aj Divadlo Husa na provázku či odborníka a milovníka európskej kabaretnej piesne, prof. Přemysla Ruta.
+  - Novinkou festivalu boli BUSKERI – zahraniční pouliční umelci vybraní na základe výzvy, ktorí umocnili genius loci štiavnických ulíc či kaviarní. Atmosféru akcie výnimočne osviežila Klaunská zdravotná jednotka, ktorá rozdávala smiech pre zdravie a veselo dohliadala na dodržiavanie všetkých hygienických opatrení.
+  - Vydaril sa aj druhý ročník česko-slovenskej súťaže na podporu vzniku nových kabaretov SKETCH UP so skvelou klaunskou kapelou aj moderátorským duom. Víťazom sa stala novoobjavená pražská kapela Ponorka, na ktorej celovečerný program sa AMPLIÓN môže tešiť o rok.
+  - Už po druhýkrát na festival zavítala francúzsko-talianska skupina Mattatoio Sospeso, tentokrát s romantickou akrobatickou show OUT! Výbornú interaktívnu improvizáciu s divákmi predviedol Argentínčan El Goma.
+  - Cenu AMPLION ARGENTUM v kategórii Nový kabaret získal Erik Sikora alias DŽUMELEC (SK) za performatívnu prednášku pre dospelých VYSVETĽOVATEĽ a KONCERT PROTI DOSPELOSTI pre deti, v kategórii Pouličné umenie si cenu prevzalo španielske duo Umami Dancetheatre (ES/FR) s akrobaticko-tanečnou performanciou BITTER-SWEET o porozumení a v kategórii Spoločensko-angažovaná tvorba si cenu zaslúžil JÁN MARKOŠ (SK) za interaktívnu prednášku s kvízom o kritickom myslení SILA ROZUMU, o ktorú bol veľký divácky záujem.
+  - Organizátori udelili aj mimoriadnu cenu AMPLION ARGENTUM za celoživotné dielo v oblasti kabaretu – Divadlu SEMAFOR (CZ). 5. ročník ukázal, aké je dôležité šíriť medzi ľudmi porozumenie a tiež, že umenie je na to výborným nástrojom. Prijímateľa inšpiruje, poskytuje mu relax, zábavu či poznanie, ale najmä obohacuje jeho duševné zdravie – teda aj v umení ide o život!
   - Ďakujeme všetkým, ktorí svojou návštevou podporili piaty AMPLIÓN. Rovnako ďakujeme nezištným donorom, ktorí chápu potrebu kvalitnej kultúry pre život v regióne.
 
 download:
-  -
-    title: x
+  - title: x
     link: x
 videos:
-  -
-    title: Aftermovie
+  - title: Aftermovie
     id: aftermovie
     link: https://www.youtube.com/embed/yIvFYa9OO8w
     screenshot: video-aftermovie-5rocnik.jpg
-  -
-    title: Dokument
+  - title: Dokument
     id: dokument
     link: https://www.youtube.com/embed/5XCgdKXzDlI
     screenshot: video-dokument-5rocnik.jpg
-  -
-    title: Promo spot
+  - title: Promo spot
     id: promospot
     link: https://www.youtube.com/embed/HecnWIFKmyo
     screenshot: video-promo-5rocnik.jpg
 festival-newspaper: FN_AMPLION_2020_web.pdf
 photofolder: fotogaleria-festivalu-2020
 photos:
-    - amplion20_otvorenie_festivalu_MS_001.jpg
-    - amplion20_otvorenie_festivalu_MS_002.jpg
-    - amplion20_otvorenie_festivalu_MS_003.jpg
-    - amplion20_otvorenie_festivalu_MS_005.jpg
-    - amplion20_otvorenie_festivalu_MS_006.jpg
-    - amplion20_otvorenie_festivalu_MS_007.jpg
-    - amplion20_otvorenie_festivalu_MS_008.jpg
-    - amplion20_otvorenie_festivalu_MS_009.jpg
-    - amplion20_otvorenie_festivalu_MS_010.jpg
-    - amplion20_otvorenie_festivalu_MS_011.jpg
-    - amplion20_otvorenie_festivalu_MS_012.jpg
-    - amplion20_otvorenie_festivalu_MS_022.jpg
-    - amplion20_otvorenie_festivalu_MS_025.jpg
-    - amplion20_otvorenie_festivalu_MS_026.jpg
-    - amplion20_otvorenie_festivalu_MS_027.jpg
-    - amplion20_otvorenie_festivalu_MS_028.jpg
-    - amplion20_otvorenie_festivalu_MS_032.jpg
-    - amplion20_otvorenie_festivalu_MS_035.jpg
-    - amplion20_otvorenie_festivalu_MS_039.jpg
-    - amplion20_otvorenie_festivalu_MS_043.jpg
-    - amplion20_otvorenie_festivalu_MS_051.jpg
-    - amplion20_otvorenie_festivalu_MS_052.jpg
-    - amplion20_otvorenie_festivalu_MS_069.jpg
-    - amplion20_otvorenie_festivalu_MS_074.jpg
-    - amplion20_otvorenie_festivalu_MS_075.jpg
-    - amplion20_otvorenie_festivalu_MS_078.jpg
-    - amplion20_otvorenie_festivalu_MS_081.jpg
-    - amplion20_otvorenie_festivalu_MS_082.jpg
-    - amplion20_otvorenie_festivalu_MS_083.jpg
-    - amplion20_otvorenie_festivalu_MS_084.jpg
-    - 2020-09-25-amplion-202.jpg
-    - 2020-09-25-amplion-204.jpg
-    - 2020-09-25-amplion-205.jpg
-    - 2020-09-25-amplion-206.jpg
-    - 2020-09-25-amplion-207.jpg
-    - 2020-09-25-amplion-209.jpg
-    - 2020-09-25-amplion-212.jpg
-    - 2020-09-25-amplion-216.jpg
-    - 2020-09-25-amplion-219.jpg
-    - 2020-09-25-amplion-222.jpg
-    - 2020-09-25-amplion-225.jpg
-    - 2020-09-25-amplion-228.jpg
-    - 2020-09-25-amplion-231.jpg
-    - 2020-09-25-amplion-233.jpg
-    - 2020-09-25-amplion-235.jpg
-    - 2020-09-25-amplion-238.jpg
-    - 2020-09-25-amplion-239.jpg
-    - 2020-09-25-amplion-244.jpg
-    - 2020-09-26-amplion-201.jpg
-    - 2020-09-26-amplion-203.jpg
-    - 2020-09-26-amplion-205.jpg
-    - 2020-09-26-amplion-206.jpg
-    - 2020-09-26-amplion-209.jpg
-    - 2020-09-26-amplion-211.jpg
-    - 2020-09-26-amplion-215.jpg
-    - 2020-09-26-amplion-218.jpg
-    - 2020-09-26-amplion-219.jpg
-    - 2020-09-26-amplion-220.jpg
-    - 2020-09-26-amplion-224.jpg
-    - 2020-09-26-amplion-226.jpg
-    - 2020-09-26-amplion-228.jpg
-    - 2020-09-26-amplion-229.jpg
-    - 2020-09-26-amplion-230.jpg
-    - 2020-09-26-amplion-233.jpg
-    - 2020-09-26-amplion-235.jpg
-    - 2020-09-26-amplion-240.jpg
-    - 2020-09-26-amplion-241.jpg
-    - 2020-09-26-amplion-246.jpg
-    - 2020-09-26-amplion-249.jpg
-    - 2020-09-26-amplion-250.jpg
-    - 2020-09-26-amplion-251.jpg
-    - 2020-09-26-amplion-254.jpg
-    - 2020-09-26-amplion-255.jpg
-    - 2020-09-26-amplion-256.jpg
-    - 2020-09-26-amplion-258.jpg
-    - 2020-09-26-amplion-259.jpg
-    - 2020-09-26-amplion-261.jpg
-    - 2020-09-26-amplion-262.jpg
-    - 2020-09-26-amplion-263.jpg
-    - 2020-09-26-amplion-266.jpg
-    - 2020-09-26-amplion-267.jpg
-    - 2020-09-26-amplion-269.jpg
-    - 2020-09-26-amplion-270.jpg
-    - 2020-09-26-amplion-271.jpg
-    - 2020-09-26-amplion-272.jpg
-    - 2020-09-26-amplion-275.jpg
-    - 2020-09-26-amplion-277.jpg
-    - 2020-09-26-amplion-279.jpg
-    - 2020-09-26-amplion-280.jpg
-    - 2020-09-26-amplion-282.jpg
-    - 2020-09-26-amplion-285.jpg
-    - 2020-09-26-amplion-287.jpg
-    - 2020-09-26-amplion-289.jpg
-    - 2020-09-26-amplion-290.jpg
-    - 2020-09-26-amplion-294.jpg
-    - 2020-09-26-amplion-295.jpg
-    - 2020-09-26-amplion-296.jpg
-    - amplion20_Cirkus_Problem_koncert_KM_003.jpg
-    - amplion20_Cirkus_Problem_koncert_MS_004.jpg
-    - amplion20_Cirkus_Problem_koncert_MS_013.jpg
-    - amplion20_Cirkus_Problem_koncert_MS_014.jpg
-    - amplion20_Cirkus_Problem_koncert_MS_018.jpg
-    - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_KM_003.jpg
-    - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_002.jpg
-    - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_007.jpg
-    - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_009.jpg
-    - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_010.jpg
-    - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_015.jpg
-    - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_022.jpg
-    - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_023.jpg
-    - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_025.jpg
-    - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_026.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_002.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_003.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_005.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_007.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_010.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_012.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_013.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_015.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_016.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_022.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_029.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_030.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_033.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_034.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_035.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_036.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_038.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_040.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_043.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_044.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_045.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_047.jpg
-    - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_048.jpg
-    - amplion20_Dzumelec_Koncert_proti_dospelosti_KM_002.jpg
-    - amplion20_Dzumelec_Koncert_proti_dospelosti_MS_001.jpg
-    - amplion20_Dzumelec_Koncert_proti_dospelosti_MS_003.jpg
-    - amplion20_Dzumelec_Koncert_proti_dospelosti_MS_008.jpg
-    - amplion20_Dzumelec_Koncert_proti_dospelosti_MS_010.jpg
-    - amplion20_El_Goma_Atari_show_KM_001.jpg
-    - amplion20_El_Goma_Atari_show_MS_002.jpg
-    - amplion20_El_Goma_Atari_show_MS_003.jpg
-    - amplion20_El_Goma_Atari_show_MS_020.jpg
-    - amplion20_Mariusz_Goli_MS_001.jpg
-    - amplion20_Mariusz_Goli_MS_007.jpg
-    - amplion20_Mariusz_Goli_busking_MS_001.jpg
-    - amplion20_Mariusz_Goli_busking_MS_002.jpg
-    - amplion20_Mariusz_Goli_busking_MS_005.jpg
-    - amplion20_Mariusz_Goli_busking_MS_008.jpg
-    - amplion20_Mattatoio_Sospeso_Out_KM_001.jpg
-    - amplion20_Mattatoio_Sospeso_Out_KM_004.jpg
-    - amplion20_Mattatoio_Sospeso_Out_KM_005.jpg
-    - amplion20_Mattatoio_Sospeso_Out_KM_007.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_001.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_004.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_005.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_006.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_007.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_008.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_009.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_010.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_013.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_015.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_016.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_017.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_021.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_022.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_024.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_025.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_027.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_028.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_031.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_032.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_033.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_036.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_039.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_041.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_042.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_045.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_047.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_050.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_052.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_054.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_055.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_056.jpg
-    - amplion20_Mattatoio_Sospeso_Out_MS_057.jpg
-    - amplion20_Nightcall_Incall_MS_001.jpg.jpg
-    - amplion20_Nightcall_Incall_MS_002.jpg
-    - amplion20_Nightcall_Incall_MS_004.jpg
-    - amplion20_Nightcall_Incall_MS_006.jpg
-    - amplion20_Nightcall_Incall_MS_010.jpg
-    - amplion20_Nightcall_Incall_MS_011.jpg
-    - amplion20_Nightcall_Incall_MS_013.jpg
-    - amplion20_Ponorka_koncert_KM_001.jpg
-    - amplion20_Ponorka_koncert_MS_002.jpg
-    - amplion20_Ponorka_koncert_MS_003.jpg
-    - amplion20_Ponorka_koncert_MS_004.jpg
-    - amplion20_Ponorka_koncert_MS_010.jpg
-    - amplion20_Ty_sycaci_afterkoncert_KM_001.jpg
-    - amplion20_Ty_sycaci_afterkoncert_KM_003.jpg
-    - amplion20_Ty_sycaci_afterkoncert_KM_005.jpg
-    - amplion20_Ty_sycaci_afterkoncert_MS_004.jpg
-    - amplion20_Ty_sycaci_koncert_MS_002.jpg
-    - amplion20_Ty_sycaci_koncert_MS_005.jpg
-    - amplion20_Ty_sycaci_koncert_MS_009.jpg
-    - amplion20_Ty_sycaci_koncert_MS_010.jpg
-    - amplion20_Ty_sycaci_koncert_MS_012.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_KM_002.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_KM_004.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_KM_005.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_KM_008.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_002.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_005.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_010.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_015.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_016.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_018.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_022.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_031.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_033.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_034.jpg
-    - amplion20_Umami_Dancetheater_Bitter_sweet_MS_036.jpg
-    - amplion20_Umami_Dancetheater_Bittersweet_MS_001.jpg
-    - amplion20_Umami_Dancetheater_Bittersweet_MS_006.jpg
-    - amplion20_Umami_Dancetheater_Bittersweet_MS_012.jpg
-    - amplion20_Umami_Dancetheater_Bittersweet_MS_018.jpg
-    - amplion20_Umami_Dancetheater_busking2_KM_001.jpg
-    - amplion20_Umami_Dancetheater_busking2_MS_002.jpg
-    - amplion20_Umami_Dancetheater_busking_KM_001.jpg
-    - amplion20_Umami_Dancetheater_busking_MS_010.jpg
-    - amplion20_Umami_Dancetheater_busking_MS_011.jpg
-    - amplion20_atmosfera_festivalu_MS_005.jpg
-    - amplion20_atmosfera_festivalu_MS_010.jpg
-    - amplion20_atmosfera_festivalu_MS_013.jpg
-    - amplion20_atmosfera_festivalu_MS_016.jpg
-    - amplion20_atmosfera_festivalu_MS_020.jpg
-    - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_007.jpg
-    - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_009.jpg
-    - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_010.jpg
-    - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_011.jpg
-    - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_019.jpg
-    - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_021.jpg
-    - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_025.jpg
-    - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_033.jpg
-    - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_034.jpg
-    - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_035.jpg
-    
-    - amplion20_spolocne_foto_dobrovolnici_MS_001.jpg
-    - amplion20_spolocne_foto_dobrovolnici_MS_002.jpg
-    - amplion20_spolocne_foto_dobrovolnici_MS_008.jpg
-   
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_001.jpg
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_002.jpg
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_003.jpg
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_004.jpg
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_005.jpg
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_007.jpg
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_011.jpg
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_012.jpg
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_015.jpg
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_016.jpg
-    - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_017.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_001.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_002.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_003.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_004.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_005.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_010.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_011.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_013.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_014.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_015.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_017.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_019.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_020.jpg
-    - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_032.jpg
+  - amplion20_otvorenie_festivalu_MS_001.jpg
+  - amplion20_otvorenie_festivalu_MS_002.jpg
+  - amplion20_otvorenie_festivalu_MS_003.jpg
+  - amplion20_otvorenie_festivalu_MS_005.jpg
+  - amplion20_otvorenie_festivalu_MS_006.jpg
+  - amplion20_otvorenie_festivalu_MS_007.jpg
+  - amplion20_otvorenie_festivalu_MS_008.jpg
+  - amplion20_otvorenie_festivalu_MS_009.jpg
+  - amplion20_otvorenie_festivalu_MS_010.jpg
+  - amplion20_otvorenie_festivalu_MS_011.jpg
+  - amplion20_otvorenie_festivalu_MS_012.jpg
+  - amplion20_otvorenie_festivalu_MS_022.jpg
+  - amplion20_otvorenie_festivalu_MS_025.jpg
+  - amplion20_otvorenie_festivalu_MS_026.jpg
+  - amplion20_otvorenie_festivalu_MS_027.jpg
+  - amplion20_otvorenie_festivalu_MS_028.jpg
+  - amplion20_otvorenie_festivalu_MS_032.jpg
+  - amplion20_otvorenie_festivalu_MS_035.jpg
+  - amplion20_otvorenie_festivalu_MS_039.jpg
+  - amplion20_otvorenie_festivalu_MS_043.jpg
+  - amplion20_otvorenie_festivalu_MS_051.jpg
+  - amplion20_otvorenie_festivalu_MS_052.jpg
+  - amplion20_otvorenie_festivalu_MS_069.jpg
+  - amplion20_otvorenie_festivalu_MS_074.jpg
+  - amplion20_otvorenie_festivalu_MS_075.jpg
+  - amplion20_otvorenie_festivalu_MS_078.jpg
+  - amplion20_otvorenie_festivalu_MS_081.jpg
+  - amplion20_otvorenie_festivalu_MS_082.jpg
+  - amplion20_otvorenie_festivalu_MS_083.jpg
+  - amplion20_otvorenie_festivalu_MS_084.jpg
+  - 2020-09-25-amplion-202.jpg
+  - 2020-09-25-amplion-204.jpg
+  - 2020-09-25-amplion-205.jpg
+  - 2020-09-25-amplion-206.jpg
+  - 2020-09-25-amplion-207.jpg
+  - 2020-09-25-amplion-209.jpg
+  - 2020-09-25-amplion-212.jpg
+  - 2020-09-25-amplion-216.jpg
+  - 2020-09-25-amplion-219.jpg
+  - 2020-09-25-amplion-222.jpg
+  - 2020-09-25-amplion-225.jpg
+  - 2020-09-25-amplion-228.jpg
+  - 2020-09-25-amplion-231.jpg
+  - 2020-09-25-amplion-233.jpg
+  - 2020-09-25-amplion-235.jpg
+  - 2020-09-25-amplion-238.jpg
+  - 2020-09-25-amplion-239.jpg
+  - 2020-09-25-amplion-244.jpg
+  - 2020-09-26-amplion-201.jpg
+  - 2020-09-26-amplion-203.jpg
+  - 2020-09-26-amplion-205.jpg
+  - 2020-09-26-amplion-206.jpg
+  - 2020-09-26-amplion-209.jpg
+  - 2020-09-26-amplion-211.jpg
+  - 2020-09-26-amplion-215.jpg
+  - 2020-09-26-amplion-218.jpg
+  - 2020-09-26-amplion-219.jpg
+  - 2020-09-26-amplion-220.jpg
+  - 2020-09-26-amplion-224.jpg
+  - 2020-09-26-amplion-226.jpg
+  - 2020-09-26-amplion-228.jpg
+  - 2020-09-26-amplion-229.jpg
+  - 2020-09-26-amplion-230.jpg
+  - 2020-09-26-amplion-233.jpg
+  - 2020-09-26-amplion-235.jpg
+  - 2020-09-26-amplion-240.jpg
+  - 2020-09-26-amplion-241.jpg
+  - 2020-09-26-amplion-246.jpg
+  - 2020-09-26-amplion-249.jpg
+  - 2020-09-26-amplion-250.jpg
+  - 2020-09-26-amplion-251.jpg
+  - 2020-09-26-amplion-254.jpg
+  - 2020-09-26-amplion-255.jpg
+  - 2020-09-26-amplion-256.jpg
+  - 2020-09-26-amplion-258.jpg
+  - 2020-09-26-amplion-259.jpg
+  - 2020-09-26-amplion-261.jpg
+  - 2020-09-26-amplion-262.jpg
+  - 2020-09-26-amplion-263.jpg
+  - 2020-09-26-amplion-266.jpg
+  - 2020-09-26-amplion-267.jpg
+  - 2020-09-26-amplion-269.jpg
+  - 2020-09-26-amplion-270.jpg
+  - 2020-09-26-amplion-271.jpg
+  - 2020-09-26-amplion-272.jpg
+  - 2020-09-26-amplion-275.jpg
+  - 2020-09-26-amplion-277.jpg
+  - 2020-09-26-amplion-279.jpg
+  - 2020-09-26-amplion-280.jpg
+  - 2020-09-26-amplion-282.jpg
+  - 2020-09-26-amplion-285.jpg
+  - 2020-09-26-amplion-287.jpg
+  - 2020-09-26-amplion-289.jpg
+  - 2020-09-26-amplion-290.jpg
+  - 2020-09-26-amplion-294.jpg
+  - 2020-09-26-amplion-295.jpg
+  - 2020-09-26-amplion-296.jpg
+  - amplion20_Cirkus_Problem_koncert_KM_003.jpg
+  - amplion20_Cirkus_Problem_koncert_MS_004.jpg
+  - amplion20_Cirkus_Problem_koncert_MS_013.jpg
+  - amplion20_Cirkus_Problem_koncert_MS_014.jpg
+  - amplion20_Cirkus_Problem_koncert_MS_018.jpg
+  - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_KM_003.jpg
+  - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_002.jpg
+  - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_007.jpg
+  - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_009.jpg
+  - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_010.jpg
+  - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_015.jpg
+  - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_022.jpg
+  - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_023.jpg
+  - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_025.jpg
+  - amplion20_DS_Lano_Preco_sa_dieta_vari_v_kasi_MS_026.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_002.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_003.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_005.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_007.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_010.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_012.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_013.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_015.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_016.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_022.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_029.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_030.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_033.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_034.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_035.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_036.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_038.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_040.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_043.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_044.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_045.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_047.jpg
+  - amplion20_Divadlo_Semafor_Kto_jinemu_jamu_kopa_MS_048.jpg
+  - amplion20_Dzumelec_Koncert_proti_dospelosti_KM_002.jpg
+  - amplion20_Dzumelec_Koncert_proti_dospelosti_MS_001.jpg
+  - amplion20_Dzumelec_Koncert_proti_dospelosti_MS_003.jpg
+  - amplion20_Dzumelec_Koncert_proti_dospelosti_MS_008.jpg
+  - amplion20_Dzumelec_Koncert_proti_dospelosti_MS_010.jpg
+  - amplion20_El_Goma_Atari_show_KM_001.jpg
+  - amplion20_El_Goma_Atari_show_MS_002.jpg
+  - amplion20_El_Goma_Atari_show_MS_003.jpg
+  - amplion20_El_Goma_Atari_show_MS_020.jpg
+  - amplion20_Mariusz_Goli_MS_001.jpg
+  - amplion20_Mariusz_Goli_MS_007.jpg
+  - amplion20_Mariusz_Goli_busking_MS_001.jpg
+  - amplion20_Mariusz_Goli_busking_MS_002.jpg
+  - amplion20_Mariusz_Goli_busking_MS_005.jpg
+  - amplion20_Mariusz_Goli_busking_MS_008.jpg
+  - amplion20_Mattatoio_Sospeso_Out_KM_001.jpg
+  - amplion20_Mattatoio_Sospeso_Out_KM_004.jpg
+  - amplion20_Mattatoio_Sospeso_Out_KM_005.jpg
+  - amplion20_Mattatoio_Sospeso_Out_KM_007.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_001.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_004.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_005.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_006.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_007.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_008.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_009.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_010.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_013.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_015.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_016.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_017.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_021.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_022.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_024.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_025.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_027.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_028.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_031.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_032.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_033.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_036.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_039.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_041.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_042.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_045.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_047.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_050.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_052.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_054.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_055.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_056.jpg
+  - amplion20_Mattatoio_Sospeso_Out_MS_057.jpg
+  - amplion20_Nightcall_Incall_MS_001.jpg.jpg
+  - amplion20_Nightcall_Incall_MS_002.jpg
+  - amplion20_Nightcall_Incall_MS_004.jpg
+  - amplion20_Nightcall_Incall_MS_006.jpg
+  - amplion20_Nightcall_Incall_MS_010.jpg
+  - amplion20_Nightcall_Incall_MS_011.jpg
+  - amplion20_Nightcall_Incall_MS_013.jpg
+  - amplion20_Ponorka_koncert_KM_001.jpg
+  - amplion20_Ponorka_koncert_MS_002.jpg
+  - amplion20_Ponorka_koncert_MS_003.jpg
+  - amplion20_Ponorka_koncert_MS_004.jpg
+  - amplion20_Ponorka_koncert_MS_010.jpg
+  - amplion20_Ty_sycaci_afterkoncert_KM_001.jpg
+  - amplion20_Ty_sycaci_afterkoncert_KM_003.jpg
+  - amplion20_Ty_sycaci_afterkoncert_KM_005.jpg
+  - amplion20_Ty_sycaci_afterkoncert_MS_004.jpg
+  - amplion20_Ty_sycaci_koncert_MS_002.jpg
+  - amplion20_Ty_sycaci_koncert_MS_005.jpg
+  - amplion20_Ty_sycaci_koncert_MS_009.jpg
+  - amplion20_Ty_sycaci_koncert_MS_010.jpg
+  - amplion20_Ty_sycaci_koncert_MS_012.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_KM_002.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_KM_004.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_KM_005.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_KM_008.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_002.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_005.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_010.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_015.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_016.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_018.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_022.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_031.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_033.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_034.jpg
+  - amplion20_Umami_Dancetheater_Bitter_sweet_MS_036.jpg
+  - amplion20_Umami_Dancetheater_Bittersweet_MS_001.jpg
+  - amplion20_Umami_Dancetheater_Bittersweet_MS_006.jpg
+  - amplion20_Umami_Dancetheater_Bittersweet_MS_012.jpg
+  - amplion20_Umami_Dancetheater_Bittersweet_MS_018.jpg
+  - amplion20_Umami_Dancetheater_busking2_KM_001.jpg
+  - amplion20_Umami_Dancetheater_busking2_MS_002.jpg
+  - amplion20_Umami_Dancetheater_busking_KM_001.jpg
+  - amplion20_Umami_Dancetheater_busking_MS_010.jpg
+  - amplion20_Umami_Dancetheater_busking_MS_011.jpg
+  - amplion20_atmosfera_festivalu_MS_005.jpg
+  - amplion20_atmosfera_festivalu_MS_010.jpg
+  - amplion20_atmosfera_festivalu_MS_013.jpg
+  - amplion20_atmosfera_festivalu_MS_016.jpg
+  - amplion20_atmosfera_festivalu_MS_020.jpg
+  - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_007.jpg
+  - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_009.jpg
+  - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_010.jpg
+  - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_011.jpg
+  - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_019.jpg
+  - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_021.jpg
+  - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_025.jpg
+  - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_033.jpg
+  - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_034.jpg
+  - amplion20_divadlo_Commedia_Zapisky_dostojnika_cervenej_armady_MS_035.jpg
 
-  
- 
+  - amplion20_spolocne_foto_dobrovolnici_MS_001.jpg
+  - amplion20_spolocne_foto_dobrovolnici_MS_002.jpg
+  - amplion20_spolocne_foto_dobrovolnici_MS_008.jpg
+
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_001.jpg
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_002.jpg
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_003.jpg
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_004.jpg
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_005.jpg
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_007.jpg
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_011.jpg
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_012.jpg
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_015.jpg
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_016.jpg
+  - amplion20_zdravotna_hliadka_Cerveny_nos_Clowndoctors_MS_017.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_001.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_002.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_003.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_004.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_005.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_010.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_011.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_013.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_014.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_015.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_017.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_019.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_020.jpg
+  - amplion20_vyhlasenie_cien_festivalu_koncert_Cirkus_Problem_MS_032.jpg

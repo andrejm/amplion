@@ -9,10 +9,22 @@ jQuery(document).ready(function ($) {
   // 	layoutString = '<div class="counter__item">{on}<span class="counter__label">{ol}</span></div> <div class="counter__item">{dn}<span class="counter__label">{dl}</span></div> <div class="counter__item">{hn}<span class="counter__label">{hl}</span></div>';
   // }
 
+  //toto obsahuje aj mesiace
+  // $("#countdown").countdown({
+  //   until: longWayOff,
+  //   format: "odH",
+  //   layout:
+  //     '<div class="counter__item">{on}<span class="counter__label">{ol}</span></div> <div class="counter__item">{dn}<span class="counter__label">{dl}</span></div> <div class="counter__item">{hn}<span class="counter__label">{hl}</span></div>',
+  // });
+
+  //toto neobsahuje mesiace
   $("#countdown").countdown({
     until: longWayOff,
     format: "odH",
     layout:
-      '<div class="counter__item">{on}<span class="counter__label">{ol}</span></div> <div class="counter__item">{dn}<span class="counter__label">{dl}</span></div> <div class="counter__item">{hn}<span class="counter__label">{hl}</span></div>',
+      '<div class="counter__item">{dn}<span class="counter__label">{dl}</span></div> <div class="counter__item">{hn}<span class="counter__label">{hl}</span></div>',
   });
+  
+
+  
 });

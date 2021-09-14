@@ -210,12 +210,7 @@ sketch-up:
   perex: 3. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov! Hrá klezmer kapela Mojše Band.
   content: 
     -
-      'Súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, 
-      slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla, pokračuje! Všetky skeče prepojí jedna téma – dôvera vs. nedôvera, 
-      ktoré podajú zážitkovou a zábavnou formou títo účinkujúci: šarmantný herec a mím Anton Eliáš (CZ), herecko-hudobné duo študentov VŠMU Martin Toman & Tadeáš Bolo (SK), 
-      hudobný standapista s gitarou, Tomáš Šrámek (SK), energickí herci a tanečníci Cirkevného konzervatória v Bratislave (SK) a ďalší. Svojrázny humor a autentickú improvizáciu predvedie moderátorské duo. 
-      Jedinečnú atmosféru vytvorí židovská kapela Mojše Band. Nebude chýbať ani porota. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 7. ročníku Festivalu AMPLIÓN 2022.
-      Nenechajte si tento jedinečný program ujsť!'
+      'Súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla, pokračuje! Všetky skeče prepojí jedna téma – dôvera vs. nedôvera, ktoré podajú zážitkovou a zábavnou formou títo účinkujúci: šarmantný herec a mím Anton Eliáš&nbsp;(CZ), herecko-hudobné duo študentov VŠMU Martin Toman & Tadeáš Bolo&nbsp;(SK), hudobný standapista s gitarou, Tomáš Šrámek&nbsp;(SK), energickí herci a tanečníci Cirkevného konzervatória v Bratislave&nbsp;(SK) a miestny raper Wuačkowec&nbsp;(SK). Programom sprevádza Ľubor Foltán a jeho Smiechohry, ktoré zažijete na vlastnej lícnej jamke. Jedinečnú atmosféru vytvorí aj židovská kapela Mojše Band. Nebude chýbať ani exkluzívna porota! Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 7. ročníku Festivalu AMPLIÓN 2022. Nenechajte si tento jedinečný program ujsť!'
   pictures:
     - SKETCH UP_Martin &amp; Tadeas_za klavirom.png
     - SKETCH_UP_Robo Erectus 3_Michal Michalko.jpg
@@ -376,6 +371,7 @@ dní. A robiť z komára velblouda býva zábava! '
   performer: 5 a pes, Praha (CZ)  
   title: AFTER KONCERT                           
   general: Program pre mladých a dospelých
+  price: 0
   occurences: 
     -
       time: nedeľa 11:00
@@ -421,7 +417,8 @@ mojse-band:
 mojse-band-after-promo:
   performer: Mojše Band, <br> Spišská Belá (SK)    
   title: AFTER PROMO                                
-  general: Program pre mladých a dospelých       
+  general: Program pre mladých a dospelých   
+  price: 0    
   occurences: 
     -
       time: sobota 14:15
@@ -582,7 +579,8 @@ dzenerejsn:
 dusan-krnac-friday:
   performer: Dušan Krnáč, Zvolen (SK)    
   title: ANTIDEPRESÁRIUM                                         
-  general: Program pre mladých a dospelých            
+  general: Program pre mladých a dospelých
+  price: 0
   occurences: 
     -
       time: piatok  17:30 – 18:45
@@ -610,7 +608,8 @@ dusan-krnac-friday:
 dusan-krnac:
   performer: Dušan Krnáč, Zvolen (SK)    
   title: ANTIDEPRESÁRIUM                                         
-  general: Program pre mladých a dospelých            
+  general: Program pre mladých a dospelých 
+  price: 0           
   occurences: 
     -
       time: sobota  10:00 – 18:00
@@ -675,6 +674,38 @@ family-puppet-theatre:
       time: sobota 10:30
       location: Kaviareň Gavalier
       price: 2 / 4 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: 'Svetovo unikátne bábkové divadlo pre najmenších'
+  content: 
+    -
+      'Uvidíte niečo špeciálne a magické. Mikrobábky na mikropódiu. Precízny tanec drobnej a
+      krehkej baletky, čarovná hra šaša-harmonikára, neuveriteľný pohyb rybky či psíka.
+      Magický svet fantázie ožije priamo pred vašimi očami. Unikátna bábkarská technika
+      maďarského umelca očarí deti i dospelých. Všetci pocítia radosť zo zázraku. Bude to wau!'    
+    -
+     '<em>András Lénárt a jeho Mikropódium jedinečných bábok precestovalo za 30 rokov celý svet
+a získalo množstvo významných ocenení. </em>'
+
+ 
+  pictures:
+    - Mikropodium_01.jpg
+    - Mikropodium_02.png
+    - Mikropodium_03.jpg
+  
+  link: http://www.mikropodium.com
+
+family-puppet-theatre-nedela:
+  performer: Mikropodium Family Puppet Theatre, <br> Tiszaalpár (HU) 
+  title: STOP              
+  general: Program pre rodiny s deťmi   
+  price: 0         
+  occurences: 
+    -
+      time: nedeľa 10:30
+      location: Art Cafe, Pod Orechom
+      price: 0
       toot-iframe-id: 0
       toot-event-id: 0
       

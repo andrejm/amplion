@@ -1,6 +1,8 @@
 .counter {
   @include xy-grid;
   margin: rem-calc(24 0);
+  display:flex;
+  justify-content: center;
 
   &__item {
     @include xy-cell(4);

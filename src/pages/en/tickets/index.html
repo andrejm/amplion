@@ -2,153 +2,155 @@
 layout: english
 # list of paid events as we want to list them in order
 paid-events:
-  -
-    pev-title: 5-a-pes
-    pev-occurence: 0  
-
-  - 
-    pev-title: family-puppet-theatre
-    pev-occurence: 0
-  - 
-    pev-title: lukas-simon-anton-elias
+  - pev-title: 5-a-pes
     pev-occurence: 0
 
-  - 
-    pev-title: dzenerejsn
+  - pev-title: family-puppet-theatre
     pev-occurence: 0
-  - 
-    pev-title: paul-morocco
+  - pev-title: lukas-simon-anton-elias
     pev-occurence: 0
 
-  - 
-    pev-title: samo-marec
+  - pev-title: dzenerejsn
     pev-occurence: 0
-  
-  - 
-    pev-title: geisslers-hoffcomoedianten
-    pev-occurence: 0
-  - 
-    pev-title: mojse-band
+  - pev-title: paul-morocco
     pev-occurence: 0
 
-  - 
-    pev-title: family-puppet-theatre
+  - pev-title: samo-marec
+    pev-occurence: 0
+
+  - pev-title: geisslers-hoffcomoedianten
+    pev-occurence: 0
+  - pev-title: mojse-band
+    pev-occurence: 0
+
+  - pev-title: family-puppet-theatre
     pev-occurence: 1
-  
-  - 
-    pev-title: ludo-arsene
-    pev-occurence: 0
-  
-  - 
-    pev-title: mestske-divadlo
-    pev-occurence: 0
-  
-  - 
-    pev-title: dusan-ondrusek
+
+  - pev-title: ludo-arsene
     pev-occurence: 0
 
-  - 
-    pev-title: paul-morocco
+  - pev-title: mestske-divadlo
+    pev-occurence: 0
+
+  - pev-title: dusan-ondrusek
+    pev-occurence: 0
+
+  - pev-title: paul-morocco
     pev-occurence: 1
-  - 
-    pev-title: and
+  - pev-title: and
     pev-occurence: 0
-  
-  - 
-    pev-title: divadlo-husa-na-provazku
-    pev-occurence: 0
-  
 
-  - 
-    pev-title: sketch-up
+  - pev-title: divadlo-husa-na-provazku
     pev-occurence: 0
-  
-  
-  - 
-    pev-title: jiri-dedecek
+
+  - pev-title: sketch-up
     pev-occurence: 0
- 
-  - 
-    pev-title: paul-morocco
+
+  - pev-title: jiri-dedecek
+    pev-occurence: 0
+
+  - pev-title: paul-morocco
     pev-occurence: 2
-  
-  - 
-    pev-title: ludo-arsene
+
+  - pev-title: ludo-arsene
     pev-occurence: 1
-    
-  -
-    pev-title: mirek-toda-mojse-band
+
+  - pev-title: mirek-toda-mojse-band
     pev-occurence: 0
-  
- 
-  
-  
 ---
+
 <section class="section section--plain section--straight section--top">
-	<div class="section__inner">
-		<img src="/assets/img/header-en-vstupenky.png" alt="AMPLION 2019" class="section__headerimage section__headerimage--large">
-		<img src="/assets/img/header-en-vstupenky-mobile.png" alt="AMPLION 2019" class="section__headerimage">
-		<!-- <h1 class="section__title">Vstupenky na predstavenia</h1> -->
-		<p class="section__introtext text-center">
+  <div class="section__inner">
+    <img
+      src="/assets/img/header-en-vstupenky.png"
+      alt="AMPLION 2019"
+      class="section__headerimage section__headerimage--large"
+    />
+    <img
+      src="/assets/img/header-en-vstupenky-mobile.png"
+      alt="AMPLION 2019"
+      class="section__headerimage"
+    />
+    <!-- <h1 class="section__title">Vstupenky na predstavenia</h1> -->
+    <p class="section__introtext text-center">
       All the events with their tickets together.
 
-      <br><br>
-      If your tickets are not being loaded, you can go to the seller's website <a target="_blank" href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie/szmybfr/." style="color:#E62E6C">GoOut.net</a>
-      <br><br>
-      If you have a problem or you need an advice on buying tickets, call Tootoot support: <a href="tel:+421948960696"  style="color:#E62E6C">+421 948 145 483</a>
+      <br /><br />
+      If your tickets are not being loaded, you can go to the seller's website
+      <a
+        target="_blank"
+        href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie/szmybfr/."
+        style="color: #e62e6c"
+        >GoOut.net</a
+      >
+      <br /><br />
+      If you have a problem or you need an advice on buying tickets, call or
+      write to GoOut support:
+      <a href="tel:+421948960696" style="color: #e62e6c">+421 948 145 483</a> /
+      <a href="mailto: info@goout.sk " style="color: #e62e6c">info@goout.sk </a>
+      <br /><br />
+
+      Events at AMPLIFIER Festival 2021 are classified in the following ‘COVID
+      Automat’ categories: paid events – OTP <br> (fully vaccinated/tested/recovered
+      from COVID-19)
+      <br> More info: <a href="https://automat.gov.sk/banska-stiavnica" style="color:#E62E6C" target="blank">automat.gov.sk/banska-stiavnica</a>
     </p>
-	</div>
+  </div>
 </section>
 <section class="section">
-	<div class="section__inner">
-		<div class="section__content">
-			<ul class="ticketslist">
-				{{!-- go through events one by one, for readability sake use |event| instead {{this}} --}}
-				{{#each paid-events as |event|}}
-					{{!-- 
-						use nested lookup - because the data source is nested as well 
-						first find the event by slug in annotations.yml
-						output info that is common for the event
-						then look for particular occurence
-						pull data from there - time
-						use it's context (#with) to show tootoot iframe
-						
-						{{@index}}
-					--}}
+  <div class="section__inner">
+    <div class="section__content">
+      <ul class="ticketslist">
+        {{!-- go through events one by one, for readability sake use |event|
+        instead {{this}} --}} {{#each paid-events as |event|}} {{!-- use nested
+        lookup - because the data source is nested as well first find the event
+        by slug in annotations.yml output info that is common for the event then
+        look for particular occurence pull data from there - time use it's
+        context (#with) to show tootoot iframe {{@index}} --}}
 
-					
-					<li class="ticketslist__item">
-						<h3 class="ticketslist__subtitle">
-							{{{lookup (lookup @root.annotations-en event.pev-title) 'performer'}}}
-						</h3>
-						<h2 class="ticketslist__title">
-							{{{lookup (lookup @root.annotations-en event.pev-title) 'title'}}}
-						</h2>
-					
-						{{#with (lookup (lookup (lookup @root.annotations-en event.pev-title) 'occurences' ) event.pev-occurence)}}
-							<p>{{time}}</p>
-							<!-- {{#if @root.site-config.show-tickets}}
+        <li class="ticketslist__item">
+          <h3 class="ticketslist__subtitle">
+            {{{lookup (lookup @root.annotations-en event.pev-title)
+            'performer'}}}
+          </h3>
+          <h2 class="ticketslist__title">
+            {{{lookup (lookup @root.annotations-en event.pev-title) 'title'}}}
+          </h2>
+
+          {{#with (lookup (lookup (lookup @root.annotations-en event.pev-title)
+          'occurences' ) event.pev-occurence)}}
+          <p>{{time}}</p>
+          <!-- {{#if @root.site-config.show-tickets}}
 								{{!--  --}}
 								{{>_toot-iframe iframelang="en"}}
 								{{!-- --}}
 							{{else}}
 							<p><em>Tickets not available yet</em></p>
 							{{/if}} -->
-            {{/with}}
+          {{/with}}
 
-           
-    <div class="progitem__cta">
-        <a href="/en/programme/{{event.pev-title}}#tickets" class="button progitem__cty" style="width:40%; height:7%;margin: 0 auto;padding: 1.5em 1.5em 1.1em 1.5em;">Buy ticket</a>
-    </div>
-       
+          <div class="progitem__cta">
+            <a
+              href="/en/programme/{{event.pev-title}}#tickets"
+              class="button progitem__cty"
+              style="
+                width: 40%;
+                height: 7%;
+                margin: 0 auto;
+                padding: 1.5em 1.5em 1.1em 1.5em;
+              "
+              >Buy ticket</a
+            >
+          </div>
+        </li>
 
-            
-          </li>
-        
-				{{/each}}
-			</ul>
+        {{/each}}
+      </ul>
       <p>&nbsp;</p>
-      <p>By buying a ticket you agree with publishing photos of you taken during AMPLIFIER festival.</p>
-		</div>
-	</div>
+      <p>
+        By buying a ticket you agree with publishing photos of you taken during
+        AMPLIFIER festival.
+      </p>
+    </div>
+  </div>
 </section>
