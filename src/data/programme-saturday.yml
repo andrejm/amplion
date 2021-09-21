@@ -1,5 +1,4 @@
-- 
-  time: 10:00 – 18:00
+- time: 10:00 – 18:00
   performer: Dušan Krnáč (SK)
   title: ANTIDEPRESÁRIUM
   perex: Vizuálno-performatívna výstava v tme
@@ -7,8 +6,7 @@
   age: 12+
   price: 0
   slug: dusan-krnac
-- 
-  time: 10:30 – 11:00
+- time: 10:30 – 11:00
   performer: Mikropodium Family Puppet Theatre (HU)
   age: Family
   title: STOP
@@ -16,28 +14,25 @@
   location: Kaviareň Gavalier, <br> Námestie sv. Trojice
   price: 2/4 €
   slug: family-puppet-theatre
-- 
-  time: 11:00 – 11:35
+- time: 11:00 – 11:35
   performer: Ludo & Arsène (BE)
   argentum: true
   premiere: true
   age: 12+
   title: BE FLAT
-  perex: Cirkusová akrobacia a urban parkúr famóznej belgickej dvojice
+  perex: Cirkusová akrobacia a urban parkour famóznej belgickej dvojice
   location: Starý zámok
   price: Predpredaj 7 €, na mieste 9 €
   slug: ludo-arsene
-- 
-  time: 13:00 – 16:25
+- time: 13:00 – 16:25
   performer: AMPLIÓN Karavana (USA/GB/ES/BE/HU/CZ)
   age: Family
   title: DÔVERA JE UMENIE
   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
   location: Terasa u Blaškov, Počúvadlo,<br> Na fare Beluja, Bod K. sídlisko Drieňová Banská Štiavnica
   price: 0
-  slug: amplion-karavana
-- 
-  time: 14:00 – 14:40
+  slug: amplion-karavana-sobota
+- time: 14:00 – 14:40
   performer: Mestské divadlo – Divadlo z Pasáže (SK)
   argentum: true
   age: 12+
@@ -46,8 +41,7 @@
   location: Kocka, Kammerhofská 6
   price: Predpredaj 5 €, na mieste 7 €
   slug: mestske-divadlo
-- 
-  time: 14:15 – 14:45
+- time: 14:15 – 14:45
   performer: Mojše Band (SK)
   age: 12+
   title: AFTER PROMO
@@ -55,8 +49,7 @@
   location: Trotuár, ul. A. Kmeťa
   price: 0
   slug: mojse-band-after-promo
-- 
-  time: 15:00 – 16:30
+- time: 15:00 – 16:30
   performer: Dušan Ondrušek, PDCS (SK)
   age: 15+
   title: ART PUTIKA – Ako si vybrať pravdu v mori dezinformácií?
@@ -64,8 +57,7 @@
   location: Art Cafe, povala
   price: 5 €
   slug: dusan-ondrusek
--  
-  time: 15:30 – 16:15
+- time: 15:30 – 16:15
   performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
   premiere: true
   argentum: true
@@ -75,29 +67,26 @@
   location: Starý zámok, lapidárium
   price: Predpredaj 12 €, na mieste 14 €
   slug: paul-morocco
--  
-  time: 16:30 – 17:15
-  performer: AND (SK-CZ/HR-SK) 
+- time: 16:30 – 17:15
+  performer: AND (SK-CZ/HR-SK)
   age: Family
-  title: WELCOME TO STUPIDITY 
+  title: WELCOME TO STUPIDITY
   perex: Sad street show o malých hlúpostiach s veľkým dopadom
   location: Záhrada Skautského domu, <br> ul. A. Pécha
   price: 5 / 7 €
   slug: and
--  
-  time: 18:00 – 20:15
+- time: 18:00 – 20:15
   performer: 'Divadlo Husa na provázku (CZ) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
   argentum: true
   premiere: true
   age: 15+
   title: GADŽOVÉ JDOU DO NEBE
   perex: Comedy Ghetto alebo česko-rómsky kabaret s bašavelom
-  location: Amfiteáter / Kultúrne centrum, hlavná sála
+  location: Kultúrne centrum, hlavná sála
   price: Predpredaj 19 € / na mieste 23 €
   slug: divadlo-husa-na-provazku
--  
-  time: 19:00 – 20:30
-  performer: AND & Hostia & Mojše Band (SK+CZ) 
+- time: 19:00 – 20:30
+  performer: AND & Hostia & Mojše Band (SK+CZ)
   general: Len na Amplióne
   age: 15+
   title: SKETCH UP
@@ -105,26 +94,23 @@
   location: Kocka, Kammerhofská 6
   price: Predpredaj 8 € / na mieste 10 €
   slug: sketch-up
--  
-  time: 20:30 – 22:30
-  performer: 	Jiří Dědeček (CZ)
+- time: 20:30 – 22:30
+  performer: Jiří Dědeček (CZ)
   age: 12+
-  title: NEBUDU BYDLET V QUÉBECU 
-  perex: Šansóny, kuplety, odrhovačky legendárneho folkového pesničkára 
+  title: NEBUDU BYDLET V QUÉBECU
+  perex: Šansóny, kuplety, odrhovačky legendárneho folkového pesničkára
   location: Art Cafe, povala
   price: 10 €
   slug: jiri-dedecek
--  
-  time: 21:00 – 22:30
-  performer: 	Samuel Marec & Ján Markoš (SK)
+- time: 21:00 – 22:30
+  performer: Samuel Marec & Ján Markoš (SK)
   age: 15+
   title: ART PUTIKA – Medzi dobrom a zlom
-  perex: Krčmové dišputy o morálnych dilemách dneška 
+  perex: Krčmové dišputy o morálnych dilemách dneška
   location: Archanjel caffe bar
   price: 0
   slug: samuel-marec-jan-markos
--  
-  time: 22:00 – 23:00
+- time: 22:00 – 23:00
   performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
   premiere: true
   argentum: true

@@ -24,7 +24,7 @@
   premiere: true
   age: 12+
   title: BE FLAT
-  perex: Cirkusová akrobacia a urban parkúr famóznej belgickej dvojice
+  perex: Cirkusová akrobacia a urban parkour famóznej belgickej dvojice
   location: Starý zámok
   price: Predpredaj 6 €, na mieste 8 €
   slug: ludo-arsene
@@ -36,7 +36,7 @@
   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
   location: KTC Hájovňa Červená studňa
   price: 0
-  slug: amplion-karavana
+  slug: amplion-karavana-nedela
 -
   time: 15:00 – 16:30
   performer: Mirek Tóda & Mojše band (SK) 

@@ -1,0 +1,13 @@
+.button-karavana {
+  background-color: #f7ca18;
+  box-shadow: #ffb61e 0 2px 0;
+  padding: 1.2em 1.5em;
+  font-size: 0.8rem;
+  font-weight: bold;
+  min-width: 235px;
+  color: white;
+
+  @include breakpoint(medium) {
+    font-size: 1rem;
+  }
+}

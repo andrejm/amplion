@@ -48,6 +48,188 @@ amplion-karavana:
     -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
     -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
 
+amplion-karavana-stvrtok:
+  title: AMPLIÓN Karavana
+  perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
+  price: 0
+  karavana: true
+
+  content: 
+   -
+    ""
+  occurences:
+    -
+      performer: Mikropodium Family Puppet Theatre (HU)
+      time: "štvrtok 10:00 – 10:20"
+      title: STOP
+      perex: svetovo unikátne bábkové divadlo pre najmenších
+      price: 0
+      age: 3+
+      location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane
+    -
+      performer: Lukáš Šimon + Anton Eliáš (CZ)
+      time: "štvrtok 11:00 – 11:35"
+      title: "ROBO ERECTUS: Šugar &amp; Bič"
+      perex: komická sci-fi pantomíma robotov
+      price: 2 € na mieste
+      age: 6+
+      location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane
+
+    -
+      performer: Kapela 5 a pes (CZ)
+      time: "štvrtok 17:00 – 17:20"
+      title: "PROMO KONCERT"
+      perex: nová pražská kapela v štýle poetického folku
+      price: 0
+      age: 15+
+      location: Bod K., Základná škola Jozefa Kollára, sídlisko Drieňová Banská Štiavnica
+    -
+      performer: AND (SK-CZ/HR-SK)
+      time: "štvrtok 17:30 – 18:15"
+      title: WELCOME TO STUPIDITY
+      perex: sad street show o malých hlúpostiach s veľkým dopadom
+      price: 3 € na mieste
+      age: 8+
+      location: Bod K., Základná škola Jozefa Kollára, sídlisko Drieňová Banská Štiavnica
+
+  pictures:
+    
+    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
+
+
+amplion-karavana-piatok:
+  title: AMPLIÓN Karavana
+  perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
+  price: 0
+  karavana: true
+  content: 
+   -
+    ""
+  occurences:
+    -
+      performer: Vladislava Sárkány (SK)
+      time: "piatok 17:30 – 18:50"
+      title: TO TA MONARCHIA
+      perex: dokumentárna komédia o Spišskom Hrhove + diskusia s režisérkou
+      price: 0
+      age: 12+
+      location: Kino, Štiavnické Bane
+    -
+      performer: Dušan Ondrušek, PDCS (SK)
+      time: "piatok 19:00 – 20:30"
+      title: "ART PUTIKA – Ako si vybrať pravdu v mori dezinformácií?"
+      perex: zábavný krčmový kvíz
+      price: 0
+      age: 15+
+      location: Krčma u Michala, Banská Belá
+
+  pictures:
+    
+    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
+
+amplion-karavana-sobota:
+  title: AMPLIÓN Karavana
+  perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
+  price: 0
+  karavana: true
+
+  content: 
+   -
+    ""
+  occurences:
+    -
+      performer: Kapela Ponorka (CZ)
+      time: "sobota 13:00 – 13:20"
+      title: BUSKING
+      perex: podmanivá balkánska street kapela, víťaz SKETCH UP 2020
+      price: 0
+      age: Family
+      location: Terasa u Blaškov, Počúvadlo
+    -
+      performer: 'Paul Morocco (USA/GB/ES)  <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
+      argentum: true
+      premiere: true
+      time: "sobota 13:30 – 13:45"
+      title: OLÉ! Music &amp; Comedy
+      perex: bravúrna hudobno-artistická gitarová show
+      price: 0
+      age: 12+
+      location: Terasa u Blaškov, Počúvadlo
+
+    -
+      performer: Mikropodium Family Puppet Theatre (HU)
+      time: "sobota 15:00 – 15:20"
+      title: STOP
+      perex: svetovo unikátne bábkové divadlo pre najmenších
+      price: 0
+      age: 3+
+      location: Na fare Beluja
+    -
+      performer: Ludo &amp; Arsène (BE)
+      argentum: true
+      premiere: true
+      time: "sobota 15:00 – 15:35"
+      title: BE FLAT
+      perex: cirkusová akrobacia a urban parkour famóznej belgickej dvojice
+      price: 5 € na mieste
+      age: 12+
+      location: Bod K., Základná škola Jozefa Kollára, sídlisko Drieňová Banská Štiavnica
+
+    -
+      performer: Hayato Yamaguchi (JP)
+      time: "sobota 16:00 – 16:25"
+      title: VEČNÁ TÚŽBA
+      perex: akrobatický tanec japonského umelca
+      price: 0
+      age: Family
+      location: Na fare Beluja
+
+  pictures:
+    
+    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
+
+amplion-karavana-nedela:
+  title: AMPLIÓN Karavana
+  perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
+  price: 0
+  karavana: true
+
+  content: 
+   -
+    ""
+  occurences:
+    -
+      performer: Mikropodium Family Puppet Theatre (HU)
+      time: "nedeľa 14:00 – 14:20"
+      title: STOP
+      perex: svetovo unikátne bábkové divadlo pre najmenších
+      price: 0
+      age: 3+
+      location: KTC Hájovňa Červená studňa
+    -
+      performer: Ludo &amp; Arsène (BE)
+      argentum: true
+      premiere: true
+      time: "nedeľa 16:00 – 16:35"
+      title: BE FLAT
+      perex: cirkusová akrobacia a urban parkour famóznej belgickej dvojice
+      price: 5 € na mieste
+      age: 12+
+      location: KTC Hájovňa Červená studňa
+
+  pictures:
+    
+    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
+
+
 
 divadlo-husa-na-provazku:
   performer: Divadlo Husa na provázku, Brno (CZ)
@@ -68,7 +250,7 @@ divadlo-husa-na-provazku:
     -
       price: predpredaj 19 € / na mieste 23 €
       time: "sobota 18:00"
-      location: Amfiteáter / Kultúrne centrum, hlavná sála
+      location: Kultúrne centrum, hlavná sála
       tickets:
       toot-iframe-id: 0
       toot-event-id: 0
@@ -207,10 +389,10 @@ sketch-up:
       toot-iframe-id: 0
       toot-event-id: 0
       
-  perex: 3. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov! Hrá klezmer kapela Mojše Band.
+  perex: 3. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov! Moderátor Ľubor Foltán vás prevedie Jogou smiechu. Hrá klezmer kapela Mojše Band. 
   content: 
     -
-      'Súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla, pokračuje! Všetky skeče prepojí jedna téma – dôvera vs. nedôvera, ktoré podajú zážitkovou a zábavnou formou títo účinkujúci: šarmantný herec a mím Anton Eliáš&nbsp;(CZ), herecko-hudobné duo študentov VŠMU Martin Toman & Tadeáš Bolo&nbsp;(SK), hudobný standapista s gitarou, Tomáš Šrámek&nbsp;(SK), energickí herci a tanečníci Cirkevného konzervatória v Bratislave&nbsp;(SK) a miestny raper Wuačkowec&nbsp;(SK). Programom sprevádza Ľubor Foltán a jeho Smiechohry, ktoré zažijete na vlastnej lícnej jamke. Jedinečnú atmosféru vytvorí aj židovská kapela Mojše Band. Nebude chýbať ani exkluzívna porota! Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 7. ročníku Festivalu AMPLIÓN 2022. Nenechajte si tento jedinečný program ujsť!'
+      'Súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla, pokračuje! Všetky skeče prepojí jedna téma – dôvera vs. nedôvera, ktoré podajú zážitkovou a zábavnou formou títo účinkujúci: šarmantný herec a mím Anton Eliáš (CZ), herecko-hudobné duo študentov VŠMU Martin Toman & Tadeáš Bolo (SK), hudobný standapista s gitarou, Tomáš Šrámek (SK), energickí herci a tanečníci Cirkevného konzervatória v Bratislave (SK), miestny hudobník a spevák Jaro Koleda či mladá rómska talentovaná speváčka Sarah. Programom sprevádza Ľubor Foltán a jeho Smiechohry, ktoré zažijete na vlastnej lícnej jamke. Jedinečnú atmosféru vytvorí aj židovská kapela Mojše Band. Nebude chýbať ani exkluzívna porota: Lumír Mati, Martina Garassyová a Zuzana Liptáková! Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 7. ročníku Festivalu AMPLIÓN 2022. Nenechajte si tento jedinečný program ujsť!'  
   pictures:
     - SKETCH UP_Martin &amp; Tadeas_za klavirom.png
     - SKETCH_UP_Robo Erectus 3_Michal Michalko.jpg
@@ -241,7 +423,7 @@ ludo-arsene:
       toot-iframe-id: 0
       toot-event-id: 0
       
-  perex: Cirkusová akrobacia a urban parkúr famóznej belgickej dvojice
+  perex: Cirkusová akrobacia a urban parkour famóznej belgickej dvojice
   content: 
     -
       'Ludo a Arsène majú dôležitú úlohu. Zastaviť návštevníkov festivalu, vytrhnúť ich z každodennosti a získať si ich dôveru. Buďte v strehu! Títo akrobati sa zjavia nebadane a využijú akýkoľvek priestor. Môžu sa objaviť na strome, prekvapiť vás na stene či vykuknúť z kanála alebo banskej šachty. Lozia, preskakujú alebo sa všelikde zavesia. Pokojne aj dolu hlavou! Vrcholom bude veľkolepé číslo so špeciálnym rebríkom pod heslom: </em> „Všetko je možné!“</em> Vyskúšajte ľahkosť bytia naplno!'

@@ -1,5 +1,4 @@
-- 
-  time: 10:00 – 18:00
+- time: 10:00 – 18:00
   performer: Dušan Krnáč (SK)
   title: ANTIDEPRESÁRIUM
   perex: A visual performance exhibition in the dark
@@ -7,8 +6,7 @@
   age: 12+
   price: 0
   slug: dusan-krnac
-- 
-  time: 10:30 – 11:00
+- time: 10:30 – 11:00
   performer: Mikropodium Family Puppet Theatre (HU)
   age: Family
   title: STOP
@@ -16,8 +14,7 @@
   location: Gavalier Cafe, St. Trinity Square
   price: 2/4 €
   slug: family-puppet-theatre
-- 
-  time: 11:00 – 11:35
+- time: 11:00 – 11:35
   performer: Ludo & Arsène (BE)
   argentum: true
   premiere: true
@@ -25,29 +22,26 @@
   title: BE FLAT
   perex: Circus acrobatics and urban parkour of the fabulous Belgian duo
   location: Old Castle
-  price:  7 € pre-sale, 9 € onsale
+  price: 7 € pre-sale, 9 € onsale
   slug: ludo-arsene
-- 
-  time: 13:00 – 16:25
+- time: 13:00 – 16:25
   performer: AMPLIFIER Caravan (USA/GB/ES/BE/HU/CZ)
   age: Family
-  title: TRUST IS ART 
+  title: TRUST IS ART
   perex: Travelling performances of artists to the periphery + invitations to the centre
   location: Terrace u Blaškov, Počúvadlo, Clergy House Beluja, K. point - residential area Drieňová<br>  Banská Štiavnica
   price: 0
   slug: amplion-karavana
-- 
-  time: 14:00 – 14:40
+- time: 14:00 – 14:40
   performer: City Theatre – Theatre from Passage (SK)
   argentum: true
   age: 12+
   title: LOVE SHOCK
   perex: An immersive theatre-dance experience with a strong message
   location: Cube, Kammerhofská 6
-  price:  5 € pre-sale,  7 € onsale
+  price: 5 € pre-sale,  7 € onsale
   slug: mestske-divadlo
-- 
-  time: 14:15 – 14:45
+- time: 14:15 – 14:45
   performer: Mojše Band (SK)
   age: 12+
   title: AFTER PROMO
@@ -55,8 +49,7 @@
   location: Trotuár, A. Kmeť st.
   price: 0
   slug: mojse-band-after-promo
-- 
-  time: 15:00 – 16:30
+- time: 15:00 – 16:30
   performer: Dušan Ondrušek, PDCS (SK)
   age: 15+
   title: ART PUB  – How to fish out the truth <br> in a sea of disinformation?
@@ -64,8 +57,7 @@
   location: Art Cafe, attic
   price: 5 €
   slug: dusan-ondrusek
--  
-  time: 15:30 – 16:15
+- time: 15:30 – 16:15
   performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
   premiere: true
   argentum: true
@@ -75,62 +67,56 @@
   location: Old Castle, lapidary
   price: 12 € pre-sale, 14 € onsale
   slug: paul-morocco
--  
-  time: 16:30 – 17:15
-  performer: AND (SK-CZ/HR-SK) 
+- time: 16:30 – 17:15
+  performer: AND (SK-CZ/HR-SK)
   age: Family
-  title: WELCOME TO STUPIDITY 
+  title: WELCOME TO STUPIDITY
   perex: Sad street show about small stupidities with a big impact
   location: Scout House Garden, A. Pécha st.
   price: 5 / 7 €
   slug: and
--  
-  time: 18:00 – 20:15
+- time: 18:00 – 20:15
   performer: 'The Goose on a String Theatre (CZ) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner  </strong>'
   argentum: true
   premiere: true
   age: 15+
-  title: GADJOS GO TO HEAVEN 
+  title: GADJOS GO TO HEAVEN
   perex: Comedy Ghetto a.k.a. the Czech-Roma cabaret with bashavel
-  location: Amphitheater / Cultural centre, main hall
+  location: Cultural centre, main hall
   price: 19 € pre-sale / 23 € onsale
   slug: divadlo-husa-na-provazku
--  
-  time: 19:00 – 20:30
-  performer: AND & Guests & Mojše Band (SK/CZ) 
+- time: 19:00 – 20:30
+  performer: AND & Guests & Mojše Band (SK/CZ)
   general: Only at AMPLIFIER!
   age: 15+
   title: SKETCH UP
   perex: "3rd annual edition of the Czech and Slovak competition of cabaret sketches, full of new talents"
   location: Cube, Kammerhofská 6
-  price:  8 € pre-sale / 10 € onsale
+  price: 8 € pre-sale / 10 € onsale
   slug: sketch-up
--  
-  time: 20:30 – 22:30
-  performer: 	Jiří Dědeček (CZ)
+- time: 20:30 – 22:30
+  performer: Jiří Dědeček (CZ)
   age: 12+
   title: I WILL NOT LIVE IN QUEBEC
   perex: Chansons, couplets, and sing-alongs of the legendary folk singer-songwriter
   location: Art Cafe, attic
   price: 10 €
   slug: jiri-dedecek
--  
-  time: 21:00 – 22:30
-  performer: 	Samuel Marec & Ján Markoš (SK)
+- time: 21:00 – 22:30
+  performer: Samuel Marec & Ján Markoš (SK)
   age: 15+
-  title: ART PUB – Between good and evil 
+  title: ART PUB – Between good and evil
   perex: Pub disputes about today’s moral dilemmas
   location: Archanjel caffe bar
   price: 0
   slug: samuel-marec-jan-markos
--  
-  time: 22:00 – 23:00
+- time: 22:00 – 23:00
   performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner</strong>'
   premiere: true
   argentum: true
   age: 12+
   title: OLÉ! Music & Comedy
-  perex:  Brilliant music-artistic guitar show
+  perex: Brilliant music-artistic guitar show
   location: Cube, Kammerhofská 6
   price: 13 € pre-sale, 15 € onsale
   slug: paul-morocco

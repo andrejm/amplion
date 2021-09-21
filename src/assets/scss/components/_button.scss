@@ -1,22 +1,21 @@
 .button {
-	font-size: rem-calc( 14 );
-	font-weight: $global-weight-bold;
-	box-shadow: #BC184F 0 2px 0;
-	text-transform: uppercase;
-	letter-spacing: rem-calc( 0.64 );
+  font-size: rem-calc(14);
+  font-weight: $global-weight-bold;
+  box-shadow: #bc184f 0 2px 0;
+  text-transform: uppercase;
+  letter-spacing: rem-calc(0.64);
 
-	&.secondary {
-		background-color: $amp-button-color;
-		box-shadow: #140B46 0 2px 0;
+  &.secondary {
+    background-color: $amp-button-color;
+    box-shadow: #140b46 0 2px 0;
 
-		&:hover {
-			background-color: scale-color($amp-button-color, $lightness: -15%);
-		}
-	}
+    &:hover {
+      background-color: scale-color($amp-button-color, $lightness: -15%);
+    }
+  }
 
-	@include breakpoint( medium ) {
-		font-size: rem-calc( 16 );
-		min-width: rem-calc( 260 );
-
-	}
+  @include breakpoint(medium) {
+    font-size: rem-calc(16);
+    min-width: rem-calc(260);
+  }
 }

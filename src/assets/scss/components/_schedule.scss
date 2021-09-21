@@ -20,10 +20,14 @@
 		clip-path: polygon(0 20%, 100% 0, 90% 100%, 0% 100%);
 		position: relative;
 		top: 1px; //to avoid small gap caused by clip path in chrome
+		font-size: 0.8rem;
+		
 
 		> a {
 			text-transform: uppercase;
 			font-weight: $global-weight-bold;
+			padding: 1.25rem 0.8rem;
+			font-size: 0.8rem;
 			&:hover {
 				background-color: $amp-tertiary;
 				transition: background-color 0.75s;

@@ -5,7 +5,11 @@
       <h2 class="event-header__author">{{{performer}}}</h2>
       <h1 class="event-header__title">{{{title}}}</h1>
     </div>
+    {{#if this.karavana}}
+    <div>
+    {{else}}
     <div class="section__content">
+    {{/if}}
       <p class="section__introtext">{{{perex}}}</p>
       <p>
         {{#if this.top}}
@@ -26,14 +30,37 @@
         {{/if}} {{#if this.general}}
         <span class="event-more">{{this.general}}</span>
         <br />
-        {{/if}} {{#each occurences}}
-        <span class="event-time">{{{this.time}}}</span>
-        <span class="event-location">{{{this.location}}}</span>
+        {{/if}} 
+        
+        {{#if this.karavana}}
+        {{#each occurences}}
+        
+          {{>_progitem-in-annotation}}
+          {{/each}}
+          <br>
+        {{else}}
+          {{#each occurences}}
+          <p style="margin: 0.7rem">
+            <span class="event-location">{{{this.location}}}</span>
+          <span class="event-time">{{{this.time}}}</span>
+          </p>
+          
+          {{/each}}
+        {{/if}}
+
+        {{#each occurences}}
         {{#if @root.site-config.show-tickets}}
         <!-- <span class="event-price">6 €</span> -->
         {{/if}}
-        <br />
+      
         {{/each}}
+
+        {{#if this.karavana}}
+        
+        <p class="section__footertext">
+          <a href="/assets/Program_karavana.jpg" class="button-karavana"> AMPLIÓN KARAVANA - CELÝ PROGRAM</a>
+       </p>
+       {{/if}}
       </p>
       {{#if @root.site-config.show-tickets}} {{#ifequal this.price 0}} {{!--
       intentionally left blank, dont have opposit helper --}} {{else}}
@@ -41,6 +68,7 @@
         <a href="#vstupenky" class="button">Kúpiť vstupenky</a>
       </p>
       {{/ifequal}} {{/if}}
+     
     </div>
   </div>
 </section>
