@@ -670,14 +670,15 @@ Samo Marec je prekladateľ a publicista, píše pre denník SME. Jeho životnou
 
 samo-marec:
   performer: Samo Marec, Bratislava (SK)  
-  title: ROKY BEZPRÁVIA – neuveriteľný príbeh razie v Moldave  
+  title: <span style="font-size:1.5rem"><del>ROKY BEZPRÁVIA  </del> <br> Zrušené z vážnych rodinných dôvodov.</span>
   argentum: true                                  
-  general: Program pre mladých a dospelých        
+  general: Program pre mladých a dospelých
+  price: 0        
   occurences: 
     -
       time: piatok 20:00
       location: Art Cafe, povala
-      price: 5 €
+      price: 0
       toot-iframe-id: 0
       toot-event-id: 0
    

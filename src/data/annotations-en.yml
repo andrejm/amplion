@@ -480,14 +480,15 @@ Samo Marec is a translator and publicist for the daily SME. His life ambition is
 
 samo-marec:
   performer: Samo Marec, Bratislava (SK)  
-  title: LAWLESS YEARS – the unbelievable story of the police raid in&nbsp;Moldava  
+  title: <span style="font-size:1.5rem"><del>LAWLESS YEARS </del> <br> Canceled due to serious family ocasion. </span>
   argentum: true                                  
-  general: Programme for the young and the adults                
+  general: Programme for the young and the adults   
+  price: 0             
   occurences: 
     -
       time: Friday 20:00
       location: Art Cafe, attic
-      price: 5 €
+      price: 0
       toot-iframe-id: 0
       toot-event-id: 0
    
