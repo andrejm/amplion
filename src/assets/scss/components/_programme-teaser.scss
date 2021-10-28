@@ -70,7 +70,7 @@
       @include xy-cell(4);
       margin: 0 auto;
       transform: rotate(0deg);
-      margin-top: 60px;
+      // margin-top: 60px;
       text-align: center;
     }
     &__item_full:nth-child(2n + 3) &__title {
