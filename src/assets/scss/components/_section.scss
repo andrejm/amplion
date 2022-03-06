@@ -243,7 +243,7 @@ section--notopspace - without top padding
       &--dateplace {
         font-size: rem-calc(24);
         text-align: center;
-        margin-top: rem-calc(-86);
+        // margin-top: rem-calc(-86);
         margin-bottom: 2em;
       }
     }
@@ -334,7 +334,7 @@ section--notopspace - without top padding
         font-size: rem-calc(30);
 
         margin: 0 auto;
-        margin-top: -100px;
+        // margin-top: -100px;
         margin-bottom: 150px;
       }
     }
@@ -376,7 +376,7 @@ section--notopspace - without top padding
     &__title {
       &--dateplace {
         margin: 0px auto;
-        margin-top: -150px;
+        // margin-top: -150px;
         margin-bottom: 150px;
       }
     }
@@ -387,7 +387,7 @@ section--notopspace - without top padding
 
     &__title {
       &--dateplace {
-        margin: -100px auto;
+        margin: 0 auto;
         margin-bottom: 150px;
       }
     }
