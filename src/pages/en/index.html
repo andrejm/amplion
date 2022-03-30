@@ -5,7 +5,7 @@ layout: english
 
 <section class="section section--plain section--straight section--top">
   <div class="section__inner">
-    <img src="/assets/img/AMP22-titulka-eng.png" alt="AMPLION 2021" />
+    <img src="/assets/img/AMP22-titulka-eng.png" alt="AMPLION 2022" />
     <h2
       class="section__title section__title--noarrow section__title--dateplace"
     >
@@ -139,9 +139,11 @@ layout: english
         </p>
       </div>
     </div>
+    {{#if @root.site-config.show-program}}
     <p class="section__footertext">
       <a href="/en/programme/" class="button">See the full programme!</a>
     </p>
+    {{/if}}
     <!-- <p class="text-center"><a href="/en/busking/" class="button secondary">See the programme and buy tickets!</a></p> -->
   </div>
   <img

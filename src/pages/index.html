@@ -4,7 +4,7 @@ hideFooterNewsletter: true
 
 <section class="section section--plain section--straight section--top">
   <div class="section__inner">
-    <img src="/assets/img/AMP22-titulka.png" alt="AMPLION 2021" />
+    <img src="/assets/img/AMP22-titulka.png" alt="AMPLION 2022" />
     <h2
       class="section__title section__title--noarrow section__title--dateplace"
     >
@@ -140,12 +140,14 @@ hideFooterNewsletter: true
         <h4 class="programme-teaser__title"><span class="programme-teaser__performer">Kompletný program festivalu  </span></br>16. augusta 2021</h4>
       </div> -->
     </div>
+    {{#if @root.site-config.show-program}}
     <p class="section__footertext">
       <a href="/program/" class="button">Pozrite si celý program!</a>
     </p>
-    <p class="section__footertext">
+    {{/if}}
+    <!-- <p class="section__footertext">
        <a href="/assets/Program_karavana.jpg" class="button-karavana" target="_blank"> AMPLIÓN KARAVANA</a>
-    </p>
+    </p> -->
     <div class="popup-gallery">
       <figure class="photodesc">
        
