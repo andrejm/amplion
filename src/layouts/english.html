@@ -145,6 +145,9 @@ used where specified. --}}
               <ul class="nav-menu secondary-menu">
                 <li class="menu-item"><a href="/en/">Home</a></li>
                 <li class="menu-item"><a href="/en/press/">Press</a></li>
+                {{#if @root.site-config.busking-menu }}
+                <li class="menu-item"><a href="/en/busking/">BUSKING</a></li>
+                {{/if}} 
                 <li class="menu-item"><a href="/en/partners/">Partners</a></li>
                 <li class="menu-item">
                   <a href="/en/partnerships/">Partnerships</a>

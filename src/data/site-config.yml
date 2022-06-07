@@ -1,5 +1,5 @@
 show-tickets: false
 show-program: false
-busking-menu: false
+busking-menu: true
 sketchup-menu: true
 year: 2022
