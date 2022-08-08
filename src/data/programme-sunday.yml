@@ -1,49 +1,18 @@
 -
-  time: 10:30 – 11:00
-  performer: Mikropodium Family Puppet Theatre (HU)
-  age: 3+
-  title: STOP 
-  perex: Svetovo unikátne bábkové divadlo pre najmenších
-  location: Art Cafe, Pod orechom
-  price: 0 
-  slug: family-puppet-theatre-nedela
--
-  time: 11:00 – 11:30
-  performer: 5 a pes (CZ)
+  time: 11:00 – 11:30 
+  performer: TooT Ensemble (CZ) 
   age: 12+
-  title: AFTER KONCERT 
-  perex: + Vyhlásenie cien festivalu Amplion Argentum 
+  title: AFTER KONCERT + vyhlásenie cien festivalu Amplion Argentum   
   location: Art Cafe, terasa
   price: 0
-  slug: 5-a-pes-nedela
-
+  slug: after-koncert-and-amplion-argentum
 -
-  time: 13:30 - 14:05
-  performer: Ludo & Arsène (BE)
-  argentum: true
+  time: 13:30 – 14:00 
+  performer: Lorenzo Galli (IT) 
   premiere: true
-  age: 12+
-  title: BE FLAT
-  perex: Cirkusová akrobacia a urban parkour famóznej belgickej dvojice
-  location: Starý zámok
-  price: Predpredaj 6 €, na mieste 8 €
-  slug: ludo-arsene
--
-  time: 14:00 – 16:35
-  performer: AMPLIÓN Karavana (HU/BE)
-  age: 3+
-  title: DÔVERA JE UMENIE 
-  perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-  location: KTC Hájovňa Červená studňa
+  age: Family
+  title: POOM-CHA
+  perex: kabaretný pouličník a jeho one-clown-band
+  location: KTC Hájovňa, Červená studňa 
   price: 0
-  slug: amplion-karavana-nedela
--
-  time: 15:00 – 16:30
-  performer: Mirek Tóda & Mojše band (SK) 
-  argentum: true
-  age: 15+
-  title: ART PUTIKA – Kóšer podcast
-  perex: Verejná nahrávka s pamätníkmi židovskej Štiavnice
-  location: Art Cafe, povala
-  price: 5 €
-  slug: mirek-toda-mojse-band
+  slug: lorenzo-galli

@@ -1,14 +1,14 @@
 ---
 layout: english
 
-thursday:
+<!-- thursday:
   previd:
   prevtext:
   nextid: friday
-  nexttext: Friday
+  nexttext: Friday -->
 friday:
-  previd: thursday
-  prevtext: Thursday
+  <!-- previd: thursday -->
+  <!-- prevtext: Thursday -->
   nextid: saturday
   nexttext: Saturday
 saturday:
@@ -83,15 +83,15 @@ sunday:
 <!-- <section class="section"> -->
     <div class="schedule">
         <ul class="tabs" data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" data-tabs id="deeplinked-tabs">
-          <li class="tabs-title is-active"><a href="#thursday" aria-selected="true">Thursday</a></li>
-          <li class="tabs-title"><a href="#friday" >Friday</a></li>
+          <!-- <li class="tabs-title"><a href="#thursday" aria-selected="true">Thursday</a></li> -->
+          <li class="tabs-title is-active"><a href="#friday" aria-selected="true">Friday</a></li>
           <li class="tabs-title"><a href="#saturday">Saturday</a></li>
           <li class="tabs-title"><a href="#sunday">Sunday</a></li>
         </ul>
 
         <div class="tabs-content" data-tabs-content="deeplinked-tabs">
 
-          <div class="tabs-panel is-active" id="thursday">
+          <!-- <div class="tabs-panel is-active" id="thursday">
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
                 {{#each programme-thursday-en}}
@@ -99,7 +99,7 @@ sunday:
                 {{/each}}
                 </ul>
                 {{>_programmenav friday}}                
-            </section>
+            </section> -->
 <!-- 
             <section class="section" style="background-color:white">
 
@@ -111,8 +111,8 @@ sunday:
                 </ul>
               </section> -->
 
-          </div>
-          <div class="tabs-panel" id="friday">
+          <!-- </div> -->
+          <div class="tabs-panel is-active" id="friday">
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
                 {{#each programme-friday-en}}

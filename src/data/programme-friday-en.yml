@@ -1,93 +1,105 @@
-- 
-  time: 16:00 – 16:30
-  title: FESTIVAL OPENING
-  perex: "Anthem + promo: Paul Morocco (USA/GB/ES) &&nbsp;Ludo & Arsène (BE) &&nbsp;Šimon&nbsp;Eliáš (CZ) 	&&nbsp;Mojše band (SK)"
-  age: Family
-  price: 0
-  location: St. Trinity Square
-  slug: otvorenie-festivalu
 -
-  time: 16:30 – 16:50
-  performer: Mikropodium Family Puppet Theatre (HU)
-  age: 3+
-  title: STOP
-  perex: A world-unique puppet theatre for the youngest ones
-  location: Gavalier Cafe, St. Trinity Square
-  price: 2/4 €
-  slug: family-puppet-theatre
--  
-  time: 17:00 – 17:35
-  performer: Lukáš Šimon & Anton Eliáš (CZ)
-  title: "ROBO ERECTUS: Šugar & Bič"
-  perex: Comedic sci-fi pantomime of robots
-  location: Scout House Garden, A. Pécha st.
-  age: Family
-  price: 4/6 €
-  slug: lukas-simon-anton-elias
+  time: 15:00 – 15:45 
+  performer: Sneezing Brain Gallery Prešov (SK/USA/NL/UA)  
+  age: 10+
+  title: ANTI-HYBRID
+  perex: guided tour of the international exhibition of drawn humor, as a slow-down and catharsis before lies and conspiracies 
+  location: Cafe Gavalier, St. Trinity Square
+  price: 0
+  slug: sneezing-brain-gallery-presov
 -
-  time: 17:30 – 18:45
-  performer: Dušan Krnáč (SK)
-  age: 12+
-  title: ANTIDEPRESÁRIUM
-  perex: "A visual performance exhibition in the dark, guest: psychiatrist M. Patarák"
-  location: Old Castle – karner
-  price: 0
-  slug: dusan-krnac-friday
--  
-  time: 17:30 – 20:30
-  performer: AMPLIFIER Caravan (SK)
+  time: 16:00 – 16:30 
+  title: FESTIVAL OPENING  
   age: Family
-  title: TRUST IS ART
-  perex: Travelling performances of artists to the periphery + invitations to the centre
-  location: Cinema Štiavnické Bane,<br> Pub of Michal Banská Belá
+  perex: "Anthem + promo - Ugo Sanchez jr. (IT), Collectif Primavez (FR), Filtr (CZ)"
+  location: St. Trinity Square  
   price: 0
-  slug: amplion-karavana
--  
-  time: 18:00 – 19:00
-  performer: D´ &nbsp;renewed dženerejšn + Martin Toman & Tadeáš Bolo (SK)
-  age: 12+
-  title: NO TRUST, NO FUN
-  perex: Young reciters on the topic of (dis)trust, featuring the songs of Filip, Lasica & Satinský 
-  location: Art Cafe, Under the walnut tree
-  price: 7 €
-  slug: dzenerejsn
--  
-  time: 19:30 – 20:30
-  performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
-  premiere: true
-  argentum: true
-  age: 12+
-  title: OLÉ! Music & Comedy
-  perex: Crazy music-artistic guitar show
-  location: Cultural centre, main hall
-  price: 13 € pre-sale, 15 € onsale
-  slug: paul-morocco
--  
-  time: 20:00 – 21:15
-  performer: Samo Marec (SK)
-  age: 15+
-  title: <del> ART PUB – Lawless years</del> <br> Canceled due to serious family ocasion
-  perex: Self-reading with self-discussion 
-  location: Art Cafe, attic
-  price: 5 €
-  slug: samo-marec
--  
-  time: 21:00 – 22:15
-  performer: Geisslers Hoffcomoedianten (CZ)
+  slug: festival-opening
+-
+  time: 16:30 – 16:50 
+  performer: Lorenzo Galli (IT) 
+  premiere: true 
+  age: Family
+  title: POOM-CHA
+  perex: walking cabaret streetster and his one-clown-band
+  location: St. Trinity Square – Scout House garden, A. Pécha st.
+  price: 0
+  slug: lorenzo-galli
+-
+  time: 17:00 – 17:55 
+  performer: Ugo Sanchez jr. (IT) 
   argentum: true
   premiere: true
-  age: 15+
-  title: RAUT
-  perex: A brilliant new cabaret La Fontaine, or, an evening of big animals
-  location: Cube, Kammerhofská 6
-  price: 9 €
-  slug: geisslers-hoffcomoedianten
--  
-  time: 22:30 – 23:30
-  performer: Mojše Band (SK)
-  age: 15+
-  title: CONCERT 
-  perex: Jewish musical heritage in a fresh version
-  location: Art Cafe, attic
+  age: Family
+  title: RIO BOOM BOOM
+  perex: musical and clown comedy of a world-renowned artist
+  location: Scout House garden, A. Pécha st.  
+  price: 5/8 €
+  slug: ugo-sanchez
+-
+  time: 17:30 – 18:00 
+  performer: Naďa Salbotová (SK)  
+  age: 10+ 
+  title: TIME-MINDS
+  perex: vernissage of the interactive exhibition, a jump into a world without time
+  location: Old castle – karner
+  price: 0
+  slug: nada-salbotova
+-
+  time: 18:00 – 19:00 
+  performer: D´fastfood dženerejšn (SK) 
+  age: 12+
+  title: NO STOP, NO FUN
+  perex: modern spoken interpretation of young personalities on the topic of stopping
+  location: Old castle – karner
   price: 8 €
-  slug: mojse-band
+  slug: fastfood-dzenerejsn
+-
+  time: 18:30 – 19:00 
+  performer: Lorenzo Galli (IT) 
+  premiere: true 
+  age: Family
+  title: POOM-CHA
+  perex: walking cabaret streetster and his one-clown band
+  location: Trotuár Cafe – Art Cafe 
+  price: 0
+  slug: lorenzo-galli
+-
+  time: 19:30 – 20:15 
+  performer: Collectif Primavez (FR) 
+  argentum: true
+  premiere: true
+  age: Family
+  title: PLAYGROUND
+  perex: tragic and comedic crowd-dependant artist on a Chinese pole
+  location: Cultural center, main hall 
+  price:  6 €/ 8 € pre-sale, 10 € onsale
+  slug: collectif-primavez
+-
+  time: 20:00 – 21:30 
+  performer: Karol Sudor (SK)  
+  age: 15+
+  title: "ART PUTIKA"
+  perex: "pub disputes – guests: Petra Procházková, Viera Dubačová"
+  location: Art Cafe, attic  
+  price: 8 €
+  slug: karol-sudor
+-
+  time: 20:30 – 21:50 
+  performer: Ensemble of Irregular Theatre (SK) 
+  age: 15+
+  title: GODLIKE
+  perex: bar cabaret noir. Dark tales, captivating music, and dark humor.
+  location: Hotel Grand Matej, Kammerhofská 5 
+  price: 7 € / 12 € pre-sale, 14 € onsale
+  slug: ensemble-of-irregular-theatre
+-
+  time: 22:30 – 23:45 
+  performer: Filtr (CZ) 
+  premiere: true
+  age: 15+
+  title: SPOKO
+  perex: concert of a tongue-in-cheek Prague band  ̶  living room pop and garage rock
+  location: Art Cafe, attic 
+  price: 8 €
+  slug: filtr

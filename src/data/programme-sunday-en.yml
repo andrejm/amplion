@@ -1,49 +1,18 @@
 -
-  time: 10:30 – 11:00
-  performer: Mikropodium Family Puppet Theatre (HU)
-  age: 3+
-  title: STOP 
-  perex: A world-unique puppet theatre for the youngest ones
-  location: Art Cafe, Under the walnut tree
-  price: 0 
-  slug: family-puppet-theatre-nedela
--
-  time: 11:00 – 11:30
-  performer: 5 & dog (CZ)
+  time: 11:00 – 11:30 
+  performer: TooT Ensemble (CZ) 
   age: 12+
-  title: AFTER CONCERT
-  perex: + Amplion Argentum festival award ceremony
-  location: Art Cafe, terrace
+  title: AFTER-CONCERT + Amplion Argentum festival award announcement ceremony   
+  location: Art Cafe, terrace  
   price: 0
-  slug: 5-a-pes-nedela
-
+  slug: after-concert-and-amplion-argentum
 -
-  time: 13:30 - 14:05
-  performer: Ludo & Arsène (BE)
-  argentum: true
-  premiere: true
-  age: 12+
-  title: BE FLAT
-  perex: Circus acrobatics and urban parkour of the fabulous Belgian duo
-  location: Old Castle
-  price: 6 € pre-sale, 8 € onsale
-  slug: ludo-arsene
--
-  time: 14:00 – 16:35
-  performer: AMPLIFIER Caravan (HU/BE)
-  age: 3+
-  title: TRUST IS ART 
-  perex: Travelling performances of artists to the periphery + invitations to the centre
-  location: KTC Lodge Červená studňa
+  time: 13:30 – 14:00 
+  performer: Lorenzo Galli (IT) 
+  premiere: true 
+  age: Family
+  title: POOM-CHA 
+  perex: walking cabaret streetster and his one-clown band
+  location: Hájovňa – Red well  
   price: 0
-  slug: amplion-karavana
--
-  time: 15:00 – 16:30
-  performer: Mirek Tóda & Mojše band (SK) 
-  argentum: true
-  age: 15+
-  title: ART PUB – Kosher podcast 
-  perex: Public recording with those who remember the Jewish Štiavnica
-  location: Art Cafe, attic
-  price: 5 €
-  slug: mirek-toda-mojse-band
+  slug: lorenzo-galli

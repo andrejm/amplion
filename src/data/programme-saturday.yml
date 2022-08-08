@@ -1,122 +1,157 @@
-- time: 10:00 – 18:00
-  performer: Dušan Krnáč (SK)
-  title: ANTIDEPRESÁRIUM
-  perex: Vizuálno-performatívna výstava v tme
-  location: Starý zámok – karner
-  age: 12+
-  price: 0
-  slug: dusan-krnac
-- time: 10:30 – 11:00
-  performer: Mikropodium Family Puppet Theatre (HU)
-  age: Family
-  title: STOP
-  perex: Svetovo unikátne bábkové divadlo pre najmenších
-  location: Kaviareň Gavalier, <br> Námestie sv. Trojice
-  price: 2/4 €
-  slug: family-puppet-theatre
-- time: 11:00 – 11:35
-  performer: Ludo & Arsène (BE)
-  argentum: true
-  premiere: true
-  age: 12+
-  title: BE FLAT
-  perex: Cirkusová akrobacia a urban parkour famóznej belgickej dvojice
-  location: Starý zámok
-  price: Predpredaj 7 €, na mieste 9 €
-  slug: ludo-arsene
-- time: 13:00 – 16:25
-  performer: AMPLIÓN Karavana (USA/GB/ES/BE/HU/CZ)
-  age: Family
-  title: DÔVERA JE UMENIE
-  perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-  location: Terasa u Blaškov, Počúvadlo,<br> Na fare Beluja, Bod K. sídlisko Drieňová Banská Štiavnica
-  price: 0
-  slug: amplion-karavana-sobota
-- time: 14:00 – 14:40
-  performer: Mestské divadlo – Divadlo z Pasáže (SK)
-  argentum: true
-  age: 12+
-  title: LÁSKY SHOCK
-  perex: Zážitková divadelno-tanečná inscenácia so silným odkazom
-  location: Kocka, Kammerhofská 6
-  price: Predpredaj 5 €, na mieste 7 €
-  slug: mestske-divadlo
-- time: 14:15 – 14:45
-  performer: Mojše Band (SK)
-  age: 12+
-  title: AFTER PROMO
-  perex: Hudobná pozvánka na súťaž SKETCH UP
-  location: Trotuár, ul. A. Kmeťa
-  price: 0
-  slug: mojse-band-after-promo
-- time: 15:00 – 16:30
-  performer: Dušan Ondrušek, PDCS (SK)
-  age: 15+
-  title: ART PUTIKA – Ako si vybrať pravdu v mori dezinformácií?
-  perex: Zábavný krčmový kvíz
-  location: Art Cafe, povala
-  price: 5 €
-  slug: dusan-ondrusek
-- time: 15:30 – 16:15
-  performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
-  premiere: true
-  argentum: true
-  age: 12+
-  title: OLÉ! Music & Comedy
-  perex: Bravúrna hudobno-artistická gitarová show
-  location: Starý zámok, lapidárium
-  price: Predpredaj 12 €, na mieste 14 €
-  slug: paul-morocco
-- time: 16:30 – 17:15
-  performer: AND (SK-CZ/HR-SK)
-  age: Family
-  title: WELCOME TO STUPIDITY
-  perex: Sad street show o malých hlúpostiach s veľkým dopadom
-  location: Záhrada Skautského domu, <br> ul. A. Pécha
-  price: 5 / 7 €
-  slug: and
-- time: 18:00 – 20:15
-  performer: 'Divadlo Husa na provázku (CZ) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
-  argentum: true
-  premiere: true
-  age: 15+
-  title: GADŽOVÉ JDOU DO NEBE
-  perex: Comedy Ghetto alebo česko-rómsky kabaret s bašavelom
-  location: Kultúrne centrum, hlavná sála
-  price: Predpredaj 19 € / na mieste 23 €
-  slug: divadlo-husa-na-provazku
-- time: 19:00 – 20:30
-  performer: AND & Hostia & Mojše Band (SK+CZ)
-  general: Len na Amplióne
-  age: 15+
-  title: SKETCH UP
-  perex: "3. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov"
-  location: Kocka, Kammerhofská 6
-  price: Predpredaj 8 € / na mieste 10 €
-  slug: sketch-up
-- time: 20:30 – 22:30
-  performer: Jiří Dědeček (CZ)
-  age: 12+
-  title: NEBUDU BYDLET V QUÉBECU
-  perex: Šansóny, kuplety, odrhovačky legendárneho folkového pesničkára
-  location: Art Cafe, povala
-  price: 10 €
-  slug: jiri-dedecek
-- time: 21:00 – 22:30
-  performer: Samuel Marec & Ján Markoš (SK)
-  age: 15+
-  title: ART PUTIKA – Medzi dobrom a zlom
-  perex: Krčmové dišputy o morálnych dilemách dneška
-  location: Archanjel caffe bar
-  price: 0
-  slug: samuel-marec-jan-markos
-- time: 22:00 – 23:00
-  performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
-  premiere: true
-  argentum: true
-  age: 12+
-  title: OLÉ! Music & Comedy
-  perex: Bravúrna hudobno-artistická gitarová show
-  location: Kocka, Kammerhofská 6
-  price: Predpredaj 13 €, na mieste 15 €
-  slug: paul-morocco
+- 
+   time: 10:00 – 16:00
+   performer: Galéria Kýchania mozgu Prešov (SK/USA/NL/UA) + Pavol Seriš (SK)
+   age: 10+
+   title: ANTIHYBRID
+   perex: výstava kresleného humoru svetových karikaturistov a pohybové skeče
+   location: Kaviareň Gavalier, Námestie sv. Trojice  
+   price: 0
+   slug: galeria-kychania-mozgu-presov
+-
+   time: 10:00 – 10:20 
+   performer: Filtr (CZ)  
+   age: Family
+   title: AFTER KONCERT
+   perex: obývačkový pop a garážový rock 
+   location: Trotuár Cafe, terasa
+   price: 0
+   slug: filtr
+-
+   time: 10:30 – 11:00 
+   performer: Lorenzo Galli (IT) 
+   premiere: true
+   age: Family
+   title: POOM-CHA 
+   perex: kabaretný pouličník a jeho one-clown-band
+   location: Námestie sv. Trojice – Starý zámok 
+   price: 0
+   slug: lorenzo-galli
+-
+   time: 11:00 – 11:55 
+   performer: Ugo Sanchez jr. (IT) 
+   argentum: true 
+   premiere: true
+   age: Family
+   title: RIO BOOM BOOM
+   perex: hudobno-klaunská komédia svetového umelca
+   location: Starý zámok – lapidárium
+   price: 6/9 €
+   slug: ugo-sanchez
+-
+   time: 12:00 – 12:30
+   performer: Ateliér fyzického divadla JAMU (SK/CZ)  
+   age: Family
+   title: ART STOP / ZASTÁVKA UMENIA 
+   perex: happening chvála pomalosti 
+   location: Zastávky Radničné námestie – Terra Permonia – Trotuár  
+   price: 0
+   slug: atelier-fyzickeho-divadla-jamu
+-
+   time: 13:15 – 13:45
+   performer: Lorenzo Galli (IT) 
+   premiere: true  
+   age: Family
+   title: POOM-CHA
+   perex: kabaretný pouličník a jeho one-clown-band
+   location: Trotuár Cafe – Záhrada Skautského domu, ul. A. Pécha
+   price: 0
+   slug: lorenzo-galli
+-
+   time: 14:00 – 14:45 
+   performer: Collectif Primavez (FR)
+   argentum: true
+   premiere: true
+   age: Family
+   title: PLAYGROUND
+   perex: tragikomický artista na čínskej tyči so silnou závislosťou na divákoch
+   location: Záhrada Skautského domu, ul. A. Pécha  
+   price: 5/9 €
+   slug:  collectif-primavez
+-
+   time: 14:30 – 15:00 
+   performer: TooT Ensemble (CZ) 
+   premiere: true  
+   age: Family
+   title: PROMO KONCERT
+   perex: parádna pražská techno-dychovka do tanca i na počúvanie
+   location: Námestie sv. Trojice – Trotuár Cafe – Art Cafe  
+   price: 0
+   slug: toot-ensemble
+-
+   time: 15:00 – 16:15 
+   performer: Naďa Salbotová (SK)  
+   age: 10+ 
+   title: ČASOMYSLE
+   perex: komentovaná prehliadka interaktívnej výstavy, ponorenie sa do sveta bez času
+   location: Starý zámok – lapidárium  
+   price: 0
+   slug: nada-salbotova
+-
+   time: 15:00 – 16:30 
+   perfomer: Karol Sudor (SK)  
+   age: 12+
+   title: ART PUTIKA
+   perex: "krčmové dišputy a autorské čítanie – hosť: Daniel Pastirčák" 
+   location: Art Cafe, povala 
+   price: 7 €
+   slug: karol-sudor
+-
+   time: 15:15 – 15:45
+   performer: Lorenzo Galli (IT)
+   premiere: true  
+   age: Family
+   title: POOM-CHA
+   perex: kabaretný pouličník a jeho one-clown-band
+   location: Námestie sv. Trojice – Trotuár – Kultúrne centrum  
+   price: 0
+   slug: lorenzo-galli
+-
+   time: 16:00 – 17:00 
+   performer: 'CreDance company & Maca a Kapela&nbsp;roka&nbsp;(SK) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
+   argentum: true
+   age: 12+
+   title: Lepetit MALÝ PRINC
+   perex: úžasný tanečno-artistický zážitok so živou kapelou
+   location: Kultúrne centrum, hlavná sála 
+   price: 7€/ Predpredaj 12€, na mieste 14 €
+   slug: credance-company-and-maca-a-kapela-roka
+-
+   time: 16:30 – 17:00 
+   performer: Filtr (CZ) 
+   premiere: true  
+   age: 15+
+   title: AFTER KONCERT
+   perex: obývačkový pop a garážový rock
+   location: Art Cafe, terasa  
+   price: 0
+   slug: filter-afterkoncert
+-
+   time: 18:30 – 20:00 
+   performer: AND + Filtr (SK/CZ) 
+   general: Len na AMPLIÓNE!
+   age: 15+
+   title: SKETCH UP – 4. ročník česko-slovenskej súťaže kabaretných skečov nových talentov
+   location: Kocka, Kammerhofská 6  
+   price: Predpredaj 8 €, na mieste 10 €
+   slug: sketchup
+-
+   time: 20:30 – 21:30 
+   performer: 'Ugo Sanchez jr. (IT) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
+   argentum: true 
+   premiere: true 
+   age: Family
+   title: UGO SANCHEZ WANTS TO PLAY
+   perex: show majstrovského kabaretiéra
+   location: Kultúrne centrum, hlavná sála
+   price:  6/10 €
+   slug: ugo-sanchez
+-
+   time: 22:00 – 23:15
+   performer: TooT Ensemble (CZ)
+   premiere: true  
+   age: Family
+   title: KONCERT
+   perex: parádna pražská techno-dychovka do nočného tanca
+   location: Kocka, Kammerhofská 6  
+   price: Prepredaj 8 €, na mieste 10 €
+   slug: toot-ensemble

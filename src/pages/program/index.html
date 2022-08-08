@@ -1,12 +1,12 @@
 ---
-thursday:
+<!-- thursday:
   previd:
   prevtext:
   nextid: piatok
-  nexttext: Piatok 
+  nexttext: Piatok  -->
 friday:
-  previd: stvrtok
-  prevtext: Štvrtok 
+  <!-- previd: stvrtok
+  prevtext: Štvrtok  -->
   nextid: sobota
   nexttext: Sobota 
 saturday:
@@ -79,15 +79,15 @@ sunday:
 <!-- <section class="section"> -->
     <div class="schedule">
         <ul class="tabs" data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" data-tabs id="deeplinked-tabs">
-          <li class="tabs-title is-active"><a href="#stvrtok" aria-selected="true">Štvrtok</a></li>
-          <li class="tabs-title"><a href="#piatok">Piatok</a></li>
+          <!-- <li class="tabs-title is-active"><a href="#stvrtok" aria-selected="true">Štvrtok</a></li> -->
+          <li class="tabs-title is-active" aria-selected="true"><a href="#piatok">Piatok</a></li>
           <li class="tabs-title"><a href="#sobota">Sobota</a></li>
           <li class="tabs-title"><a href="#nedela">Nedeľa</a></li>
         </ul>
 
         <div class="tabs-content" data-tabs-content="deeplinked-tabs">
 
-          <div class="tabs-panel is-active" id="stvrtok">
+          <!-- <div class="tabs-panel is-active" id="stvrtok"> 
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
                 {{#each programme-thursday}}
@@ -96,18 +96,16 @@ sunday:
                 </ul> 
                 {{>_programmenav thursday}}              
             </section>
-            <!-- <section class="section" style="background-color:white">
-
+          <section class="section" style="background-color:white">
             <h2 class="section__title">BUSKING</h2>
               <ul class="programmes">
               {{#each programme-off-thursday}}
                   {{>_progitem}}
               {{/each}}
             </ul>
-            </section> -->
-
-          </div>
-          <div class="tabs-panel" id="piatok">
+            </section> 
+          </div> -->
+          <div class="tabs-panel is-active" id="piatok">
             <section class="section section--plain section--straight section--top">
                 <ul class="programmes">
                 {{#each programme-friday}}

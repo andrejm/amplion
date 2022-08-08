@@ -1,93 +1,109 @@
-- 
-  time: 16:00 – 16:30
-  title: OTVORENIE FESTIVALU
-  perex: "Hymna + promo: Paul Morocco (USA/GB/ES) +&nbsp;Ludo&nbsp;&&nbsp;Arsène&nbsp;(BE) +&nbsp;Šimon&nbsp;&&nbsp;Eliáš&nbsp;(CZ) +&nbsp;Mojše&nbsp;band&nbsp;(SK)"
-  age: Family
+-
+  time: 15:00 – 15:45
+  performer: Galéria Kýchania mozgu Prešov (SK/USA/NL/UA)  
+  age: 10+
+  title: ANTIHYBRID
+  perex: "komentovaná prehliadka medzinárodnej výstavy kresleného humoru ako spomalenie i katarzia smiechom pred klamstvami a konšpiráciami"
+  location: Kaviareň Gavalier, Námestie sv. Trojice  
   price: 0
-  location: Námestie sv. Trojice
+  slug: galeria-kychania-mozgu-presov
+-
+  time: 16:00 – 16:30 
+  title: OTVORENIE FESTIVALU  
+  age: Family
+  perex: "Hymna + promo: Ugo Sanchez jr. (IT), Collectif Primavez (FR), Filtr (CZ)" 
+  location: Námestie sv. Trojice  
+  price: 0
   slug: otvorenie-festivalu
 -
   time: 16:30 – 16:50
-  performer: Mikropodium Family Puppet Theatre (HU)
-  age: 3+
-  title: STOP
-  perex: Svetovo unikátne bábkové divadlo pre najmenších
-  location: Kaviareň Gavalier <br> Námestie sv. Trojice
-  price: 2/4 €
-  slug: family-puppet-theatre
--  
-  time: 17:00 – 17:35
-  performer: Lukáš Šimon & Anton Eliáš (CZ)
-  title: "ROBO ERECTUS: Šugar & Bič"
-  perex: Komická sci-fi pantomíma robotov
-  location: Záhrada Skautského domu, <br> ul. A. Pécha
+  performer: Lorenzo Galli (IT) 
+  premiere: true
   age: Family
-  price: 4/6 €
-  slug: lukas-simon-anton-elias
+  title: POOM-CHA
+  perex: kabaretný pouličník a jeho one-clown-band
+  location: Námestie sv. Trojice – Záhrada Skautského domu, ul. A. Pécha  
+  price: 0
+  slug: lorenzo-galli
 -
-  time: 17:30 – 18:45
-  performer: Dušan Krnáč (SK)
-  age: 12+
-  title: ANTIDEPRESÁRIUM
-  perex: "Vizuálno-performatívna výstava v tme, hosť: psychiater Michal Patarák"
-  location: Starý zámok – karner
-  price: 0
-  slug: dusan-krnac-friday
--  
-  time: 17:30 – 20:30
-  performer: AMPLIÓN KARAVANA (SK)
+  time: 17:00 – 17:55 
+  performer: Ugo Sanchez jr. (IT) 
+  argentum: true
+  premiere: true  
   age: Family
-  title: DÔVERA JE UMENIE
-  perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-  location: Kino Štiavnické Bane, <br>Krčma u Michala Banská Belá
+  title: RIO BOOM BOOM
+  perex: hudobno-klaunská komédia svetového umelca
+  location: Záhrada Skautského domu, ul. A. Pécha  
+  price: 5/8 €
+  slug: ugo-sanchez
+-
+  time: 17:30 – 18:00 
+  performer: Naďa Salbotová (SK)  
+  age: 10+ 
+  title: ČASOMYSLE
+  perex: vernisáž interaktívnej výstavy, ponorenie sa do sveta bez času 
+  location: Starý zámok – karner  
   price: 0
-  slug: amplion-karavana-piatok
--  
-  time: 18:00 – 19:00
-  performer: D´ renewed dženerejšn + Martin Toman & Tadeáš Bolo (SK)
+  slug: nada-salbotova
+-
+  time: 18:00 – 19:00 
+  performer: D´fastfood dženerejšn (SK) 
   age: 12+
-  title: NO TRUST, NO FUN
-  perex: Moderné prednesy mladých na tému (ne)dôvera s piesňami Filipa, Lasicu & Satinského
-  location: Art Cafe, Pod orechom
-  price: 7 €
-  slug: dzenerejsn
--  
-  time: 19:30 – 20:30
-  performer: 'Paul Morocco (USA/GB/ES) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
-  premiere: true
-  argentum: true
-  age: 12+
-  title: OLÉ! Music & Comedy
-  perex: Bravúrna hudobno-artistická gitarová show
-  location: Kultúrne centrum, hlavná sála
-  price: Predpredaj 13 €, na mieste 15 €
-  slug: paul-morocco
--  
-  time: 20:00 – 21:15
-  performer: Samo Marec (SK) - <br> <b> Zrušené z vážnych rodinných dôvodov. </b> 
-  age: 15+
-  title: "<del>ART PUTIKA – Roky bezprávia</del> "
-  perex: Samoautorské čítanie so samodiskusiou
-  location: Art Cafe, povala
-  price: 5 €
-  slug: samo-marec
--  
-  time: 21:00 – 22:15
-  performer: Geisslers Hoffcomoedianten (CZ)
-  argentum: true
-  premiere: true
-  age: 15+
-  title: RAUT
-  perex: Štýlový nový kabaret La Fontaine alebo večierok veľkých zvierat
-  location: Kocka, Kammerhofská 6
-  price: 9 €
-  slug: geisslers-hoffcomoedianten
--  
-  time: 22:30 – 23:30
-  performer: Mojše Band (SK)
-  age: 15+
-  title: KONCERT 
-  perex: Židovské hudobné dedičstvo v sviežom prevedení
-  location: Art Cafe, povala
+  title: NO STOP, NO FUN
+  perex: moderné umelecké prednesy mladých osobností na tému zastavenia sa
+  location: Starý zámok – karner 
   price: 8 €
-  slug: mojse-band
+  slug: fastfood-dzenerejsn
+-
+  time: 18:30 – 19:00 
+  performer: Lorenzo Galli (IT) 
+  premiere: true  
+  age: Family
+  title: POOM-CHA
+  perex: kabaretný pouličník a jeho one-clown-band
+  location: Trotuár Cafe – Art Cafe  
+  price: 0
+  slug: lorenzo-galli
+-
+  time: 19:30 – 20:15 
+  performer: Collectif Primavez (FR) 
+  argentum: true 
+  premiere: true  
+  age: Family
+  title: PLAYGROUND
+  perex: tragikomický artista na čínskej tyči so silnou závislosťou na divákoch
+  location: Kultúrne centrum, hlavná sála  
+  price:  6 €/  Predpredaj 8 €, na mieste 10 €
+  slug: collectif-primavez
+-
+  time: 20:00 – 21:30 
+  performer: Karol Sudor (SK)  
+  age: 15+
+  title: ART PUTIKA
+  perex: "krčmové dišputy – hostia: Petra Procházková, Viera Dubačová" 
+  location: Art Cafe, povala  
+  price: 8 €
+  slug: karol-sudor
+-
+  time: 20:30 – 21:50 
+  performer: Ansámbel nepravidelného divadla (SK) 
+  age: 15+
+  title: BOHOROVNÍ
+  perex: bar kabaret noir. Temné príbehy, podmanivá hudba, tanec, čierny humor.
+  location: Hotel Grand Matej, Kammerhofská 5 
+  price:  7 €/ Predpredaj 12 €, na mieste 14 €
+  slug: ansambel-nepravidelneho-divadla
+-
+  time: 22:30 – 23:45 
+  performer: Filtr (CZ)
+  premiere: true  
+  age: 15+
+  title: SPOKO
+  perex: "koncert recesistickej pražskej kapely – obývačkový pop a garážový rock"
+  location: Art Cafe, povala 
+  price: 8 €
+  slug: filtr
+
+
+
+
