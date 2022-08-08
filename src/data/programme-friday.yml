@@ -4,7 +4,7 @@
   age: 10+
   title: ANTIHYBRID
   perex: "komentovaná prehliadka medzinárodnej výstavy kresleného humoru ako spomalenie i katarzia smiechom pred klamstvami a konšpiráciami"
-  location: Kaviareň Gavalier, Námestie sv. Trojice  
+  location: Kaviareň Gavalier, Námestie sv.&nbsp;Trojice  
   price: 0
   slug: galeria-kychania-mozgu-presov
 -
@@ -12,7 +12,7 @@
   title: OTVORENIE FESTIVALU  
   age: Family
   perex: "Hymna + promo: Ugo Sanchez jr. (IT), Collectif Primavez (FR), Filtr (CZ)" 
-  location: Námestie sv. Trojice  
+  location: Námestie sv.&nbsp;Trojice  
   price: 0
   slug: otvorenie-festivalu
 -
@@ -22,7 +22,7 @@
   age: Family
   title: POOM-CHA
   perex: kabaretný pouličník a jeho one-clown-band
-  location: Námestie sv. Trojice – Záhrada Skautského domu, ul. A. Pécha  
+  location: Námestie sv.&nbsp;Trojice – Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha  
   price: 0
   slug: lorenzo-galli
 -
@@ -33,7 +33,7 @@
   age: Family
   title: RIO BOOM BOOM
   perex: hudobno-klaunská komédia svetového umelca
-  location: Záhrada Skautského domu, ul. A. Pécha  
+  location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha  
   price: 5/8 €
   slug: ugo-sanchez
 -
@@ -90,7 +90,7 @@
   age: 15+
   title: BOHOROVNÍ
   perex: bar kabaret noir. Temné príbehy, podmanivá hudba, tanec, čierny humor.
-  location: Hotel Grand Matej, Kammerhofská 5 
+  location: Hotel Grand Matej, Kammerhofská&nbsp;5 
   price:  7 €/ Predpredaj 12 €, na mieste 14 €
   slug: ansambel-nepravidelneho-divadla
 -

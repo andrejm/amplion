@@ -4,7 +4,7 @@
    age: 10+
    title: ANTIHYBRID
    perex: výstava kresleného humoru svetových karikaturistov a pohybové skeče
-   location: Kaviareň Gavalier, Námestie sv. Trojice  
+   location: Kaviareň Gavalier, Námestie sv.&nbsp;Trojice  
    price: 0
    slug: galeria-kychania-mozgu-presov
 -
@@ -23,7 +23,7 @@
    age: Family
    title: POOM-CHA 
    perex: kabaretný pouličník a jeho one-clown-band
-   location: Námestie sv. Trojice – Starý zámok 
+   location: Námestie sv.&nbsp;Trojice – Starý zámok 
    price: 0
    slug: lorenzo-galli
 -
@@ -53,7 +53,7 @@
    age: Family
    title: POOM-CHA
    perex: kabaretný pouličník a jeho one-clown-band
-   location: Trotuár Cafe – Záhrada Skautského domu, ul. A. Pécha
+   location: Trotuár Cafe – Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha 
    price: 0
    slug: lorenzo-galli
 -
@@ -64,7 +64,7 @@
    age: Family
    title: PLAYGROUND
    perex: tragikomický artista na čínskej tyči so silnou závislosťou na divákoch
-   location: Záhrada Skautského domu, ul. A. Pécha  
+   location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha   
    price: 5/9 €
    slug:  collectif-primavez
 -
@@ -74,7 +74,7 @@
    age: Family
    title: PROMO KONCERT
    perex: parádna pražská techno-dychovka do tanca i na počúvanie
-   location: Námestie sv. Trojice – Trotuár Cafe – Art Cafe  
+   location: Námestie sv.&nbsp;Trojice – Trotuár Cafe – Art Cafe  
    price: 0
    slug: toot-ensemble
 -
@@ -102,12 +102,12 @@
    age: Family
    title: POOM-CHA
    perex: kabaretný pouličník a jeho one-clown-band
-   location: Námestie sv. Trojice – Trotuár – Kultúrne centrum  
+   location: Námestie sv.&nbsp;Trojice – Trotuár – Kultúrne centrum  
    price: 0
    slug: lorenzo-galli
 -
    time: 16:00 – 17:00 
-   performer: 'CreDance company & Maca a Kapela&nbsp;roka&nbsp;(SK) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
+   performer: 'CreDance company & Maca&nbsp;a&nbsp;Kapela&nbsp;roka&nbsp;(SK) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
    argentum: true
    age: 12+
    title: Lepetit MALÝ PRINC
