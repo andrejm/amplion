@@ -1,9 +1,9 @@
 -
   time: 10:00 – 16:00 
-  performer: Sneezing Brain Gallery Prešov (SK/USA/NL/UA) + Pavol Seriš (SK)  
+  performer: Sneezing Brain Gallery Prešov (SK/USA/NL/UA)  
   age: 10+
   title: ANTI-HYBRID
-  perex: exhibition of drawn humor of world-renowned cartoonists and physical sketches
+  perex: exhibition of drawn humor of world-renowned cartoonists
   location: Cafe Gavalier, St. Trinity Square
   price: 0
   slug: sneezing-brain-gallery-presov
@@ -16,16 +16,7 @@
   location: Trotuár Cafe, terrace 
   price: 0
   slug: filtr
--
-  time: 10:30 – 11:00 
-  performer: Lorenzo Galli (IT) 
-  premiere: true
-  age: Family
-  title: POOM-CHA
-  perex: walking cabaret streetster and his one-clown-band
-  location: St. Trinity square – Starý zámok  
-  price: 0
-  slug: lorenzo-galli 
+
 -
   time: 11:00 – 11:55 
   performer: Ugo Sanchez jr. (IT) 
@@ -35,7 +26,7 @@
   title: RIO BOOM BOOM 
   perex: musical and clown comedy of a world-renowned artist
   location: Old castle  – lapidarium
-  price: 6/9 €
+  price: 5 € / Predpredaj 8, na mieste 9 €
   slug: ugo-sanchez
 -
   time: 12:00 – 12:30 
@@ -46,13 +37,15 @@
   location: Stops at Radničné Square – Terra Permonia – Trotuár  
   price: 0
   slug: art-stop
+
+
 -
   time: 13:15 – 13:45 
   performer: Lorenzo Galli (IT) 
   premiere: true  
   age: Family
   title: POOM-CHA 
-  perex: walking cabaret streetster and his one-clown band
+  perex: walking cabaret streetster GALiRó as eccentric one-clown-band
   location: Trotuár Cafe – Scout House garden, A. Pécha st.  
   price: 0
   slug: lorenzo-galli
@@ -65,7 +58,7 @@
   title: PLAYGROUND 
   perex: tragic and comedic crowd-dependant artist on a Chinese pole
   location: Scout House garden, A. Pécha st.  
-  price: 5/9 €
+  price: 5 €/ Predpredaj 8 €, na mieste 9 €
   slug: collectif-primavez
 -
   time: 14:30 – 15:00 
@@ -95,16 +88,7 @@
   location: Art Cafe, attic  
   price: 0
   slug: karol-sudor
--
-  time: 15:15 – 15:45 
-  performer: Lorenzo Galli (IT) 
-  premiere: true
-  age: Family
-  title: POOM-CHA 
-  perex: walking cabaret streetster and his one-clown band
-  location: St. Trinity Square – Trotuár – Cultural center  
-  price: 0
-  slug: lorenzo-galli
+
 -
   time: 16:00 – 17:00 
   performer: CreDance company & Maca and the Band of the year (SK) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>
@@ -144,7 +128,7 @@
   title: UGO SANCHEZ WANTS TO PLAY 
   perex: show of the cabaret master
   location: Cultural center, main hall 
-  price: 6/10 €
+  price: 6 € / Predpredaj 10 €, na mieste 12 €
   slug: ugo-sanchez
 -
   time: 22:00 – 23:15 

@@ -1,8 +1,21 @@
 -
-  time: Wherever, whenever
-  performer: Adam Kriss (SK)
-  age: 12+
-  title: HAPPY MAN
-  perex: A busker walking the earth with his guitar
+  time: 16:30 – 16:50 
+  performer: Lorenzo Galli (IT) 
+  premiere: true 
+  age: Family
+  title: POOM-CHA
+  perex: walking cabaret streetster GALiRó as eccentric one-clown-band
+  location: St. Trinity Square – Scout House garden, A. Pécha st.
   price: 0
-  location: The city centre
+  slug: lorenzo-galli
+
+-
+  time: 18:30 – 19:00 
+  performer: Lorenzo Galli (IT) 
+  premiere: true 
+  age: Family
+  title: POOM-CHA
+  perex: walking cabaret streetster GALiRó as eccentric one-clown-band
+  location: Trotuár Cafe – Art Cafe 
+  price: 0
+  slug: lorenzo-galli

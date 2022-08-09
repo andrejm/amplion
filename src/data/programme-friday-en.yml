@@ -15,16 +15,7 @@
   location: St. Trinity Square  
   price: 0
   slug: festival-opening
--
-  time: 16:30 – 16:50 
-  performer: Lorenzo Galli (IT) 
-  premiere: true 
-  age: Family
-  title: POOM-CHA
-  perex: walking cabaret streetster and his one-clown-band
-  location: St. Trinity Square – Scout House garden, A. Pécha st.
-  price: 0
-  slug: lorenzo-galli
+
 -
   time: 17:00 – 17:55 
   performer: Ugo Sanchez jr. (IT) 
@@ -34,19 +25,11 @@
   title: RIO BOOM BOOM
   perex: musical and clown comedy of a world-renowned artist
   location: Scout House garden, A. Pécha st.  
-  price: 5/8 €
+  price: 4/7 €
   slug: ugo-sanchez
+
 -
-  time: 17:30 – 18:00 
-  performer: Naďa Salbotová (SK)  
-  age: 10+ 
-  title: TIME-MINDS
-  perex: vernissage of the interactive exhibition, a jump into a world without time
-  location: Old castle – karner
-  price: 0
-  slug: nada-salbotova
--
-  time: 18:00 – 19:00 
+  time: 17:30 – 18:30
   performer: D´fastfood dženerejšn (SK) 
   age: 12+
   title: NO STOP, NO FUN
@@ -54,16 +37,27 @@
   location: Old castle – karner
   price: 8 €
   slug: fastfood-dzenerejsn
+
 -
-  time: 18:30 – 19:00 
-  performer: Lorenzo Galli (IT) 
-  premiere: true 
-  age: Family
-  title: POOM-CHA
-  perex: walking cabaret streetster and his one-clown band
-  location: Trotuár Cafe – Art Cafe 
+  time: 18:30 – 19:00
+  performer: Naďa Salbotová (SK)  
+  age: 10+ 
+  title: TIME-MINDS
+  perex: vernissage of the interactive exhibition, a jump into a world without time
+  location: Old castle – karner
   price: 0
-  slug: lorenzo-galli
+  slug: nada-salbotova
+
+-
+  time: 19:00 – 20:30 
+  performer: Karol Sudor (SK)  
+  age: 15+
+  title: "ART PUTIKA"
+  perex: "pub disputes – guests: Petra Procházková, Viera Dubačová"
+  location: Art Cafe, attic  
+  price: 8 €
+  slug: karol-sudor
+
 -
   time: 19:30 – 20:15 
   performer: Collectif Primavez (FR) 
@@ -75,17 +69,9 @@
   location: Cultural center, main hall 
   price:  6 €/ 8 € pre-sale, 10 € onsale
   slug: collectif-primavez
+
 -
-  time: 20:00 – 21:30 
-  performer: Karol Sudor (SK)  
-  age: 15+
-  title: "ART PUTIKA"
-  perex: "pub disputes – guests: Petra Procházková, Viera Dubačová"
-  location: Art Cafe, attic  
-  price: 8 €
-  slug: karol-sudor
--
-  time: 20:30 – 21:50 
+  time: 21:00 – 22:15
   performer: Ensemble of Irregular Theatre (SK) 
   age: 15+
   title: GODLIKE
