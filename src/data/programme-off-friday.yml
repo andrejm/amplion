@@ -1,30 +1,21 @@
 -
-  time: 16:30 – 16:45
-  performer: Mariusz Goli (PL)
+  time: 16:30 – 16:50
+  performer: Lorenzo Galli (IT) 
+  premiere: true
   age: Family
-  # title: BUSKING  
-  perex: neobyčajný poľský gitarista
+  title: POOM-CHA
+  perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+  location: Námestie sv.&nbsp;Trojice – Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha  
   price: 0
-  location: Námestie sv. Trojice
-  slug: mariusz-goli
+  slug: lorenzo-galli
 
 -
-  time: 17:45 – 18:30
-  performer: Ponorka (CZ)
+  time: 18:30 – 19:00 
+  performer: Lorenzo Galli (IT) 
+  premiere: true  
   age: Family
-  # title: BUSKING  
-  perex: podmanivá balkanská street kapela
+  title: POOM-CHA
+  perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+  location: Trotuár Cafe – Art Cafe  
   price: 0
-  location: Trotuár, ul. A. Kmeťa
-  slug: ponorka
-
--
-  time: 19:15 – 19:45
-  performer: Mariusz Goli (PL)
-  age: Family
-  # title: BUSKING  
-  perex: neobyčajný poľský gitarista
-  price: 0
-  location: Art Cafe, terasa
-  slug: mariusz-goli
-
+  slug: lorenzo-galli

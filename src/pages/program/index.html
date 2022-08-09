@@ -114,15 +114,18 @@ sunday:
                 </ul> 
                 {{>_programmenav friday}}              
             </section>
-            <!-- <section class="section" style="background-color:white">
 
-            <h2 class="section__title">BUSKING</h2>
+            {{#if @root.site-config.show-busking-program}}
+            <section class="section" style="background-color:white">
+
+              <h2 class="section__title">BUSKING</h2>
               <ul class="programmes">
-              {{#each programme-off-friday}}
-                  {{>_progitem}}
-              {{/each}}
-            </ul>
-            </section> -->
+                {{#each programme-off-friday}}
+                    {{>_progitem}}
+                {{/each}}
+              </ul>
+            </section>
+            {{/if}}
 
           </div>
           <div class="tabs-panel" id="sobota">
@@ -134,7 +137,8 @@ sunday:
                 </ul> 
                 {{>_programmenav saturday}}               
             </section>
-            <!-- <section class="section" style="background-color:white">
+             {{#if @root.site-config.show-busking-program}}
+            <section class="section" style="background-color:white">
 
                 <h2 class="section__title">BUSKING</h2>
                   <ul class="programmes">
@@ -143,7 +147,8 @@ sunday:
                   {{/each}}
                 </ul>
             
-            </section> -->
+            </section>
+            {{/if}}
            
           </div>
           <div class="tabs-panel" id="nedela">
@@ -155,15 +160,18 @@ sunday:
                 </ul> 
                 {{>_programmenav sunday}}               
             </section>
-            <!-- <section class="section" style="background-color:white">
+            
+            {{#if @root.site-config.show-busking-program}}
+            <section class="section" style="background-color:white">
 
                 <h2 class="section__title">BUSKING</h2>
-                  <ul class="programmes">
+                <ul class="programmes">
                   {{#each programme-off-sunday}}
                       {{>_progitem}}
                   {{/each}}
                 </ul>
-              </section> -->
+            </section>
+            {{/if}}
           </div>
         </div>
     </div>

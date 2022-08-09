@@ -15,16 +15,7 @@
   location: Námestie sv.&nbsp;Trojice  
   price: 0
   slug: otvorenie-festivalu
--
-  time: 16:30 – 16:50
-  performer: Lorenzo Galli (IT) 
-  premiere: true
-  age: Family
-  title: POOM-CHA
-  perex: kabaretný pouličník a jeho one-clown-band
-  location: Námestie sv.&nbsp;Trojice – Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha  
-  price: 0
-  slug: lorenzo-galli
+
 -
   time: 17:00 – 17:55 
   performer: Ugo Sanchez jr. (IT) 
@@ -34,19 +25,11 @@
   title: RIO BOOM BOOM
   perex: hudobno-klaunská komédia svetového umelca
   location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha  
-  price: 5/8 €
+  price: 4/7 €
   slug: ugo-sanchez
+
 -
-  time: 17:30 – 18:00 
-  performer: Naďa Salbotová (SK)  
-  age: 10+ 
-  title: ČASOMYSLE
-  perex: vernisáž interaktívnej výstavy, ponorenie sa do sveta bez času 
-  location: Starý zámok – karner  
-  price: 0
-  slug: nada-salbotova
--
-  time: 18:00 – 19:00 
+  time: 17:30 – 18:30
   performer: D´fastfood dženerejšn (SK) 
   age: 12+
   title: NO STOP, NO FUN
@@ -55,15 +38,16 @@
   price: 8 €
   slug: fastfood-dzenerejsn
 -
-  time: 18:30 – 19:00 
-  performer: Lorenzo Galli (IT) 
-  premiere: true  
-  age: Family
-  title: POOM-CHA
-  perex: kabaretný pouličník a jeho one-clown-band
-  location: Trotuár Cafe – Art Cafe  
+  time: 18:30 – 19:00
+  performer: Naďa Salbotová (SK)  
+  age: 10+ 
+  title: ČASOMYSLE
+  perex: vernisáž interaktívnej výstavy, ponorenie sa do sveta bez času 
+  location: Starý zámok – karner  
   price: 0
-  slug: lorenzo-galli
+  slug: nada-salbotova
+
+
 -
   time: 19:30 – 20:15 
   performer: Collectif Primavez (FR) 
@@ -76,7 +60,7 @@
   price:  6 €/  Predpredaj 8 €, na mieste 10 €
   slug: collectif-primavez
 -
-  time: 20:00 – 21:30 
+  time: 19:00 – 20:30
   performer: Karol Sudor (SK)  
   age: 15+
   title: ART PUTIKA
@@ -85,7 +69,7 @@
   price: 8 €
   slug: karol-sudor
 -
-  time: 20:30 – 21:50 
+  time: 21:00 – 22:15
   performer: Ansámbel nepravidelného divadla (SK) 
   age: 15+
   title: BOHOROVNÍ

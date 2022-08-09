@@ -1,0 +1,39 @@
+-  
+  time: 13:30 – 13:50 
+  perfromer: Ateliér fyzického divadla JAMU (SK/CZ)  
+  age: Family
+  title: ART STOP / ZASTÁVKA UMENIA
+  perex: klaunské etudy
+  location: Terasa u Blaškov, Počúvadlo
+  price: 0
+  slug: art-stop
+
+-
+  time: 14:00 – 15:00 
+  performer: PUKA (SK)   
+  age: 12+
+  title: KONCERT folk-bluesovej kapely 
+  location: Terasa u Blaškov, Počúvadlo
+  price: 0
+  slug: puka
+
+-
+  time: 16:00 – 16:20 
+  performer: Ateliér fyzického divadla JAMU (SK/CZ)  
+  age: Family
+  title: ART STOP / ZASTÁVKA UMENIA
+  perex: klaunské etudy
+  location: Na fare, Beluja
+  price: 0
+  slug: art-stop
+
+-
+  time: 16:30 – 17:00 
+  perfromer: Lorenzo Galli (IT)
+  premiere: true
+  age: Family
+  title: POOM-CHA
+  perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+  location: Na fare, Beluja
+  price: 0
+  slug: lorenzo-galli

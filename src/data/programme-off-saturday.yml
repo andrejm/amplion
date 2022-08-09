@@ -1,81 +1,52 @@
 -
-  time: 11:15 – 11:45
-  performer: Ponorka (SK)
+   time: 10:30 – 11:00 
+   performer: Lorenzo Galli (IT) 
+   premiere: true
+   age: Family
+   title: POOM-CHA 
+   perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+   location: Námestie sv.&nbsp;Trojice – Starý zámok 
+   price: 0
+   slug: lorenzo-galli
+
+-
+   time: 12:00 – 12:30
+   performer: Ateliér fyzického divadla JAMU (SK/CZ)  
+   age: Family
+   title: ART STOP / ZASTÁVKA UMENIA 
+   perex: happening Chvála pomalosti 
+   location: Zastávky Radničné námestie – Terra Permonia – Trotuár  
+   price: 0
+   slug: atelier-fyzickeho-divadla-jamu
+
+-
+  time: 12:30 – 13:15 
+  performer: Palo Seriš (SK)  
   age: Family
-  # title: BUSKING  
-  perex: podmanivá balkánska street kapela
+  title: SKEČE
+  perex: najlepšie pohybové čísla slovenského komika + promo na SKETCH UP
+  location: Kaviareň Gavalier, Námestie sv. Trojice 
   price: 0
-  location: Art Cafe, terasa
-  slug: ponorka
+  slug: palo-seris
 
 -
-  time: 11:45 – 12:15
-  performer: Mariusz Goli (PL)
-  age: 15+
-  # title: BUSKING  
-  perex: neobyčajný poľský gitarista
-  price: 0
-  location: Radičné námestie
-  slug: mariusz-goli
+   time: 13:15 – 13:45
+   performer: Lorenzo Galli (IT) 
+   premiere: true  
+   age: Family
+   title: POOM-CHA
+   perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+   location: Trotuár Cafe – Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha 
+   price: 0
+   slug: lorenzo-galli
 
 -
-  time: 12:30 – 12:50
-  performer: Umami Dancetheathre (ES/FR)
-  age: Family
-  # title: BUSKING  
-  perex: pozvánka na pohybovú show
-  price: 0
-  location: Radičné námestie
-  slug: umami-dancetheatre
-
--
-  time: 13:15 – 13:45
-  performer: Mariusz Goli (PL)
-  age: 15+
-  # title: BUSKING  
-  perex: neobyčajný poľský gitarista
-  price: 0
-  location: Trotuár, ul. A. Kmeťa
-  slug: mariusz-goli
-
--
-  time: 15:00 – 15:45
-  performer: Ponorka (SK)
-  age: Family
-  # title: BUSKING  
-  perex: podmanivá balkánska street kapela
-  price: 0
-  location: Trotuár, ul. A. Kmeťa
-  slug: ponorka
-
--
-  time: 16:30 – 16:45
-  performer: Umami Dancetheathre (ES/FR)
-  age: Family
-  # title: BUSKING  
-  perex: pozvánka na pohybovú show
-  price: 0
-  location: Námestie sv. Trojice
-  slug: umami-dancetheatre
-
--
-  time: 17:15 – 17:45
-  performer: Mariusz Goli (PL)
-  age: 15+
-  # title: BUSKING  
-  perex: neobyčajný poľský gitarista
-  price: 0
-  location: Art Cafe, terasa
-  slug: mariusz-goli
-
-
-
--
-  time: 18:15 – 18:45
-  performer: Mariusz Goli (PL)
-  age: 15+
-  title: BUSKING  
-  perex: neobyčajný poľský gitarista
-  price: 0
-  location: Trotuár, ul. A. Kmeťa
-  slug: mariusz-goli
+   time: 15:15 – 15:45
+   performer: Lorenzo Galli (IT)
+   premiere: true  
+   age: Family
+   title: POOM-CHA
+   perex: kabaretný pouličník  GALiRó ako eccentric one-clown-band
+   location: Námestie sv.&nbsp;Trojice – Trotuár – Kultúrne centrum  
+   price: 0
+   slug: lorenzo-galli

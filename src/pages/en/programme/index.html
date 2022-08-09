@@ -121,7 +121,8 @@ sunday:
                 </ul>
                 {{>_programmenav friday}}                
             </section>
-<!-- 
+
+             {{#if @root.site-config.show-busking-program}}
             <section class="section" style="background-color:white">
 
                 <h2 class="section__title">BUSKING</h2>
@@ -130,7 +131,8 @@ sunday:
                       {{>_progitem-en}}
                   {{/each}}
                 </ul>
-              </section> -->
+              </section>
+              {{/if}}
 
           </div>
           <div class="tabs-panel" id="saturday">
@@ -143,7 +145,8 @@ sunday:
                 {{>_programmenav saturday}}               
             </section>
 
-            <!-- <section class="section" style="background-color:white">
+             {{#if @root.site-config.show-busking-program}}
+            <section class="section" style="background-color:white">
 
                 <h2 class="section__title">BUSKING</h2>
                   <ul class="programmes">
@@ -151,7 +154,8 @@ sunday:
                       {{>_progitem-en}}
                   {{/each}}
                 </ul>
-              </section> -->
+              </section>
+              {{/if}}
 
           </div>
           <div class="tabs-panel" id="sunday">
@@ -161,10 +165,12 @@ sunday:
                     {{>_progitem-en}}
                 {{/each}}
                 </ul> 
-                {{>_programmenav sunday}}               
+                {{>_programmenav sunday}}      
+            </section>         
            
 
-            <!-- <section class="section" style="background-color:white">
+             {{#if @root.site-config.show-busking-program}}
+            <section class="section" style="background-color:white">
 
                 <h2 class="section__title">BUSKING</h2>
                   <ul class="programmes">
@@ -172,7 +178,8 @@ sunday:
                       {{>_progitem-en}}
                   {{/each}}
                 </ul>
-              </section> -->
+              </section>
+              {{/if}}
 
           </div>
         </div>
