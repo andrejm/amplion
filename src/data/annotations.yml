@@ -100,7 +100,7 @@ amplion-karavana-stvrtok:
 
 
 amplion-karavana-piatok:
-  title: AMPLIÓN Karavana
+  title: AMPLIÓN Karavana – Piatok
   perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
   price: 0
   karavana: true
@@ -108,22 +108,43 @@ amplion-karavana-piatok:
    -
     ""
   occurences:
+    -  
+      time: "piatok 11:00 – 11:45" 
+      performer: Ansámbel nepravidelného divadla (SK)  
+      age: 8+
+      title: WELCOME TO STUPIDITY
+      perex: pouličná show proti hlúposti
+      location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane 
+      price: 3 €
+
     -
-      performer: Vladislava Sárkány (SK)
-      time: "piatok 17:30 – 18:50"
-      title: TO TA MONARCHIA
-      perex: dokumentárna komédia o Spišskom Hrhove + diskusia s režisérkou
+      time: "piatok 14:30 – 14:50" 
+      performer: Lorenzo Galli (IT) 
+      premiere: true  
+      age: Family
+      title: POOM-CHA
+      perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+      location: TESCO, sídlisko Drieňová Banská Štiavnica
       price: 0
+
+    -
+      time: "piatok 14:50 – 15:15" 
+      performer: Ateliér fyzického divadla JAMU (SK/CZ)  
+      age: Family
+      title: ART STOP / ZASTÁVKA UMENIA
+      perex: klaunské etudy
+      location: TESCO, sídlisko Drieňová Banská Štiavnica
+      price: 0
+
+    -
+      time: "piatok 19:00 – 20:00" 
+      performer: PUKA (SK)   
       age: 12+
-      location: Kino, Štiavnické Bane
-    -
-      performer: Dušan Ondrušek, PDCS (SK)
-      time: "piatok 19:00 – 20:30"
-      title: "ART PUTIKA – Ako si vybrať pravdu v mori dezinformácií?"
-      perex: zábavný krčmový kvíz
+      title: KONCERT
+      perex: folk-bluesovej kapely 
+      location: Krčma u Michala, Banská Belá 
       price: 0
-      age: 15+
-      location: Krčma u Michala, Banská Belá
+   
 
   pictures:
     
@@ -132,7 +153,7 @@ amplion-karavana-piatok:
     -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
 
 amplion-karavana-sobota:
-  title: AMPLIÓN Karavana
+  title: AMPLIÓN Karavana - Sobota
   perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
   price: 0
   karavana: true
@@ -141,52 +162,41 @@ amplion-karavana-sobota:
    -
     ""
   occurences:
-    -
-      performer: Kapela Ponorka (CZ)
-      time: "sobota 13:00 – 13:20"
-      title: BUSKING
-      perex: podmanivá balkánska street kapela, víťaz SKETCH UP 2020
-      price: 0
-      age: Family
-      location: Terasa u Blaškov, Počúvadlo
-    -
-      performer: 'Paul Morocco (USA/GB/ES)  <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
-      argentum: true
-      premiere: true
-      time: "sobota 13:30 – 13:45"
-      title: OLÉ! Music &amp; Comedy
-      perex: bravúrna hudobno-artistická gitarová show
-      price: 0
-      age: 12+
-      location: Terasa u Blaškov, Počúvadlo
+      -  
+        time: "sobota 13:30 – 13:50" 
+        perfromer: Ateliér fyzického divadla JAMU (SK/CZ)  
+        age: Family
+        title: ART STOP / ZASTÁVKA UMENIA
+        perex: klaunské etudy
+        location: Terasa u Blaškov, Počúvadlo
+        price: 0
 
-    -
-      performer: Mikropodium Family Puppet Theatre (HU)
-      time: "sobota 15:00 – 15:20"
-      title: STOP
-      perex: svetovo unikátne bábkové divadlo pre najmenších
-      price: 0
-      age: 3+
-      location: Na fare Beluja
-    -
-      performer: Ludo &amp; Arsène (BE)
-      argentum: true
-      premiere: true
-      time: "sobota 15:00 – 15:35"
-      title: BE FLAT
-      perex: cirkusová akrobacia a urban parkour famóznej belgickej dvojice
-      price: 5 € na mieste
-      age: 12+
-      location: Bod K., Základná škola Jozefa Kollára, sídlisko Drieňová Banská Štiavnica
+      -
+        time: "sobota 14:00 – 15:00" 
+        performer: PUKA (SK)   
+        age: 12+
+        title: KONCERT folk-bluesovej kapely 
+        location: Terasa u Blaškov, Počúvadlo
+        price: 0
 
-    -
-      performer: Hayato Yamaguchi (JP)
-      time: "sobota 16:00 – 16:25"
-      title: VEČNÁ TÚŽBA
-      perex: akrobatický tanec japonského umelca
-      price: 0
-      age: Family
-      location: Na fare Beluja
+      -
+        time: "sobota 16:00 – 16:20" 
+        performer: Ateliér fyzického divadla JAMU (SK/CZ)  
+        age: Family
+        title: ART STOP / ZASTÁVKA UMENIA
+        perex: klaunské etudy
+        location: Na fare, Beluja
+        price: 0
+
+      -
+        time: "sobota 16:30 – 17:00" 
+        perfromer: Lorenzo Galli (IT)
+        premiere: true
+        age: Family
+        title: POOM-CHA
+        perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+        location: Na fare, Beluja
+        price: 0
 
   pictures:
     

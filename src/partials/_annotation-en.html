@@ -5,7 +5,12 @@
 			<h2 class="event-header__author">{{{performer}}}</h2>
 			<h1 class="event-header__title">{{{title}}}</h1>
 		</div>
-		<div class="section__content">
+
+		{{#if this.karavana}}
+	  <div>
+	  {{else}}
+	  <div class="section__content">
+	  {{/if}}
 			<p class="section__introtext">
 				{{{perex}}}
 			</p>
@@ -35,14 +40,28 @@
 					<span class="event-top">{{this.top-general}}</span>
 					<br>
 				{{/if}}
-				{{#each occurences}}
-					<span class="event-time">{{{this.time}}}</span>
-					<span class="event-location">{{{this.location}}}</span>
-					{{#if @root.site-config.show-tickets}}
-					<!-- <span class="event-price">6 €</span> -->
-					{{/if}}
+				{{#if this.karavana}}
+					{{#each occurences}}
+					
+					{{>_progitem-in-annotation-en}}
+					{{/each}}
 					<br>
-				{{/each}}
+					{{else}}
+					{{#each occurences}}
+					<p style="margin: 0.7rem">
+						<span class="event-location">{{{this.location}}}</span>
+					<span class="event-time">{{{this.time}}}</span>
+					</p>
+					
+					{{/each}}
+				{{/if}}
+
+				{{#if this.karavana}}
+        
+				<p class="section__footertext">
+				  <a href="/assets/Program_karavana.jpg" class="button-karavana" target="_blank"> AMPLIÓN CARAVAN - PROGRAMME</a>
+			   </p>
+			   {{/if}}
 			</p>
 			{{#if @root.site-config.show-tickets}}
 				{{#ifequal price 0}}

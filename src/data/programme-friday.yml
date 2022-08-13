@@ -1,4 +1,25 @@
 -
+   time: 11:00 – 11:45
+   performer: AMPLIÓN Karavana (HU/CZ/SK) 
+   age: Family
+   title: ZASTAVIŤ SA JE UMENIE!
+   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+   location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane
+   price: 3 €
+   caravana: true
+   slug: amplion-karavana-piatok
+
+-
+   time: 14:30 – 15:15
+   performer: AMPLIÓN Karavana (HU/CZ/SK) 
+   age: Family
+   title: ZASTAVIŤ SA JE UMENIE!
+   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+   location: TESCO, sídlisko Drieňová Banská Štiavnica
+   price: 0
+   caravana: true
+   slug: amplion-karavana-piatok
+-
   time: 15:00 – 15:45
   performer: Galéria Kýchania mozgu Prešov (SK/USA/NL/UA)  
   age: 10+
@@ -49,6 +70,27 @@
 
 
 -
+   time: 19:00 – 20:00
+   performer: AMPLIÓN Karavana (HU/CZ/SK) 
+   age: Family
+   title: ZASTAVIŤ SA JE UMENIE!
+   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+   location: Krčma u Michala, Banská Belá
+   price: 0
+   caravana: true
+   slug: amplion-karavana-piatok
+
+-
+  time: 19:00 – 20:30
+  performer: Karol Sudor (SK)  
+  age: 15+
+  title: ART PUTIKA
+  perex: "krčmové dišputy – hostia: Petra Procházková, Viera Dubačová" 
+  location: Art Cafe, povala  
+  price: 8 €
+  slug: karol-sudor 
+
+-
   time: 19:30 – 20:15 
   performer: Collectif Primavez (FR) 
   argentum: true 
@@ -59,15 +101,7 @@
   location: Kultúrne centrum, hlavná sála  
   price:  6 €/  Predpredaj 8 €, na mieste 10 €
   slug: collectif-primavez
--
-  time: 19:00 – 20:30
-  performer: Karol Sudor (SK)  
-  age: 15+
-  title: ART PUTIKA
-  perex: "krčmové dišputy – hostia: Petra Procházková, Viera Dubačová" 
-  location: Art Cafe, povala  
-  price: 8 €
-  slug: karol-sudor
+
 -
   time: 21:00 – 22:15
   performer: Ansámbel nepravidelného divadla (SK) 

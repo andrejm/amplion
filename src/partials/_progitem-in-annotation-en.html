@@ -1,14 +1,14 @@
-<li class="programmes__item programmes__item--{{this.type}} progitem">
+<li class="programmes__item programmes__item--{{this.type}} progitem" style="list-style: none;">
     <div class="progitem__header">
         <ul class="progitem__tags">
             {{#if this.top}}
                 <li class="progitem__tag"><span class="event-top">TOP</span></li>
             {{/if}}
             {{#if this.premiere}}
-                <li class="progitem__tag"><span class="event-premiere">Slovenská premiéra</span></li>
+                <li class="progitem__tag"><span class="event-premiere">Slovak premiere</span></li>
             {{/if}}
             {{#if this.argentum}}
-                <li class="progitem__tag"><span class="event-argentum">Nominácia na Amplion Argentum</span></li>
+                <li class="progitem__tag"><span class="event-argentum">Amplion Argentum nomination</span></li>
             {{/if}}
             {{#if this.general}}
                 <li class="progitem__tag"><span class="event-top">{{this.general}}</span></li>
@@ -52,20 +52,17 @@
             <br>
             <span class="event-price">
                 {{#ifequal this.price 0}}
-                  Vstup voľný!
+                  Free Entry!
                 {{else}}
                   {{this.price}}
                 {{/ifequal}}
             </span> 
-            {{#if @root.site-config.show-tickets}}
-                {{#ifequal this.price 0}}
-                    {{!-- intentionally left blank, dont have opposit helper --}}
-                {{else}}
-            <div class="progitem__cta">
-                <a href="/program/{{this.slug}}#vstupenky" class="button progitem__buytickets">Kúpiť vstupenky</a>
-            </div>
-                {{/ifequal}}
-            {{/if}}
         </div>
+
+        {{#if this.karavana-button}}
+        <p class="section__footertext">
+            <a href="/assets/Program_karavana.jpg" class="button-karavana"> AMPLION CARAVAN</a>
+         </p>
+        {{/if}}
     </div>
 </li>

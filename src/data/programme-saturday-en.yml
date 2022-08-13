@@ -49,6 +49,17 @@
   location: Trotuár Cafe – Scout House garden, A. Pécha st.  
   price: 0
   slug: lorenzo-galli
+
+-
+   time: 13:30– 15:00
+   performer: AMPLIFIER Caravan (HU/CZ/SK) 
+   age: Family
+   title: TO STOP SELF IS ART!
+   perex: Travelling performances of artists to the periphery + invitations to the centre
+   location: Terrace u Blaškov, Počúvadlo
+   price: 0
+   caravana: true
+   slug: amplion-karavana-sobota
 -
   time: 14:00 – 14:45 
   performer: Collectif Primavez (FR) 
@@ -88,6 +99,17 @@
   location: Art Cafe, attic  
   price: 0
   slug: karol-sudor
+
+-
+   time: 16:00– 17:00
+   performer: AMPLIFIER Caravan (HU/CZ/SK) 
+   age: Family
+   title: TO STOP SELF IS ART!
+   perex: Travelling performances of artists to the periphery + invitations to the centre
+   location: At the rectory, Beluja
+   price: 0
+   caravana: true
+   slug: amplion-karavana-sobota
 
 -
   time: 16:00 – 17:00 

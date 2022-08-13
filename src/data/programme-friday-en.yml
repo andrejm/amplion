@@ -1,4 +1,26 @@
 -
+   time: 11:00 – 11:45
+   performer: AMPLIFIER Caravan (HU/CZ/SK) 
+   age: Family
+   title: TO STOP SELF IS ART!
+   perex: Travelling performances of artists to the periphery + invitations to the centre
+   location: Maximilián Hell elementary school and kindergarten, Štiavnické Bane  
+   price: 3 €
+   caravana: true
+   slug: amplion-karavana-piatok
+
+-
+   time: 14:30 – 15:15
+   performer: AMPLIFIER Caravan (HU/CZ/SK) 
+   age: Family
+   title: TO STOP SELF IS ART!
+   perex: Travelling performances of artists to the periphery + invitations to the centre
+   location: TESCO,  Drieňová district, Banská Štiavnica
+   price: 0
+   caravana: true
+   slug: amplion-karavana-piatok
+
+-
   time: 15:00 – 15:45 
   performer: Sneezing Brain Gallery Prešov (SK/USA/NL/UA)  
   age: 10+
@@ -49,6 +71,17 @@
   slug: nada-salbotova
 
 -
+   time: 19:00 – 20:00
+   performer: AMPLIFIER Caravan (HU/CZ/SK) 
+   age: Family
+   title: TO STOP SELF IS ART!
+   perex: Travelling performances of artists to the periphery + invitations to the centre
+   location: Pub u Michala, Banská Belá
+   price: 0
+   caravana: true
+   slug: amplion-karavana-piatok
+
+-
   time: 19:00 – 20:30 
   performer: Karol Sudor (SK)  
   age: 15+
@@ -57,6 +90,7 @@
   location: Art Cafe, attic  
   price: 8 €
   slug: karol-sudor
+
 
 -
   time: 19:30 – 20:15 

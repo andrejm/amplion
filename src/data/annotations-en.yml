@@ -18,7 +18,8 @@ otvorenie-festivalu:
     -
       Otvorenie_festivalu_MS_069_Foto_Michal Sv¡tok.jpg
 
-amplion-karavana:
+amplion-karavana-piatok:
+  karavana: true
   title: AMPLIFIER Caravan
   perex: "TRUST IS ART – travelling performances of artists to the periphery + invitations to the centre"
   price: 0
@@ -26,19 +27,94 @@ amplion-karavana:
    -
     ""
   occurences:
+    -  
+      time: 11:00 – 11:45 
+      performer: Ensemble of irregular theatre (SK)  
+      age: 8+
+      title: WELCOME TO STUPIDITY
+      perex: street show against stupidity
+      location: Maximilián Hell elementary school and kindergarten, Štiavnické Bane  
+      price: 3 €
     -
-      time: "Thursday 10:00 - 18:15"
-      location: Elementary school Štiavnické Bane, <br>K. point - residential area Drieňová Banská Štiavnica <br>
+      time: 14:30 – 14:50 
+      performer: Lorenzo Galli (IT) 
+      premiere: true
+      age: Family
+      title: POOM-CHA
+      perex: cabaret streetster GALiRó as eccentric one-clown-band
+      location: TESCO,  Drieňová district, Banská Štiavnica
+      price: 0
     -
-      time: "Friday 17:30 - 20:30"
-      location: Cinema Štiavnické Bane, Pub of Michal Banská Belá <br>
+      time: 14:50 – 15:15 
+      perfromer: Physical Theatre Studio JAMU (CZ/SK)  
+      age: Family
+      title: ART STOP
+      perex: clown studies and then some
+      location: TESCO, Drieňová district Banská Štiavnica 
+      price: 0
+    -
+      time: 19:00 – 20:00 
+      performer: PUKA (SK)  
+      age: 12+
+      title: CONCERT – of the folk-blues band 
+      location: Pub u Michala, Banská Belá
+      price: 0
+
+  pictures:
+    
+    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
+
+
+amplion-karavana-sobota:
+  karavana: true
+  title: AMPLIFIER Caravan
+  perex: "TRUST IS ART – travelling performances of artists to the periphery + invitations to the centre"
+  price: 0
+  content: 
+   -
+    ""
+  occurences:
+    -  
+      time: 13:30 – 13:50 
+      performer: Physical Theatre Studio JAMU (CZ/SK)  
+      age: Family
+      title: ART STOP
+      perex: a clowny stop 
+      location: Terrace u Blaškov, Počúvadlo 
+      price: 0
+      slug: physical-theatre-studio-jamu
 
     -
-      time: Saturday 13:00 - 16:25 
-      location: Terrace u Blaškov, Počúvadlo, Clergy House Beluja,<br> K. point - residential area Drieňová Banská Štiavnica <br>
+      time: 14:00 – 15:00 
+      performer: PUKA (SK)   
+      age: 12+
+      title: CONCERT – of the folk-blues band 
+      location: Terrace u Blaškov, Počúvadlo 
+      price: 0
+      slug: puka
     -
-      time: Sunday 14:00 - 16:35 <br>
-      location: KTC Lodge Červená studňa
+      time: 16:00 – 16:20 
+      performer: Physical Theatre Studio JAMU (CZ/SK)  
+      age: Family
+      title: ART STOP
+      perex: a clowny stop
+      location: At the rectory, Beluja
+      price: 0
+      slug: physical-theatre-studio-jamu
+
+    -
+      time: 16:30 – 17:00 
+      perfromer: Lorenzo Galli (IT)
+      premiere: true
+      age:  Family
+      title: POOM-CHA
+      perex: walking cabaret streetster GALiRó as eccentric one-clown-band
+      location: At the rectory, Beluja
+      price: 0
+      slug: lorenzo-galli
+
   pictures:
     
     -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg

@@ -1,0 +1,7 @@
+{{#if @root.site-config.show-caravana }}
+    {{>_progitem-en}}
+{{else}}
+    {{#unless this.caravana}}
+        {{>_progitem-en}}
+    {{/unless}}
+{{/if}} 

@@ -29,6 +29,16 @@
    price: 5 €/ Predpredaj 8 €, na mieste 9 €
    slug: ugo-sanchez
 
+-
+   time: "13:30 – 15:00" 
+   performer: AMPLIÓN Karavana (HU/CZ/SK) 
+   age: Family
+   title: ZASTAVIŤ SA JE UMENIE!
+   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+   location: Terasa u Blaškov, Počúvadlo
+   price: 0
+   caravana: true
+   slug: amplion-karavana-sobota
 
 -
    time: 14:00 – 14:45 
@@ -41,6 +51,8 @@
    location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha   
    price: 5 €/ Predpredaj 8 €, na mieste 9 €
    slug:  collectif-primavez
+
+
 -
    time: 14:30 – 15:00 
    performer: TooT Ensemble (CZ) 
@@ -80,6 +92,19 @@
    location: Kultúrne centrum, hlavná sála 
    price: 7€/ Predpredaj 12€, na mieste 14 €
    slug: credance-company-and-maca-a-kapela-roka
+
+-  
+   time: "16:00 – 17:00" 
+   performer: AMPLIÓN Karavana (HU/CZ/SK) 
+   age: Family
+   title: ZASTAVIŤ SA JE UMENIE!
+   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+   location:  Na fare, Beluja
+   price: 0
+   caravana: true
+   slug: amplion-karavana-sobota
+
+  
 -
    time: 16:30 – 17:00 
    performer: Filtr (CZ) 
