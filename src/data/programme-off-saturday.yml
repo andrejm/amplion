@@ -1,13 +1,14 @@
 -
    time: 10:30 – 11:00 
    performer: Lorenzo Galli (IT) 
+   argentum: true
    premiere: true
    age: Family
    title: POOM-CHA 
    perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
    location: Námestie sv.&nbsp;Trojice – Starý zámok 
    price: 0
-   slug: lorenzo-galli
+   slug: poom-cha
 
 -
    time: 12:00 – 12:30
@@ -17,7 +18,7 @@
    perex: happening Chvála pomalosti 
    location: Zastávky Radničné námestie – Terra Permonia – Trotuár  
    price: 0
-   slug: atelier-fyzickeho-divadla-jamu
+   slug: art-stop
 
 -
   time: 12:30 – 13:15 
@@ -27,26 +28,28 @@
   perex: najlepšie pohybové čísla slovenského komika + promo na SKETCH UP
   location: Kaviareň Gavalier, Námestie sv. Trojice 
   price: 0
-  slug: palo-seris
+  slug: pavol-seris
 
 -
    time: 13:15 – 13:45
    performer: Lorenzo Galli (IT) 
+   argentum: true
    premiere: true  
    age: Family
    title: POOM-CHA
    perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
    location: Trotuár Cafe – Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha 
    price: 0
-   slug: lorenzo-galli
+   slug: poom-cha
 
 -
    time: 15:15 – 15:45
    performer: Lorenzo Galli (IT)
+   argentum: true
    premiere: true  
    age: Family
    title: POOM-CHA
    perex: kabaretný pouličník  GALiRó ako eccentric one-clown-band
    location: Námestie sv.&nbsp;Trojice – Trotuár – Kultúrne centrum  
    price: 0
-   slug: lorenzo-galli
+   slug: poom-cha

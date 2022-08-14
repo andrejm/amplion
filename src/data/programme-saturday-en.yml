@@ -26,8 +26,8 @@
   title: RIO BOOM BOOM 
   perex: musical and clown comedy of a world-renowned artist
   location: Old castle  – lapidarium
-  price: 5 € / Predpredaj 8, na mieste 9 €
-  slug: ugo-sanchez
+  price: 5 / 8 € pre-sale, 5 / 9 € on-sale
+  slug: rio-boom-boom
 -
   time: 12:00 – 12:30 
   performer: Physical Theatre Studio JAMU (CZ/SK)  
@@ -42,13 +42,14 @@
 -
   time: 13:15 – 13:45 
   performer: Lorenzo Galli (IT) 
+  argentum: true
   premiere: true  
   age: Family
   title: POOM-CHA 
   perex: walking cabaret streetster GALiRó as eccentric one-clown-band
   location: Trotuár Cafe – Scout House garden, A. Pécha st.  
   price: 0
-  slug: lorenzo-galli
+  slug: poom-cha
 
 -
    time: 13:30– 15:00
@@ -69,8 +70,8 @@
   title: PLAYGROUND 
   perex: tragic and comedic crowd-dependant artist on a Chinese pole
   location: Scout House garden, A. Pécha st.  
-  price: 5 €/ Predpredaj 8 €, na mieste 9 €
-  slug: collectif-primavez
+  price: 5 / 8 € pre-sale, 5 / 9 € on-sale
+  slug: playground
 -
   time: 14:30 – 15:00 
   performer: TooT Ensemble (CZ) 
@@ -98,7 +99,7 @@
   perex: "Pub disputes and author´s reading – guest: Daniel Pastirčák" 
   location: Art Cafe, attic  
   price: 0
-  slug: karol-sudor
+  slug: karol-sudor-citanie
 
 -
    time: 16:00– 17:00
@@ -120,7 +121,7 @@
   perex: stunning dance artistic experience with a live band
   location: Cultural center, main hall 
   price: 7 € / 12 € pre-sale, 14 € onsale
-  slug: credance-company
+  slug: lepetit-maly-princ
 -
   time: 16:30 – 17:00 
   performer: Filtr (CZ) 
@@ -150,7 +151,7 @@
   title: UGO SANCHEZ WANTS TO PLAY 
   perex: show of the cabaret master
   location: Cultural center, main hall 
-  price: 6 € / Predpredaj 10 €, na mieste 12 €
+  price: 6/ 10 € pre-sale, 6 / 12 € on-sale
   slug: ugo-sanchez
 -
   time: 22:00 – 23:15 

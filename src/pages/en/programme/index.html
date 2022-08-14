@@ -122,12 +122,12 @@ sunday:
                 {{>_programmenav friday}}                
             </section>
 
-             {{#if @root.site-config.show-busking-program}}
+             {{#if @root.site-config.show-caravan}}
             <section class="section" style="background-color:white">
 
-                <h2 class="section__title">BUSKING</h2>
+                <h2 class="section__title">AMPLION Caravan</h2>
                   <ul class="programmes">
-                  {{#each programme-off-friday-en}}
+                  {{#each programme-friday-caravan-en}}
                       {{>_progitem-en}}
                   {{/each}}
                 </ul>
@@ -145,12 +145,12 @@ sunday:
                 {{>_programmenav saturday}}               
             </section>
 
-             {{#if @root.site-config.show-busking-program}}
+             {{#if @root.site-config.show-caravan}}
             <section class="section" style="background-color:white">
 
-                <h2 class="section__title">BUSKING</h2>
+                <h2 class="section__title">AMPLION Caravan</h2>
                   <ul class="programmes">
-                  {{#each programme-off-saturday-en}}
+                  {{#each programme-saturday-caravan-en}}
                       {{>_progitem-en}}
                   {{/each}}
                 </ul>
@@ -169,17 +169,18 @@ sunday:
             </section>         
            
 
-             {{#if @root.site-config.show-busking-program}}
+            {{!-- {{#if @root.site-config.show-caravan}}
             <section class="section" style="background-color:white">
 
-                <h2 class="section__title">BUSKING</h2>
+                <h2 class="section__title">AMPLION Caravan</h2>
                   <ul class="programmes">
-                  {{#each programme-off-sunday-en}}
+                  {{#each programme-sunday-caravan-en}}
                       {{>_progitem-en}}
                   {{/each}}
                 </ul>
               </section>
-              {{/if}}
+              {{/if}} --}}
+         
 
           </div>
         </div>

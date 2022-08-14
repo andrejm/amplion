@@ -5,8 +5,8 @@
   title: ART STOP
   perex: a clowny stop 
   location: Terrace u Blaškov, Počúvadlo 
-  price: 0
-  slug: physical-theatre-studio-jamu
+  price: BUSKING
+  slug: art-stop
 
 -
   time: 14:00 – 15:00 
@@ -14,7 +14,7 @@
   age: 12+
   title: CONCERT – of the folk-blues band 
   location: Terrace u Blaškov, Počúvadlo 
-  price: 0
+  price: BUSKING
   slug: puka
 -
   time: 16:00 – 16:20 
@@ -23,16 +23,17 @@
   title: ART STOP
   perex: a clowny stop
   location: At the rectory, Beluja
-  price: 0
-  slug: physical-theatre-studio-jamu
+  price: BUSKING
+  slug: art-stop
 
 -
   time: 16:30 – 17:00 
   perfromer: Lorenzo Galli (IT)
+  argentum: true
   premiere: true
   age:  Family
   title: POOM-CHA
   perex: walking cabaret streetster GALiRó as eccentric one-clown-band
   location: At the rectory, Beluja
-  price: 0
-  slug: lorenzo-galli
+  price: BUSKING
+  slug: poom-cha

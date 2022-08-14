@@ -10,13 +10,14 @@
 -
   time: 14:30 – 14:50 
   performer: Lorenzo Galli (IT) 
+  argentum: true
   premiere: true
   age: Family
   title: POOM-CHA
   perex: cabaret streetster GALiRó as eccentric one-clown-band
   location: TESCO,  Drieňová district, Banská Štiavnica
-  price: 0
-  slug: lorenzo-galli
+  price: BUSKING
+  slug: poom-cha
 -
   time: 14:50 – 15:15 
   perfromer: Physical Theatre Studio JAMU (CZ/SK)  
@@ -24,12 +25,13 @@
   title: ART STOP
   perex: clown studies and then some
   location: TESCO, Drieňová district Banská Štiavnica 
-  price: 0
-  slug: physical-theatre-studio-jamu
+  price: BUSKING
+  slug: art-stop
 -
   time: 19:00 – 20:00 
   performer: PUKA (SK)  
   age: 12+
   title: CONCERT – of the folk-blues band 
   location: Pub u Michala, Banská Belá
-  price: 0
+  price: BUSKING
+  slug: puka

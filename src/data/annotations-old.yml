@@ -1,0 +1,922 @@
+otvorenie-festivalu:
+  title: OTVORENIE FESTIVALU
+  perex: "Hymna + promo: Paul Morocco (USA/GB/ES) +&nbsp;Ludo&nbsp;&&nbsp;Arsène&nbsp;(BE) +&nbsp;Šimon&nbsp;&&nbsp;Eliáš&nbsp;(CZ) +&nbsp;Mojše&nbsp;band&nbsp;(SK)"
+  price: 0
+  content: 
+   -
+    "Príďte aj tento rok otvoriť 6. ročník festivalu, tentokrát sloganom: Dôvera je umenie!"
+
+   -
+    "Máme radosť z Vašej dôvery, že pre Vás každý rok namixujeme originálny program plný Vašich výnimočných zážitkov. Ukážky z toho najlepšieho, čo vám počas festivalu nesmie ujsť, zažijete práve tu! Nebude chýbať ani ďalšia verzia festivalovej hymny."
+  occurences:
+    -
+      time: "piatok 16:00"
+      location: Námestie sv. Trojice
+
+  pictures:
+    -
+      Otvorenie_festivalu_MS_057_Foto_Michal Sv¡tok.jpg
+    -
+      Otvorenie_festivalu_MS_059_Foto_Michal Sv¡tok.jpg
+    -
+      Otvorenie_festivalu_MS_069_Foto_Michal Sv¡tok.jpg
+
+amplion-karavana:
+  title: AMPLIÓN Karavana
+  perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
+  price: 0
+  content: 
+   -
+    ""
+  occurences:
+    -
+      time: "štvrtok 10:00 - 18:15"
+      location: ZŠ Štiavnické Bane, Bod K. sídlisko Drieňová Banská Štiavnica <br>
+    -
+      time: "piatok 17:30 - 20:30"
+      location: Kino Štiavnické Bane, Krčma u Michala Banská Belá <br>
+
+    -
+      time: sobota 13:00 - 16:25 
+      location: Terasa u Blaškov, Počúvadlo, Na fare Beluja, <br> Bod K. sídlisko Drieňová Banská Štiavnica <br>
+    -
+      time: nedeľa 14:00 - 16:35 <br>
+      location: KTC Hájovňa Červená studňa
+  pictures:
+    
+    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
+
+amplion-karavana-stvrtok:
+  title: AMPLIÓN Karavana
+  perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
+  price: 0
+  karavana: true
+
+  content: 
+   -
+    ""
+  occurences:
+    -
+      performer: Mikropodium Family Puppet Theatre (HU)
+      time: "štvrtok 10:00 – 10:20"
+      title: STOP
+      perex: svetovo unikátne bábkové divadlo pre najmenších
+      price: 0
+      age: 3+
+      location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane
+    -
+      performer: Lukáš Šimon + Anton Eliáš (CZ)
+      time: "štvrtok 11:00 – 11:35"
+      title: "ROBO ERECTUS: Šugar &amp; Bič"
+      perex: komická sci-fi pantomíma robotov
+      price: 2 € na mieste
+      age: 6+
+      location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane
+
+    -
+      performer: Kapela 5 a pes (CZ)
+      time: "štvrtok 17:00 – 17:20"
+      title: "PROMO KONCERT"
+      perex: nová pražská kapela v štýle poetického folku
+      price: 0
+      age: 15+
+      location: Bod K., Základná škola Jozefa Kollára, sídlisko Drieňová Banská Štiavnica
+    -
+      performer: AND (SK-CZ/HR-SK)
+      time: "štvrtok 17:30 – 18:15"
+      title: WELCOME TO STUPIDITY
+      perex: sad street show o malých hlúpostiach s veľkým dopadom
+      price: 3 € na mieste
+      age: 8+
+      location: Bod K., Základná škola Jozefa Kollára, sídlisko Drieňová Banská Štiavnica
+
+  pictures:
+    
+    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
+
+
+amplion-karavana-piatok:
+  title: AMPLIÓN Karavana – Piatok
+  perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
+  price: 0
+  karavana: true
+  content: 
+   -
+    ""
+  occurences:
+    -  
+      time: "piatok 11:00 – 11:45" 
+      performer: Ansámbel nepravidelného divadla (SK)  
+      age: 8+
+      title: WELCOME TO STUPIDITY
+      perex: pouličná show proti hlúposti
+      location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane 
+      price: 3 €
+
+    -
+      time: "piatok 14:30 – 14:50" 
+      performer: Lorenzo Galli (IT) 
+      premiere: true  
+      age: Family
+      title: POOM-CHA
+      perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+      location: TESCO, sídlisko Drieňová Banská Štiavnica
+      price: 0
+
+    -
+      time: "piatok 14:50 – 15:15" 
+      performer: Ateliér fyzického divadla JAMU (SK/CZ)  
+      age: Family
+      title: ART STOP / ZASTÁVKA UMENIA
+      perex: klaunské etudy
+      location: TESCO, sídlisko Drieňová Banská Štiavnica
+      price: 0
+
+    -
+      time: "piatok 19:00 – 20:00" 
+      performer: PUKA (SK)   
+      age: 12+
+      title: KONCERT
+      perex: folk-bluesovej kapely 
+      location: Krčma u Michala, Banská Belá 
+      price: 0
+   
+
+  pictures:
+    
+    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
+
+amplion-karavana-sobota:
+  title: AMPLIÓN Karavana - Sobota
+  perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
+  price: 0
+  karavana: true
+
+  content: 
+   -
+    ""
+  occurences:
+      -  
+        time: "sobota 13:30 – 13:50" 
+        perfromer: Ateliér fyzického divadla JAMU (SK/CZ)  
+        age: Family
+        title: ART STOP / ZASTÁVKA UMENIA
+        perex: klaunské etudy
+        location: Terasa u Blaškov, Počúvadlo
+        price: 0
+
+      -
+        time: "sobota 14:00 – 15:00" 
+        performer: PUKA (SK)   
+        age: 12+
+        title: KONCERT folk-bluesovej kapely 
+        location: Terasa u Blaškov, Počúvadlo
+        price: 0
+
+      -
+        time: "sobota 16:00 – 16:20" 
+        performer: Ateliér fyzického divadla JAMU (SK/CZ)  
+        age: Family
+        title: ART STOP / ZASTÁVKA UMENIA
+        perex: klaunské etudy
+        location: Na fare, Beluja
+        price: 0
+
+      -
+        time: "sobota 16:30 – 17:00" 
+        perfromer: Lorenzo Galli (IT)
+        premiere: true
+        age: Family
+        title: POOM-CHA
+        perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+        location: Na fare, Beluja
+        price: 0
+
+  pictures:
+    
+    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
+
+amplion-karavana-nedela:
+  title: AMPLIÓN Karavana
+  perex: "DÔVERA JE UMENIE – putovné vystúpenia umelcov na periférií + pozvánky do centra"
+  price: 0
+  karavana: true
+
+  content: 
+   -
+    ""
+  occurences:
+    -
+      performer: Mikropodium Family Puppet Theatre (HU)
+      time: "nedeľa 14:00 – 14:20"
+      title: STOP
+      perex: svetovo unikátne bábkové divadlo pre najmenších
+      price: 0
+      age: 3+
+      location: KTC Hájovňa Červená studňa
+    -
+      performer: Ludo &amp; Arsène (BE)
+      argentum: true
+      premiere: true
+      time: "nedeľa 16:00 – 16:35"
+      title: BE FLAT
+      perex: cirkusová akrobacia a urban parkour famóznej belgickej dvojice
+      price: 5 € na mieste
+      age: 12+
+      location: KTC Hájovňa Červená studňa
+
+  pictures:
+    
+    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
+    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
+
+
+
+divadlo-husa-na-provazku:
+  performer: Divadlo Husa na provázku, Brno (CZ)
+  argentum: true
+  premiere: true
+  top-general: TOP PROGRAM pre dospelých
+  title: GADŽOVÉ JDOU <br> DO NEBE 
+  perex: Comedy Ghetto! Bravúrny česko-rómsky kabaret s kapelou a bašavelom pre všetkých 
+  content: 
+    -
+      "<em>„Príďte sa smiať všetkému, za čo sa normálne hanbíte a hanbiť sa za to, čomu sa normálne smejete!“</em> pozýva divákov režisér oceňovaný divadelník a filmár Jiří Havelka, ktorý spracúva spoločenské témy prekvapivou formou (napr. film <em>Vlastníci</em>)."
+    -
+      "Na amfiteátri zažijete nový formát – stand up inscenáciu s poriadnou dávkou humoru, živou kapelou, výbornými spevákmi a dynamickou zábavou nespútaného večera! Wanna stand up to racism? <b>Wanna stand up? Let´s stand up then! </b> Že nemáte predsudky? Že nevidíte čiernobielo? Vydajte sa na česko-rómsku stand up expedíciu pod vlastnú sivú kôru mozgovú! Starostlivo vyberaný tím hercov Divadla Husa na provázku a autentických rómskych osobností hrá o česko-rómskom súžití. O predsudkoch na oboch stranách pomlčky. O (ne)možnostiach ich korekcie. S humorom aj bez neho. Skúma stereotypy či predsudky, ktoré máme v sebe viac či menej zakorenené všetci. Btw. žáner Stand up vznikol kedysi práve z etnického napätia rastúceho v anglickej a americkej spoločnosti a má dlhú tradíciu práce s nacionalizmom, rasizmom a rôznymi spoločenskými tabu. Pre divákov od 15 rokov."
+    -  
+      "<em>Divadlo Husa na provázku je scéna súčasných tém a nečakaných foriem. Od roku 1967 spája tvorcov rôznych žánrov, pre ktorých je umenie životným postojom. Svoju tvorbu stavia na slobode prejavu, otvorenosti dialógu a názorovej pluralite, čím sa snaží o kultiváciu stredoeurópskej občianskej spoločnosti. Vďaka jeho výnimočným oceňovaným osobnostiam akými boli Peter Scherhaufer a Eva Tálska či akými sú Petr Oslzlý, Vladimír Morávek a Anna Davidová, má jedinečné miesto na európskej divadelnej mape.</em>"
+  
+  occurences:
+    -
+      price: predpredaj 19 € / na mieste 23 €
+      time: "sobota 18:00"
+      location: Kultúrne centrum, hlavná sála
+      tickets:
+      toot-iframe-id: 0
+      toot-event-id: 0
+  
+
+
+  pictures:
+    -
+      husa-na-provazku-3.jpg
+    -
+      husa-na-provazku-2.jpg
+    -
+      husa-na-provazku-1.jpg
+   
+
+  link: http://www.provazek.cz
+
+paul-morocco:
+  performer: Paul Morocco, Lanzarote (USA/GB/ES) 
+  title: OLÉ! Music & Comedy  
+  argentum: true
+  top-general: TOP PROGRAM pre dospelých 
+  premiere: true
+  occurences: 
+    -
+      time: piatok 19:30
+      location: Kultúrne centrum, hlavná sála
+      price: predpredaj 13 €, na mieste 15 € 
+      tickets:
+      toot-iframe-id: 0
+      toot-event-id: 0
+    -
+      time: sobota 15:30
+      location: Starý zámok, lapidárium
+      price: predpredaj 12 €, na mieste 14 € 
+      tickets:
+      toot-iframe-id: 0
+      toot-event-id: 0
+    -
+      time: sobota 22:00
+      location: Kocka
+      price: predpredaj 13 €, na mieste 15 € 
+      tickets:
+      toot-iframe-id: 0
+      toot-event-id: 0
+  
+      
+  perex: Bravúrna hudobno-artistická gitarová show 
+  content: 
+    -
+      Hrajú ako Paco de Lucia, spievajú ako Pavarotti a hýbu sa ako Gipsy Kings! Prichádza veľkolepé trio a ich búrlivo smiešna gitarová groteska. Španielky počas hrania točia, preklápajú či vyhadzujú do vzduchu, hrajú s nimi ping-pong či rozbíjajú vajíčka. Artistická hra v štýle flamenco, pop, swing, blues či klasiky vás podmaní. Pozastavte sa a nechajte sa očariť hudobným majstrovstvom a zábavnou vizuálnou komédiou. Paul, Miguel a Alessandro to na Amplióne roztočia v slovenskej premiére!
+    -
+     '<em>Paul Morocco tvorí medzinárodné trio talentovaných a skúsených umelcov, ktorí vystupujú s Olé Comedy po celom svete. Hosťovali aj <br> v súťaži Česko Slovensko má talent.</em>'
+
+  pictures:
+    - Paul Morocco_1.jpg
+    - Paul Morocco_3.jpg
+    - Paul Morocco_4.jpg
+
+  link: https://olecomedy.com/
+
+
+
+geisslers-hoffcomoedianten:
+  performer: Geisslers Hoffcomoedianten, <br>  Praha (CZ)
+  argentum: true
+  premiere: true
+  title: RAUT         
+  general: Program pre mladých a dospelých
+  occurences: 
+    -
+      time: piatok 21:00
+      location: Kocka, Kammerhofská 6
+      price: 9 € 
+      tickets:
+      toot-iframe-id: 0
+      toot-event-id: 0
+
+  perex: Štýlový nový kabaret La Fontaine alebo večierok veľkých zvierat 
+  content: 
+    -
+      "<em>Ladies and gentlemen! We show for you -  and for me -  we show you de La Fontaine show! </em> Prijmite pozvanie na večierok do vybranej spoločnosti zajaca, vlka, jeleňa a Lafontány. Zažijete medzinárodný bábkový kabaret na motívy francúzskeho bájkara Jeana de La Fontaine so zvieracími maskami, predmetovými bábkami, žemľami, chlebom, drinkami aj živou balkánskou hudbou. Kto je koho pán a kto koho skrotí? Človek zviera alebo zviera človeka? A je človek človekom? Doprajte si svieži RAUT v réžii jedného z najosobitejších a najvýraznejších bábkarov súčasného divadla Matiju Solce, ktorého hra KAR v roku 2019 získala na Amplióne cenu Amplion Argentum za nový kabaret! Pre všetkých od 15 rokov. "
+    -
+     '<em>Geisslers Hofcomoedianten je český nezávislý divadelný súbor, ktorý vznikol v roku 2002 v Kukse a pôsobí v pražskej VILE Štvanica. Vo svojej tvorbe prepája staré tradície so živým, súčasným divadlom. <br> K barokovej inšpirácii pristupujú slobodne, miešajú pôvodné s novým, vzletné s prízemným: činohru, spevohru, bábkohru aj tanec – tak, aby to divákov bavilo.</em>'
+   
+  pictures:
+    - Geisslers_RAUT_2_Tomas Glasberger.jpg
+    - Geisslers_RAUT_3_Tomas Glasberger.jpg
+    - Geisslers_RAUT_5_Tomas Glasberger.jpg
+  link: https://geisslers.cz/
+
+
+
+mestske-divadlo:
+  performer: <span style="font-size:0.65em;"> Mestské divadlo – Divadlo z Pasáže, <br> Banská Bystrica (SK) </span>
+  argentum: true
+  title: LÁSKY SHOCK 
+  general: Program pre mladých a dospelých  
+  occurences: 
+    -
+      time: sobota 14:00 
+      location: Kocka, Kammerhofská 6
+      price: predpredaj 5 €, na mieste 7 €
+      tickets:
+      toot-iframe-id: 0
+      toot-event-id: 0
+  perex: Divadelno-tanečná inscenácia so silným odkazom
+  content: 
+    -
+      'Hovoríme, že sme tolerantní, vnímaví, empatickí, láskaví... Vieme to aj prejaviť? Neexistuje lepšia možnosť, ako skúsiť prekročiť svoju bublinu a prejaviť empatiu niekomu, koho svet je nám cudzí. Znamená to odložiť svoje ja a otvorene prijať navonok iné, ale v skutočnosti rovnaké ľudské bytosti. Aj oni sa cítia sexy, nasratí, vtipní, nepochopení, či neviditeľní, aj keď ich paradoxne na ulici počuť viac.
+      <em>„Serie ma, keď na mňa ľudia čumia, vtedy mám chuť povedať: Na čo tak čumíš? Serie ma, keď sú ľudia prehnane milí, ako keby sme niečo nechápali.” </em>
+      (Lydka)'
+    -
+      Doprajte si zážitkový SHOCK plný humoru, nadhľadu a lásky nielen <br> k pohybu. Spolu s hercami z Divadla z Pasáže znovuobjavíte plnosť prežívania a radosť zo života!  
+    -
+      <em>Divadlo z Pasáže pôsobí v Banskej Bystrici a v roku 2020 oslávilo 25. výročie existencie. Je to jediné profesionálne divadlo na Slovensku, ktorého hercami sú ľudia s mentálnym postihnutím. Má dôležitú úlohu pri šírení myšlienok tolerancie a väčšej informovanosti verejnosti. Prostredníctvom inscenácií pomáhajú návštevníkom pochopiť, že aj ľudia, ktorí sa vo všeobecnosti nepovažujú za talentovaných a tvorivých, takí v skutočnosti sú. A zároveň hereckými výpoveďami približujú spôsob ich rozmýšľania, cítenia, ich vnútorných túžob.</em>
+  pictures:
+    - Divadlo z pasaze_5_Katar¡na Baranyai.jpg
+    - Divadlo z pasaze_1_Katar¡na Baranyai.jpg
+    - Divadlo z pasaze_3_Katar¡na Baranyai.jpg
+
+  link: http://www.divadlozpasaze.sk
+
+
+
+sketch-up:
+  performer: AND & hostia & Mojše Band (SK+CZ)
+  title: SKETCH UP 
+  general: Len na AMPLIÓNE!
+  occurences: 
+    -
+      time: sobota 19:00
+      location: Kocka, Kammerhofská 6
+      tickets:
+      price: predpredaj 8 € / na mieste 10 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: 3. ročník česko-slovenskej súťaže kabaretných skečov plný nových talentov! Moderátor Ľubor Foltán vás prevedie Jogou smiechu. Hrá klezmer kapela Mojše Band. 
+  content: 
+    -
+      'Súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla, pokračuje! Všetky skeče prepojí jedna téma – dôvera vs. nedôvera, ktoré podajú zážitkovou a zábavnou formou títo účinkujúci: šarmantný herec a mím Anton Eliáš (CZ), herecko-hudobné duo študentov VŠMU Martin Toman & Tadeáš Bolo (SK), hudobný standapista s gitarou, Tomáš Šrámek (SK), energickí herci a tanečníci Cirkevného konzervatória v Bratislave (SK), miestny hudobník a spevák Jaro Koleda či mladá rómska talentovaná speváčka Sarah. Programom sprevádza Ľubor Foltán a jeho Smiechohry, ktoré zažijete na vlastnej lícnej jamke. Jedinečnú atmosféru vytvorí aj židovská kapela Mojše Band. Nebude chýbať ani exkluzívna porota: Lumír Mati, Martina Garassyová a Zuzana Liptáková! Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 7. ročníku Festivalu AMPLIÓN 2022. Nenechajte si tento jedinečný program ujsť!'  
+  pictures:
+    - SKETCH UP_Martin &amp; Tadeas_za klavirom.png
+    - SKETCH_UP_Robo Erectus 3_Michal Michalko.jpg
+    - SKETCH_UP_Tomas Sramek_1.png
+
+  link: http://www.amplion.eu
+
+
+
+
+ludo-arsene:
+  performer: Ludo & Arsène, Gent (BE)
+  argentum: true 
+  premiere: true
+  title: BE FLAT     
+  top-general: TOP PROGRAM pre mladých a dospelých    
+  occurences: 
+    -
+      time: sobota 11:00
+      location: Starý zámok
+      price: predpredaj 7 €, na mieste 9 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+    -
+      time: "nedeľa 13:30"
+      location: Starý zámok
+      price: predpredaj 6 €, na mieste 8 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: Cirkusová akrobacia a urban parkour famóznej belgickej dvojice
+  content: 
+    -
+      'Ludo a Arsène majú dôležitú úlohu. Zastaviť návštevníkov festivalu, vytrhnúť ich z každodennosti a získať si ich dôveru. Buďte v strehu! Títo akrobati sa zjavia nebadane a využijú akýkoľvek priestor. Môžu sa objaviť na strome, prekvapiť vás na stene či vykuknúť z kanála alebo banskej šachty. Lozia, preskakujú alebo sa všelikde zavesia. Pokojne aj dolu hlavou! Vrcholom bude veľkolepé číslo so špeciálnym rebríkom pod heslom: </em> „Všetko je možné!“</em> Vyskúšajte ľahkosť bytia naplno!'
+
+    -
+     <em>Ludo & Arsène to je Thomas Decaesstecker (1989) a Mehdi Delanoeije (1986). Obaja sú profesionálni akrobati. Spája ich vášeň pre pohyb a hudbu, ktorú naplno prejavujú v parkúr show BE FLAT. </em>
+
+  pictures:
+    - Ludo &amp; Arsne_BE_Be flat_1.jpg
+    - Ludo &amp; Arsne_BE_Be flat_2.jpg
+    - Ludo &amp; Arsne_BE_Be flat_3.jpg
+    
+  link: https://www.be-flat.be/
+
+
+lukas-simon-anton-elias:
+  performer: Lukáš Šimon & Anton Eliáš, Praha (CZ)
+  premiere: true 
+  title: 'ROBO ERECTUS: <br> Šugar & Bič'
+  general: Program pre mladých a rodiny s deťmi
+  occurences: 
+    -
+      time: piatok 17:00
+      location: Záhrada Skautského domu
+      price:  4/6 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+    
+  perex: Komická sci-fi pantomíma robotov 
+  content: 
+    -
+      <em>„Som Robot. Nejem, nepijem, nestarnem, nevyžadujem žiadnu pozornosť, nemám city.“ </em>  Je ticho. Všade v pustej krajine je len prach a trosky. Nikde žiadne známky života. Poslední dvaja preživší sú roboty v továrni. Čaká ich dlhá cesta objavovania nového života. Kam majú ísť a kto im ukáže cestu? Komická pouličná pantomíma o dvoch robotoch, ktorí už nemôžu nikomu poslúžiť, a tak radšej bavia sami seba. A popri tom všetkých divákov!
+      
+    -
+     '<em>Pražské originálne pohybové sci-fi pouličné divadlo vytvorili Lukáš Šimon a Anton Eliáš zo Slovenska. Stretli sa na DAMU v Prahe na štúdiách pantomímy. Odvtedy brázdia umelecké cesty spoločne naprieč hranicami. </em>'
+   
+  pictures:
+    - Robo Erectus 1_Michal Michalko.jpg
+    - Robo Erectus 3_Michal Michalko.jpg
+    - Robo erectus 6_Anna Solcova.jpg
+
+and:
+  performer: Ansámbel nepravidelného divadla, Banská Štiavnica (SK-CZ/HR-SK)      
+  title: WELCOME TO STUPIDITY – sad street show        
+  general: Program pre mladých a dospelých    
+  occurences: 
+    -
+      time: sobota 16:30
+      location: Záhrada Skautského domu
+      price: 5 / 7 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: Malé hlúposti s veľkým dosahom!
+  content: 
+    -
+      'Silný príbeh o (ne)pravých záchrancoch súčasného sveta. Nonverbálna hudobno-pohybová pouličná show nenapraviteľného Záchrancu a obyčajného Smetiara, ktorí sa rozhodli zachrániť svet. Zábavné situácie plné situačných gagov vás prevedú dynamickým príbehom od bezhlavého ohúrenia novým vizionárom, cez nečakané ohrozenie, až po vytriezvenie zo stádovitosti vďaka použitiu rozumu. Pozor, výskyt (ne)obyčajnej ľudskej hlúposti a jej iracionálnych prejavov môže mať tragické dôsledky! Nájde sa niekto, kto nás zachráni pred záchrancom?
+      <em>Pozor, hlúposť môže zabíjať!</em>'
+    - 
+      'Účinkuje nové skvelé komické duo, ktoré sa stretlo vďaka AND prvýkrát.!Pavol Seriš ako muž z plastelíny (SK/CZ) predvedie sto kúskov s jedným telom & Tomislav Koprivčević ako multi-music-man (HR/SK) zahrá na všetko, čo hrá aj nehrá! Doprajte si kvalitný tréning vašich mozgových závitov aj bránice!'
+  
+  pictures:
+    - WTS_premiera_BB_KB_08.jpg
+    - WTS_premiera_BB_KB_15.jpg
+    - WTS_premiera_BB_KB_47.jpg
+  
+  link: http://www.and-theatre.art
+	
+jiri-dedecek:
+  performer: Jiří Dědeček, Praha (CZ)  
+  title: NEBUDU BYDLET <br> V QUÉBECU         
+  top-general: TOP PROGRAM pre dospelých      
+  occurences: 
+    -
+      time: sobota 20:30
+      location: Art Cafe, povala
+      price: 10 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: Sviatok folku v Banskej Štiavnici! Šansóny, kuplety a odrhovačky legendárneho pesničkára 
+  content: 
+    -
+      Jiří Dědeček, český básnik a folkový pesničkár, pre vás pripravil dvojhodinový koncert zo svojho nového albumu Nebudu bydlet v Québecu. 
+      Typicky briskné a priamočiare piesne ako <em> Potkan, Sněmovní, Udavači </em> alebo <em>Kardinál</em> doplnil dvoma zhudobnenými rúhačskými básňami Františka Gellnera, trojicou svojich doposiaľ nenahraných piesní Georgesa Brassensa 
+      a nechýba ani country & western <em>Zmrzlý dřevař</em>. Sériu štrnástich songov s tragikomickým nádychom sprevádza hrou na gitaru a ukulele. Zahrá aj známe obľúbené hity. Užite si sviatok folku v Banskej Štiavnici!
+
+  pictures:
+    - Jiri_Dedecek_1_ foto Karel Cudlin.jpg
+    - Jiri_Dedecek_3_ foto Karel Cudlin.jpg
+    - Jiri_Dedecek_5_ foto Karel Cudlin.jpg
+
+  link: http://www.dedecek.cz
+
+5-a-pes:
+  performer: 5 a pes, Praha (CZ)  
+  title: KOMÁR VELBLOUDEM                           
+  general: Program pre mladých a dospelých
+  occurences: 
+    -
+      time: štvrtok 19:00
+      location: Art Cafe, povala
+      price: 7 €
+      toot-iframe-id: 10
+      toot-event-id: 20
+      
+  perex: Hudobno-dramatický koncert víťaza súťaže SKETCH UP
+  content: 
+    -
+        'A je to tu, plníme sľuby! Rok sa s rokom stretol a z krátkeho víťazného skeču pražskej kapely
+Ponorka vzniklo celovečerné vystúpenie. Kapela sa za rok stihla premenovať a rozšíriť, takže
+ju zažijete vo vylepšenom zložení a s novým repertoárom pod názvom <b>5 a pes</b>.
+Autorské
+piesne v štýle poetického folku s nadhľadom reflektujú radosti i strasti všedných aj nevšedných
+dní. A robiť z komára velblouda býva zábava! '
+    -
+     '<em>5 a pes to je Alžběta Bláhová – viola, spev, Maria Nona Mlejnská – husle, spev, Jakub Mlejnský 
+– gitara, spev, Bartoloměj Bláha – kontrabas, Johana Pastorová – perkusie. Tešte sa, haf!</em>'
+
+  pictures:
+    - 5 a pes-resp. Ponorka_1_Peter Stit.jpg
+    - 5 a pes-resp. Ponorka_2_Foto_Michal Sv¡tok.jpg
+    - 5 a pes-resp. Ponorka_3_Peter Stit.jpg
+
+
+5-a-pes-nedela:
+  performer: 5 a pes, Praha (CZ)  
+  title: AFTER KONCERT                           
+  general: Program pre mladých a dospelých
+  price: 0
+  occurences: 
+    -
+      time: nedeľa 11:00
+      location: Art Cafe, Povala
+      price: 0
+      
+  perex: Vyhlásenie cien festivalu Amplion Argentum
+  content: 
+    -
+        'Aj 6. ročník Festivalu AMPLIÓN má svojich adeptov na cenu festivalu Amplion Argentum. Nájdete ich v programe s označením AA.  Tipnite si aj vy, komu udelíme cenu za nový kabaret, pouličné umenie či za spoločensko-angažované umenie. Výhercov odhalíme za zvukov fanfár skvelej kapely 5 & pes v štýle poetického folku.'
+  
+  pictures:
+    - 5 a pes-resp. Ponorka_1_Peter Stit.jpg
+    - 5 a pes-resp. Ponorka_2_Foto_Michal Sv¡tok.jpg
+    - vyhlasenie-argentum.jpg
+
+mojse-band:
+  performer: Mojše Band, <br> Spišská Belá (SK)    
+  title: KONCERT                                 
+  general: Program pre mladých a dospelých       
+  occurences: 
+    -
+      time: piatok 22:30
+      location: Art Cafe, povala
+      price: 8 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: Židovské hudobné dedičstvo v sviežom prevedení
+  content: 
+    -
+      Autentická kapela reprezentujúca inovatívny pohľad na židovskú hudobnú tradíciu zo Slovenska. Má stabilné postavenie na európskej scéne. Systematicky sa venuje mapovaniu židovského hudobného dedičstva z regiónov bývalej Rakúsko-Uhorskej monarchie (napr. Albumy Zipserim – Oberzips, 2018, Sárosi – Šarišskí, 2020). Hudobne spolupracuje aj na Kóšer podcastoch Mireka Tódu v Denníku N. Verejnú nahrávku s miestnymi pamätníkmi obohatí svojou muzikou aj v nedeľu v Art Cafe!
+    -
+     '<em>Mojše Band účinkovala na mnohých prestížnych scénach v Nemecku, Holandsku, v Poľsku aj v Izraeli a má za sebou viaceré spolupráce so svetovými umelcami. Je finalistom Celosvetovej súťaže židovskej hudby v Amsterdame v roku 2017 a držiteľom prestížnej Youtube Award za roky 2018-2019. Mojše Band je Michal Paľko – spev, cimbal, dychové nástroje, Jakub Stračina – kontrabas, spev a František Kubiš – akordeón, spev, bubon. </em>'
+
+  pictures:
+    - Mojse band_Bardejov_Iva Liptakova                                                                                   .jpg
+    - Mojse band_Raslavice_Iva Liptakova                                                                                   .jpg
+    - Mojse band_Zborov_Iva Liptakova                                                                                   .jpg
+
+  link: http://www.mojseband.sk
+
+mojse-band-after-promo:
+  performer: Mojše Band, <br> Spišská Belá (SK)    
+  title: AFTER PROMO                                
+  general: Program pre mladých a dospelých   
+  price: 0    
+  occurences: 
+    -
+      time: sobota 14:15
+      location: Trotuár
+      price: 0
+     
+    -
+      time: sobota 19:00
+      location: Kocka
+      price: predpredaj 8 € / na mieste 10 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+    -
+      time: nedeľa 15:00
+      location: Art Cafe, povala
+      price: 5 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: Židovské hudobné dedičstvo v sviežom prevedení
+  content: 
+    -
+      Autentická kapela reprezentujúca inovatívny pohľad na židovskú hudobnú tradíciu zo Slovenska. Má stabilné postavenie na európskej scéne. Systematicky sa venuje mapovaniu židovského hudobného dedičstva z regiónov bývalej Rakúsko-Uhorskej monarchie (napr. Albumy Zipserim – Oberzips, 2018, Sárosi – Šarišskí, 2020). Hudobne spolupracuje aj na Kóšer podcastoch Mireka Tódu v Denníku N. Verejnú nahrávku s miestnymi pamätníkmi obohatí svojou muzikou aj v nedeľu v Art Cafe!
+    -
+     '<em>Mojše Band účinkovala na mnohých prestížnych scénach v Nemecku, Holandsku, v Poľsku aj v Izraeli a má za sebou viaceré spolupráce so svetovými umelcami. Je finalistom Celosvetovej súťaže židovskej hudby v Amsterdame v roku 2017 a držiteľom prestížnej Youtube Award za roky 2018-2019. Mojše Band je Michal Paľko – spev, cimbal, dychové nástroje, Jakub Stračina – kontrabas, spev a František Kubiš – akordeón, spev, bubon. </em>'
+
+  pictures:
+    - Mojse band_Bardejov_Iva Liptakova                                                                                   .jpg
+    - Mojse band_Raslavice_Iva Liptakova                                                                                   .jpg
+    - Mojse band_Zborov_Iva Liptakova                                                                                   .jpg
+
+  link: http://www.mojseband.sk
+
+samuel-marec-jan-markos:
+  performer: <span style="font-size:0.98em"> Samuel Marec & Ján Markoš, <br> Bratislava (SK) </span> 
+  argentum: true
+  title: ART PUTIKA – MEDZI DOBROM A ZLOM                               
+  general: Program pre mladých a dospelých
+  price: 0            
+  occurences: 
+    -
+      time: sobota 21:00
+      location: Archanjel caffe bar
+      price: 0
+ 
+  perex: Krčmové dišputy o morálnych dilemách dneška vedie diablov advokát & jeho vzácny hosť
+  content: 
+    -
+     'Ako sa dostať z pandémie a existuje vôbec covid? Komu veríme a prečo? A komu sa oplatí
+dôverovať? Pandémia a jej etické dilemy. Má rodina prednosť, keď ide o život? Ako udržať
+otca doma? Aká je cena ľudského života a kto celú túto situáciu zavinil? Neformálni dišputéri
+neponúkajú jasné riešenie. Je len na vás, ako sa s týmito dilemami popasujete. Pripravte sa na
+kritickú diskusiu, v ktorej bude Samo Marec diskutovať s Jánom Markošom a nenechá na ňom
+nitku suchú. Nadhľad a humor all inclusive!'
+
+    -
+     '<em>Ján Markoš je lektor kritického myslenia a súčasne šachový veľmajstrer. Po jednej z najlepších kníh roka 2019 Sila rozumu v bláznivej dobe vydal ďalšiu pod názvom Medzi dobrom a zlom – 16 etických dilem, pred ktorými môžete raz stáť aj vy. 
+Samo Marec je prekladateľ a publicista, píše pre denník SME. Jeho životnou ambíciou je živiť sa nie písaním, ale čítaním kníh. Lásku k peknej literatúre vyvažuje láskou <br> k hudbe, ktorú málokto dokáže počúvať.</em>'
+
+  pictures:
+    - Marec &amp; Markos_Medzi-dobrom-a-zlom_obalka.jpg
+    - Samo Marec_by_TomasBenedikovic_2.jpg
+    - Jan_Markos_3.jpg
+
+    
+  link: https://obchod.dennikn.sk/show/417/medzi-dobrom-a-zlom?autologin=done
+
+samo-marec:
+  performer: Samo Marec, Bratislava (SK)  
+  title: <span style="font-size:1.5rem"><del>ROKY BEZPRÁVIA  </del> <br> Zrušené z vážnych rodinných dôvodov.</span>
+  argentum: true                                  
+  general: Program pre mladých a dospelých
+  price: 0        
+  occurences: 
+    -
+      time: piatok 20:00
+      location: Art Cafe, povala
+      price: 0
+      toot-iframe-id: 0
+      toot-event-id: 0
+   
+      
+  perex: Samoautorské čítanie so samodiskusiou. Nenechajte v tom Sama samého!
+  content: 
+    -
+     'V júni 2013 sa v rómskej osade v Moldave udiala razia. Ostali po nej zranení ľudia a zničené príbytky, ale Rómovia čelili obvineniam z krivej výpovede. Bývalí vládni predstavitelia dodnes trvajú na tom, že všetko bolo v poriadku. Čo sa teda vlastne stalo a prečo? A ako je to možné? Práve o tom sa s vami bude rozprávať Samo Marec, ktorý o razii v Moldave napísal knihu.'
+    -
+     '<em>Obľúbený publicista a prekladateľ Samo Marec s Veronikou Prušovou, ktorá sa ako reportérka roky venuje téme súdnictva, sa pri svojom pátraní neobmedzili len na rekonštrukciu udalostí z Moldavy a zo súdnych procesov. Vydali sa aj do hlbokej minulosti, aby pochopili a vysvetlili, kde sa tu Rómovia vlastne vzali a prečo je vzťah majority k nim rozporuplný – s pochopením pre obe strany.</em>'
+
+  pictures:
+    - Samo Marec_Roky-bezpravia_obalka_mala.jpg
+    - Samo Marec_by_TomasBenedikovic_1.jpg
+  
+
+  link: https://www.sme.sk/aut/3817/samuel-marec 
+
+mirek-toda-mojse-band:
+  performer: Mirek Tóda & Mojše Band Bratislava/Spišská Belá (SK)
+  argentum: true
+  title: ART PUTIKA – Kóšer podcast                                  
+  general: Program pre mladých a dospelých             
+  occurences: 
+    -
+      time: nedeľa 15:00
+      location: Art Cafe, povala
+      price: 5 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: Verejná nahrávka s pamätníkmi židovskej Štiavnice
+  content: 
+    -
+     'Mirek Tóda a jeho potulky židovským svetom tentokrát zavítajú do Banskej Štiavnice.
+Vo verejnej nahrávke Kóšer podcastu pre Denník N sa o „zmiznutých susedoch“ porozpráva
+s Beatou Rückschloss Nemcovou z OZ Omnis Terra, z ktorého iniciatívy a v spolupráci s OZ
+antikomplex.sk boli nedávno v Banskej Štiavnici položené prvé Stolpersteine. Dva pamätné
+kamene pripomínajúce zavraždenie Reginy Barokovej a jej syna Andreja Baroka v tábore smrti
+Sobibore (Poľsko) a ďalšie dva na pamiatku na MUDr. Rudolfa Welwarda, miestneho
+lekára a jeho manželky Melánie. Hosťami podcastu budú aj samotní potomkovia „zmiznutých
+susedov“ a Ladislav Welward. '
+    -
+     '<em>Stolpersteine sú projektom nemeckého umelca Guntera Demniga, ktorý začal v roku 1992. Malé pamätné tabule položené v zemi, tzv. kamene úrazu majú pripomínať osud ľudí, ktorí boli počas nacizmu prenasledovaní, vraždení, deportovaní, vyhnaní a pod. Sú položené vo vyše 25 európskych krajinách ako najväčší decentralizovaný pamätník na svete. 
+</em>'
+
+  pictures:
+    - Mirek Toda_Koser podcast.png
+  link: https://dennikn.podbean.com/e/koser-podcast/ 
+
+
+dzenerejsn:
+  performer: D´&nbsp;renewed dženerejšn + Martin Toman & Tadeáš Bolo (SK)
+  title: NO TRUST, NO FUN                               
+  general: Program pre mladých a dospelých     
+  occurences: 
+    -
+      time: piatok 18:00
+      location: Art Cafe, Pod orechom
+      price: 7 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: Moderné prednesy mladých na tému (ne)dôvera s piesňami Filipa, Lasicu & Satinského
+  content: 
+    -
+      'Piati mladí interpreti a ich autentické výpovede textov svetovej i slovenskej prózy a poézie obohatené o autorské čítanie mladej slovenskej poetky. Dobrodružstvo pre oči aj pre dušu! V krásnom prostredí pokojnej záhrady Art Cafe zaznie starostlivý výber silných autentických výpovedí o dôvere v medziľudské vzťahy, v samého seba, v základné ľudské hodnoty, ale aj v silu, zmysel a prínos umenia a umelcov pre kultivovanú spoločnosť. Aj o tom bude každoročne iný a špeciálne vymyslený večer prudko kvalitnej literatúry, ktorý vás opäť vyvedie z predsudkov o konvenčnom recitovaní. Programom sprevádza mladé kabaretné duo v štýle Lasica & Satinský. Výborná spoločnosť, čo poviete?'
+     
+    -
+      '<em>Čakajú vás silné texty známych autorov ako Gabriel García Márguez, Hans Magnus Enzensberger, Anna Gavalda, Michal Hvorecký či Peter Balko. Účinkujú: Nina Benkovičová, Denis Farkaš, Adrián Kráľovský, Julia Pabst, Stella Stupňanová a Michaela Čajkovičová. </em>'
+
+  pictures:
+    - SKETCH UP_Martin &amp; Tadeas_za klavirom.png
+    - Julia Pabst.jpg
+    - Adrian Kralovsky.jpg
+
+  link: http://www.and-theatre.art
+
+
+
+dusan-krnac-friday:
+  performer: Dušan Krnáč, Zvolen (SK)    
+  title: ANTIDEPRESÁRIUM                                         
+  general: Program pre mladých a dospelých
+  price: 0
+  occurences: 
+    -
+      time: piatok  17:30 – 18:45
+      location: Starý zámok – karner
+      price: 0
+    -
+      time: sobota  10:00 – 18:00
+      location: Starý zámok – karner
+      price: 0
+      
+   
+      
+  perex: 'Vizuálno-performatívna výstava v tme, <br> hosť: psychiater Michal Patarák'
+  content: 
+    -
+     'Sú všade. Sú obrazom, odrazom reality, záznamom podvedomia. Stali sa súčasťou verejného priestoru. Sú to zhmotnené stavy vnútra človeka v geste, v akčnom momente vzniku. Pokrčené plechovky od nápojov. Tvoria happening umenia ulice anonymných ľudí. Sú estetikou osobnej aj spoločenskej situácie. Kompenzovaním problémov konzumáciou energy či alko nápojov. Depresia, slovo doby, ktoré sa stalo meradlom vážnosti mentálneho stavu človeka a jeho nebadanej vnútornej erózie. Koncept založený na zbere ready-made objektov a ich adjustáže do nových vizuálnych artefaktov na hranici medzi iróniou, banalitou odhodeného a úzkosťou. Cieľom je poukázať na dôsledky narastajúcej depresie mladej generácie. Performatívna výstava zapojí diváka, ktorý bude nútený pomocou led svetla objaviť nainštalované objekty v tme. Podobne ako treba odhaliť prejavy depresie a vnútorného sveta.'
+    -
+     '<em>Vizuálny koncept a realizácia: Dušan Krnáč, kurátorka: Gabriela Garlatyová, hosť: psychiater MUDr. Michal Patarák.</em>'
+
+  pictures:
+    - Antidepresarium_BS_JF_01.jpg
+    - Antidepresarium_BS_JF_02.jpg
+    - Antidepresarium_BS_JF_03.jpg
+
+dusan-krnac:
+  performer: Dušan Krnáč, Zvolen (SK)    
+  title: ANTIDEPRESÁRIUM                                         
+  general: Program pre mladých a dospelých 
+  price: 0           
+  occurences: 
+    -
+      time: sobota  10:00 – 18:00
+      location: Starý zámok – karner
+      price: 0
+      
+   
+      
+  perex: 'Vizuálno-performatívna výstava v tme'
+  content: 
+    -
+     'Sú všade. Sú obrazom, odrazom reality, záznamom podvedomia. Stali sa súčasťou verejného priestoru. Sú to zhmotnené stavy vnútra človeka v geste, v akčnom momente vzniku. Pokrčené plechovky od nápojov. Tvoria happening umenia ulice anonymných ľudí. Sú estetikou osobnej aj spoločenskej situácie. Kompenzovaním problémov konzumáciou energy či alko nápojov. Depresia, slovo doby, ktoré sa stalo meradlom vážnosti mentálneho stavu človeka a jeho nebadanej vnútornej erózie. Koncept založený na zbere ready-made objektov a ich adjustáže do nových vizuálnych artefaktov na hranici medzi iróniou, banalitou odhodeného a úzkosťou. Cieľom je poukázať na dôsledky narastajúcej depresie mladej generácie. Performatívna výstava zapojí diváka, ktorý bude nútený pomocou led svetla objaviť nainštalované objekty v tme. Podobne ako treba odhaliť prejavy depresie a vnútorného sveta.'
+    -
+     '<em>Vizuálny koncept a realizácia: Dušan Krnáč, kurátorka: Gabriela Garlatyová.</em>'
+
+ 
+  pictures:
+    - Antidepresarium_BS_JF_01.jpg
+    - Antidepresarium_BS_JF_02.jpg
+    - Antidepresarium_BS_JF_03.jpg
+  
+  link: http://www.and-theatre.art 
+
+dusan-ondrusek:
+  performer: Dušan Ondrušek, PDCS, Bratislava (SK)  
+  title: ART PUTIKA – AKO SI VYBRAŤ PRAVDU v nekonečnom mori dezinformácií?
+  argentum: true                                           
+  general: Program pre mladých a dospelých            
+  occurences: 
+    -
+      time: sobota 15:00
+      location: Art Cafe, povala
+      price: 5 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: 'Zábavný krčmový videokvíz'
+  content: 
+    -
+      'Ako si vybrať pravdu v nekonečnom mori dezinformácií? Presvedčme sa o tom na vlastné oči, uši a pľúca. Kvíz s desiatimi otázkami a prekvapujúcimi odpoveďami. Podskupiny okolo stolov si pozrú desať krátkych videí a odpovedia na kvízové otázky. Povieme si desať príbehov, ktoré nás o manipulácii niečo naučili. Porozprávame si niečo o manipulácii v časoch infodémie, aj o tom ako sa proti manipulácii brániť. Podskupina so správnymi odpoveďami vyhrá cenu pre víťaza. Kvízom a diskusiou sprevádza psychológ Dušan Ondrušek. Obohaťte sa o jeho výnimočné zážitky a skúsenosti!'
+    -
+     '<em>Dušan Ondrušek sa kedysi venoval výskumu altruizmu. Súčasne učil na Univerzite Komenského v Bratislave a pracoval v psychologickej poradni. Neskôr založil organizáciu PDCS, chodil po svete, trénoval a pomáhal riešiť konflikty vo viac ako 40 krajinách.	Dodnes je aktívnym odborníkom a šarmantným spoločníkom s bohatými skúsenosťami. PDCS je mimovládna organizácia poskytujúca profesionálne vzdelávacie a facilitačné služby, konzultácie a poradenstvo v oblasti riešenia konfliktov, podpory spoločenského dialógu, občianskej participácie a rozvoja občianskej spoločnosti na Slovensku i v zahraničí.</em>'
+
+ 
+  pictures:
+    - Dusan Ondrusek.jpg
+  
+  link: http://www.and-theatre.art 
+
+family-puppet-theatre:
+  performer: Mikropodium Family Puppet Theatre, <br> Tiszaalpár (HU) 
+  title: STOP              
+  general: Program pre rodiny s deťmi            
+  occurences: 
+    -
+      time: piatok 16:30
+      location: Kaviareň Gavalier
+      price: 2 / 4 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+    -
+      time: sobota 10:30
+      location: Kaviareň Gavalier
+      price: 2 / 4 €
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: 'Svetovo unikátne bábkové divadlo pre najmenších'
+  content: 
+    -
+      'Uvidíte niečo špeciálne a magické. Mikrobábky na mikropódiu. Precízny tanec drobnej a
+      krehkej baletky, čarovná hra šaša-harmonikára, neuveriteľný pohyb rybky či psíka.
+      Magický svet fantázie ožije priamo pred vašimi očami. Unikátna bábkarská technika
+      maďarského umelca očarí deti i dospelých. Všetci pocítia radosť zo zázraku. Bude to wau!'    
+    -
+     '<em>András Lénárt a jeho Mikropódium jedinečných bábok precestovalo za 30 rokov celý svet
+a získalo množstvo významných ocenení. </em>'
+
+ 
+  pictures:
+    - Mikropodium_01.jpg
+    - Mikropodium_02.png
+    - Mikropodium_03.jpg
+  
+  link: http://www.mikropodium.com
+
+family-puppet-theatre-nedela:
+  performer: Mikropodium Family Puppet Theatre, <br> Tiszaalpár (HU) 
+  title: STOP              
+  general: Program pre rodiny s deťmi   
+  price: 0         
+  occurences: 
+    -
+      time: nedeľa 10:30
+      location: Art Cafe, Pod Orechom
+      price: 0
+      toot-iframe-id: 0
+      toot-event-id: 0
+      
+  perex: 'Svetovo unikátne bábkové divadlo pre najmenších'
+  content: 
+    -
+      'Uvidíte niečo špeciálne a magické. Mikrobábky na mikropódiu. Precízny tanec drobnej a
+      krehkej baletky, čarovná hra šaša-harmonikára, neuveriteľný pohyb rybky či psíka.
+      Magický svet fantázie ožije priamo pred vašimi očami. Unikátna bábkarská technika
+      maďarského umelca očarí deti i dospelých. Všetci pocítia radosť zo zázraku. Bude to wau!'    
+    -
+     '<em>András Lénárt a jeho Mikropódium jedinečných bábok precestovalo za 30 rokov celý svet
+a získalo množstvo významných ocenení. </em>'
+
+ 
+  pictures:
+    - Mikropodium_01.jpg
+    - Mikropodium_02.png
+    - Mikropodium_03.jpg
+  
+  link: http://www.mikropodium.com

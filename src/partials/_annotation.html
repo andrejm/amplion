@@ -25,10 +25,10 @@
         <span class="event-argentum">Nominácia na Amplion Argentum</span>
         <br />
         {{/if}} {{#if this.top-general}}
-        <span class="event-top">{{this.top-general}}</span>
+        <span class="event-top">{{{this.top-general}}}</span>
         <br />
         {{/if}} {{#if this.general}}
-        <span class="event-more">{{this.general}}</span>
+        <span class="event-more">{{{this.general}}}</span>
         <br />
         {{/if}} 
         
@@ -62,12 +62,21 @@
        </p>
        {{/if}}
       </p>
-      {{#if @root.site-config.show-tickets}} {{#ifequal this.price 0}} {{!--
-      intentionally left blank, dont have opposit helper --}} {{else}}
-      <p data-smooth-scroll>
-        <a href="#vstupenky" class="button">Kúpiť vstupenky</a>
-      </p>
-      {{/ifequal}} {{/if}}
+      {{#if @root.site-config.show-tickets}} 
+        {{#ifequal this.price 0}} 
+        {{!--intentionally left blank, dont have opposit helper --}} 
+        {{else}}
+          {{#ifequal this.price "BUSKING"}}
+            <p style="margin: 0.7rem">
+              <span class="event-time">BUSKING</span>
+            </p>
+          {{else}}
+            <p data-smooth-scroll>
+              <a href="#vstupenky" class="button">Kúpiť vstupenky</a>
+            </p>
+          {{/ifequal}}
+        {{/ifequal}} 
+      {{/if}}
      
     </div>
   </div>
@@ -130,7 +139,14 @@
   </div>
 </section>
 
-<!-- <section id="vstupenky" class="section section--straight section--notopspace"> -->
+{{#if @root.site-config.show-tickets}}
+{{#ifequal this.price 0}}
+    {{!-- intentionally left blank, dont have opposit helper --}}
+{{else}}
+  <section id="vstupenky" class="section section--straight section--notopspace">
+  </section>
+{{/ifequal}}
+{{/if}}
 <section class="section section--straight section--notopspace">
   <div class="section__content">
     <p>&nbsp;</p>

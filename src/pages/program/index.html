@@ -115,12 +115,12 @@ sunday:
                 {{>_programmenav friday}}              
             </section>
 
-            {{#if @root.site-config.show-busking-program}}
+            {{#if @root.site-config.show-caravana}}
             <section class="section" style="background-color:white">
 
-              <h2 class="section__title">BUSKING</h2>
+              <h2 class="section__title">AMPLION Karavana</h2>
               <ul class="programmes">
-                {{#each programme-off-friday}}
+                {{#each programme-friday-caravan}}
                     {{>_progitem}}
                 {{/each}}
               </ul>
@@ -137,12 +137,12 @@ sunday:
                 </ul> 
                 {{>_programmenav saturday}}               
             </section>
-             {{#if @root.site-config.show-busking-program}}
+             {{#if @root.site-config.show-caravana}}
             <section class="section" style="background-color:white">
 
-                <h2 class="section__title">BUSKING</h2>
+                <h2 class="section__title">AMPLION Karavana</h2>
                   <ul class="programmes">
-                  {{#each programme-off-saturday}}
+                  {{#each programme-saturday-caravan}}
                       {{>_progitem}}
                   {{/each}}
                 </ul>
@@ -161,17 +161,17 @@ sunday:
                 {{>_programmenav sunday}}               
             </section>
             
-            {{#if @root.site-config.show-busking-program}}
+            {{!-- {{#if @root.site-config.show-caravana}}
             <section class="section" style="background-color:white">
 
-                <h2 class="section__title">BUSKING</h2>
+                <h2 class="section__title">AMPLION Karavana</h2>
                 <ul class="programmes">
-                  {{#each programme-off-sunday}}
+                  {{#each programme-sunday-caravan}}
                       {{>_progitem}}
                   {{/each}}
                 </ul>
             </section>
-            {{/if}}
+            {{/if}} --}}
           </div>
         </div>
     </div>

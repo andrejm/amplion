@@ -1,33 +1,33 @@
--
-   time: 11:00 – 11:45
-   performer: AMPLIÓN Karavana (HU/CZ/SK) 
-   age: Family
-   title: ZASTAVIŤ SA JE UMENIE!
-   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-   location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane
-   price: 3 €
-   caravana: true
-   slug: amplion-karavana-piatok
+# -
+#    time: 11:00 – 11:45
+#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
+#    age: Family
+#    title: ZASTAVIŤ SA JE UMENIE!
+#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+#    location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane
+#    price: 3 €
+#    caravana: true
+#    slug: amplion-karavana-piatok
 
--
-   time: 14:30 – 15:15
-   performer: AMPLIÓN Karavana (HU/CZ/SK) 
-   age: Family
-   title: ZASTAVIŤ SA JE UMENIE!
-   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-   location: TESCO, sídlisko Drieňová Banská Štiavnica
-   price: 0
-   caravana: true
-   slug: amplion-karavana-piatok
+# -
+#    time: 14:30 – 15:15
+#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
+#    age: Family
+#    title: ZASTAVIŤ SA JE UMENIE!
+#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+#    location: TESCO, sídlisko Drieňová Banská Štiavnica
+#    price: 0
+#    caravana: true
+#    slug: amplion-karavana-piatok
 -
   time: 15:00 – 15:45
-  performer: Galéria Kýchania mozgu Prešov (SK/USA/NL/UA)  
+  performer: Galéria Kýchania mozgu, Prešov (SK/USA/NL/UA)  
   age: 10+
   title: ANTIHYBRID
-  perex: "komentovaná prehliadka medzinárodnej výstavy kresleného humoru ako spomalenie i katarzia smiechom pred klamstvami a konšpiráciami"
-  location: Kaviareň Gavalier, Námestie sv.&nbsp;Trojice  
+  perex: "Vernisáž a komentovaná prehliadka medzinárodnej výstavy kresleného humoru ako spomalenie i katarzia smiechom pred klamstvami a konšpiráciami"
+  location: Kaviareň Gavalier, <br> Námestie sv.&nbsp;Trojice  
   price: 0
-  slug: galeria-kychania-mozgu-presov
+  slug: antihybrid
 -
   time: 16:00 – 16:30 
   title: OTVORENIE FESTIVALU  
@@ -38,6 +38,18 @@
   slug: otvorenie-festivalu
 
 -
+  time: 16:30 – 16:50
+  performer: Lorenzo Galli (IT) 
+  argentum: true
+  premiere: true
+  age: Family
+  title: POOM-CHA
+  perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+  location: Námestie sv.&nbsp;Trojice – Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha  
+  price: BUSKING
+  slug: poom-cha
+
+-
   time: 17:00 – 17:55 
   performer: Ugo Sanchez jr. (IT) 
   argentum: true
@@ -46,8 +58,8 @@
   title: RIO BOOM BOOM
   perex: hudobno-klaunská komédia svetového umelca
   location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha  
-  price: 4/7 €
-  slug: ugo-sanchez
+  price: 4 / 7 €
+  slug: rio-boom-boom
 
 -
   time: 17:30 – 18:30
@@ -66,19 +78,31 @@
   perex: vernisáž interaktívnej výstavy, ponorenie sa do sveta bez času 
   location: Starý zámok – karner  
   price: 0
-  slug: nada-salbotova
-
+  slug: nada-salbotova-piatok
 
 -
-   time: 19:00 – 20:00
-   performer: AMPLIÓN Karavana (HU/CZ/SK) 
-   age: Family
-   title: ZASTAVIŤ SA JE UMENIE!
-   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-   location: Krčma u Michala, Banská Belá
-   price: 0
-   caravana: true
-   slug: amplion-karavana-piatok
+  time: 18:30 – 19:00 
+  performer: Lorenzo Galli (IT) 
+  premiere: true  
+  argentum: true
+  age: Family
+  title: POOM-CHA
+  perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+  location: Trotuár Cafe – Art Cafe  
+  price: BUSKING
+  slug: poom-cha
+
+
+# -
+#    time: 19:00 – 20:00
+#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
+#    age: Family
+#    title: ZASTAVIŤ SA JE UMENIE!
+#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+#    location: Krčma u Michala, Banská Belá
+#    price: 0
+#    caravana: true
+#    slug: amplion-karavana-piatok
 
 -
   time: 19:00 – 20:30
@@ -99,8 +123,8 @@
   title: PLAYGROUND
   perex: tragikomický artista na čínskej tyči so silnou závislosťou na divákoch
   location: Kultúrne centrum, hlavná sála  
-  price:  6 €/  Predpredaj 8 €, na mieste 10 €
-  slug: collectif-primavez
+  price:  Predpredaj 6 / 8 €, na mieste 6 / 10 €
+  slug: playground
 
 -
   time: 21:00 – 22:15
@@ -109,8 +133,8 @@
   title: BOHOROVNÍ
   perex: bar kabaret noir. Temné príbehy, podmanivá hudba, tanec, čierny humor.
   location: Hotel Grand Matej, Kammerhofská&nbsp;5 
-  price:  7 €/ Predpredaj 12 €, na mieste 14 €
-  slug: ansambel-nepravidelneho-divadla
+  price:  Predpredaj 7 / 12 €, na mieste 7 / 14 €
+  slug: bohorovni
 -
   time: 22:30 – 23:45 
   performer: Filtr (CZ)

@@ -6,18 +6,19 @@
   perex: pouličná show proti hlúposti
   location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane 
   price: 3 €
-  slug: ansambel-nepravidelneho-divadla
+  slug: welcome-to-stupidity
 
 -
   time: 14:30 – 14:50 
   performer: Lorenzo Galli (IT) 
+  argentum: true
   premiere: true  
   age: Family
   title: POOM-CHA
   perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
   location: TESCO, sídlisko Drieňová Banská Štiavnica
-  price: 0
-  slug: lorenzo-galli
+  price: BUSKING
+  slug: poom-cha
 
 -
   time: 14:50 – 15:15 
@@ -26,7 +27,7 @@
   title: ART STOP / ZASTÁVKA UMENIA
   perex: klaunské etudy
   location: TESCO, sídlisko Drieňová Banská Štiavnica
-  price: 0
+  price: BUSKING
   slug: art-stop
 
 -
@@ -36,5 +37,5 @@
   title: KONCERT
   perex: folk-bluesovej kapely 
   location: Krčma u Michala, Banská Belá 
-  price: 0
+  price: BUSKING
   slug: puka

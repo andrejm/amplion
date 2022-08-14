@@ -7,7 +7,7 @@
   perex: walking cabaret streetster GALiRó as eccentric one-clown-band
   location: St. Trinity square – Starý zámok  
   price: 0
-  slug: lorenzo-galli 
+  slug: poom-cha 
 
 -
   time: 12:30 – 13:15 
@@ -17,16 +17,17 @@
   perex: the best movement pieces of the Slovak comedian + promo SKETCH UP
   location: Cafe Gavalier, St. Trinity Square
   price: 0
-  slug: palo-seris
+  slug: pavol-seris
 
 -
   time: 15:15 – 15:45 
   performer: Lorenzo Galli (IT) 
+  argentum: true
   premiere: true
   age: Family
   title: POOM-CHA 
   perex: walking cabaret streetster GALiRó as eccentric one-clown-band
   location: St. Trinity Square – Trotuár – Cultural center  
   price: 0
-  slug: lorenzo-galli
+  slug: poom-cha
 

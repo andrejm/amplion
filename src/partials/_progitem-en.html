@@ -60,9 +60,13 @@
                 {{#ifequal this.price 0}}
                     {{!-- intentionally left blank, dont have opposit helper --}}
                 {{else}}
-            <div class="progitem__cta">
-                <a href="/en/programme/{{this.slug}}#tickets" class="button progitem__buytickets">Buy tickets</a>
-            </div>
+                    {{#ifequal this.price "BUSKING"}}
+                        {{!-- intentionally left blank, dont have opposit helper --}}
+                    {{else}}
+                    <div class="progitem__cta">
+                        <a href="/en/programme/{{this.slug}}#tickets" class="button progitem__buytickets">Buy tickets</a>
+                    </div>
+                    {{/ifequal}}
                 {{/ifequal}}
             {{/if}}
         </div>

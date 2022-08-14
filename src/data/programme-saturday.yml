@@ -6,7 +6,7 @@
    perex: výstava kresleného humoru svetových karikaturistov
    location: Kaviareň Gavalier, Námestie sv.&nbsp;Trojice  
    price: 0
-   slug: galeria-kychania-mozgu-presov
+   slug: antihybrid
 -
    time: 10:00 – 10:20 
    performer: Filtr (CZ)  
@@ -16,6 +16,17 @@
    location: Trotuár Cafe, terasa
    price: 0
    slug: filtr
+-
+   time: 10:30 – 11:00 
+   performer: Lorenzo Galli (IT) 
+   argentum: true
+   premiere: true
+   age: Family
+   title: POOM-CHA 
+   perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+   location: Námestie sv.&nbsp;Trojice – Starý zámok 
+   price: BUSKING
+   slug: poom-cha
 
 -
    time: 11:00 – 11:55 
@@ -26,19 +37,53 @@
    title: RIO BOOM BOOM
    perex: hudobno-klaunská komédia svetového umelca
    location: Starý zámok – lapidárium
-   price: 5 €/ Predpredaj 8 €, na mieste 9 €
-   slug: ugo-sanchez
+   price: Predpredaj 5 / 8 €, na mieste 5 / 9 €
+   slug: rio-boom-boom
 
 -
-   time: "13:30 – 15:00" 
-   performer: AMPLIÓN Karavana (HU/CZ/SK) 
+   time: 12:00 – 12:30
+   performer: Ateliér fyzického divadla JAMU (SK/CZ)  
    age: Family
-   title: ZASTAVIŤ SA JE UMENIE!
-   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-   location: Terasa u Blaškov, Počúvadlo
-   price: 0
-   caravana: true
-   slug: amplion-karavana-sobota
+   title: ART STOP / ZASTÁVKA UMENIA 
+   perex: happening Chvála pomalosti 
+   location: Zastávky Radničné námestie – Terra Permonia – Trotuár  
+   price: BUSKING
+   slug: art-stop
+
+-
+  time: 12:30 – 13:15 
+  performer: Palo Seriš (SK)  
+  age: Family
+  title: SKEČE
+  perex: najlepšie pohybové čísla slovenského komika + promo na SKETCH UP
+  location: Kaviareň Gavalier, Námestie sv. Trojice 
+  price: BUSKING
+  slug: pavol-seris
+
+-
+   time: 13:15 – 13:45
+   performer: Lorenzo Galli (IT) 
+   argentum: true
+   premiere: true  
+   age: Family
+   title: POOM-CHA
+   perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
+   location: Trotuár Cafe – Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha 
+   price: BUSKING
+   slug: poom-cha
+
+
+
+# -
+#    time: "13:30 – 15:00" 
+#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
+#    age: Family
+#    title: ZASTAVIŤ SA JE UMENIE!
+#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+#    location: Terasa u Blaškov, Počúvadlo
+#    price: 0
+#    caravana: true
+#    slug: amplion-karavana-sobota
 
 -
    time: 14:00 – 14:45 
@@ -49,8 +94,8 @@
    title: PLAYGROUND
    perex: tragikomický artista na čínskej tyči so silnou závislosťou na divákoch
    location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha   
-   price: 5 €/ Predpredaj 8 €, na mieste 9 €
-   slug:  collectif-primavez
+   price: Predpredaj 5 / 8 €, na mieste 5 / 9 €
+   slug:  playground
 
 
 -
@@ -71,16 +116,28 @@
    perex: komentovaná prehliadka interaktívnej výstavy, ponorenie sa do sveta bez času
    location: Starý zámok – lapidárium  
    price: 0
-   slug: nada-salbotova
+   slug: nada-salbotova-sobota
 -
    time: 15:00 – 16:30 
-   perfomer: Karol Sudor (SK)  
+   performer: Karol Sudor (SK)  
    age: 12+
    title: ART PUTIKA
    perex: "krčmové dišputy a autorské čítanie – hosť: Daniel Pastirčák" 
    location: Art Cafe, povala 
    price: 7 €
-   slug: karol-sudor
+   slug: karol-sudor-citanie
+
+-
+   time: 15:15 – 15:45
+   performer: Lorenzo Galli (IT)
+   argentum: true
+   premiere: true  
+   age: Family
+   title: POOM-CHA
+   perex: kabaretný pouličník  GALiRó ako eccentric one-clown-band
+   location: Námestie sv.&nbsp;Trojice – Trotuár – Kultúrne centrum  
+   price: BUSKING
+   slug: poom-cha
 
 -
    time: 16:00 – 17:00 
@@ -90,19 +147,19 @@
    title: Lepetit MALÝ PRINC
    perex: úžasný tanečno-artistický zážitok so živou kapelou
    location: Kultúrne centrum, hlavná sála 
-   price: 7€/ Predpredaj 12€, na mieste 14 €
-   slug: credance-company-and-maca-a-kapela-roka
+   price: Predpredaj 7 / 12€, na mieste 7 / 14 €
+   slug: lepetit-maly-princ
 
--  
-   time: "16:00 – 17:00" 
-   performer: AMPLIÓN Karavana (HU/CZ/SK) 
-   age: Family
-   title: ZASTAVIŤ SA JE UMENIE!
-   perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-   location:  Na fare, Beluja
-   price: 0
-   caravana: true
-   slug: amplion-karavana-sobota
+# -  
+#    time: "16:00 – 17:00" 
+#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
+#    age: Family
+#    title: ZASTAVIŤ SA JE UMENIE!
+#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
+#    location:  Na fare, Beluja
+#    price: 0
+#    caravana: true
+#    slug: amplion-karavana-sobota
 
   
 -
@@ -123,7 +180,7 @@
    title: SKETCH UP – 4. ročník česko-slovenskej súťaže kabaretných skečov nových talentov
    location: Kocka, Kammerhofská 6  
    price: Predpredaj 8 €, na mieste 10 €
-   slug: sketchup
+   slug: sketch-up
 -
    time: 20:30 – 21:30 
    performer: 'Ugo Sanchez jr. (IT) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
@@ -133,8 +190,8 @@
    title: UGO SANCHEZ WANTS TO PLAY
    perex: show majstrovského kabaretiéra
    location: Kultúrne centrum, hlavná sála
-   price:  6 €/ Predpredaj 10 €, na mieste 12 €
-   slug: ugo-sanchez
+   price:  Predpredaj 6 / 10 €, na mieste 6 / 12 €
+   slug: ugo-sanchez-wants-to-play
 -
    time: 22:00 – 23:15
    performer: TooT Ensemble (CZ)

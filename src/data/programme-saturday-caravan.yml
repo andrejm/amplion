@@ -5,7 +5,7 @@
   title: ART STOP / ZASTÁVKA UMENIA
   perex: klaunské etudy
   location: Terasa u Blaškov, Počúvadlo
-  price: 0
+  price: BUSKING
   slug: art-stop
 
 -
@@ -14,7 +14,7 @@
   age: 12+
   title: KONCERT folk-bluesovej kapely 
   location: Terasa u Blaškov, Počúvadlo
-  price: 0
+  price: BUSKING
   slug: puka
 
 -
@@ -24,16 +24,17 @@
   title: ART STOP / ZASTÁVKA UMENIA
   perex: klaunské etudy
   location: Na fare, Beluja
-  price: 0
+  price: BUSKING
   slug: art-stop
 
 -
   time: 16:30 – 17:00 
   perfromer: Lorenzo Galli (IT)
+  argentum: true
   premiere: true
   age: Family
   title: POOM-CHA
   perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
   location: Na fare, Beluja
-  price: 0
-  slug: lorenzo-galli
+  price: BUSKING
+  slug: poom-cha
