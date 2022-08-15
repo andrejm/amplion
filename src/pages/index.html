@@ -175,11 +175,13 @@ hideFooterNewsletter: true
 <section class="section section--plain section--narrow">
   <div class="section__inner">
     <!-- <h2 class="section__title section__title--noarrow">Festivalové noviny zverejníme 11.&nbsp;septembra&nbsp;2020 v Denníku N</h2> -->
+    {{#if @root.site-config.show-festivalove-noviny}}
     <p class="section__footertext">
       <a href="/assets/FN_AMPLION_2021.pdf" class="button"
         >Pozrite si Festivalové noviny s headlinermi</a
       >
     </p>
+    {{/if}}
 
     <h3 class="section__subtitle">
       Ak chcete dostávať informácie z newslettra, pošlite nám svoj e-mail a my

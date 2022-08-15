@@ -107,6 +107,7 @@
 -
   time: 19:00 – 20:30
   performer: Karol Sudor (SK)  
+  argentum: true
   age: 15+
   title: ART PUTIKA
   perex: "krčmové dišputy – hostia: Petra Procházková, Viera Dubačová" 
@@ -121,7 +122,7 @@
   premiere: true  
   age: Family
   title: PLAYGROUND
-  perex: tragikomický artista na čínskej tyči so silnou závislosťou na divákoch
+  perex: Unikátny cirkus-art na čínskej tyči plne závislý na divákoch
   location: Kultúrne centrum, hlavná sála  
   price:  Predpredaj 6 / 8 €, na mieste 6 / 10 €
   slug: playground
@@ -139,6 +140,7 @@
   time: 22:30 – 23:45 
   performer: Filtr (CZ)
   premiere: true  
+  argentum: true
   age: 15+
   title: SPOKO
   perex: "koncert recesistickej pražskej kapely – obývačkový pop a garážový rock"

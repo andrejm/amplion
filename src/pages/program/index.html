@@ -55,6 +55,8 @@ sunday:
           <dd>Scéna — miesto, na ktorom prebieha dané predstavenie</dd>
           <dt style="color:#E62E6C">Vstupné X/Y</dt>
           <dd>Označenie X znamená zľavnené vstupné pre deti od 5 do 15 rokov, Y je vstupné pre dospelých. Deti do 5 rokov majú vstup zadarmo.</dd>
+           <dt style="color:#E62E6C">BUSKING</dt>
+          <dd>Dobrovoľné vstupné do klobúka</dd>
         
         </dl>
       </p>
@@ -118,7 +120,7 @@ sunday:
             {{#if @root.site-config.show-caravana}}
             <section class="section" style="background-color:white">
 
-              <h2 class="section__title">AMPLION Karavana</h2>
+              <h2 class="section__title">AMPLIÓN Karavana</h2>
               <ul class="programmes">
                 {{#each programme-friday-caravan}}
                     {{>_progitem}}
@@ -140,7 +142,7 @@ sunday:
              {{#if @root.site-config.show-caravana}}
             <section class="section" style="background-color:white">
 
-                <h2 class="section__title">AMPLION Karavana</h2>
+                <h2 class="section__title">AMPLIÓN Karavana</h2>
                   <ul class="programmes">
                   {{#each programme-saturday-caravan}}
                       {{>_progitem}}
@@ -164,7 +166,7 @@ sunday:
             {{!-- {{#if @root.site-config.show-caravana}}
             <section class="section" style="background-color:white">
 
-                <h2 class="section__title">AMPLION Karavana</h2>
+                <h2 class="section__title">AMPLIÓN Karavana</h2>
                 <ul class="programmes">
                   {{#each programme-sunday-caravan}}
                       {{>_progitem}}
@@ -203,9 +205,9 @@ sunday:
 <!-- <section id="download" class="section section--plain section--top"> -->
   <section id="download" class="section section section--top">
   <div class="section__inner">
-    <div class="section__content">
+    {{!-- <div class="section__content">
         <p >Počas celého festivalu bude na bezpečie divákov dohliadať <br> <span color="#E62E6C">ŠPECIÁLNA </span> <strong style="color:#E62E6C"> DOBROVOĽNÍCKA ZDRAVOTNÁ JEDNOTKA</strong></p>
-    </div>
+    </div> --}}
     <h2 class="section__title">Program do vrecka, stačí vytlačiť</h2>
     <div class="section__content">
       <!-- <p>Pozrite si celý program v jednom PDF či rovno naše festivalové noviny:</p> -->
@@ -215,13 +217,15 @@ sunday:
     <div class="presskit">
       <div class="presskit__item">
         <img src="/assets/img/pressico-logo.svg" alt="" class="presskit__ico">
-        <a href="/assets/PROGRAM_AMPLION_21_SK_web.pdf" class="button" target="_blank">Program festivalu (pdf)</a>
+        <a href="/assets/PROGRAM_AMPLION_22_SK_FINAL.pdf" class="button" target="_blank">Program festivalu (pdf)</a>
       </div>
       <!-- todo dopnit festivalove noviny -->
+      {{#if @root.site-config.show-festivalove-noviny}}
       <div class="presskit__item">
         <img src="/assets/img/pressico-pressrelease.svg" alt="" class="presskit__ico">
         <a href="/assets/FN_AMPLION_2021.pdf" class="button" target="_blank">Festivalové noviny (pdf)</a>
       </div>
+      {{/if}}
     </div>
   </div>
 </section>

@@ -16,11 +16,13 @@ otvorenie-festivalu:
 
   pictures:
     -
-      Otvorenie_festivalu_MS_057_Foto_Michal Sv¡tok.jpg
+      amplion21_otvorenie_festivalu_MS_057.jpg
     -
-      Otvorenie_festivalu_MS_059_Foto_Michal Sv¡tok.jpg
+      amplion21_otvorenie_festivalu_KM_013.jpg
     -
-      Otvorenie_festivalu_MS_069_Foto_Michal Sv¡tok.jpg
+      amplion21_otvorenie_festivalu_KM_004.jpg
+   
+   
 
 lepetit-maly-princ:
   perfromer: CreDance company &amp; Maca a Kapela roka, Bratislava (SK)
@@ -96,10 +98,10 @@ ugo-sanchez-wants-to-play:
   pictures:
     - 
       Ugo Sanchez Jr. - Ugo Sanchez wants to play 2.jpg
-    -
-      Ugo Sanchez Jr. - Ugo Sanchez wants to play 3.jpg
     - 
       Ugo Sanchez Jr. - Ugo Sanchez wants to play 5.jpg
+    -
+      Ugo Sanchez Jr. - Ugo Sanchez wants to play 3.jpg
 
   foto: Simone Ridi
   link: https://www.ugosanchezjr.com 
@@ -124,9 +126,10 @@ bohorovni:
   
   pictures:
     -
-      bohorovni_BA_premiera_012.jpg
-    -
       bohorovni_BA_premiera_024.jpg
+
+    -
+      bohorovni_BA_premiera_012.jpg
     - 
       bohorovni_BA_premiera_064.jpg
     - 
@@ -152,8 +155,8 @@ sketch-up:
   
 
   pictures:
-    - amplion21_AND_Mojse_band_Sketch_up_KM_008.jpg
     - amplion21_AND_Mojse_band_Sketch_up_MS_070.jpg
+    - amplion21_AND_Mojse_band_Sketch_up_KM_008.jpg
     - amplion21_AND_Mojse_band_Sketch_up_MS_085.jpg
     - amplion21_AND_Mojse_band_Sketch_up_MS_093.jpg
   link: https://www.amplion.eu
@@ -186,8 +189,8 @@ playground:
 
 
   pictures: 
-    - Playground  Barbara Salom Felgenhauer_3.jpg
     - Playground  Barbara Salom Felgenhauer_4.jpg
+    - Playground  Barbara Salom Felgenhauer_3.jpg
     - Playground  Barbara Salom Felgenhauer_5.jpg
     - Playground  Barbara Salom Felgenhauer_6.jpg
   foto: Salomé Felgenhauer  
@@ -265,6 +268,7 @@ toot-ensemble:
   performer: TooT Ensemble, Praha (CZ)
   title: KONCERT  
   premiere: true
+  argentum: true
   top-general: Program pre mladých a&nbsp;dospelých 
   occurences: 
     -
@@ -279,8 +283,31 @@ toot-ensemble:
   foto: Archív TooT ensemble
 
   pictures: 
-    - TooT_Ensemble_18.jpg
     - TooT_ensemble_62.jpg
+    - TooT_Ensemble_18.jpg
+    - TooT_ensemble_70-1.jpg
+
+toot-ensemble-promo: 
+  performer: TooT Ensemble, Praha (CZ)
+  title: PROMO KONCERT  
+  premiere: true
+  argentum: true
+  top-general: Program pre mladých a&nbsp;dospelých 
+  occurences: 
+    -
+      time: sobota 14:30
+      location: Námestie sv. Trojice, Trotuár cafe, Art Cafe
+
+  perex: Pozvánka na parádnu pražskú techno-dychovku do tanca 
+  content: 
+    - 'Toto bude pecka, akú ste ešte nezažili! V sobotu večer sa vytancujete a vyskáčete na acoustic techno brass bande a live EDM, aké by ste nečakali. Inštrumentálna čisto autorská tanečná hudba v&nbsp;podaní deviatich vynikajúcich muzikantov to naplno rozbalí! Jadro kapely tvoria skúsení a&nbsp;v&nbsp;českých vodách dobre známi muzikanti, akordeonista a&nbsp;saxofonista David Lomič (Tygroo, Nerez&Lucia) a&nbsp;multiinštrumentalista Robert Fischmann (Neřež, Bran), ktorí sa v&nbsp;dobe pandémie spoločne rozhodli pre tento veľkolepý projekt. Vaša najlepšia voľba sobotnej noci!  '
+    - '<em>Kapela TooT Ensemble sa inšpiruje rôznymi žánrami elektronickej tanečnej hudby a&nbsp;súčasnou vlnou kapiel hrajúcich EDM naživo ako sú napr. Meute, Moon Hooch či Too Many Zooz. Nedočkáte sa však žiadnych prerábok, pretože tvorí len autorskú hudbu. Svoj zvuk opiera o&nbsp;šesťčlennú dychovú sekciu a&nbsp;nekompromisné bubenícke trio. Zaujme a&nbsp;roztancuje všetkých ľudí každého veku, kultúr a záujmov.</em>'
+  link: http://www.uhomusic.com/TooT-ensemble
+  foto: Archív TooT ensemble
+
+  pictures: 
+    - TooT_ensemble_62.jpg
+    - TooT_Ensemble_18.jpg
     - TooT_ensemble_70-1.jpg
 
 
@@ -288,6 +315,7 @@ filtr:
   performer: Filtr, Praha (CZ)
   title: KONCERT 
   premiere: true
+  argentum: true
   top-general: Program pre mladých a&nbsp;dospelých
   occurences: 
     - 
@@ -298,8 +326,8 @@ filtr:
     - 'Veselé, rozvodové i veselé rozvodové piesne pre celú (i neúplnú) rodinu. Takto sa predstavuje originálna veselá skupina Filtr. Vznikla v roku 2001 ako autorské duo Notovný & Votava, postupne sa rozrástli o&nbsp;hostí. Aktuálne hrajú v&nbsp;stálej štvorici s nestálymi hosťami. Ich hudba je napínavá, dramatická a&nbsp;skoro vždy vtipná – pretože živá hra je nevyspytateľná. Filtr to je Petr Jediný Novotný / texty a&nbsp;spev, Filip Votava / hudba, gitara a&nbsp;spev, Honza Hodek / basa, Lucie Vacovská / spev. Čaká vás výnimočný hudobný filter tej najlepšej muziky!'
 
   pictures: 
-    - Filtr 2019 IMG_6138 foto Shoe Bean.jpg
     - Filtr 2022 IMG_9507.JPG foto Shoe Bean.jpg
+    - Filtr 2019 IMG_6138 foto Shoe Bean.jpg
     - Filtr 2022 IMG_9541.JPG foto Shoe Bean.jpg
   foto: Shoe Bean
   link: https://www.filtruj.cz
@@ -312,7 +340,7 @@ puka:
   occurences: 
     -
       location: Trotuar Cafe
-      time: nedeľa 11:00   
+      time: nedeľa 13:00   
     -
       location: AMPLION Karavana
 
@@ -322,9 +350,9 @@ puka:
     - '<em>Repertoár PUKY tvorí autorský tandem Jakubov / Baláž. Pre svoj hudobný štýl vymysleli škatuľku „podkarpatské blues“, aby naznačili, že sa do svojej hudby snažia prepašovať atmosféru piesní slepých černochov z New Orleansu, ale  aj&nbsp;melodiku a&nbsp;harmónie krajov z východnej časti Karpatského oblúka. </em>'
 
   pictures: 
+    - Puka_Jakubov.jpg
     - Puka Presov 2022_Anicka.jpg
     - Puka Presov 2022_Stefan.jpg
-    - Puka_Jakubov.jpg
 
   foto: Archív kapely
 
@@ -346,13 +374,11 @@ pavol-seris:
     - Seris_1.jpg
     - Seris_2.jpg
     - Seris_3.jpg
-    - Pavol Seris_foto Jaroslav Novak_16.jpg
-    - Pavol Seris_foto Jaroslav Novak_19.jpg
 
 
 karol-sudor: 
-  performer: Karol Sudor, Veľký Krtíš (SK) 
-  title: '<span style="font-size:0.8em">ART PUTIKA</span> – <span style="font-size:0.6em"> krčmové dišputy – hostia: Petra Procházková, Viera Dubačová</span>' 
+  performer: Karol Sudor (SK) 
+  title: '<span style="font-size:0.8em">ART PUTIKA</span> – <span style="font-size:0.6em"> krčmové dišputy – hostia: Petra Procházková, Viera&nbsp;Dubačová</span>' 
   perex: Jedinečný rozhovor s odvážnymi ženami o možnostiach zastavenia vojny na Ukrajine
   top-general: Program pre mladých a&nbsp;dospelých
   argentum: true
@@ -373,7 +399,7 @@ karol-sudor:
   link: https://sk.wikipedia.org/wiki/Karol_Sudor 
 
 karol-sudor-citanie:
-  performer: Karol Sudor, Veľký Krtíš (SK)
+  performer: Karol Sudor (SK)
   argentum: true
   title: 'ART PUTIKA – krčmové dišputy a autorské čítanie – hosť: Daniel Pastirčák'
   top-general: Program pre mladých a&nbsp;dospelých 
@@ -400,7 +426,7 @@ karol-sudor-citanie:
     - Daniel Pastircak_foto Tomas Benedikovic_Dennik N.jpg
     - Karol Sudor_foto_TASR_Pavol Zachar.jpg
 
-  foto: Tomas Benedikovic / Pavol Zachar
+  foto: Tomáš Benedikovič / Pavol Zachar
 
 fastfood-dzenerejsn:
   performer: D´fastfood dženerejšn (SK)
@@ -432,6 +458,9 @@ nada-salbotova-piatok:
     -
       time: piatok 18:30
       location: Starý zámok – karner
+    -
+      time: sobota 15:00
+      location: Starý zámok – karner
 
   perex: Vernisáž performatívnej interaktívej výstavy svetov myslí umiestnených v dimenzii bez času
 
@@ -442,8 +471,8 @@ nada-salbotova-piatok:
 
   pictures:
     - Casomysle_6.jpg
-    - Casomysle_4.jpg
-    - Casomysle_1.jpg
+    - Casomysle_8.jpg
+    - Casomysle_7.jpg
   foto: Naďa Salbotová
   link: https://www.instagram.com/nadasalbotova/
 
@@ -454,10 +483,13 @@ nada-salbotova-sobota:
   price: 0
   occurences:
     -
+      time: piatok 18:30
+      location: Starý zámok – karner
+    -
       time: sobota 15:00
       location: Starý zámok – karner
 
-  perex: Performatívna interaktívna výstava svetov myslí umiestnených v dimenzii bez času
+  perex: Komentovaná prehliadka performatívnej interaktívnej výstavy svetov myslí umiestnených v dimenzii bez času
 
   content:
     - 'Autorka uvádza výstavu vlastnými slovami: „Moja prvá samostatná výstava venovaná maľbe. Vysnená. Už roky kupujem plátna, dlho stáli, drzo biele opreté v kúte na povale. Tento rok dozrel ČAS a ja som sa pustila do práce. Je to výzva samej sebe. Nie je ľahké vnoriť sa... bývam vtedy mizantrop a nechcem, aby ma niekto rušil. Je to také tiché stretnutie samej seba so sebou. Ponorenie sa do svojej MYSLE, zabudnutie na ČAS... Hľadám motív, niečo čo povznesie ducha, nastolí rovnováhu... hodiny utekajú ani neviem ako. Je to trochu ako sen, deň v minúte a minúta v dni. Balansovanie medzi túžbou po dokonalosti, uvedomením si svojich hraníc aj eufóriou z toho, čo sa podarí. Obdivujem ľudské tváre, nakreslila som desiatky portrétov ľudí každého veku... láska k ľudským tváram ma nikdy neprešla.  aj&nbsp;moje obrazy vychádzajú z portrétov ľudí, ale fiktívnych, pridávam do nich rôzne atmosféry – snové krajiny, symboly, abstraktné farebné štruktúry. Sú to moje svety MYSLÍ umiestnené v dimenzii bez času – moje ČASOMYSLE.“ 
@@ -474,6 +506,7 @@ nada-salbotova-sobota:
 art-stop:
   performer: Ateliér fyzického divadla JAMU, Brno (CZ/SK)
   title: ART STOP / ZASTÁVKA UMENIA
+  price: BUSKING
   top-general: Program pre mladých a&nbsp;dospelých
   occurences:
     -
@@ -546,6 +579,27 @@ welcome-to-stupidity:
     - WTS_premiera_BB_KB_47.jpg
   
   link: http://www.and-theatre.art
+
+
+after-koncert-and-amplion-argentum:
+  performer: TooT Ensemble (CZ)
+  title: AFTER KONCERT + vyhlásenie cien festivalu Amplion Argentum 
+  price: 0 
+  occurences:
+    - 
+      time: nedeľa 11:00
+      location: Art Cafe, terasa
+
+  content: 
+    - 'Ste zvedaví, kto si tento rok odnesie cenu festivalu AMPLION ARGENTUM v kategóriách nový kabaret, pouličné a spoločensky-angažované umenie? Dozviete sa to v nedeľu na terase Art Cafe, kde sa vďaka TooT Ensemble všetci parádne rozlúčime. Zastavte sa!'
+
+  foto: Michal Svitok
+  pictures: 
+    - amplion21_vyhlasenie_cien_festivalu_KM_001.jpg
+    - amplion21_vyhlasenie_cien_festivalu_KM_003.jpg
+    - amplion21_vyhlasenie_cien_festivalu_MS_003.jpg
+    - amplion21_vyhlasenie_cien_festivalu_MS_027.jpg
+    - amplion21_vyhlasenie_cien_festivalu_MS_035.jpg
 
 
 

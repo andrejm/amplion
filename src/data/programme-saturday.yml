@@ -1,15 +1,16 @@
 - 
    time: 10:00 – 16:00
-   performer: Galéria Kýchania mozgu Prešov (SK/USA/NL/UA)
+   performer: Galéria Kýchania mozgu, Prešov (SK/USA/NL/UA)
    age: 10+
    title: ANTIHYBRID
    perex: výstava kresleného humoru svetových karikaturistov
-   location: Kaviareň Gavalier, Námestie sv.&nbsp;Trojice  
+   location: Kaviareň Gavalier, Námestie&nbsp;sv.&nbsp;Trojice  
    price: 0
    slug: antihybrid
 -
    time: 10:00 – 10:20 
    performer: Filtr (CZ)  
+   argentum: true
    age: Family
    title: AFTER KONCERT
    perex: obývačkový pop a garážový rock 
@@ -24,7 +25,7 @@
    age: Family
    title: POOM-CHA 
    perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
-   location: Námestie sv.&nbsp;Trojice – Starý zámok 
+   location: Námestie sv.&nbsp;Trojice – Starý&nbsp;zámok 
    price: BUSKING
    slug: poom-cha
 
@@ -56,7 +57,7 @@
   age: Family
   title: SKEČE
   perex: najlepšie pohybové čísla slovenského komika + promo na SKETCH UP
-  location: Kaviareň Gavalier, Námestie sv. Trojice 
+  location: Kaviareň Gavalier, Námestie&nbsp;sv.&nbsp;Trojice 
   price: BUSKING
   slug: pavol-seris
 
@@ -92,7 +93,7 @@
    premiere: true
    age: Family
    title: PLAYGROUND
-   perex: tragikomický artista na čínskej tyči so silnou závislosťou na divákoch
+   perex: Unikátny cirkus-art na čínskej tyči plne závislý na divákoch
    location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha   
    price: Predpredaj 5 / 8 €, na mieste 5 / 9 €
    slug:  playground
@@ -102,24 +103,26 @@
    time: 14:30 – 15:00 
    performer: TooT Ensemble (CZ) 
    premiere: true  
+   argentum: true
    age: Family
    title: PROMO KONCERT
-   perex: parádna pražská techno-dychovka do tanca i na počúvanie
-   location: Námestie sv.&nbsp;Trojice – Trotuár Cafe – Art Cafe  
+   perex: Pozvánka na parádnu pražskú techno-dychovku do tanca i na počúvanie
+   location: Námestie sv.&nbsp;Trojice – Trotuár&nbsp;Cafe&nbsp;–&nbsp;Art&nbsp;Cafe  
    price: 0
-   slug: toot-ensemble
+   slug: toot-ensemble-promo
 -
    time: 15:00 – 16:15 
    performer: Naďa Salbotová (SK)  
    age: 10+ 
    title: ČASOMYSLE
    perex: komentovaná prehliadka interaktívnej výstavy, ponorenie sa do sveta bez času
-   location: Starý zámok – lapidárium  
+   location: Starý zámok – karner  
    price: 0
    slug: nada-salbotova-sobota
 -
    time: 15:00 – 16:30 
-   performer: Karol Sudor (SK)  
+   performer: Karol Sudor (SK) 
+   argentum: true 
    age: 12+
    title: ART PUTIKA
    perex: "krčmové dišputy a autorské čítanie – hosť: Daniel Pastirčák" 
@@ -141,11 +144,11 @@
 
 -
    time: 16:00 – 17:00 
-   performer: 'CreDance company & Maca&nbsp;a&nbsp;Kapela&nbsp;roka&nbsp;(SK) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
+   performer: 'CreDance company & Maca&nbsp;a&nbsp;Kapela&nbsp;roka&nbsp;(SK) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
    argentum: true
    age: 12+
    title: Lepetit MALÝ PRINC
-   perex: úžasný tanečno-artistický zážitok so živou kapelou
+   perex: úžasný tanečno-artistický zážitok so živou kapelou, <br> v hlavnej úlohe David Hartl alebo Ondrej Kovaľ!
    location: Kultúrne centrum, hlavná sála 
    price: Predpredaj 7 / 12€, na mieste 7 / 14 €
    slug: lepetit-maly-princ
@@ -166,15 +169,16 @@
    time: 16:30 – 17:00 
    performer: Filtr (CZ) 
    premiere: true  
+   argentum: true
    age: 15+
    title: AFTER KONCERT
    perex: obývačkový pop a garážový rock
    location: Art Cafe, terasa  
    price: 0
-   slug: filter-afterkoncert
+   slug: filtr
 -
    time: 18:30 – 20:00 
-   performer: AND + Filtr (SK/CZ) 
+   performer: AND & hostia & Filtr (SK/CZ) 
    general: Len na AMPLIÓNE!
    age: 15+
    title: SKETCH UP – 4. ročník česko-slovenskej súťaže kabaretných skečov nových talentov
@@ -183,7 +187,7 @@
    slug: sketch-up
 -
    time: 20:30 – 21:30 
-   performer: 'Ugo Sanchez jr. (IT) <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
+   performer: 'Ugo Sanchez jr. (IT) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>'
    argentum: true 
    premiere: true 
    age: Family
@@ -193,8 +197,9 @@
    price:  Predpredaj 6 / 10 €, na mieste 6 / 12 €
    slug: ugo-sanchez-wants-to-play
 -
-   time: 22:00 – 23:15
+   time: 22:30 – 23:45
    performer: TooT Ensemble (CZ)
+   argentum: true
    premiere: true  
    age: Family
    title: KONCERT

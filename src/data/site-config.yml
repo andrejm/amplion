@@ -1,8 +1,10 @@
-show-tickets: true
+show-tickets: false
 show-program: true
+show-program-en: false
 busking-menu: true
 sketchup-menu: true
 year: 2022
+show-festivalove-noviny: false
 
 show-caravana: true
 show-busking-program: true

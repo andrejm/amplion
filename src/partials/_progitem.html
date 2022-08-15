@@ -65,7 +65,20 @@
                         {{!-- intentionally left blank, dont have opposit helper --}}
                     {{else}}
                     <div class="progitem__cta">
-                        <a href="/program/{{this.slug}}#vstupenky" class="button progitem__buytickets">Kúpiť vstupenky</a>
+                        <a href="/program/{{this.slug}}#vstupenky" class="button progitem__buytickets">Kúpiť vstupenku</a>
+                    </div>
+                    {{/ifequal}}
+                {{/ifequal}}
+
+            {{else}}
+                {{#ifequal this.price 0}}
+                    {{!-- intentionally left blank, dont have opposit helper --}}
+                {{else}}
+                    {{#ifequal this.price "BUSKING"}}
+                        {{!-- intentionally left blank, dont have opposit helper --}}
+                    {{else}}
+                    <div class="progitem__cta">
+                        <a href="https://goout.net/sk/festival-amplion-2022-novy-kabaret-and-poulicne-umenie/szhjqnt/" class="button progitem__buytickets" target="blank nofollow noopener">Predpredaj od 5.9.2022</a>
                     </div>
                     {{/ifequal}}
                 {{/ifequal}}
