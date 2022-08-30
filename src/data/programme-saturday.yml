@@ -16,7 +16,7 @@
    perex: obývačkový pop a garážový rock 
    location: Trotuár Cafe, terasa
    price: 0
-   slug: filtr
+   slug: filtr-after
 -
    time: 10:30 – 11:00 
    performer: Lorenzo Galli (IT) 
@@ -116,7 +116,7 @@
    age: 10+ 
    title: ČASOMYSLE
    perex: komentovaná prehliadka interaktívnej výstavy, ponorenie sa do sveta bez času
-   location: Starý zámok – karner  
+   location: Starý zámok – karner <br> Výstava je prístupná v sobotu od&nbsp;09:00 do 17:00.  
    price: 0
    slug: nada-salbotova-sobota
 -
@@ -148,7 +148,7 @@
    argentum: true
    age: 12+
    title: Lepetit MALÝ PRINC
-   perex: úžasný tanečno-artistický zážitok so živou kapelou, <br> v hlavnej úlohe David Hartl alebo Ondrej Kovaľ!
+   perex: úžasný tanečno-artistický zážitok so živou kapelou, <br> v hlavnej úlohe David Hartl!
    location: Kultúrne centrum, hlavná sála 
    price: Predpredaj 7 / 12€, na mieste 7 / 14 €
    slug: lepetit-maly-princ
@@ -175,7 +175,7 @@
    perex: obývačkový pop a garážový rock
    location: Art Cafe, terasa  
    price: 0
-   slug: filtr
+   slug: filtr-after
 -
    time: 18:30 – 20:00 
    performer: AND & hostia & Filtr (SK/CZ) 
@@ -197,7 +197,7 @@
    price:  Predpredaj 6 / 10 €, na mieste 6 / 12 €
    slug: ugo-sanchez-wants-to-play
 -
-   time: 22:30 – 23:45
+   time: 22:00 – 23:15
    performer: TooT Ensemble (CZ)
    argentum: true
    premiere: true  

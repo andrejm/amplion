@@ -27,7 +27,7 @@ lepetit-maly-princ:
   title: 'Lepetit MALÝ PRINC <br> <strong style="color:#362982;font-size:0.8em;"> Headliner Festivalu </strong>'
   argentum: true
   general: TOP program pre všetkých
-  perex: Povzbudivý tanečno-artistický zážitok so živou kapelou, ktorý robí svet krajším. V hlavnej úlohe David Hartl alebo Ondrej Kovaľ!
+  perex: Povzbudivý tanečno-artistický zážitok so živou kapelou, ktorý robí svet krajším. V hlavnej úlohe David Hartl!
 
   occurences: 
     - 
@@ -267,7 +267,7 @@ toot-ensemble:
   top-general: Program pre mladých a dospelých 
   occurences: 
     -
-      time: sobota 22:30
+      time: sobota 22:00
       location: Kocka 
 
   perex: Parádna pražská techno-dychovka do tanca 

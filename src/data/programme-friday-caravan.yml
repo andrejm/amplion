@@ -5,8 +5,9 @@
   title: WELCOME TO STUPIDITY
   perex: pouličná show proti hlúposti
   location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane 
-  price: 3 €
-  slug: welcome-to-stupidity
+  price: 3 € - Predaj na mieste
+  slug: welcome-to-
+  no-button: true
 
 -
   time: 14:30 – 14:50 

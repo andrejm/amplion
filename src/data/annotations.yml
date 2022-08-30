@@ -1,7 +1,7 @@
 
 otvorenie-festivalu:
   title: OTVORENIE FESTIVALU
-  perex: "Hymna + promo: Ugo Sanchez&nbsp;jr.&nbsp;(IT), Collectif&nbsp;Primavez&nbsp;(FR), Filtr&nbsp;(CZ)"
+  perex: "Hymna + promo: Ugo Sanchez&nbsp;jr.&nbsp;(IT), Collectif&nbsp;Primavez&nbsp;(FR), Filtr&nbsp;(CZ), JAMU&nbsp;(CZ)"
   price: 0
   content: 
    -
@@ -29,7 +29,7 @@ lepetit-maly-princ:
   title: 'Lepetit MALÝ PRINC <br> <strong style="color:#362982;font-size:0.8em;"> Headliner Festivalu </strong>'
   argentum: true
   general: TOP program pre všetkých
-  perex: Povzbudivý tanečno-artistický zážitok so živou kapelou, ktorý robí svet krajším. V hlavnej úlohe David Hartl alebo Ondrej Kovaľ!
+  perex: Povzbudivý tanečno-artistický zážitok so živou kapelou, ktorý robí svet krajším. V hlavnej úlohe David Hartl!
 
   occurences: 
     - 
@@ -272,7 +272,7 @@ toot-ensemble:
   top-general: Program pre mladých a&nbsp;dospelých 
   occurences: 
     -
-      time: sobota 22:30
+      time: sobota 22:00
       location: Kocka 
 
   perex: Parádna pražská techno-dychovka do tanca 
@@ -297,6 +297,10 @@ toot-ensemble-promo:
     -
       time: sobota 14:30
       location: Námestie sv. Trojice, Trotuár cafe, Art Cafe
+    -
+      time: sobota 22:00
+      location: Kocka 
+
 
   perex: Pozvánka na parádnu pražskú techno-dychovku do tanca 
   content: 
@@ -320,6 +324,40 @@ filtr:
   occurences: 
     - 
       time: piatok 22:30
+      location: Art Cafe
+    - 
+      time: sobota 10:00
+      location: Trotuár Cafe
+    - 
+      time: sobota 16:30
+      location: Art Cafe
+  perex: Obývačkový pop a garážový rock skvelej recesistickej pražskej kapely
+  content: 
+    - 'Veselé, rozvodové i veselé rozvodové piesne pre celú (i neúplnú) rodinu. Takto sa predstavuje originálna veselá skupina Filtr. Vznikla v roku 2001 ako autorské duo Notovný & Votava, postupne sa rozrástli o&nbsp;hostí. Aktuálne hrajú v&nbsp;stálej štvorici s nestálymi hosťami. Ich hudba je napínavá, dramatická a&nbsp;skoro vždy vtipná – pretože živá hra je nevyspytateľná. Filtr to je Petr Jediný Novotný / texty a&nbsp;spev, Filip Votava / hudba, gitara a&nbsp;spev, Honza Hodek / basa, Lucie Vacovská / spev. Čaká vás výnimočný hudobný filter tej najlepšej muziky!'
+
+  pictures: 
+    - Filtr 2022 IMG_9507.JPG foto Shoe Bean.jpg
+    - Filtr 2019 IMG_6138 foto Shoe Bean.jpg
+    - Filtr 2022 IMG_9541.JPG foto Shoe Bean.jpg
+  foto: Shoe Bean
+  link: https://www.filtruj.cz
+
+
+filtr-after:
+  performer: Filtr, Praha (CZ)
+  title: AFTER KONCERT 
+  premiere: true
+  argentum: true
+  top-general: Program pre mladých a&nbsp;dospelých
+  occurences: 
+    - 
+      time: piatok 22:30
+      location: Art Cafe
+    - 
+      time: sobota 10:00
+      location: Trotuár Cafe
+    - 
+      time: sobota 16:30
       location: Art Cafe
   perex: Obývačkový pop a garážový rock skvelej recesistickej pražskej kapely
   content: 
@@ -459,14 +497,14 @@ nada-salbotova-piatok:
       time: piatok 18:30
       location: Starý zámok – karner
     -
-      time: sobota 15:00
-      location: Starý zámok – karner
+      time: sobota 15:00 <br> Výstava je prístupná v sobotu od&nbsp;09:00 do 17:00
+      location: Starý zámok – karner 
 
   perex: Vernisáž performatívnej interaktívej výstavy svetov myslí umiestnených v dimenzii bez času
 
   content:
     - 'Autorka uvádza výstavu vlastnými slovami: „Moja prvá samostatná výstava venovaná maľbe. Vysnená. Už roky kupujem plátna, dlho stáli, drzo biele opreté v kúte na povale. Tento rok dozrel ČAS a ja som sa pustila do práce. Je to výzva samej sebe. Nie je ľahké vnoriť sa... bývam vtedy mizantrop a nechcem, aby ma niekto rušil. Je to také tiché stretnutie samej seba so sebou. Ponorenie sa do svojej MYSLE, zabudnutie na ČAS... Hľadám motív, niečo čo povznesie ducha, nastolí rovnováhu... hodiny utekajú ani neviem ako. Je to trochu ako sen, deň v minúte a minúta v dni. Balansovanie medzi túžbou po dokonalosti, uvedomením si svojich hraníc aj eufóriou z toho, čo sa podarí. Obdivujem ľudské tváre, nakreslila som desiatky portrétov ľudí každého veku... láska k ľudským tváram ma nikdy neprešla.  aj&nbsp;moje obrazy vychádzajú z portrétov ľudí, ale fiktívnych, pridávam do nich rôzne atmosféry – snové krajiny, symboly, abstraktné farebné štruktúry. Sú to moje svety MYSLÍ umiestnené v dimenzii bez času – moje ČASOMYSLE.“ 
-      Naďa, je myseľ plná jedinečných nápadov. Okrem malieb jej portrétov a autorských textov zažijete  aj&nbsp;zvukovo-svetelné aj vizuálne inštalácie, ktorých sa budete môcť dotknúť a rozohrať ich vo vašich vlastných časomysliach. Tešíme sa na vás s otvorenou mysľou.'
+      Naďa je myseľ plná jedinečných nápadov. Okrem malieb jej portrétov a autorských textov zažijete  aj&nbsp;zvukovo-svetelné aj vizuálne inštalácie, ktorých sa budete môcť dotknúť a rozohrať ich vo vašich vlastných časomysliach. Tešíme sa na vás s otvorenou mysľou.'
     - '<em> Naďa Salbotová (1979), je absolventkou bábkarskej scénografie Divadelnej fakulty VŠMU v Bratislave, absolvovala  aj&nbsp;stáže na DAMU v&nbsp;Prahe. Na divadelných inscenáciách spolupracovala s režisérmi Petrom Palikom, Kamilom Žiškom, Jakubom Nvotom, Janou Mikitkovou, Adrianou Totíkovou v&nbsp;rôznych divadlách na Slovensku: Bratislavské bábkové divadlo, MDPOH v&nbsp;Bratislave, Divadlo Jána Palárika v&nbsp;Trnave, Slovenské komorné divadlo v&nbsp;Martine, Staré divadlo Karola Spišáka v&nbsp;Nitre, Divadlo Jozefa Gregora Tajovského vo Zvolene a&nbsp;Túlavé divadlo. Je autorkou výtvarnej koncepcie a&nbsp;realizátorkou interaktívnej výstavy Osmijankova literárnavýstava, ktorá putovala naprieč Slovenskom a bola inštalovaná  aj&nbsp;v&nbsp;Galérii Ľudovíta Fullu (SNG) v&nbsp;Ružomberku (2019). Spolupracuje  aj&nbsp;s vedením mesta Trnava na viacerých projektoch na podporu kultúrneho života v meste, napr. interaktívne GPS hry pre širokú verejnosť Mocný opasok a&nbsp;Škriatkovo kúzlo (2020). </em>'
 
   pictures:
@@ -486,8 +524,8 @@ nada-salbotova-sobota:
       time: piatok 18:30
       location: Starý zámok – karner
     -
-      time: sobota 15:00
-      location: Starý zámok – karner
+      time: sobota 15:00 <br> Výstava je prístupná v sobotu od&nbsp;09:00 do 17:00. 
+      location: Starý zámok – karner  
 
   perex: Komentovaná prehliadka performatívnej interaktívnej výstavy svetov myslí umiestnených v dimenzii bez času
 
@@ -512,7 +550,16 @@ art-stop:
     -
       time: piatok 12:00
       location: Zastávky Radničné námestie – Terra Permonia – Trotuár
-  
+    - 
+      time: piatok 14:50 
+      location: TESCO, sídlisko Drieňová, Banská&nbsp;Štiavnica
+    - 
+      time: sobota 13:30
+      location: Terasa u Blaškov, Počúvadlo
+    - 
+      time: sobota 16:00
+      location: Na fare, Beluja
+
   perex: Veselý happening Chvála pomalosti
 
   content:
@@ -520,6 +567,8 @@ art-stop:
 
   pictures: 
     - Art-Stop-AMP-2022-SK.jpg
+    - Art-Stop-AMP-2022-ENG.jpg
+  
 
 
 antihybrid:
@@ -546,10 +595,10 @@ antihybrid:
     - 'Projekt Antihybrid je podporený Veľvyslanectvom USA a&nbsp;Veľvyslanectvom Holandského kráľovstva.'
 
   pictures: 
-    - ANTIHYBRID_O_Sekoer_Hitler selfie.jpg
-    - ANTIHYBRID_Denis Dubois_Mlyncek.jpg
-    - ANTIHYBRID_Svandzie_Politik s rurom na cele.jpg
-  foto: Denis Dubois / O. Sekoer / Svandzie
+    - 01_Bernie Bouton.jpg
+    - 02_Willem Rasing 04.jpg
+    - 03_MojmÝr Mihatov 1.jpg
+  foto: Bernie Bouton (FR), Willem Rasing (NL), Mojmír Mihatov (HR)
   link: https://www.facebook.com/brainsneezing/
 
 

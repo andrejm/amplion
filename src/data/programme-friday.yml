@@ -32,7 +32,7 @@
   time: 16:00 – 16:30 
   title: OTVORENIE FESTIVALU  
   age: Family
-  perex: "Hymna + promo: Ugo Sanchez jr. (IT), Collectif Primavez (FR), Filtr (CZ)" 
+  perex: "Hymna + promo: Ugo Sanchez jr. (IT), Collectif Primavez (FR), Filtr (CZ), JAMU&nbsp;(CZ)" 
   location: Námestie sv.&nbsp;Trojice  
   price: 0
   slug: otvorenie-festivalu
@@ -76,7 +76,7 @@
   age: 10+ 
   title: ČASOMYSLE
   perex: vernisáž interaktívnej výstavy, ponorenie sa do sveta bez času 
-  location: Starý zámok – karner  
+  location: Starý zámok – karner <br> Výstava je prístupná v sobotu od&nbsp;09:00 do 17:00.  
   price: 0
   slug: nada-salbotova-piatok
 
