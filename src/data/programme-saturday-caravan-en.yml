@@ -2,9 +2,9 @@
   time: 13:30 – 13:50 
   performer: Physical Theatre Studio JAMU (CZ/SK)  
   age: Family
-  title: ART STOP
-  perex: a clowny stop 
-  location: Terrace u Blaškov, Počúvadlo 
+  title: ART STOP 
+  perex: a clowny stop
+  location: Terrace u Blaškov, Počúvadlo
   price: BUSKING
   slug: art-stop
 
@@ -12,10 +12,12 @@
   time: 14:00 – 15:00 
   performer: PUKA (SK)   
   age: 12+
-  title: CONCERT – of the folk-blues band 
-  location: Terrace u Blaškov, Počúvadlo 
+  title: CONCERT 
+  perex: of the folk-blues band
+  location: Terrace u Blaškov, Počúvadlo
   price: BUSKING
   slug: puka
+
 -
   time: 16:00 – 16:20 
   performer: Physical Theatre Studio JAMU (CZ/SK)  
@@ -31,7 +33,7 @@
   perfromer: Lorenzo Galli (IT)
   argentum: true
   premiere: true
-  age:  Family
+  age: Family
   title: POOM-CHA
   perex: walking cabaret streetster GALiRó as eccentric one-clown-band
   location: At the rectory, Beluja

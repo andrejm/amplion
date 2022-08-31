@@ -2,7 +2,29 @@
   time: 11:00 – 11:30 
   performer: TooT Ensemble (CZ) 
   age: 12+
-  title: AFTER-CONCERT + Amplion Argentum festival award announcement ceremony   
-  location: Art Cafe, terrace  
+  title: AFTER-CONCERT +  Amplion Argentum festival award announcement ceremony  
+  location: Art Cafe, terrace
   price: 0
-  slug: after-concert-and-amplion-argentum
+  slug: after-koncert-and-amplion-argentum
+
+-
+  time: 13:00 – 13:45 
+  performer: PUKA (SK)   
+  age: 12+
+  title: CONCERT
+  perex: of the folk-blues band
+  location: Pub u Michala, Banská Belá 
+  price: BUSKING
+  slug: puka
+
+-
+  time: 13:30 – 14:00 
+  performer: Lorenzo Galli (IT) 
+  argentum: true
+  premiere: true
+  age: Family
+  title: POOM-CHA
+  perex: walking cabaret streetster and his one-clown band
+  location: Hájovňa – Red well
+  price: BUSKING
+  slug: poom-cha

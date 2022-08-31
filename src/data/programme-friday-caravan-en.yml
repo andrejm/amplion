@@ -1,37 +1,42 @@
 -  
   time: 11:00 – 11:45 
-  performer: Ensemble of irregular theatre (SK)  
+  performer: Ensemble of Irregular Theatre (SK) 
   age: 8+
   title: WELCOME TO STUPIDITY
   perex: street show against stupidity
-  location: Maximilián Hell elementary school and kindergarten, Štiavnické Bane  
-  price: 3 €
-  slug: ensemble-of-irregular-theatre
+  location: Maximilián Hell elementary school and kindergarten, Štiavnické Bane
+  price: 3 € on-site
+  slug: welcome-to-stupidity
+  no-button: true
+
 -
   time: 14:30 – 14:50 
   performer: Lorenzo Galli (IT) 
   argentum: true
-  premiere: true
+  premiere: true  
   age: Family
   title: POOM-CHA
-  perex: cabaret streetster GALiRó as eccentric one-clown-band
-  location: TESCO,  Drieňová district, Banská Štiavnica
+  perex:  cabaret streetster GALiRó as eccentric one-clown-band
+  location: TESCO, Drieňová district, Banská&nbsp;Štiavnica
   price: BUSKING
   slug: poom-cha
+
 -
   time: 14:50 – 15:15 
-  perfromer: Physical Theatre Studio JAMU (CZ/SK)  
+  performer: Physical Theatre Studio JAMU (CZ/SK)
   age: Family
   title: ART STOP
   perex: clown studies and then some
-  location: TESCO, Drieňová district Banská Štiavnica 
+  location: TESCO, Drieňová district Banská&nbsp;Štiavnica
   price: BUSKING
   slug: art-stop
+
 -
   time: 19:00 – 20:00 
-  performer: PUKA (SK)  
+  performer: PUKA (SK)   
   age: 12+
-  title: CONCERT – of the folk-blues band 
-  location: Pub u Michala, Banská Belá
+  title: CONCERT
+  perex:  of the folk-blues band
+  location: Pub u Michala, Banská Belá 
   price: BUSKING
   slug: puka
