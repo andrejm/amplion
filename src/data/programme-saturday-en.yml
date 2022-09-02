@@ -12,7 +12,7 @@
    performer: Filtr (CZ)  
    argentum: true
    age: Family
-   title: AFTER-CONCERT
+   title: AFTER CONCERT
    perex: living room pop and garage rock 
    location: Trotuár Cafe, terrace 
    price: 0
@@ -105,7 +105,7 @@
    premiere: true  
    argentum: true
    age: Family
-   title: PROMO KONCERT
+   title: PROMO CONCERT
    perex: invitation to flashy Prague techno-brass dance band
    location: St.&nbsp;Trinity Square – Trotuár Cafe – Art&nbsp;Cafe
    price: 0
@@ -118,13 +118,13 @@
    perex:  guided tour of the interactive exhibition, a jump into a world without time
    location: Old castle – karner <br> exhibition is accesible from&nbsp;9:00 till&nbsp;17:00  
    price: 0
-   slug: nada-salbotova-sobota
+   slug: nada-salbotova-saturday
 -
    time: 15:00 – 16:30 
    performer: Karol Sudor (SK) 
    argentum: true 
    age: 12+
-   title: ART PUTIKA – pub disputes and author´s reading
+   title: ART PUTIKA – pub disputes and <br>author´s reading
    perex: "guest: Daniel Pastirčák"
    location: Art Cafe, attic 
    price: 7 €
@@ -171,7 +171,7 @@
    premiere: true  
    argentum: true
    age: 15+
-   title: AFTER-CONCERT
+   title: AFTER CONCERT
    perex:  living room pop and garage rock
    location: Art Cafe, terrace
    price: 0

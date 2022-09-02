@@ -32,7 +32,7 @@
   time: 16:00 – 16:30 
   title: FESTIVAL OPENING
   age: Family
-  perex: "Anthem + promo: Ugo Sanchez jr. (IT), Collectif Primavez (FR), Filtr (CZ), JAMU (CZ)" 
+  perex: "Anthem + promo: Ugo Sanchez jr. (IT), Collectif Primavez (FR), Filtr (CZ), JAMU&nbsp;(CZ)" 
   location: St. Trinity Square  
   price: 0
   slug: festival-opening
@@ -45,7 +45,7 @@
   age: Family
   title: POOM-CHA
   perex: walking cabaret streetster GALiRó as eccentric one-clown-band
-  location: St.&nbsp;Trinity Square – Scout House garden, A.&nbsp;Pécha&nbsp;st
+  location: St.&nbsp;Trinity Square – Scout House garden, A.&nbsp;Pécha&nbsp;st.
   price: BUSKING
   slug: poom-cha
 
@@ -74,11 +74,11 @@
   time: 18:30 – 19:00
   performer: Naďa Salbotová (SK)  
   age: 10+ 
-  title: TIME-MINDS – 
+  title: TIME-MINDS
   perex: vernissage of the interactive exhibition, a jump into a world without time
   location: Old castle – karner <br> Exhibition is accesible on saturday from&nbsp;09:00 till 17:00.  
   price: 0
-  slug: nada-salbotova-piatok
+  slug: nada-salbotova-friday
 
 -
   time: 18:30 – 19:00 
@@ -142,8 +142,8 @@
   premiere: true  
   argentum: true
   age: 15+
-  title: SPOKO
-  perex: "concert of a tongue-in-cheek Prague band ̶living room pop and garage rock"
+  title: SPOKO CONCERT
+  perex: "concert of a tongue-in-cheek Prague band&nbsp; ̶&nbsp; living room pop and garage rock"
   location: Art Cafe, attic
   price: 8 €
   slug: filtr

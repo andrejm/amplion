@@ -33,11 +33,11 @@
 					<br>
 				{{/if}}
 				{{#if this.general}}
-					<span class="event-more">{{this.general}}</span>
+					<span class="event-more">{{{this.general}}}</span>
 					<br>
 				{{/if}}
 				{{#if this.top-general}}
-					<span class="event-top">{{this.top-general}}</span>
+					<span class="event-top">{{{this.top-general}}}</span>
 					<br>
 				{{/if}}
 				{{#if this.karavana}}
@@ -63,14 +63,20 @@
 			   </p>
 			   {{/if}}
 			</p>
-			{{#if @root.site-config.show-tickets}}
-				{{#ifequal price 0}}
-				    {{!-- intentionally left blank, dont have opposit helper --}}
+			{{#if @root.site-config.show-tickets}} 
+				{{#ifequal this.price 0}} 
+				{{!--intentionally left blank, dont have opposit helper --}} 
 				{{else}}
-			<p data-smooth-scroll>
-				<a href="#tickets" class="button">Buy tickets</a>
-			</p>
+				{{#ifequal this.price "BUSKING"}}
+					<p style="margin: 0.7rem">
+					<span class="event-time">BUSKING</span>
+					</p>
+				{{else}}
+					<p data-smooth-scroll>
+					<a href="#vstupenky" class="button">BUY TICKETS</a>
+					</p>
 				{{/ifequal}}
+				{{/ifequal}} 
 			{{/if}}
 		</div>
 	</div>
@@ -154,8 +160,6 @@
 				 <br><br>
 				The owner of the ticket is obliged to follow the instructions of the organizer
 				 and the current public health measures of the ÚVZ SR regarding the pandemic of the coronavirus and the Covid-19 disease, as published at <a href='https://www.korona.gov.sk'>www.korona.gov.sk</a>
-				<br><br>
-				 Events at AMPLIFIER Festival 2021 are classified in the following ‘COVID Automat’ categories: <b>paid events – OTP</b> (fully vaccinated/tested/recovered from COVID-19).
 				</p>
 		</div>
 	</div>

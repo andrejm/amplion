@@ -60,6 +60,8 @@ sunday:
           <dd>Scene — the place where the performance takes place</dd>
           <dt style="color:#E62E6C">Entry X/Y</dt>
           <dd>The X means discount entry for children between 5 and 15 years of age. Y is the entry for adults. Children under 5 years of age have free entry.</dd>
+          <dt style="color:#E62E6C">BUSKING</dt>
+          <dd>Voluntary entrance fee to the hat</dd>
         </dl>
       </p>
       <button class="close-button" data-close aria-label="Close modal" type="button">
@@ -122,7 +124,7 @@ sunday:
                 {{>_programmenav friday}}                
             </section>
 
-             {{#if @root.site-config.show-caravan}}
+             {{#if @root.site-config.show-caravana}}
             <section class="section" style="background-color:white">
 
                 <h2 class="section__title">AMPLION Caravan</h2>
@@ -145,7 +147,7 @@ sunday:
                 {{>_programmenav saturday}}               
             </section>
 
-             {{#if @root.site-config.show-caravan}}
+             {{#if @root.site-config.show-caravana}}
             <section class="section" style="background-color:white">
 
                 <h2 class="section__title">AMPLION Caravan</h2>
@@ -169,7 +171,7 @@ sunday:
             </section>         
            
 
-            {{!-- {{#if @root.site-config.show-caravan}}
+            {{!-- {{#if @root.site-config.show-caravana}}
             <section class="section" style="background-color:white">
 
                 <h2 class="section__title">AMPLION Caravan</h2>
@@ -209,9 +211,9 @@ sunday:
 <section class="section section--top">
     
     <div class="section__inner">
-    <div class="section__content">
+    {{!-- <div class="section__content">
         <p style="padding:0 20px;">During the entire festival, the safety of viewers will be observed <br> by the <span style="color:#E62E6C">SPECIAL</span>  <strong style="color:#E62E6C">VOLUNTEER HEALTH PATROL</strong>.</p>
-    </div>
+    </div> --}}
     
   
     <h2 class="section__title">Print & keep it in your pocket</h2>
@@ -222,7 +224,7 @@ sunday:
     <div class="presskit">
       <div class="presskit__item">
         <img src="/assets/img/pressico-logo.svg" alt="" class="presskit__ico">
-        <a href="/assets/PROGRAM_AMPLION_22_ENG_FINAL.pdf" class="button">Festival programme (pdf)</a>
+        <a href="/assets/PROGRAM_AMPLION_2022_ENG_FINAL.pdf" class="button">Festival programme (pdf)</a>
       </div>
     </div>
   </div> 
