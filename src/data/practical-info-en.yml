@@ -59,7 +59,7 @@
   content:
     - The festival productions take place in 12 different interior and exterior venues in the city centre of Banská Štiavnica. <!--Please, have a look at the festival map to see all of the venues clearly marked.--> Usually, the productions take place between 10:00 in the morning and end until 23:00. <strong> Please, plan carefully, because the productions start exactly according to schedule! </strong> If you are a few minutes late, <strong> you may have to wait for the organisers to let you in, or even worse, you may not be let in at all, </strong> because late arrivals bother both artists and audience members.
     - <small>(Click on the map for more readable version)</small>
-    - <p><a href="/assets/MAPA_2021_ENG.jpg" target="_blank" ><img src="/assets/MAPA_2021_ENG_small.jpg" alt="Festival map" /></a></p>
+    - <p><a href="/assets/img/AMPLION_2022_mapa_ENG.jpg" target="_blank" ><img src="/assets/img/AMPLION_2022_mapa_ENG_small.jpg" alt="Festival map" /></a></p>
 - title: About the festival club.
   chapter: 9
   id: festival-club
@@ -73,19 +73,19 @@
     - Are you planning on visiting the festival with small children? Good, the young generation is welcome! If your child is used to a child carrier or baby carriage, we do recommend the carrier due to the slope of the streets.
     - If you need to travel around town fast (for example, from the city centre to the supermarket), you can use the local version of public transportation – cheap taxis. The ride from Križovatka to the city centre costs roughly 2 - 4 €.
 
-- title: Hygiene regulations
-  chapter: 11
-  id: hygiene-regulations
-  content:
-    - During the course of the AMPLIFIER Festival 2021, we will ensure to follow all hygienic and anti-epidemic regulations of the Public Health Authority of the slovak Republic, published at <a class="moreinfo" target="_blank" href="https://korona.gov.sk/en/">korona.gov.sk</a>, and the directions of the regional PHA in Žiar nad Hronom. We care about the safety of all viewers and all people that cooperate with us. That is why all our foreign performers from high-risk countries have a RT-PCR test with a negative result (no older than 72 hours). Based on the current situation regarding the COVID-19 virus, we have adopted several organisational measures for the festival. We ask you to follow these measures. We want you to enjoy the festival despite the difficult situation.
-    - <strong>Ticket presale</strong> <br> In connection with the Covid-19 pandemic, the AMPLIFIER FESTIVAL 2021 is governed by the Semaphore for <a href="https://bit.ly/3BSsQZJ"> Cultural Events </a>. The Covid Automat-<b>OTP category</b>
-      applies to the acceptance of <b>paid shares</b> (fully vaccinated / PCR test within 72 hours / Ag test within
-      48 hours. / Overcome covid-19 max. up to 180 days), the <b>Basic category</b> applies to approved <b>unpaid</b>
-      events. Viewers are recommended to buy their tickets via the presale portal <a class="moreinfo" target="_blank" href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie/szmybfr/"> goout.net </a>, or our webpage, <a class="moreinfo" href="https://amplion.eu/en/tickets/" >amplion.eu</a>. Direct presale on site will start in the side entrance of the Cultural centre (Akademická st.) on Thursday, September 23th, 2021 (specific times are written in section 2).
-    - <strong>Lowered capacity of venues and social distancing</strong> <br>
-      The capacity of free-seating interior venues has been lowered according to the current
-      categorization of <a href="https://automat.gov.sk/banska-stiavnica" class="moreinfo">Covid automat</a> for the
-      region and <a href="https://bit.ly/3BSsQZJ" class="moreinfo"> Semaphore for cultural events </a>, so that there is at least one free seat between two taken seats, with the sequence alternating in each row. Some venues have a café-style seating with sufficient distance between the viewers. In exterior venues, we recommend keeping a 2-metre distance between persons.
-    - <strong> Face masks and disinfectants </strong><br> We ask all the viewers of festival productions to cover their upper respiratory tract (nose and mouth) with a face mask, scarf or shawl while attending any performance or concert not only indoors, but also outdoors. At the entrance, hand disinfectant will be available, so feel free to use it. We also provide regular disinfection of stages and venues.
-    - <strong> Hugs and handshakes </strong> <br>At the festival, you will likely meet many friends and acquaintances. Wink at one another, smile, greet them by waving your hand. However, keeping health in mind, we recommend to avoid traditional hugs and handshakes.
-    - <strong>Respiratory disease symptoms</strong> <br> In case you have suffered symptoms of an acute respiratory disease, it is necessary to leave the festival venue and contact your doctor in order not to spread the COVID-19 virus. In case the respiratory disease shows itself (fever, cough, cold, troubles with breathing), please, stay at home in isolation, tickets will be refunded upon request by the seller.
+# - title: Hygiene regulations
+#   chapter: 11
+#   id: hygiene-regulations
+#   content:
+#     - During the course of the AMPLIFIER Festival 2021, we will ensure to follow all hygienic and anti-epidemic regulations of the Public Health Authority of the slovak Republic, published at <a class="moreinfo" target="_blank" href="https://korona.gov.sk/en/">korona.gov.sk</a>, and the directions of the regional PHA in Žiar nad Hronom. We care about the safety of all viewers and all people that cooperate with us. That is why all our foreign performers from high-risk countries have a RT-PCR test with a negative result (no older than 72 hours). Based on the current situation regarding the COVID-19 virus, we have adopted several organisational measures for the festival. We ask you to follow these measures. We want you to enjoy the festival despite the difficult situation.
+#     - <strong>Ticket presale</strong> <br> In connection with the Covid-19 pandemic, the AMPLIFIER FESTIVAL 2021 is governed by the Semaphore for <a href="https://bit.ly/3BSsQZJ"> Cultural Events </a>. The Covid Automat-<b>OTP category</b>
+#       applies to the acceptance of <b>paid shares</b> (fully vaccinated / PCR test within 72 hours / Ag test within
+#       48 hours. / Overcome covid-19 max. up to 180 days), the <b>Basic category</b> applies to approved <b>unpaid</b>
+#       events. Viewers are recommended to buy their tickets via the presale portal <a class="moreinfo" target="_blank" href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie/szmybfr/"> goout.net </a>, or our webpage, <a class="moreinfo" href="https://amplion.eu/en/tickets/" >amplion.eu</a>. Direct presale on site will start in the side entrance of the Cultural centre (Akademická st.) on Thursday, September 23th, 2021 (specific times are written in section 2).
+#     - <strong>Lowered capacity of venues and social distancing</strong> <br>
+#       The capacity of free-seating interior venues has been lowered according to the current
+#       categorization of <a href="https://automat.gov.sk/banska-stiavnica" class="moreinfo">Covid automat</a> for the
+#       region and <a href="https://bit.ly/3BSsQZJ" class="moreinfo"> Semaphore for cultural events </a>, so that there is at least one free seat between two taken seats, with the sequence alternating in each row. Some venues have a café-style seating with sufficient distance between the viewers. In exterior venues, we recommend keeping a 2-metre distance between persons.
+#     - <strong> Face masks and disinfectants </strong><br> We ask all the viewers of festival productions to cover their upper respiratory tract (nose and mouth) with a face mask, scarf or shawl while attending any performance or concert not only indoors, but also outdoors. At the entrance, hand disinfectant will be available, so feel free to use it. We also provide regular disinfection of stages and venues.
+#     - <strong> Hugs and handshakes </strong> <br>At the festival, you will likely meet many friends and acquaintances. Wink at one another, smile, greet them by waving your hand. However, keeping health in mind, we recommend to avoid traditional hugs and handshakes.
+#     - <strong>Respiratory disease symptoms</strong> <br> In case you have suffered symptoms of an acute respiratory disease, it is necessary to leave the festival venue and contact your doctor in order not to spread the COVID-19 virus. In case the respiratory disease shows itself (fever, cough, cold, troubles with breathing), please, stay at home in isolation, tickets will be refunded upon request by the seller.

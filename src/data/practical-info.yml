@@ -84,25 +84,25 @@
     - Chystáte sa na festival s malými deťmi? Výborne, mladú generáciu u nás radi vídame! Pokiaľ je vaše dieťa zvyknuté na presuny v kočíku alebo v nosiči, vzhľadom ku sklonu ulíc sa prikláňame k nosiču.
     - Na rýchly pohyb po meste (napríklad z centra do supermarketu a naspäť) môžete využiť miestnu verziu mestskej hromadnej dopravy – lacné taxíky. Za trasu z Križovatky do centra zaplatíte okolo 2 - 4  €.
 
-- title: Hygienické opatrenia
-  chapter: 11
-  id: hygienicke-opatrenia
-  content:
-    - Počas konania Festivalu AMPLIÓN 2021 zabezpečíme dodržiavanie všetkých hygienických a protiepidemických opatrení Úradu verejného zdravotníctva SR zverejnených na <a class="moreinfo" href="http://korona.gov.sk" target="_blank">korona.gov.sk</a> a pokynov Regionálneho ÚVZ v Žiari nad Hronom. Záleží nám na bezpečnosti každého návštevníka festivalu i všetkých ľudí, ktorí s nami spolupracujú. Preto sú všetci naši zahraniční umelci z rizikových krajín zaočkovaní proti Covid-19, alebo majú (umelci z ČR) RT-PCR test s negatívnym výsledkom (nie starším ako 72 hodín). Na základe aktuálneho vývoja situácie v súvislosti s ochorením COVID-19 sme prijali pri organizácii festivalu niekoľko opatrení. Prosíme vás o ich dodržiavanie. Chceme, aby ste festival užili aj v tejto mimoriadnej situácii.
-    - <strong> Predaj vstupeniek </strong> <br>
-      V súvislosti s pandémiou Covid-19 sa Festival AMPLIÓN 2021 sa riadi <a href="https://bit.ly/3BSsQZJ" class="moreinfo">Semaforom pre kultúrne podujatia</a>.
-      Pre návštevu <b>platených</b> podujatí platí Covid Automat – kategória <b>OTP</b> (plne očkovaný / PCR test do 72 hod. / Ag test do 48 hod. / prekonaný covid-19 max. do 180 dní), pre návštevu <b>neplatených</b> podujatí platí kategória <b>Základ</b>.
-      <br>
-      <br>
-      Návštevníkom odporúčame bezkontaktnú kúpu vstupeniek prostredníctvom predajného portálu
-      <a class="moreinfo" href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie/szmybfr/"> goout.net</a>,
-      alebo cez našu stránku <a class="moreinfo" href="https://amplion.eu/vstupenky/">amplion.eu</a>.
-      Priamy predaj na mieste bude dostupný cez bočný vchod Kultúrneho centra z Akademickej ulice už od štvrtku 23. septembra 2021 (presné časy sú uvedené v bode 2).
+# - title: Hygienické opatrenia
+#   chapter: 11
+#   id: hygienicke-opatrenia
+#   content:
+#     - Počas konania Festivalu AMPLIÓN 2021 zabezpečíme dodržiavanie všetkých hygienických a protiepidemických opatrení Úradu verejného zdravotníctva SR zverejnených na <a class="moreinfo" href="http://korona.gov.sk" target="_blank">korona.gov.sk</a> a pokynov Regionálneho ÚVZ v Žiari nad Hronom. Záleží nám na bezpečnosti každého návštevníka festivalu i všetkých ľudí, ktorí s nami spolupracujú. Preto sú všetci naši zahraniční umelci z rizikových krajín zaočkovaní proti Covid-19, alebo majú (umelci z ČR) RT-PCR test s negatívnym výsledkom (nie starším ako 72 hodín). Na základe aktuálneho vývoja situácie v súvislosti s ochorením COVID-19 sme prijali pri organizácii festivalu niekoľko opatrení. Prosíme vás o ich dodržiavanie. Chceme, aby ste festival užili aj v tejto mimoriadnej situácii.
+#     - <strong> Predaj vstupeniek </strong> <br>
+#       V súvislosti s pandémiou Covid-19 sa Festival AMPLIÓN 2021 sa riadi <a href="https://bit.ly/3BSsQZJ" class="moreinfo">Semaforom pre kultúrne podujatia</a>.
+#       Pre návštevu <b>platených</b> podujatí platí Covid Automat – kategória <b>OTP</b> (plne očkovaný / PCR test do 72 hod. / Ag test do 48 hod. / prekonaný covid-19 max. do 180 dní), pre návštevu <b>neplatených</b> podujatí platí kategória <b>Základ</b>.
+#       <br>
+#       <br>
+#       Návštevníkom odporúčame bezkontaktnú kúpu vstupeniek prostredníctvom predajného portálu
+#       <a class="moreinfo" href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie/szmybfr/"> goout.net</a>,
+#       alebo cez našu stránku <a class="moreinfo" href="https://amplion.eu/vstupenky/">amplion.eu</a>.
+#       Priamy predaj na mieste bude dostupný cez bočný vchod Kultúrneho centra z Akademickej ulice už od štvrtku 23. septembra 2021 (presné časy sú uvedené v bode 2).
 
-    - <strong>Znížená kapacita sál a odstup </strong> <br>
-      Kapacitu miest s voľným sedením v interiéroch sme znížime podľa aktuálnej kategorizácie <a href="https://automat.gov.sk/banska-stiavnica" target="_blank" class="moreinfo">Covid automatu </a>
-      pre región a <a href="https://bit.ly/3BSsQZJ" class="moreinfo" target="_blank">Semaforu pre kultúrne podujatia </a>, odporúčaní RÚVZ resp. tak, aby medzi obsadenými miestami ostalo vždy jedno miesto neobsadené, pričom sekvencia obsadenia miest v radoch sa bude alternovať.
-      Na niektorých scénach je kaviarenské sedenie s dostatočnými odstupmi medzi divákmi. V exteriéroch odporúčame dodržiavať 2 metrové odstupy medzi osobami.
-    - <strong>Rúška a dezinfekcia</strong> <br>Návštevníkov jednotlivých podujatí festivalu prosíme o prekrytie horných dýchacích ciest rúškom, šatkou alebo šálom počas návštevy celého predstavenia alebo koncertu nielen v interiéroch, ale aj pri podujatiach v exteriéri. Pri vstupe na každé podujatie bude k dispozícii dezinfekcia, ktorú neváhajte využiť. Zabezpečíme aj pravidelnú dezinfekciu scénických i prevádzkových priestorov.
-    - <strong>Objímanie a podávanie rúk</strong> <br> Na festivale určite stretnete veľa známych a priateľov. Žmurkajte na seba, usmievajte sa, pozdravte sa mávaním rúk. V záujme pevného zdravia však odporúčame zdržať sa tradičného objímania a podávania rúk.
-    - <strong>Príznaky respiračného ochorenia</strong> <br> Ak sa u niekoho z vás prejavia príznaky akútneho respiračného ochorenia, je v záujme nešírenia vírusu Covid-19 potrebné opustiť priestor podujatia a telefonicky kontaktovať svojho ošetrujúceho lekára. V prípade vzniku akútneho respiračného ochorenia (horúčka, kašeľ, nádcha, sťažené dýchanie) ostaňte, prosím, v domácej izolácii, vstupenky vám budú na požiadanie predajcom vrátené.
+#     - <strong>Znížená kapacita sál a odstup </strong> <br>
+#       Kapacitu miest s voľným sedením v interiéroch sme znížime podľa aktuálnej kategorizácie <a href="https://automat.gov.sk/banska-stiavnica" target="_blank" class="moreinfo">Covid automatu </a>
+#       pre región a <a href="https://bit.ly/3BSsQZJ" class="moreinfo" target="_blank">Semaforu pre kultúrne podujatia </a>, odporúčaní RÚVZ resp. tak, aby medzi obsadenými miestami ostalo vždy jedno miesto neobsadené, pričom sekvencia obsadenia miest v radoch sa bude alternovať.
+#       Na niektorých scénach je kaviarenské sedenie s dostatočnými odstupmi medzi divákmi. V exteriéroch odporúčame dodržiavať 2 metrové odstupy medzi osobami.
+#     - <strong>Rúška a dezinfekcia</strong> <br>Návštevníkov jednotlivých podujatí festivalu prosíme o prekrytie horných dýchacích ciest rúškom, šatkou alebo šálom počas návštevy celého predstavenia alebo koncertu nielen v interiéroch, ale aj pri podujatiach v exteriéri. Pri vstupe na každé podujatie bude k dispozícii dezinfekcia, ktorú neváhajte využiť. Zabezpečíme aj pravidelnú dezinfekciu scénických i prevádzkových priestorov.
+#     - <strong>Objímanie a podávanie rúk</strong> <br> Na festivale určite stretnete veľa známych a priateľov. Žmurkajte na seba, usmievajte sa, pozdravte sa mávaním rúk. V záujme pevného zdravia však odporúčame zdržať sa tradičného objímania a podávania rúk.
+#     - <strong>Príznaky respiračného ochorenia</strong> <br> Ak sa u niekoho z vás prejavia príznaky akútneho respiračného ochorenia, je v záujme nešírenia vírusu Covid-19 potrebné opustiť priestor podujatia a telefonicky kontaktovať svojho ošetrujúceho lekára. V prípade vzniku akútneho respiračného ochorenia (horúčka, kašeľ, nádcha, sťažené dýchanie) ostaňte, prosím, v domácej izolácii, vstupenky vám budú na požiadanie predajcom vrátené.
