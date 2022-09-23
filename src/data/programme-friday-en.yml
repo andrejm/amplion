@@ -1,3 +1,7 @@
+# cancelled - nebude sa zobrazovat button
+# top-general
+# general
+
 # -
 #    time: 11:00 – 11:45
 #    performer: AMPLIÓN Karavana (HU/CZ/SK) 
@@ -131,11 +135,12 @@
   time: 21:00 – 22:15
   performer: Ensemble of Irregular Theatre (SK)
   age: 15+
-  title: GODLIKE
+  title: <s>GODLIKE</s> <span style="color:#362982">cancelled</span> 
   perex: bar cabaret noir. Dark tales, captivating music, and dark humor.
   location: Hotel Grand Matej, Kammerhofská&nbsp;5 
   price:   7 / 12 € pre-sale, 7 / 14 € on-sale
   slug: bohorovni
+  cancelled: true
 -
   time: 22:30 – 23:45 
   performer: Filtr (CZ)

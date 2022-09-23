@@ -71,9 +71,15 @@
               <span class="event-time">BUSKING</span>
             </p>
           {{else}}
-            <p data-smooth-scroll>
-              <a href="#vstupenky" class="button">Kúpiť vstupenky</a>
-            </p>
+            {{#ifequal this.cancelled true}}
+              <p style="margin: 0.7rem">
+                <span class="event-time">Zrušené</span>
+              </p>
+            {{else}}
+              <p data-smooth-scroll>
+                <a href="#vstupenky" class="button">Kúpiť vstupenky</a>
+              </p>
+            {{/ifequal}}
           {{/ifequal}}
         {{/ifequal}} 
       {{/if}}

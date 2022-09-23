@@ -72,9 +72,15 @@
 					<span class="event-time">BUSKING</span>
 					</p>
 				{{else}}
-					<p data-smooth-scroll>
-					<a href="#vstupenky" class="button">BUY TICKETS</a>
-					</p>
+					{{#ifequal this.cancelled true}}
+						<p style="margin: 0.7rem">
+							<span class="event-time">CANCELLED</span>
+						</p>
+					{{else}}
+						<p data-smooth-scroll>
+							<a href="#vstupenky" class="button">BUY TICKETS</a>
+						</p>
+					{{/ifequal}}
 				{{/ifequal}}
 				{{/ifequal}} 
 			{{/if}}

@@ -131,11 +131,12 @@
   time: 21:00 – 22:15
   performer: Ansámbel nepravidelného divadla (SK) 
   age: 15+
-  title: BOHOROVNÍ
+  title: <s>BOHOROVNÍ</s> <span style="color:#362982">zrušené</span>
   perex: bar kabaret noir. Temné príbehy, podmanivá hudba, tanec, čierny humor.
   location: Hotel Grand Matej, Kammerhofská&nbsp;5 
   price:  Predpredaj 7 / 12 €, na mieste 7 / 14 €
   slug: bohorovni
+  cancelled: true
 -
   time: 22:30 – 23:45 
   performer: Filtr (CZ)

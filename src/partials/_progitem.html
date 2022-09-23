@@ -64,9 +64,13 @@
                     {{#ifequal this.price "BUSKING"}}
                         {{!-- intentionally left blank, dont have opposit helper --}}
                     {{else}}
-                    <div class="progitem__cta">
-                        <a href="/program/{{this.slug}}#vstupenky" class="button progitem__buytickets">Kúpiť vstupenku</a>
-                    </div>
+                        {{#ifequal this.cancelled true}}
+                            {{!-- intentionally left blank, dont have opposit helper --}}
+                        {{else}}
+                            <div class="progitem__cta">
+                                <a href="/program/{{this.slug}}#vstupenky" class="button progitem__buytickets">Kúpiť vstupenku</a>
+                            </div>
+                        {{/ifequal}}
                     {{/ifequal}}
                 {{/ifequal}}
 

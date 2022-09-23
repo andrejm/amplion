@@ -111,6 +111,7 @@ bohorovni:
   title: BOHOROVNÍ (bar&nbsp;kabaret&nbsp;noir)
   perex: Temné príbehy, podmanivá hudba Roba Mankoveckého a texty Vlada Jančeka, expresívny tanec z dielne Laca Cmoreja & čierny humor v barovej spoločnosti skvelých hercov, to je štýlový nový bar kabaret noir od tvorcov AMPLIÓNU!
   general: Program pre mladých a&nbsp;dospelých  
+  cancelled: true
   occurences: 
     -
       time: piatok 21:00

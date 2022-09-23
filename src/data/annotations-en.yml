@@ -96,6 +96,7 @@ bohorovni:
   title: GOD-LIKE (bar&nbsp;cabaret&nbsp;noir)
   perex: Dark stories, captivating music of Robo Mankovecký and the lyrics of Vlado Janček, expressive dance from the works of Laco Cmorej & dark humor in bar company of great actors  ̶  that is the new stylish bar cabaret noir from the creators of AMPLIFIER!
   top-general: Program for youth and adults  
+  cancelled: true
   occurences: 
     -
       time: Friday 21:00
