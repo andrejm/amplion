@@ -1,8 +1,8 @@
-show-tickets: true
+show-tickets: false
 show-program: true
 show-program-en: true
-busking-menu: true
-sketchup-menu: true
+busking-menu: false
+sketchup-menu: false
 year: 2022
 show-festivalove-noviny: false
 
