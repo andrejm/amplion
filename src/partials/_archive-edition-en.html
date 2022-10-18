@@ -17,7 +17,7 @@
 <section class="section">
   <div class="section__inner">
     <h2 class="section__title">Premieres introduced for the first time in Slovakia</h2>
-    <div class="programme-teaser">
+    <div class="programme-teaser programme-teaser__push_right">
       {{#each premieres}}
       <div class="programme-teaser__item">
         <h4 class="programme-teaser__title"><span
@@ -35,7 +35,8 @@
       <span class="amp-arg-winner">{{this}}</span>
       {{/each}}
       {{#if argentums-pro}}
-      Extraordinary lifetime achievement award
+      <br style="margin-top:10px"/>
+      Special award
       {{#each argentums-pro}}
       <span class="amp-arg-winner">{{this}}</span>
       {{/each}}

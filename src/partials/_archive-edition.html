@@ -15,7 +15,7 @@
 <section class="section">
   <div class="section__inner">
     <h2 class="section__title">V Slovenskej premiére sme uviedli</h2>
-    <div class="programme-teaser">
+    <div class="programme-teaser programme-teaser__push_right" >
       {{#each premieres}}
       <div class="programme-teaser__item">
         <h4 class="programme-teaser__title"><span class="programme-teaser__performer">{{this.performer}}</span><br>{{this.title}}</h4>
@@ -32,7 +32,8 @@
       <span class="amp-arg-winner">{{this}}</span>
       {{/each}}
       {{#if argentums-pro}}
-        Mimoriadnu cenu za celoživotné dielo získali
+      <br style="margin-top:10px"/>
+      Špeciálnu cenu získali
       {{#each argentums-pro}}
       <span class="amp-arg-winner">{{this}}</span>
       {{/each}}
