@@ -1,11 +1,11 @@
 show-tickets: false
-show-program: true
-show-program-en: true
+show-program: false
+show-program-en: false
 busking-menu: false
 sketchup-menu: false
-year: 2022
+year: 2023
 show-festivalove-noviny: false
 
-show-caravana: true
-show-busking-program: true
+show-caravana: false
+show-busking-program: false
 
