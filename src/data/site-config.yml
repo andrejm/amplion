@@ -1,10 +1,24 @@
 show-tickets: false
 show-program: false
 show-program-en: false
-busking-menu: false
-sketchup-menu: false
+busking-menu: true
+sketchup-menu: true
 year: 2023
 show-festivalove-noviny: false
+rocnik: 8
+busking-form-deadline: "30.&nbsp;júna&nbsp;2023"
+busking-form-deadline-en: "June&nbsp;30<sup>th</sup>,&nbsp;2023"
+busking-annoucment: 31.&nbsp;júla&nbsp;2023
+busking-annoucment-en: "July&nbsp;31<sup>th</sup>,&nbsp;2023"
+
+busking-festival-duration: 22.&nbsp;–&nbsp;24.&nbsp;9.&nbsp;2023
+busking-festival-duration-en: "September&nbsp;22<sup>th</sup>&nbsp;&#8209;&nbsp;September&nbsp;24<sup>th</sup>,2022"
+
+sketch-up-last-sentence: "Piaty ročník súťaže SKETCH UPu je tematicky zameraný na tému SCITLIVENIE."
+sketch-up-deadline: "15.&nbsp;júla&nbsp;2023"
+sketch-up-annoucment: "15.&nbsp;augusta&nbsp;2023"
+sketch-up-event-time: "23.&nbsp;9.&nbsp;2023&nbsp;o&nbsp;21:00&nbsp;hod."
+sketch-up-next-year: "Opcia&nbsp;na&nbsp;uvedenie celovečerného programu na&nbsp;9.&nbsp;ročníku Festivalu&nbsp;AMPLIÓN&nbsp;2024 pre&nbsp;víťaza"
 
 show-caravana: false
 show-busking-program: false
