@@ -55,6 +55,7 @@ section--notopspace - without top padding
 
   &--top {
     margin-top: 0;
+    z-index: 1;
   }
 
   &--notopspace {
@@ -134,6 +135,12 @@ section--notopspace - without top padding
       clip-path: polygon(0 0, 100% 0, 100% 100%, 0 92%);
       margin-bottom: -12.5%;
     }
+
+    &--top {
+      margin-top: -60px;
+      z-index: 0;
+    }
+
     &--smaller {
       max-height: 330px;
     }
