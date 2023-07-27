@@ -26,7 +26,7 @@ meta-desc: Pripravili sme návod na prežitie festivalového diváka - vstupenky
       <ol class="toc">
         {{#each practical-info}}
         <li class="toc__item">
-          <a href="#{{id}}" class="toc__href">{{title}}</a>
+          <a href="#{{id}}" class="toc__href">{{{title}}}</a>
         </li>
         {{/each}}
       </ol>
@@ -47,7 +47,7 @@ meta-desc: Pripravili sme návod na prežitie festivalového diváka - vstupenky
   data-smooth-scroll
 >
   <div class="section__inner">
-    <h2 class="section__title">{{chapter}}. {{title}}</h2>
+    <h2 class="section__title">{{chapter}}. {{{title}}}</h2>
     {{#each content}}
     <p>{{{this}}}</p>
     {{/each}}

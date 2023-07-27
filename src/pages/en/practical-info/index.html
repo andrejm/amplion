@@ -27,7 +27,7 @@ meta-desc: We wrote a short survival guide for you, our precious visitor. Make s
       <ol class="toc">
         {{#each practical-info-en}}
         <li class="toc__item">
-          <a href="#{{id}}" class="toc__href">{{title}}</a>
+          <a href="#{{id}}" class="toc__href">{{{title}}}</a>
         </li>
         {{/each}}
       </ol>
@@ -42,7 +42,7 @@ meta-desc: We wrote a short survival guide for you, our precious visitor. Make s
   data-smooth-scroll
 >
   <div class="section__inner">
-    <h2 class="section__title">{{chapter}}. {{title}}</h2>
+    <h2 class="section__title">{{chapter}}. {{{title}}}</h2>
     {{#each content}}
     <p>{{{this}}}</p>
     {{/each}}

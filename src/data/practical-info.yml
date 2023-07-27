@@ -18,11 +18,19 @@
     - <strong>Po začiatku programu už online nákup vstupeniek nie je možný.</strong>
     - Počas celého festivalu si môžete vstupenky kúpiť aj osobne v <b>Centrálnom predaji vstupeniek</b>. Tu si môžete kúpiť vstupenku aj po začiatku produkcie, kedy už je online predaj zastavený. Nájdete ho v bočnom vchode Kultúrneho centra (z Akademickej ulice), otvorené je vo štvrtok 22. 9. 2022 od 15:00 do 21:00 hod., v piatok a sobotu od 9:00 do 23:00 hod.
     - <strong>Nezabudnite, že na jednotlivých scénach sa vstupenky nepredávajú.</strong>
-- title: Kde kúpim permanentku?
+- title: <span class="blue"> NOVINKA! </span> Limitovaná ponuka permanentiek na&nbsp;celý&nbsp;festival
   chapter: 3
   id: permanentky
   content:
-    - Bohužiaľ, <strong>permanentky na Festival AMPLIÓN nepredávame</strong>. Jednotlivé scény majú rôznu kapacitu a nemohli by sme zaručiť, že sa všetci majitelia permanentiek dostanú na všetky programy.
+    - <b>14 platených programov</b> <br>
+      <b><span class="pink">69 €</span> / dospelý</b> od 18 do 59 rokov <br>
+       <b><span class="pink">39 € </span> / študent </b> od 15 do 26/ISIC, ŤZP a dôchodca 60+ <br>
+      (zľava min. 35% z celkovej hodnoty vstupeniek)
+
+
+       <div class="expanded button-group">
+            <a href="https://goout.net/sk/festival-amplion-novy-kabaret-and-poulicne-umenie/szoiydw/" target="_blank" class="button">KÚPIŤ PERMANENTKU</a>
+          </div>
 - title: Ako sa najlepšie dostanem do Banskej Štiavnice?
   chapter: 4
   id: doprava
