@@ -8,7 +8,7 @@
   perex: "energetic band from Barcelona playing unique world music"
   location: "Trotuár Cafe"
   price: BUSKING
-  slug: miramundo-promo
+  slug: miramundo-barcelona
 
 -
   time: "11:00 – 11:40"
@@ -20,7 +20,7 @@
   perex: "poetic rope circus performance for all"
   location: "The Scout House Garden, A.&nbsp;Pécha Street"
   price: "4 € / 8 €"
-  slug: jacuzzi
+  slug: circo-teatro-nimu-bilbao
 
 -
   time: "13:00 – 14:00"
@@ -40,7 +40,7 @@
   perex: "Parisian chansons and world hits by Cmorejová, Humeňanská, Kozelková trio"
   location: "Botanical Garden – Trotuár&nbsp;Cafe"
   price: BUSKING
-  slug: bon-bon-trio
+  slug: bon-bon-trio-bratislava
 
 -
   time: "15:00 – 15:40"
@@ -52,7 +52,7 @@
   perex: "poetic rope circus performance for all"
   location: "The Scout House Garden, A. Pécha Street"
   price: "4 € / 8 €"
-  slug: jacuzzi
+  slug: circo-teatro-nimu-bilbao
 
 -
   time: "16:00 – 17:30"
@@ -63,7 +63,7 @@
   perex: "the 5th annual Czech-Slovak competition of cabaret sketches by new talents"
   location: "Kocka, Kammerhofska Street 6"
   price: "10 €"
-  slug: sketch-up
+  slug: and-hostia-bonbon-trio
 
 -
   time: "16:30 – 17:45"
@@ -74,7 +74,7 @@
   perex: "Tavern disputes and reading from the book by author J. Andruchovyč (UA), guest: Valerij Kupka"
   location: "Art Cafe, attic"
   price: "7 €"
-  slug: art-putika-i
+  slug: patrik-garaj-bratislava
 
 -
   time: "17:00 – 17:30"
@@ -85,7 +85,7 @@
   perex: "magical puppet cabaret, music-visual delicacy for children"
   location: "The Scout House Garden, A. Pécha Street"
   price: "3 € / 5 €"
-  slug: cabinet-alive
+  slug: katanari-ivana-mer-kosice-bb
 
 -
   time: "18:00 – 19:00"
@@ -96,7 +96,7 @@
   perex: "intense and touching lamentation act about human life, modern Everyman"
   location: "Cultural Center, The Main Hall"
   price: "15 €"
-  slug: arcadia
+  slug: teatr-kto-krakow
 
 -
   time: "19:00 – 20:15"
@@ -106,7 +106,7 @@
   perex: "Parisian chansons and world hits by Cmorejová, Humeňanská, Kozelková trio"
   location: "Art Cafe, attic"
   price: "9 €"
-  slug: concert-bon-bon-trio
+  slug: bon-bon-trio-bratislava
 
 -
   time: "20:30 – 21:30"
@@ -118,7 +118,7 @@
   perex: "amazing circus cabaret full of acrobatics, burlesque and humour"
   location: "Amphitheater, Novozámocká Street"
   price: "8 € / 12 €"
-  slug: freak-fusion-confusion
+  slug: firebirds-budapest
 
 -
   time: "22:00 – 23:15"
@@ -130,4 +130,4 @@
   perex: "energetic band from Barcelona playing unique world music to dance"
   location: "Cube, Kammerhofska Street 6"
   price: "10 €"
-  slug: concert-miramundo
+  slug: miramundo-barcelona

@@ -5,8 +5,7 @@
   perex: "Anthem + Promo: Firebirds (HU), MiraMundo (ES), niMú (ES) +&nbsp;ICEBREAKING (V4 +UA)"
   location: "Holy Trinity Square"
   price: 0
-  slug: opening-ceremony
-
+  slug: otvorenie-festivalu
 -
   time: "16:30 – 16:45"
   performer: "Orkest de Tegenwind (NL)"
@@ -16,7 +15,7 @@
   perex: "street brass band from Netherlands"
   location: "Holy Trinity Square – Old&nbsp;Castle"
   price: BUSKING
-  slug: marching-band
+  slug: orkest-de-tegenwind-utrecht
 
 -
   time: "17:00 – 17:35"
@@ -27,7 +26,7 @@
   perex: "social-inclusive (pilot) theatre about rapprochment & solidarity"
   location: "Old Castle – Scout House Garden, A. Pécha Street"
   price: 0
-  slug: icebreaking-i
+  slug: human-caravana
 
 -
   time: "17:35 – 17:50"
@@ -38,7 +37,7 @@
   perex: "street brass band from Netherlands"
   location: "Scout House Garden, A. Pécha Street – Trotuár Cafe – Art Cafe"
   price: BUSKING
-  slug: marching-band
+  slug: orkest-de-tegenwind-utrecht
 
 -
   time: "18:00 – 18:45"
@@ -49,7 +48,7 @@
   perex: "street brass band from Netherlands"
   location: "Art Cafe, terrace"
   price: BUSKING
-  slug: concert
+  slug: orkest-de-tegenwind-utrecht
 
 -
   time: "19:00 – 20:15"
@@ -60,7 +59,7 @@
   perex: "guests: Marián Leško, Martin Šimečka, Matúš Kostolný\nDiscussion on the current development of our country, with and without humour."
   location: "Cultural Center, The Main Hall"
   price: "10 €"
-  slug: how-to-save-democracy
+  slug: monika-todova-bratislava
 
 -
   time: "19:30 – 20:00"
@@ -72,17 +71,16 @@
   perex: "energetic band from Barcelona playing unique world music"
   location: "Trotuár Cafe"
   price: BUSKING
-  slug: promo-miramundo
-
+  slug: miramundo-barcelona
 -
   time: "21:00 – 22:15"
-  performer: "Ensemble of Irregular Theatre (SK)"
+  performer: "Ensemble of Irregular Theatre&nbsp;(SK)"
   age: "15+"
   title: "GODLIKE"
   perex: "bar cabaret noir – powerful stories, captivating music and dancing in stylish company"
   location: "Hotel Grand Matej, Kammerhofska Street 5"
   price: "12 €"
-  slug: godlike
+  slug: ansambel-nepravidelneho-divadla
 
 -
   time: "22:30 – 24:00"
@@ -94,4 +92,4 @@
   perex: "entertaining literary cabaret with songs + after concert by band Filtr"
   location: "Art Cafe, attic"
   price: "9 €"
-  slug: out-of-hollowness
+  slug: krvik-totr-praha

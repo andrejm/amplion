@@ -4,8 +4,8 @@ otvorenie-festivalu:
   price: 0
   content:
     -
-      "Come join us this year to open the 8th annual festival, this time with the slogan: <b>Being sensitive is an art!</b>"
-  occurrences:
+      "Come join us this year to open the 8th annual festival, this time with the slogan: <b>To be sensitive is an art!</b>"
+  occurences:
     -
       time: "Friday 16:00 - 16:30"
       location: Holy Trinity Square
@@ -23,7 +23,7 @@ teatr-kto-krakow:
   argentum: true
   general: "TOP program for adults"
   perex: "Exceptional theater with singing, dancing, and excellent acting performances, a balm for the soul!"
-  occurrences:
+  occurences:
     -
       time: "Saturday 18:00"
       location: "Cultural Center"
@@ -38,12 +38,12 @@ teatr-kto-krakow:
 
 krvik-totr-praha:
   performer: "Krvik Totr & Filtr Band, Prague (CZ)"
-  title: "LOST&nbsp;5 (Emma&nbsp;will be disappointed)"
+  title: "OUT OF HOLLOWNESS"
   argentum: true
   premiere: true
   general: "Program for young and adults"
   perex: "Whimsical literary cabaret with original songs + after-concert by Filtr Band"
-  occurrences:
+  occurences:
     -
       time: "Friday 22:30"
       location: "Art Cafe, attic"
@@ -58,10 +58,10 @@ krvik-totr-praha:
 
 ansambel-nepravidelneho-divadla:
   performer: "Ensemble of Irregular Theater, Banská Štiavnica&nbsp;(SK)"
-  title: "DIVINE&nbsp;(bar&nbsp;cabaret&nbsp;noir)"
+  title: "GODLIKE (bar&nbsp;cabaret&nbsp;noir)"
   general: "Program for young and adults"
   perex: "Powerful stories, captivating music by Rob Mankovecký, and texts by Vlado Janček, expressive dance by Laco Cmorej & black humor in the company of great actors – that's the stylish new bar cabaret noir by the creators of AMPLIFIER!"
-  occurrences:
+  occurences:
     -
       time: "Friday 21:00"
       location: "Grand Matej Hotel"
@@ -81,7 +81,7 @@ and-hostia-bonbon-trio:
   argentum: true
   general: "Program for young and adults"
   perex: "5th edition of the successful Czech-Slovak competition of cabaret sketches full of new talents!"
-  occurrences:
+  occurences:
     -
       time: "Saturday 16:00"
       location: "Cube"
@@ -101,7 +101,7 @@ firebirds-budapest:
   premiere: true
   general: "TOP program for youth, adults, and families with children"
   perex: "Amazing circus cabaret full of acrobatics, flying, and humor"
-  occurrences:
+  occurences:
     -
       time: "Saturday 20:30"
       location: "Amphitheater (wet weather variant: Cultural Center)"
@@ -121,7 +121,7 @@ circo-teatro-nimu-bilbao:
   premiere: true
   general: "Program for youth and families with children"
   perex: "Comic-poetic circus on a tightrope for everyone"
-  occurrences:
+  occurences:
     -
       time: "Saturday 11:00 and 15:00"
       location: "Scout House Garden"
@@ -136,11 +136,11 @@ circo-teatro-nimu-bilbao:
 
 katanari-ivana-mer-kosice-bb:
   performer: "Katanari & Ivana Mer, Košice / Banská Bystrica&nbsp;(SK)"
-  title: "LIVING CABINET!"
+  title: "CABINET ALIVE!"
   argentum: true
   general: "Program for families with children"
   perex: "Magical puppet cabaret, a music-visual delight not only for children"
-  occurrences:
+  occurences:
     -
       time: "Saturday 17:00"
       location: "Scout House Garden"
@@ -158,7 +158,7 @@ katanari-kosice:
   argentum: false
   general: "Program for a single viewer"
   perex: "Enchanting journey for a single traveler to a place it longs to find"
-  occurrences:
+  occurences:
     -
       time: "Saturday 18:00"
       location: "Sidewalk"
@@ -180,7 +180,7 @@ miramundo-barcelona:
   premiere: true
   general: "Program for young and adult audiences"
   perex: "Captivating band from Barcelona playing unique world music for dancing"
-  occurrences:
+  occurences:
     -
       time: "Saturday 22:00"
       location: "Cube"
@@ -203,7 +203,7 @@ orkest-de-tegenwind-utrecht:
   premiere: true
   general: "Program for everyone"
   perex: "A 22-member roving street brass band from the Netherlands"
-  occurrences:
+  occurences:
     -
       time: "Friday 18:00"
       location: "Art Cafe"
@@ -223,7 +223,7 @@ bon-bon-trio-bratislava:
   argentum: false
   general: "Program for young and adults"
   perex: "Parisian chansons and world hits performed by the female trio Cmorejová, Humeňanská, Baarová"
-  occurrences:
+  occurences:
     -
       time: "Saturday 19:00"
       location: "Art Cafe, attic"
@@ -248,7 +248,7 @@ monika-todova-bratislava:
   argentum: true
   general: "Program for young and adults"
   perex: "Discussion about the current development of our country with humor and seriousness"
-  occurrences:
+  occurences:
     -
       time: "Friday 19:00"
       location: "Cultural Center"
@@ -267,7 +267,7 @@ patrik-garaj-bratislava:
   argentum: true
   general: "Program for young and adults"
   perex: "Pub discussions and reading from the work of Ukrainian author J. Andruchovych, guest: Valerij Kupka"
-  occurrences:
+  occurences:
     -
       time: "Saturday 16:30"
       location: "Art Cafe, attic"
@@ -288,7 +288,7 @@ and-banska-stiavnica-we-media-theater-lviv:
   argentum: true
   general: "Program for young and adults"
   perex: "Premiere of a documentary film from the V4 countries about the integration of local residents with Ukrainian immigrants, accompanied by a discussion"
-  occurrences:
+  occurences:
     -
       time: "Sunday 10:30"
       location: "Art Cafe, attic"
@@ -307,7 +307,7 @@ human-caravana:
   argentum: false
   general: "Program for young and adults"
   perex: "Premiere of a pilot performance from the creative workshop about interhuman bonding presented by the international team of creators from the ICEBREAKING project (V4+UA)"
-  occurrences:
+  occurences:
     -
       time: "Friday 17:00"
       location: "Old Catle &nbsp;&#129042;&nbsp; Scout house garden"
@@ -328,7 +328,7 @@ no-soft-no-fun:
   argentum: false
   general: "Program for young and adults"
   perex: "Modern artistic presentations by young personalities on the topic of (in)sensitivity with musical performance by Macy Cmorejová"
-  occurrences:
+  occurences:
     -
       time: "Saturday 13:00"
       location: "Botanical Garden"

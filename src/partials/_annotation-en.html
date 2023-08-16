@@ -42,15 +42,14 @@
 				{{/if}}
 				{{#if this.karavana}}
 					{{#each occurences}}
-					
-					{{>_progitem-in-annotation-en}}
+						{{>_progitem-in-annotation-en}}
 					{{/each}}
 					<br>
-					{{else}}
+				{{else}}
 					{{#each occurences}}
 					<p style="margin: 0.7rem">
 						<span class="event-location">{{{this.location}}}</span>
-					<span class="event-time">{{{this.time}}}</span>
+						<span class="event-time">{{{this.time}}}</span>
 					</p>
 					
 					{{/each}}

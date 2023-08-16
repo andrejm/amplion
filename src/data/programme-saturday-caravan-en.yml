@@ -6,14 +6,14 @@
   perex: "energetic band from Barcelona playing unique world music"
   location: "U Blaškov Terrace, Počúvadlo"
   price: 0
-  slug: promo-miramundo
+  slug: miramundo-barcelona
 
 -
   time: "14:30 – 15:00"
   performer: "ICEBREAKING I. (V4+UA)"
   age: Family
-  title: "HUMAN CARAVAN"
+  title: "HUMAN CARAVANA"
   perex: "social-inclusive (pilot) theatre about rapprochement & solidarity"
   location: "KTC Hájovňa, Červená studňa"
   price: 0
-  slug: human-caravan
+  slug: human-caravana

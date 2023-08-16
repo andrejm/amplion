@@ -7,7 +7,7 @@
   perex: "magical puppet cabaret, music-visual delicacy for children"
   location: "The Scout House Garden, A. Pécha Street"
   price: "3 € / 5 €"
-  slug: cabinet-alive
+  slug: katanari-ivana-mer-kosice-bb
 
 -
   time: "10:30 – 11:45"
@@ -17,7 +17,7 @@
   perex: "ICEBREAKING\nTavern disputes and a video report from the V4 countries on the rapprochement of V4 citizens and UA expatriates"
   location: "Art Cafe, attic"
   price: 0
-  slug: art-putika-ii
+  slug: and-banska-stiavnica-we-media-theater-lviv
 
 -
   time: "11:00 – 11:45"
@@ -27,6 +27,7 @@
   title: "JOURNEY"
   perex: "audio-visual experience of a box theatre for one spectator (lambe-lambe)"
   location: BUSKING
+  slug: katanari-kosice
 
 -
   time: "12:00 – 12:30"
@@ -38,4 +39,4 @@
   perex: "Amplion Argentum Award winners announcement"
   location: "Art Cafe, terrace"
   price: BUSKING
-  slug: farewell-concert
+  slug: miramundo-barcelona
