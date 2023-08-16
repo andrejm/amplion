@@ -1,30 +1,46 @@
+
 -
-  time: 11:00 – 11:30 
-  performer: TooT Ensemble (CZ) 
+  time: 10:00 – 10:30
+  performer: Katanari & Ivana Mer (SK)
+  argentum: true
+  age: Family
+  title: KABINET OŽÍVA!
+  perex: "magický bábkový kabaret, hudobno-vizuálna lahôdka pre deti"
+  location: Záhrada Skautského domu, ul. A. Pécha
+  price: 3 € / 5 €
+  slug: katanari-ivana-mer-kosice-bb
+
+-
+  time: 10:30 – 11:45
+  performer: "AND + WE: MEDIA THEATER (SK+UA)"
+  argentum: true
   age: 12+
-  title: AFTER KONCERT + Vyhlásenie cien festivalu Amplion Argentum   
-  location: Art Cafe, terasa
+  title: ART PUTIKA II. – ICEBREAKING
+  perex: "Krčmové dišputy a videoreportáž z krajín V4 o&nbsp;zbližovaní obyvateľov V4 a&nbsp;odídencov z&nbsp;UA"
+  location: Art Cafe, povala
   price: 0
-  slug: after-koncert-and-amplion-argentum
+  slug: and-banska-stiavnica-we-media-theater-lviv
 
 -
-  time: 13:00 – 13:45 
-  performer: PUKA (SK)   
-  age: 12+
-  title: KONCERT
-  perex: folk-bluesovej kapely 
-  location: Trotuár Cafe, terasa
+  time: 11:00 – 11:45
+  performer: Katanari (SK)
+  age: Family
+  title: CESTA
+  argentum: true
+  perex: "audio-vizuálny zážitok skrinkového divadla pre jedného diváka"
+  location: Busking
   price: BUSKING
-  slug: puka
+  slug: katanari-kosice
+  
 
 -
-  time: 13:30 – 14:00 
-  performer: Lorenzo Galli (IT) 
+  time: 12:00 – 12:30
+  performer: MiraMundo (ES)
+  age: 12+
   argentum: true
   premiere: true
-  age: Family
-  title: POOM-CHA
-  perex: kabaretný pouličník a jeho one-clown-band
-  location: KTC Hájovňa, Červená studňa 
+  title: AFTER KONCERT + vyhlásenie cien festivalu Amplion Argentum
+  perex: "Art Cafe, terasa"
+  location: Busking
   price: BUSKING
-  slug: poom-cha
+  slug: miramundo-barcelona

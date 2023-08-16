@@ -1,154 +1,99 @@
-# -
-#    time: 11:00 – 11:45
-#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
-#    age: Family
-#    title: ZASTAVIŤ SA JE UMENIE!
-#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-#    location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane
-#    price: 3 €
-#    caravana: true
-#    slug: amplion-karavana-piatok
-
-# -
-#    time: 14:30 – 15:15
-#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
-#    age: Family
-#    title: ZASTAVIŤ SA JE UMENIE!
-#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-#    location: TESCO, sídlisko Drieňová Banská Štiavnica
-#    price: 0
-#    caravana: true
-#    slug: amplion-karavana-piatok
+#  2023
 -
-  time: 15:00 – 18:00
-  performer: Galéria Kýchania mozgu, Prešov (SK/USA/NL/UA)  
-  age: 10+
-  title: ANTIHYBRID
-  perex: "Vernisáž a komentovaná prehliadka medzinárodnej výstavy kresleného humoru ako spomalenie i katarzia smiechom pred klamstvami a konšpiráciami"
-  location: Kaviareň Gavalier, <br> Námestie sv.&nbsp;Trojice  
-  price: 0
-  slug: antihybrid
--
-  time: 16:00 – 16:30 
-  title: OTVORENIE FESTIVALU  
+  time: 16:00 – 16:30
+  title: OTVORENIE FESTIVALU
   age: Family
-  perex: "Hymna + promo: Ugo Sanchez jr. (IT), Collectif Primavez (FR), Filtr (CZ), JAMU&nbsp;(CZ)" 
-  location: Námestie sv.&nbsp;Trojice  
+  perex: "Hymna + promo: Firebirds (HU), MiraMundo (ES), niMú (ES) + ICEBREAKING&nbsp;(V4+UA)"
+  location: Námestie sv.&nbsp;Trojice
   price: 0
   slug: otvorenie-festivalu
 
 -
-  time: 16:30 – 16:50
-  performer: Lorenzo Galli (IT) 
-  argentum: true
+  time: 16:30 – 16:45
+  performer: Orkest de Tegenwind (NL)
   premiere: true
   age: Family
-  title: POOM-CHA
-  perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
-  location: Námestie sv.&nbsp;Trojice – Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha  
+  title: MARCHING BAND
+  perex: veľký pochodujúci brass band z Holandska
+  location: Námestie sv. Trojice – Starý&nbsp;zámok
   price: BUSKING
-  slug: poom-cha
+  slug: orkest-de-tegenwind-utrecht
 
 -
-  time: 17:00 – 17:55 
-  performer: Ugo Sanchez jr. (IT) 
-  argentum: true
-  premiere: true  
-  age: Family
-  title: RIO BOOM BOOM
-  perex: hudobno-klaunská komédia svetového umelca
-  location: Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha  
-  price: 4 / 7 €
-  slug: rio-boom-boom
-
--
-  time: 17:30 – 18:30
-  performer: D´fastfood dženerejšn (SK) 
+  time: 17:00 – 17:35
+  performer: ICEBREAKING&nbsp;I.&nbsp;(V4+UA)
+  premiere: true
   age: 12+
-  title: NO STOP, NO FUN
-  perex: moderné umelecké prednesy mladých osobností na tému zastavenia sa
-  location: Starý zámok – karner 
-  price: 8 €
-  slug: fastfood-dzenerejsn
--
-  time: 18:30 – 19:00
-  performer: Naďa Salbotová (SK)  
-  age: 10+ 
-  title: ČASOMYSLE
-  perex: vernisáž interaktívnej výstavy, ponorenie sa do sveta bez času 
-  location: Starý zámok – karner <br> Výstava je prístupná v sobotu od&nbsp;09:00 do 17:00.  
+  title: HUMAN CARAVAN
+  perex: Premiéra pilotu sociálno-inkluzívneho divadla o zbližovaní
+  location: Starý zámok – Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha
   price: 0
-  slug: nada-salbotova-piatok
+  slug: human-caravana
 
 -
-  time: 18:30 – 19:00 
-  performer: Lorenzo Galli (IT) 
-  premiere: true  
-  argentum: true
+  time: 17:35 – 17:50
+  performer: Orkest de Tegenwind (NL)
+  premiere: true
   age: Family
-  title: POOM-CHA
-  perex: kabaretný pouličník GALiRó ako eccentric one-clown-band
-  location: Trotuár Cafe – Art Cafe  
+  title: MARCHING BAND
+  perex: veľký pochodujúci brass band z Holandska
+  location: Záhrada Skautského domu, ul. A. Pécha – Trotuár Cafe – Art&nbsp;Cafe
   price: BUSKING
-  slug: poom-cha
-
-
-# -
-#    time: 19:00 – 20:00
-#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
-#    age: Family
-#    title: ZASTAVIŤ SA JE UMENIE!
-#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-#    location: Krčma u Michala, Banská Belá
-#    price: 0
-#    caravana: true
-#    slug: amplion-karavana-piatok
+  slug: orkest-de-tegenwind-utrecht
 
 -
-  time: 19:00 – 20:30
-  performer: Karol Sudor (SK)  
-  argentum: true
-  age: 15+
-  title: ART PUTIKA
-  perex: "krčmové dišputy – hostia: Petra Procházková, Viera Dubačová" 
-  location: Art Cafe, povala  
-  price: 8 €
-  slug: karol-sudor 
-
--
-  time: 19:30 – 20:15 
-  performer: Collectif Primavez (FR) 
-  argentum: true 
-  premiere: true  
+  time: 18:00 – 18:45
+  performer: Orkest de Tegenwind (NL)
+  premiere: true
   age: Family
-  title: PLAYGROUND
-  perex: Unikátny cirkus-art na čínskej tyči plne závislý na divákoch
-  location: Kultúrne centrum, hlavná sála  
-  price:  Predpredaj 6 / 8 €, na mieste 6 / 10 €
-  slug: playground
+  title: KONCERT
+  perex: jedinečný street brass band z Holandska
+  location: Art Cafe, terasa
+  price: BUSKING
+  slug: orkest-de-tegenwind-utrecht
+
+-
+  time: 19:00 – 20:15
+  performer: Monika Tódová, Denník N (SK)
+  age: 15+
+  argentum: true
+  title: AKO ZACHRÁNIŤ DEMOKRACIU
+  perex: "hostia: Marián Leško, Martin Šimečka, Matúš Kostolný\nDiskusia o aktuálnom vývoji našej krajiny s humorom aj bez."
+  location: Kultúrne centrum, hlavná&nbsp;sála
+  price: 10 €
+  slug: monika-todova-bratislava
+
+-
+  time: 19:30 – 20:00
+  performer: MiraMundo (ES)
+  argentum: true
+  premiere: true
+  age: 15+
+  title: PROMO
+  perex: "energická kapela z Barcelony hrá jedinečnú world music"
+  location: Trotuár Cafe
+  price: BUSKING
+  slug: miramundo-barcelona
 
 -
   time: 21:00 – 22:15
-  performer: Ansámbel nepravidelného divadla (SK) 
+  performer: Ansámbel nepravidelného divadla (SK)
   age: 15+
-  title: <s>BOHOROVNÍ</s> <span style="color:#362982">zrušené</span>
-  perex: bar kabaret noir. Temné príbehy, podmanivá hudba, tanec, čierny humor.
-  location: Hotel Grand Matej, Kammerhofská&nbsp;5 
-  price:  Predpredaj 7 / 12 €, na mieste 7 / 14 €
-  slug: bohorovni
-  cancelled: true
+  title: BOHOROVNÍ
+  perex: "bar kabaret noir Silné príbehy, podmanivá hudba a tanec v štýlovej spoločnosti."
+  location: Hotel Grand Matej, Kammerhofská 5
+  price: 12 €
+  slug: ansambel-nepravidelneho-divadla
+
 -
-  time: 22:30 – 23:45 
-  performer: Filtr (CZ)
-  premiere: true  
+  time: 22:30 – 24:00
+  performer: Krvik Totr (CZ)
+  premiere: true
   argentum: true
   age: 15+
-  title: SPOKO KONCERT
-  perex: "koncert recesistickej pražskej kapely – obývačkový pop a garážový rock"
-  location: Art Cafe, povala 
-  price: 8 €
-  slug: filtr
-
-
-
+  title: Z VYTRACENA
+  perex: "zábavný literárny kabaret s pesničkami + after koncert by Filtr"
+  location: Art Cafe, povala
+  price: 9 €
+  slug: krvik-totr-praha
 

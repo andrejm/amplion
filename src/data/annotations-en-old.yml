@@ -1,785 +1,640 @@
-otvorenie-festivalu:
+
+festival-opening:
   title: FESTIVAL OPENING
-  perex: "Anthem + promo: Paul Morocco (USA/GB/ES) &&nbsp;Ludo&nbsp;&&nbsp;Arsène&nbsp;(BE) &&nbsp;Šimon&nbsp;&&nbsp;Eliáš&nbsp;(CZ) &&nbsp;Mojše&nbsp;band&nbsp;(SK)"
+  perex: "Anthem + promo: Ugo Sanchez jr. (IT), Collectif Primavez (FR), Filtr&nbsp;(CZ), JAMU&nbsp;(CZ)"
   price: 0
   content: 
    -
-    "Come and open the 6th year of the festival, this time with the slogan: Trust is art! "
+    "Come to open the 7th year of the festival, with the slogan: To Stop self is art!"
+
+   -
+    "We are happy for your trust that we mix an original program full of your exceptional experiences for you every year. You can experience samples of the best, which you must not miss during the festival, right here! There will also be another version of the festival anthem."
+
   occurences:
     -
-      time: "Friday 16:00"
+      time: "Friday 16:00 - 16:30"
       location: St. Trinity Square
 
   pictures:
     -
-      Otvorenie_festivalu_MS_057_Foto_Michal Sv¡tok.jpg
+      amplion21_otvorenie_festivalu_MS_057.jpg
     -
-      Otvorenie_festivalu_MS_059_Foto_Michal Sv¡tok.jpg
+      amplion21_otvorenie_festivalu_KM_013.jpg
     -
-      Otvorenie_festivalu_MS_069_Foto_Michal Sv¡tok.jpg
-
-amplion-karavana-piatok:
-  karavana: true
-  title: AMPLIFIER Caravan
-  perex: "TRUST IS ART – travelling performances of artists to the periphery + invitations to the centre"
-  price: 0
-  content: 
-   -
-    ""
-  occurences:
-    -  
-      time: 11:00 – 11:45 
-      performer: Ensemble of irregular theatre (SK)  
-      age: 8+
-      title: WELCOME TO STUPIDITY
-      perex: street show against stupidity
-      location: Maximilián Hell elementary school and kindergarten, Štiavnické Bane  
-      price: 3 €
-    -
-      time: 14:30 – 14:50 
-      performer: Lorenzo Galli (IT) 
-      premiere: true
-      age: Family
-      title: POOM-CHA
-      perex: cabaret streetster GALiRó as eccentric one-clown-band
-      location: TESCO,  Drieňová district, Banská Štiavnica
-      price: 0
-    -
-      time: 14:50 – 15:15 
-      perfromer: Physical Theatre Studio JAMU (CZ/SK)  
-      age: Family
-      title: ART STOP
-      perex: clown studies and then some
-      location: TESCO, Drieňová district Banská Štiavnica 
-      price: 0
-    -
-      time: 19:00 – 20:00 
-      performer: PUKA (SK)  
-      age: 12+
-      title: CONCERT – of the folk-blues band 
-      location: Pub u Michala, Banská Belá
-      price: 0
-
-  pictures:
-    
-    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
-    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
-    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
-
-
-amplion-karavana-sobota:
-  karavana: true
-  title: AMPLIFIER Caravan
-  perex: "TRUST IS ART – travelling performances of artists to the periphery + invitations to the centre"
-  price: 0
-  content: 
-   -
-    ""
-  occurences:
-    -  
-      time: 13:30 – 13:50 
-      performer: Physical Theatre Studio JAMU (CZ/SK)  
-      age: Family
-      title: ART STOP
-      perex: a clowny stop 
-      location: Terrace u Blaškov, Počúvadlo 
-      price: 0
-      slug: art-stop
-
-    -
-      time: 14:00 – 15:00 
-      performer: PUKA (SK)   
-      age: 12+
-      title: CONCERT – of the folk-blues band 
-      location: Terrace u Blaškov, Počúvadlo 
-      price: 0
-      slug: puka
-    -
-      time: 16:00 – 16:20 
-      performer: Physical Theatre Studio JAMU (CZ/SK)  
-      age: Family
-      title: ART STOP
-      perex: a clowny stop
-      location: At the rectory, Beluja
-      price: 0
-      slug: art-stop
-
-    -
-      time: 16:30 – 17:00 
-      perfromer: Lorenzo Galli (IT)
-      premiere: true
-      age:  Family
-      title: POOM-CHA
-      perex: walking cabaret streetster GALiRó as eccentric one-clown-band
-      location: At the rectory, Beluja
-      price: 0
-      slug: poom-cha
-
-  pictures:
-    
-    -  AMPLION_nakrucanie promospotu_BS_JF_25.jpg
-    -  AMPLION_nakrucanie promospotu_BS_JF_05.jpg
-    -  AMPLION_nakrucanie promospotu_BS_JF_62.jpg
-
-
-divadlo-husa-na-provazku:
-  performer: The Goose on a String Theatre, Brno (CZ)
-  argentum: true
-  premiere: true
-  top-general: TOP programme for adults
-  title: GADJOS GO TO HEAVEN  
-  perex: Comedy Ghetto! Fabulous Czech-Roma cabaret with a&nbsp;band and&nbsp;a&nbsp;bashavel for everyone 
-  content: 
-    -
-      "<em>„Come and laugh at everything you would be normally ashamed to laugh at, and ashamed at what you normally laugh at!“</em>  ̶  so goes the invitation of the renowned theatre and film professional, Jiří Havelka, who takes on social topics in surprising forms (such as the movie <em>Owners</em>”)."
-    -
-      "At the amphitheater, you will experience a new format  ̶  a stand-up play with a big dose of humor, a live band, amazing singers and dynamic fun of an unhinged evening! <b>Wanna stand up to racism? Wanna stand up? Let’s stand up then! </b> You say you have no prejudice? That you don’t see black and white? Go on this Czech-Roma expedition under your own grey brain matter! The carefully selected team of actors from the Goose on a String Theatre and authentic Roma personalities performs about the common Czech-Roma life. About the prejudice on both sides of the hyphen. About the (im)possibility of correcting them. Jokingly and seriously. It explores stereotypes and prejudice that are rooted in all of us, more or less. By the way, the stand-up genre was created from growing ethnic tension in the English and American society and has a long history of working with nationalism, racism and other social taboo. Suitable for viewers over <br> 15 years of age."
-    -  
-      "<em>The Goose on a String Theatre is a scene of contemporary topics and unexpected forms. Since 1967, it has been bringing together creators of multiple genres, for whom art is a lifelong stance. They build their productions on the freedom of speech, openness to dialogue and plurality of opinions, trying to cultivate the civic society in Central Europe. Thanks to its renowned and decorated personalities, such as Peter Scherhaufer and Eva Tálska in the past, or Petr Oslzlý, Vladimír Morávek and Anna Davidová today, it has a unique place on the European theatre map.</em>"
-  
-  occurences:
-    -
-      price: 19 € pre-sale / 23 € onsale
-      time: "Saturday 18:00 "
-      location: Cultural centre, main hall
-      tickets:
-      toot-iframe-id: 0
-      toot-event-id: 0
-  
-  pictures:
-    -
-      husa-na-provazku-3.jpg
-    -
-      husa-na-provazku-2.jpg
-    -
-      husa-na-provazku-1.jpg
+      amplion21_otvorenie_festivalu_KM_004.jpg
    
-  link: http://www.provazek.cz
+   
 
-paul-morocco:
-  performer: Paul Morocco, Lanzarote&nbsp;(USA/GB/ES) 
-  title: OLÉ! Music & Comedy  
+lepetit-maly-princ:
+  performer: CreDance company & Maca and the Band of the year, Bratislava (SK) 
+  title: 'Lepetit THE LITTLE PRINCE <br> <strong style="color:#362982;font-size:0.8em;"> Festival headliner </strong>'
   argentum: true
-  top-general: TOP programme for adults
+  general: TOP program for everyone
+  perex: Uplifting dance-art experience with a live band that makes the world a better place. Starring David Hartl!
+
+  occurences: 
+    - 
+      price: 1
+      time: Saturday 16:00
+      location: Cultural center
+
+  content: 
+    -
+      'Stop by and experience a unique dance/physical theater. Wonderful live music, captivating visuals and unique performances of 15 dance artists for everyone between 5 and 105 years of age. The world of adults sometimes seems like a huge factory where everyone is after something, they follow norms, fill quotas, make tremendous effort to get unimportant things and have no time to live. You have surely met the self-proclaimed kings, stressed businessmen or self-centered vain types. Those have pushed their little prince to the farthest place of their soul and covered him with false values. And all of us who have managed to not become adults yet, thanks to him, have the important task to make this world a better and happier place. Stop by and revive the Little prince in you, too.
+'
+    -
+      '<em>CreDance is a free group of professional dancers and performers, whose creative engine, director and choreographic leader is Laco Cmorej. A tremendously talented dancer, choreographer and director. He has been <b> nominated for the Tatra Banka Fund Award for Art 2021 in the theater category </b> for directing LEPETIT THE LITTLE PRINCE. The band <b> Maca and the Band of the Year</b>, whose leader is no other than the musician and actress Marcela “Maca'' Cmorejová, known from the band Sto Múch (Hundred Flies) or her performances in the Radošiná Naive Theater, is also a part of the play. The Little Prince features the whole band as follows: Maca (accordion, saxophone, vocal), Stanislav Kociov (drums), Stanislav Palúch / Barbora Botošová (violin), Martin Šenc (keyboards, vocals), and Martin Žiak (bass guitar). A grand experience!</em>'
+
+  pictures: 
+    - 
+      maly-princ-by-Mako-Hindy-02.jpg
+    - 
+      maly-princ-by-Mako-Hindy-04.jpg
+    - 
+      maly-princ-by-mako-hindy-08.jpg
+    - 
+      maly-princ-by-Mako-Hindy-10.jpg
+    - 
+      maly-princ-by-Mako-Hindy-15.jpg
+
+  link: https://www.lepetit-malyprinc.sk
+  foto: Mako Hindy
+
+
+ugo-sanchez-wants-to-play:
+  performer: 'Ugo Sanchez jr. (IT)  <br> <strong style="color:#362982;font-size:0.8em;"> Festival Headliner </strong>'
+  argentum: true
   premiere: true
+  title: UGO SANCHEZ WANTS TO PLAY 
+  general: TOP program for youth and adults
+  perex: Daring musical and physical comedy of the master cabaret artist
   occurences: 
     -
-      time: Friday 19:30
-      location: Cultural centre, main hall
-      price: predpredaj 13 €, na mieste 15 € 
-      tickets:
-      toot-iframe-id: 0
-      toot-event-id: 0
-    -
-      time: Saturday 15:30
-      location: Old Castle
-      price: predpredaj 12 €, na mieste 14 € 
-      tickets:
-      toot-iframe-id: 0
-      toot-event-id: 0
-    -
-      time: Saturday 22:00
-      location: Cube
-      price: predpredaj 13 €, na mieste 15 € 
-      tickets:
-      toot-iframe-id: 0
-      toot-event-id: 0
-  
-      
-  perex: Brilliant music-art guitar show 
+      time: Saturday 20:30
+      location: Cultural center, main hall
+      price: 1
+
   content: 
-    -
-      They play like Paco de Lucia, sing like Pavarotti and move like the Gipsy Kings! The grandiose trio and their explosively funny guitar slapstick are coming your way! They swing their acoustic guitars around while playing, turn, throw, play ping-pong or break eggs. Artistic music in the style of flamenco, pop, swing, blues or classical music will mesmerize you. Stop by and let yourself get enchanted by their musical mastery and hilarious visual comedy. Paul, Miguel and Alessandro will show everyone at Amplifier how it’s done in their Slovak premiere!
-    -
-     '<em>Paul Morocco is an international trio of talented and seasoned artists that perform with Ole Comedy all around the world. They were guest stars at the “Czecho-Slovakia has talent” competition.</em>'
+    - 
+      'Ugo Sanchez Jr. comes to the scene in a suit, as a serious performer of classical music. He came to play and sing his unique concert. But in a minute, he appears completely naked. He only has an ukulele to cover himself and saves the audience from shock. Ugo Sanchez Jr., an old-school clown and cabaret artist is forced to creatively and safely manage the situation in order to save his master show. With the help of the audience, children and the adults, who love Ugo, he fights a comical fight with every challenge and overcomes hurdles on his way to the grand number of the evening. He will play, sing, dance and you will laugh your heart out! This extravagant showman has gained the hearts of viewers from all around the world with his Italian charm. Now, he is in Slovakia for the first time as the headliner of AMPLIFIER in Banská Štiavnica. Slow down and let him take you away on this playful comedy of errors that you cannot experience anywhere else!'
+    - 
+      'Ugo Sanchez jr. or Guido Nardin went to a performance when he was ten years old, and an actor brought him on stage. He found a new world there, because when he came back, he thought: “This is exactly what I want to do when I grow up!”. Meanwhile, this Italian got his degree in tourism and traveled the world. His interest in theater only grew, however. And so, he turned Milan into his own Wonderland and focused on artistic education. He graduated in acting, pantomime, he sang, did step-dancing and clownery. Currently, his passion is music and he creates non-traditional musical instruments. However, Ugo loves to mystify and he says that everything about him is 50% truth, and 50% imagination. However, his imagination is real.'
 
   pictures:
-    - Paul Morocco_1.jpg
-    - Paul Morocco_3.jpg
-    - Paul Morocco_4.jpg
+    - 
+      Ugo Sanchez Jr. - Ugo Sanchez wants to play 2.jpg
+    - 
+      Ugo Sanchez Jr. - Ugo Sanchez wants to play 5.jpg
+    -
+      Ugo Sanchez Jr. - Ugo Sanchez wants to play 3.jpg
 
-  link: https://olecomedy.com/
+  foto: Simone Ridi
+  link: https://www.ugosanchezjr.com 
 
-
-
-geisslers-hoffcomoedianten:
-  performer: Geisslers Hoffcomoedianten, <br> Prague (CZ) 
-  argentum: true
-  premiere: true
-  title: RAUT         
-  general: Programme for the young and the adults  
+bohorovni:
+  performer: <span style="font-size:0.9em">Ensemble of Irregular Theater, Banská Štiavnica (SK)</span>
+  title: GOD-LIKE (bar&nbsp;cabaret&nbsp;noir)
+  perex: Dark stories, captivating music of Robo Mankovecký and the lyrics of Vlado Janček, expressive dance from the works of Laco Cmorej & dark humor in bar company of great actors  ̶  that is the new stylish bar cabaret noir from the creators of AMPLIFIER!
+  top-general: Program for youth and adults  
+  cancelled: true
   occurences: 
     -
       time: Friday 21:00
-      location: Cube, Kammerhoská 6
-      price: 9 € 
-      tickets:
-      toot-iframe-id: 0
-      toot-event-id: 0
+      location: Hotel Grand Matej, Kammerhoská 5
+      price: 1
 
-  perex: Stylish new cabaret La Fontaine, or, an evening of big animals
   content: 
+    - 
+      'Accept the invitation to Olympus! Sit down comfortably, enjoy some bubbles and our bar posse will take care of you. Can a person dare to do everything? Is a person the master of life and death? Are we God-like? A bar cabaret noir about those who feel like they are more than god, but also those who are truly like him. What prevails? Humility or being god-like? The threats the pandemic brought and the horrors of war that the developed world accepted in actual horror movies or in third world countries, have lived like gods. This unique time has shown that the topic of godliness (in its multiple meanings) is absolutely contemporary. The cabaret play based on examples from current society maps situations and motifs of human godliness. “The godlike” as untouchable rulers of life and death, and, on the contrary “the godlike” as compassionate with everyone without difference, so truly similar to God. The cabaret show is suitable for all viewers over 15 years of age.'
     -
-      "<em>Ladies and gentlemen! We show for you -  and for me - we show you de La Fontaine show! </em> Accept the invitation to the evening in the selected company of the rabbit, the wolf, the deer and the LaFountain. The international puppet cabaret is based on the works of the French fable author, Jean de La Fontain, with animal masks, object puppets, buns, bread, drinks and live Balkan music. Who is whose master and who will be tamed? Will the human tame the animal or the animal tame the man? And is the human even a human? Enjoy this fresh RAUT under the direction of one of the most prolific and significant puppeteers of contemporary theatre, Matija Solce, whose play Funeral Feast was awarded the Amplion Argentum award for new cabaret at Amplifier in 2019! For everyone over 15 years of age."
-    -
-     '<em>Geisslers Hofcomoedianten is an independent Czech theatre ensemble, which was founded in 2002 in Kuks and plays in the Villa Štvanice in Prague. Their works combine old traditions with live, current theatre. They approach the baroque inspiration freely, mixing the traditional with the new, the haute with the basic: theatre, singing, puppetry and dance - all to entertain the viewers.</em>'
-   
+      '<em>The Ensemble of Irregular Theater (EIT) is an independent group of theater professionals and friends of contemporary art with similar humanist thoughts and values based in Banská Štiavnica. It was founded after a generational and program transformation of the <b>Kremnica Theater Underground</b> (2012 - 2017), which founded and organized 25 annual editions of the Festival of Humor and Satire Kremnické Gagy, starting in 1981. EIT has been searching for new forms of modern cabaret, street and civically engaged productions. In 2016, its members founded the international AMPLIFIER Festival  ̶  New Cabaret & Street Art in Banská Štiavnica. Its members were co-authors of the project City of Culture Banská Štiavnica 2019. The long-term members of EIT are: dramaturgist and director Jana Mikitková, dramaturgist and producer Ján Fakla, scene and graphic designer Dušan Krnáč, social activist Milan Lichý and comic illustrator Tomáš Eniac Cíger, all of whom work with a variety of external creators.  </em>'
+
+  
   pictures:
-    - Geisslers_RAUT_2_Tomas Glasberger.jpg
-    - Geisslers_RAUT_3_Tomas Glasberger.jpg
-    - Geisslers_RAUT_5_Tomas Glasberger.jpg
-  link: https://geisslers.cz/
-
-
-
-mestske-divadlo:
-  performer: <span style="font-size:0.65em;"> City Theatre – Theatre from Passage, <br> Banská Bystrica (SK)  </span>
-  argentum: true
-  title: LOVE SHOCK 
-  general: Programme for the young and the adults
-  occurences: 
     -
-      time: Saturday 14:00
-      location: Cube, Kammerhofská 6
-      price: predpredaj 5 €, na mieste 7 €
-      tickets:
-      toot-iframe-id: 0
-      toot-event-id: 0
-  perex: Theatre-dance play with a strong message
-  content: 
-    -
-      'We say we are tolerant, sensitive, empathetic, caring… but can we also show it? There is no better way than to leave one’s bubble and show empathy towards someone whose world is foreign to us. It means putting yourself aside and openly accepting seemingly different, but really the same human beings. They also feel sexy, livid, funny, misunderstood, or invisible, even if it means, paradoxically, that they are heard more in the streets. 
-      <em>“It pisses me off when people stare at me, I want to say ‘What are you staring at?’. It pisses me off when people are too nice, as if we didn’t understand something.” </em>
-      (Lydka)'
-    -
-      Enjoy the experience of a SHOCK of humor, wittiness and passion not only for movement. Together with the actors from Theatre from Passage, you will rediscover the fullness of experience and enjoyment of life.
-    -
-      <em>City Theatre  ̶  Theatre from Passage is active in Banská Bystrica and celebrated its 25th anniversary in 2020. It is the only professional theatre in Slovakia where the actors are mentally handicapped people. It has a strong task in spreading ideas of tolerance and broadly informing the public. Thanks to their plays, they help the visitors understand that also people who are not usually considered talented or creative can be just that. At the same time, they illustrate the world of their feelings, thoughts and inner desires with the actors’ performances.</em>
-  pictures:
-    - Divadlo z pasaze_5_Katar¡na Baranyai.jpg
-    - Divadlo z pasaze_1_Katar¡na Baranyai.jpg
-    - Divadlo z pasaze_3_Katar¡na Baranyai.jpg
+      bohorovni_BA_premiera_024.jpg
 
-  link: http://www.divadlozpasaze.sk
-
-
+    -
+      bohorovni_BA_premiera_012.jpg
+    - 
+      bohorovni_BA_premiera_064.jpg
+    - 
+      BOHOROVNI_generalka_foto Michal Svitok_06.jpg
+  
+  link: https://www.and-theatre.art
+  foto: Michal Svítok
 
 sketch-up:
-  performer: AND & guests &&nbsp;Mojše&nbsp;Band&nbsp;(SK+CZ)                                                                           
-  title: SKETCH UP 
+  performer: AND & guests & Filtr (SK+CZ)  
+  title: SKETCH UP
   top-general: Only at AMPLIFIER!
-  general: Programme for the young and the adults
+  general: Program for yourh and adults   
   occurences: 
-    -
-      time: Saturday 19:00
+    - 
+      time: Saturday 18:30
       location: Cube, Kammerhofská 6
-      tickets:
-      price: predpredaj 8 € / na mieste 10 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-      
-  perex: 3rd annual edition of the Czech and Slovak competition of cabaret sketches, full of new talent! Hosted by Ľubor Foltán and his Joga of Laughter and klezmer music by Mojše Band.
+      price: 1
+  perex: 4th annual edition of the successful Czech-Slovak competition of cabaret sketches full of new talents! Hosted by the sketch master, Palo Seriš. Living room pop and garage rock provided by the outstanding and hilarious band Filtr directly from Prague!
+  content: 
+    -  'The competition of new cabaret performances of solo artists and groups in various genres related to cabaret, such as stand-up, slam poetry, theater, music, physical theater or clown numbers is back! All sketches will be connected by one topic - slowing down, or stopping, and will be presented as an experience and as entertainment by the following performers: the post-traumatic cabaret duo Šoganová & Kučerová (SK + CZ), the singer Lucie Vacovská (CZ) from the band Filtr will present an original song, Ema Poliaková (SK) will perform as the clown Truppo, the musical-physical trio TyMyJan (SK) will have its premiere, Barbora Šimová (SK) will present a musical clownery and others. His own brand of comedy and physical sketches will be provided by the host Palo Seriš, and a unique atmosphere will be created by the tongue-in-cheek band Filtr from Prague. And an international jury will be present as well, of course. The winner will receive the AMPLION ARGENTUM award as well as the option to perform their own cabaret program at the 8th annual AMPLIFIER Festival in 2023. Do not miss this unique program!'
+  
+
+  pictures:
+    - amplion21_AND_Mojse_band_Sketch_up_MS_070.jpg
+    - amplion21_AND_Mojse_band_Sketch_up_KM_008.jpg
+    - amplion21_AND_Mojse_band_Sketch_up_MS_085.jpg
+    - amplion21_AND_Mojse_band_Sketch_up_MS_093.jpg
+  link: https://www.amplion.eu
+  foto: Michal Svítok / Kristína Mayerová
+
+playground:
+  performer: Collectif Primavez, Lille&nbsp;(FR)
+  title: PLAYGROUND  
+  argentum: true
+  premiere: true
+  top-general: TOP program for youth, adults and families with children
+
+  occurences: 
+    - 
+      time: Friday 19:30
+      location: Cultural center
+      price: 1
+    - 
+      time: Saturday 14:00
+      location: Scout House garden
+      price: 1
+
+  perex: Unique circus-art with a Chinese pole, dependent fully on&nbsp;the&nbsp;audience
   content: 
     -
-      'Competition of cabaret numbers of solo performers and art groups in various genres related to cabaret, such as stand-up, slam poetry, theatre, music, physical theatre or clown numbers continues! All of the sketches will be united by one topic - trust vs. distrust, presented in a entertaining and immersive way by these performers: the charming actor and mime Anton Eliáš (CZ), a duo of student musician-actors from VŠMU, Martin Toman & Tadeáš Bolo (SK), a stand-up comedian with a guitar, Tomáš Šrámek (SK), energetic actors and dancers from the Church conservatory of Bratislava (SK) and local musician and singer Jaro Koleda or young talented Roma singer Sarah. The program is accompanied by Ľubor Foltán and his LaughterGames, which you will experience on your own face hole. A unique atmosphere is sure to be created by the Jewish Mojše Band. Jury: Lumír Mati, Martina Garassyová a Zuzana Liptáková! The winner will receive not only the AMPLION ARGENTUM award, but also the option of presenting their own personal cabaret production at the 7th year of the AMPLIFIER Festival in 2022. Do not miss this unique part of the program. '
-  pictures:
-    - SKETCH UP_Martin &amp; Tadeas_za klavirom.png
-    - SKETCH_UP_Robo Erectus 3_Michal Michalko.jpg
-    - SKETCH_UP_Tomas Sramek_1.png
-
-  link: http://www.amplion.eu
-
-
-
-
-ludo-arsene:
-  performer: Ludo & Arsène, Gent (BE)
-  argentum: true 
-  premiere: true
-  title: BE FLAT     
-  top-general: TOP Programme for the young and the adults 
-  occurences: 
+      'Do artists depend on their audience? Of course, there is no theater without an audience. However… can they be dependent on the audience also physically? That is the challenge of the French performer Miguel Rubio! His performance with a Chinese pole literally rises and falls in cooperation with the audience. Eight audience members will split along the scene and use their body weight while sitting in chairs to support Miguel in the air on an 8-meter artistic pole during the whole show. Those who decide to provide their help will feel that Miguel’s life and show truly depend upon them. Playground is a <b>touching story about human trust and cooperation that makes all of us grow</b>. It hides numerous surprises and unexpected situations and, in addition, brings a unique mix of disciplines, such as the Chinese pole, circus, dance, theater and of course, comedy. However, it all depends on you, the audience, whether it will be a feather-light comedy or a heavy-weight drama! Miguel Rubio created a unique model of circus-art play, which relies solely on the audience in order to fulfill his dream: present the Chinese pole anywhere. The result is a physical show that has the magical power to bring an exclusive experience to the hall of the Cultural center and to the garden of the Scout house in Banská Štiavnica.'
     -
+      'Miguel Rubio is a member of the circus artist group Collectif Primavez, which was formed in 2015 in Lille, France. They cooperate via creative research laboratories and put focus on themes such as immigration, women’s social position, equality and the growth of consumerism and use comedy, irony, and poetry. Thanks to circus, dance and theater, they bring many memorable experiences to viewers all around the world.'
+  
+  pictures: 
+    - Playground  Barbara Salom Felgenhauer_4.jpg
+    - Playground  Barbara Salom Felgenhauer_3.jpg
+    - Playground  Barbara Salom Felgenhauer_5.jpg
+    - Playground  Barbara Salom Felgenhauer_6.jpg
+  foto: Salomé Felgenhauer  
+  link: https://www.collectifprimavez.com/  
+
+rio-boom-boom:
+  performer: Ugo Sanchez jr. (IT) <br> <strong style="color:#362982;font-size:0.8em;"> Festival Headliner</strong>
+  title: RIO BOOM BOOM     
+  argentum: true
+  premiere: true
+  top-general: Program for families with children 
+  perex: Crazy cocktail of top-class clown art
+  occurences: 
+    - 
+      time: Friday 17:00
+      location: Scout House garden
+      price: 1
+    - 
       time: Saturday 11:00
       location: Old Castle
-      price: predpredaj 7 €, na mieste 9 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-    -
-      time: "Sunday 13:30"
-      location: Old Castle
-      price: predpredaj 6 €, na mieste 8 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-      
-  perex: Circus acrobatics and urban parkour of the fabulous Belgian duo
+      price: 1
+
   content: 
-    -
-      'Breathtaking acrobatics of two crafty parkourists from Belgium!
-      Ludo and Arsène have an important task. Stop the festival visitors, tear them away from their daily routine and earn their praise. Stay sharp! These acrobats will appear unexpectedly and make use of any kind of space. They can appear on a tree, surprise you on a wall or peek from the sewer or the mining shaft. They climb, jump over or hang from virtually any place. Upside down, too! The climax of the performance comes in the grandiose number with a special ladder and a motto: 
-      “<em>Everything is possible!</em>”.
-      Experience the lightness of being to its fullest.
-      '
-    -
-     <em>Ludo & Arsène are Thomas Decaesstecker (1989) and Mehdi Delanoeije (1986).
-      Both are professional acrobats. They share a passion for movement and music, which they fully embrace in their parkour show BE FLAT. </em>
+    - 'Ugo Sanchez Jr. is an elegant and extravagant showman, who also plays the role of a daring clown. This unreal trickster will serve up a crazy cocktail of top-class clown art. In his own style, he plays a musical instrument, sings, surprises with artistic bits and entertains with unique gags. His favorite is doing the gargling song with the whole audience! Enjoy the joy of this musical/ clown comedy which has Ugo Sanchez Jr. dare, provoke, and entertain you, but will also go on strike, and make the audience powerless only to make them the main hero. '
+    - 'His vain play reflects the petty conflicts in society, and our lives that border on comedy and tragedy. Rio Boom Boom, that is also a catchy show full of songs that you will keep singing.'
+    - 'Ugo Sanchez jr. or Guido Nardin went to a performance when he was ten years old, and an actor brought him on stage. He found a new world there, because when he came back, he thought: “This is exactly what I want to do when I grow up!”. Meanwhile, this Italian got his degree in tourism and traveled the world. His interest in theater only grew, however. And so, he turned Milan into his own Wonderland and focused on artistic education. He graduated in acting, pantomime, he sang, did step-dancing and clownery. Currently, his passion is music and he creates non-traditional musical instruments. However, Ugo loves to mystify and he says that everything about him is 50% truth, and 50% imagination. However, his imagination is real.'
+  pictures: 
+    - ugo-sanchez-js - rio-boom-boom - 03.jpg
+    - ugo-sanchez-js - rio-boom-boom - 06.jpg
+    - ugo-sanchez-js - rio-boom-boom - poster.jpg
 
-  pictures:
-    - Ludo &amp; Arsne_BE_Be flat_1.jpg
-    - Ludo &amp; Arsne_BE_Be flat_2.jpg
-    - Ludo &amp; Arsne_BE_Be flat_3.jpg
-    
-  link: https://www.be-flat.be/
+  foto: Antonello Tofani 
+  link: http://www.ugosanchezjr.com 
 
 
-lukas-simon-anton-elias:
-  performer: Lukáš Šimon & Anton Eliáš, Prague (CZ) 
-  premiere: true 
-  title: 'ROBO ERECTUS: <br> Šugar & Bič'
-  general: Programme for the youth and families with children
+poom-cha:
+  performer: Lorenzo Galli, Cuneo (IT)
+  title: POOM-CHA
+  top-general: Program for everyone
+  price: BUSKING
+
+  occurences: 
+    - 
+      time: Friday 16:30
+      location: St. Trinity square
+    - 
+      time: Friday 18:30
+      location: Trotuár Cafe
+    - 
+      time: Saturday 10:30
+      location: St. Trinity square
+    - 
+      time: Saturday 13:15
+      location: Trotuár Cafe + AMPLIFIER Caravan
+    -  
+      time: Saturday 15:15
+      location: St. Trinity square
+
+  perex: Walking cabaret streetster GALiRó as his own eccentric one&#8209;clown&#8209;band
+  content: 
+    - 'POOM-CHA isa  live interactive musical comedy. POOM-CHA is also a moving entertaining street-game between a musician and the viewers. And POOM-CHA is also a lively musical play  ̶  entertaining, charming, spreading good mood everywhere it goes. It managed to do so in over 30 countries around the world. Slow down and recharge with the energy of unhinged rhythms in the streets, too!'
+    - ' <em>Lorenzo Gianmario Galli is a professional street and stage artist from Turin. He studied physical theater with the Lecoq method. He puts his unique expressive language to use in his street performances. He collaborates with several international groups of street, variety and puppet theater.</em>'
+
+  pictures: 
+    - GALiR - 2016 Wuzhen CHINA.jpg
+    - GALiR - 2018 Chinaillon_2 FRANCE.jpg
+    - GALiR_foto_studio 1.jpg
+  foto: Archive of Lorenza Galli
+  link: https://www.lorenzogianmariogalli.com
+
+
+toot-ensemble: 
+  performer: TooT Ensemble, Praha (CZ)
+  title: CONCERT  
+  premiere: true
+  argentum: true
+  top-general: Program for youth and adults
   occurences: 
     -
-      time: Friday 17:00
-      location: Scout House Garden
-      price:  4/6 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-    
-  perex: Comedic sci-fi pantomime of robots
-  content: 
-    -
-      <em>“I am a Robot. I do not eat, or age, I do not require attention and I do not have feelings.”.  </em>
-         Silence. Everywhere in this barren wasteland, there is only dust and ruins. No signs of life. The last two survivors are robots in a factory. A long journey to discover new life awaits them. Where should they go and who will show them the way? This is a comedic street pantomime about two robots that can no longer serve anyone, so they entertain each other. And all the viewers, too!
-    -
-     '<em>The unique physical sci-fi theatre from Prague was created by Lukáš Šimon and Anton Eliáš from Slovakia. They met at DAMU in Prague while studying pantomime. Since then, they have been sailing the artistic waters all across the borders.
-      </em>'
-   
-  pictures:
-    - Robo Erectus 1_Michal Michalko.jpg
-    - Robo Erectus 3_Michal Michalko.jpg
-    - Robo erectus 6_Anna Solcova.jpg
+      time: Saturday 22:00
+      location: Cube 
 
-and:
-  performer: <span style="font-size:0.8em">Ensemble of Irregular Theatre, Banská&nbsp;Štiavnica&nbsp;(SK-CZ/HR-SK)</span>   
-  title: WELCOME TO STUPIDITY – sad street show        
-  general: Programme for the young and the adults
+  perex: Wonderful techno-brass dance music from Prague
+  content: 
+    - 'This will be a hit you have not seen before! On Saturday night, you will dance and jump your heart out to the acoustic techno brass band and live EDM you would never expect. The instrumental, purely authorial dance music by nine amazing musicians will bring it! The core of the mand is composed by well-known Czech musicians, the accordionist and saxophonist David Lomič (Tygroo, Nerez & Lucia), and multi-instrumentalist Robert Fischmann (Neřež, Bran), who decided to come together to start this grandiose project during the pandemic. Your best choice on a Saturday night!'
+    - '<em>The band TooT Ensemble is inspired by various genres of electronic dance music and the current wave of bands playing live EDM, such as Meute, Moon Hooch or Too Many Zooz. You will not hear any covers, though, this band plays their own music. The sound is based on a six-piece brass section and an uncompromising percussion trio. It will captivate and move people of all ages, cultures and interests.</em>'
+  link: http://www.uhomusic.com/TooT-ensemble
+  foto: Archive of TooT ensemble
+
+  pictures: 
+    - TooT_ensemble_62.jpg
+    - TooT_Ensemble_18.jpg
+    - TooT_ensemble_70-1.jpg
+
+toot-ensemble-promo: 
+  performer: TooT Ensemble, Praha (CZ)
+  title: PROMO CONCERT  
+  premiere: true
+  argentum: true
+  top-general: Program pre mladých a&nbsp;dospelých 
   occurences: 
     -
+      time: Saturday 14:30
+      location: St. Trinity square, Trotuár cafe, Art Cafe
+    -
+      time: Saturday 22:00
+      location: Cube
+
+
+  perex: Invitation to wonderful techno-brass dance music from Prague
+  content: 
+    - 'This will be a hit you have not seen before! On Saturday night, you will dance and jump your heart out to the acoustic techno brass band and live EDM you would never expect. The instrumental, purely authorial dance music by nine amazing musicians will bring it! The core of the mand is composed by well-known Czech musicians, the accordionist and saxophonist David Lomič (Tygroo, Nerez & Lucia), and multi-instrumentalist Robert Fischmann (Neřež, Bran), who decided to come together to start this grandiose project during the pandemic. Your best choice on a Saturday night!'
+    - '<em>The band TooT Ensemble is inspired by various genres of electronic dance music and the current wave of bands playing live EDM, such as Meute, Moon Hooch or Too Many Zooz. You will not hear any covers, though, this band plays their own music. The sound is based on a six-piece brass section and an uncompromising percussion trio. It will captivate and move people of all ages, cultures and interests.</em>'
+  link: http://www.uhomusic.com/TooT-ensemble
+  foto: Archive of TooT ensemble
+
+  pictures: 
+    - TooT_ensemble_62.jpg
+    - TooT_Ensemble_18.jpg
+    - TooT_ensemble_70-1.jpg
+
+
+filtr:
+  performer: Filtr, Prague (CZ)
+  title: SPOKO CONCERT
+  premiere: true
+  argentum: true
+  top-general: Program for youth and adults
+  occurences: 
+    - 
+      time: Friday 22:30
+      location: Art Cafe
+    - 
+      time: Saturday 10:00
+      location: Trotuár Cafe
+    - 
       time: Saturday 16:30
-      location: Scout House Garden
+      location: Art Cafe
+  perex: Living room pop and garage rock of the amazing tongue-in-cheek band from Prague
+  content: 
+    - 'Cheerful, divorce related or cheerful divorce related songs for the whole (even if incomplete) family. This is how this original, upbeat group Filtr introduces themselves. It was founded in 2001 as a duo of authors Novotný & Votava, which grew by including guests. Currently, they play as a stable quartet with unstable guests. Their music is tense, dramatic and almost always funny  ̶  because live music is unpredictable. Filtr are: Petr Jediný Novotný (lyrics, vocals), Filip Votava (music, guitar, vocals), Honza Hodek (bass), and Lucie Vacovská (vocals). A unique musical filter of the best music awaits.'
+
+  pictures: 
+    - Filtr 2022 IMG_9507.JPG foto Shoe Bean.jpg
+    - Filtr 2019 IMG_6138 foto Shoe Bean.jpg
+    - Filtr 2022 IMG_9541.JPG foto Shoe Bean.jpg
+  foto: Shoe Bean
+  link: https://www.filtruj.cz
+
+
+filtr-after:
+  performer: Filtr, Prague (CZ)
+  title: AFTER CONCERT 
+  premiere: true
+  argentum: true
+  top-general: Program for youth and adults
+  occurences: 
+    - 
+      time: Friday 22:30
+      location: Art Cafe
+    - 
+      time: Saturday 10:00
+      location: Trotuár Cafe
+    - 
+      time: Saturday 16:30
+      location: Art Cafe
+  perex: Living room pop and garage rock of the amazing tongue-in-cheek band from Prague
+  content: 
+    - 'Cheerful, divorce related or cheerful divorce related songs for the whole (even if incomplete) family. This is how this original, upbeat group Filtr introduces themselves. It was founded in 2001 as a duo of authors Novotný & Votava, which grew by including guests. Currently, they play as a stable quartet with unstable guests. Their music is tense, dramatic and almost always funny  ̶  because live music is unpredictable. Filtr are: Petr Jediný Novotný (lyrics, vocals), Filip Votava (music, guitar, vocals), Honza Hodek (bass), and Lucie Vacovská (vocals). A unique musical filter of the best music awaits.'
+
+  pictures: 
+    - Filtr 2022 IMG_9507.JPG foto Shoe Bean.jpg
+    - Filtr 2019 IMG_6138 foto Shoe Bean.jpg
+    - Filtr 2022 IMG_9541.JPG foto Shoe Bean.jpg
+  foto: Shoe Bean
+  link: https://www.filtruj.cz
+
+puka: 
+  performer: PUKA, Humenné (SK)     
+  title: CONCERT
+  top-general: Program for youth and adults
+  price: BUSKING
+  occurences: 
+    -
+      location: Trotuar Cafe
+      time: Sunday 13:00   
+    -
+      location: AMPLION Caravan
+
+  perex: Folk-blues band playing songs about what is upside-down and legs-up
+  content: 
+    - 'The band plays their own, almost acoustic music with little electricity used, which makes them one of the artists with the lowest carbon footprint and the most intense relation to the environment, alongside didgeridoo players and Gregorian chant singers. The band was created in 1979 in Bratislava by (as virtually every band until today) Eastern Slovaks. After three years of a successful career and successful college graduation of members, the band disappeared and it seemed like there would finally be a calm. In 2019, on the band’s 40th anniversary, the protagonists dusted off the original repertoire and found songs made of lasting material, so they decided to perform live again. Despite huge success, the band remains humbly unknown. The Covid wave in 2020-2021 swept the band into the rehearsal room, where the repertoire grew to yet-unseen sizes. And since the rehearsal room can barely contain it, the band started dragging the material all around Slovakia. Now, it is bound for Banská Štiavnica.'
+    - '<em>The repertoire of PUKA is created by the tandem of authors Jakubov / Baláž. For their musical style, they came up with the tag “sub-Carpathian blues” to show that they are trying to smuggle the atmosphere of songs by blind African-Americans from New Orleans, as well as the melodic and harmonic nature of the regions of the eastern part of the Carpathian arc. </em>'
+
+  pictures: 
+    - Puka_Jakubov.jpg
+    - Puka Presov 2022_Anicka.jpg
+    - Puka Presov 2022_Stefan.jpg
+
+  foto: Archív kapely
+
+pavol-seris:
+  performer: PAVOL SERIŠ, Trenčín (SK)
+  title: SKETCHES
+  top-general: Program for youth and adults
+  occurences: 
+    - 
+      time: Saturday 12:30
+      location: Cafe Gavalier
+  perex: Slovak mime and physical artist living in the Czech Republic
+  content: 
+    - 'At AMPLIFIER, he will try street performance as a true busker. He will pick the best pieces from his successful plays, which mix stand-up comedy,  physical theater, absurd humor, pantomime and dance. All of that in order to invite you to the Czech-Slovak competition of new cabaret talents SKETCH UP, which he will host with his own unique style. What do you say? It is worth it to slow down and stop by!'
+    - '<em>Pavol Seriš was born on April 23rd 1986 in Trenčín. Three days later, the Chernobyl nuclear plant exploded, and the radioactive cloud made the little Pavol completely radiant. Thanks to the radiation, he started talking at 3 months old and at 4 years of age, he caught a pike in the Váh river with his own hands. In real life, he studied physical theater at JAMU in Brno, where he works as a teacher to this day. He regularly leads workshops of physical theater and works in this field in Czech and Slovak theaters. In his own work, he searches for options and borders of one-man theater. He dislikes mustard.</em>'
+
+  pictures: 
+    - Seris_1.jpg
+    - Seris_2.jpg
+    - Seris_3.jpg
+
+
+karol-sudor: 
+  performer: Karol Sudor (SK) 
+  title: '<span style="font-size:0.8em">ART PUTIKA</span> – <span style="font-size:0.6em"> pub disputes – guests: Petra&nbsp;Procházková, Viera&nbsp;Dubačová</span>' 
+  perex: One-of-a-kind interview with brave women about the possibilities of stopping the war in Ukraine
+  top-general: Program for youth and adults
+  argentum: true
+  occurences:
+    - 
+      time: Friday 19:00
+      location: Art Cafe, attic
+  content: 
+    - 'We picked the theme of this festival, “to stop”, in autumn of 2021. It came from the need to slow oneself down in an overly economized society and focus on non-financial values. However, we did not know how sad and contemporary the theme would become on February 24th, 2022. Karol Sudor, the creator of great interviews with significant personalities, will discuss with our two esteemed guests who will provide their personal stories about the events in Ukraine. Our invitation was accepted by the renowned Czech humanitarian worker and decorated reporter <b>Petra Procházková</b>, who has been mapping Ukraine and Russia for decades, from the Czech Deník N, and <b>Viera Dubačová</b>, the Slovak activist and director whose personal quest is to help the weak and vulnerable, which means she does not hesitate to regularly visit our neighbors in the east to help. The interview and an informal dispute will be extended by an exhibition of international caricatures with Ukrainian representation, ANTI-HYBRID.'
+    - '<em>Karol Sudor worked in Volkswagen Slovakia and PSA Peugeot Citroën in the health and safety department, and later as the manager of the HR department. He worked in the daily SME, and is in Denník N today. He has been nominated for the Journalist award 10 times and won 5 times in the Best interview category. He published a book of interviews with Fedor Gál (One last time - the end of the story), as well as a book of interviews with Vladimír Palko (I went to the edge  ̶  a liberal makes a conservative confess). He provided temporary housing to Ukrainian families himself.</em>'
+
+  pictures: 
+    - Viera_Dubacova_by Lunter 2017.jpg
+    - Karol Sudor_foto_TASR_Pavol Zachar.jpg
+    - Petra_Prochazkova_Denik_N.jpg
+
+  foto: TASR / Lunter / Pavol Zachar / Denik_N
+  link: https://sk.wikipedia.org/wiki/Karol_Sudor 
+
+karol-sudor-citanie:
+  performer: Karol Sudor (SK)
+  argentum: true
+  title: 'ART PUTIKA – pub dispute and author’s reading – guest: Daniel&nbsp;Pastirčák'
+  top-general: Program for youth and adults 
+  occurences: 
+    - 
+      time: Saturday 15:00
+      location:  Art Cafe, attic
+
+  perex: Non-sermon of Daniel Pastirčák about why it is good to slow down and stop by for art
+  content: 
+    - 'The topic of this year, “to stop” came from a need to slow ourselves down in an overly economized everyday life and in an unhealthy rush, aiming to focus our attention to unique values that we overlook in the daily grind, or take for granted. Such as nature, beauty, and art. However, how to slow down, stop, bask and not miss anything? That will be the topic of dispute, with Karol Sudor, creator of renowned interviews with famous people, and the Slovak writer, philosopher and ecumenical preacher of the Church of the Brethren, <b>Daniel Pastirčák</b>. The “Slovak Tomáš Halík”, a person who connects christians of all denominations with agnostics and atheists, will read and tell stories from his works.'
+    - 
+      '<em>Karol Sudor worked in Volkswagen Slovakia and PSA Peugeot Citroën in the health and safety department, and later as the manager of the HR department. He worked in the daily SME, and is in Denník N today. He has been nominated for the Journalist award 10 times and won 5 times in the Best interview category. He published a book of interviews with Fedor Gál (One last time - the end of the story), as well as a book of interviews with Vladimír Palko (I went to the edge  ̶  a liberal makes a conservative confess). He provided temporary housing to Ukrainian families himself.</em>'
+  link: https://sk.wikipedia.org/wiki/Karol_Sudor
+  pictures: 
+    - Daniel Pastircak_foto Tomas Benedikovic_Dennik N.jpg
+    - Karol Sudor_foto_TASR_Pavol Zachar.jpg
+
+  foto: Tomáš Benedikovič / Pavol Zachar
+
+fastfood-dzenerejsn:
+  performer: D´fastfood dženerejšn (SK)
+  title: NO STOP, NO FUN  
+  top-general: Program for youth and adults
+  occurences:
+    -
+      time: Friday 17:30
+      location: Old castle - karner
+  perex: Modern artistic spoken word of young personalities on the topic of stopping, accompanied by a visual and aural performance of the Time-Minds exhibition
+  
+  content:
+    - 'Young interprets and their authentic performances of texts of international and Slovak poetry and prose, this time enriched with the visual and aural performance of Naďa Salbotová’s exhibition, Time-Minds. We will travel through a magical environment of the unexplored ossuary of the Old castle, which will echo with a careful selection of strong authentic testimonials about slowing down and stopping, with humor and without it. We will slow down wondering about time and the end of the world, we will dip into the fresh waters of nonsense, where everything and nothing gives purpose and joy, we will hear a discussion with a rock about human toughness and an allusion to the parallel stories of Jews and current stories of our neighbors in the East. These will be some of the topics of the changing, and specially composed evening of high-quality literature that will shatter your prejudice about conventional recitals. Thanks to the connection of spoken word and live visual interaction, you will experience a marvel for eyes and the soul. Do not hesitate, this will be a one-off event!'
+    - '<em>Exquisite originals by current authors await you, including  Ernest Jandl, Gro Dahle, Erlend Loe, Wiszlawa Szymborska or Jozef Mokoš. Featuring: Romana Eštóková, Simona Horičková, Hana Hvozdíková, Branislav Lacko, Roman Thor Vítek. </em>'
+
+  pictures:
+    - Recitator_Branislav Lacko.jpg
+    - Recitator_Roman Vitek.jpg
+    - Recitatorka_Simona_Horickova.jpeg
+  foto:
+  link: https://www.amplion.eu
+
+nada-salbotova-Friday:
+  performer: Naďa Salbotová, Bratislava&nbsp;(SK)
+  title: TIME-MINDS 
+  top-general: Program for youth and adults
+  price: 0
+  occurences:
+    -
+      time: Friday 18:30
+      location: Old castle - karner
+    -
+      time: Saturday 15:00 <br> Exhibition is accessible on Saturday from &nbsp;09:00 till 17:00
+      location: Old castle - karner
+
+  perex: Performative interactive exhibition of mind-worlds places in dimensions without time
+
+  content:
+    - "The author introduces the exhibition with the words: “My first solo exhibition was focused on painting. Dreamt of. I have been buying canvases for years, they have stood, leaning against some corner of the attic. This year, the TIME was ripe and I started working. It is a challenge for myself. It is not easy to dive inside… I turn into a misanthrope and I do not want to be disturbed. It is a quiet meeting between myself and I. A dive into my MIND, forgetting about TIME… I search for a motive that would lift the spirits and establish balance… hours pass and I don’t know how. It seems like a dream, a day in a minute and a minute in a day. Balancing between the desire for perfecting, realizing my limits, and the euphoria of what is successful. I admire human faces, and have painted dozens of portraits of people of all ages… the love for human faces never went away. My paintings also arise from portraits of people, fictional ones, and I add various atmospheres to them - dreamscapes, symbols, abstract color structures. Those are my worlds of MINDS placed in dimensions without time - my TIME-MINDS.”"
+    - 'Naďa is a mind full of unique ideas. Besides painting her portraits and her own writing, you will experience visual and aural installations you can touch, and let them play in your own time-minds. We are looking forward to seeing you - with an open mind. '
+    - '<em> Naďa Salbotová (1979), graduated puppetry scene design at the Theater faculty of VŠMU in Bratislava, and had internships at DAMU in Prague. She has collaborated on theater productions with directors such as Peter Palik, Kamil Žiška, Jakub Nvota, Jana Mikitková, Adriana Totíková in various theatres in Slovakia: the Bratislava Puppet theater, MDPOH in Bratislava, the Theater of Ján Palárik in Trnava, the Slovak Chamber Theater in Martin, the Old Theater of Karol Spišák in Nitra, the Theater of Jozef Gregor Tajovský in Zvolen and the Wandering theater. She is the author of the concept and implementer of the interactive Osmijanko literary exhibition, which traveled across Slovakia and was installed in the Gallery of Ľudovít Fulla (SNG) in Ružomberok (2019). She also cooperates with the municipality of Trnava on various projects to support cultural life in the city, such as interactive GPS games for the general public Strong belt and the Elf’s Spell (2020).</em>'
+
+  pictures:
+    - Casomysle_6.jpg
+    - Casomysle_8.jpg
+    - Casomysle_7.jpg
+  foto: Naďa Salbotová
+  link: https://www.instagram.com/nadasalbotova/
+
+nada-salbotova-Saturday:
+  performer: Naďa Salbotová, Bratislava&nbsp;(SK)
+  title: TIME-MINDS 
+  top-general: Program for youth and adults
+  price: 0
+  occurences:
+    -
+      time: Friday 18:30
+      location: Old castle - karner
+    -
+      time: Saturday 15:00 <br> Exhibition is accessible on Saturday from &nbsp;09:00 till 17:00
+      location: Old castle - karner
+
+  perex: Performative interactive exhibition of mind-worlds places in dimensions without time
+
+  content:
+    - "The author introduces the exhibition with the words: “My first solo exhibition was focused on painting. Dreamt of. I have been buying canvases for years, they have stood, leaning against some corner of the attic. This year, the TIME was ripe and I started working. It is a challenge for myself. It is not easy to dive inside… I turn into a misanthrope and I do not want to be disturbed. It is a quiet meeting between myself and I. A dive into my MIND, forgetting about TIME… I search for a motive that would lift the spirits and establish balance… hours pass and I don’t know how. It seems like a dream, a day in a minute and a minute in a day. Balancing between the desire for perfecting, realizing my limits, and the euphoria of what is successful. I admire human faces, and have painted dozens of portraits of people of all ages… the love for human faces never went away. My paintings also arise from portraits of people, fictional ones, and I add various atmospheres to them - dreamscapes, symbols, abstract color structures. Those are my worlds of MINDS placed in dimensions without time - my TIME-MINDS.”"
+    - 'Naďa is a mind full of unique ideas. Besides painting her portraits and her own writing, you will experience visual and aural installations you can touch, and let them play in your own time-minds. We are looking forward to seeing you - with an open mind. '
+    - '<em> Naďa Salbotová (1979), graduated puppetry scene design at the Theater faculty of VŠMU in Bratislava, and had internships at DAMU in Prague. She has collaborated on theater productions with directors such as Peter Palik, Kamil Žiška, Jakub Nvota, Jana Mikitková, Adriana Totíková in various theatres in Slovakia: the Bratislava Puppet theater, MDPOH in Bratislava, the Theater of Ján Palárik in Trnava, the Slovak Chamber Theater in Martin, the Old Theater of Karol Spišák in Nitra, the Theater of Jozef Gregor Tajovský in Zvolen and the Wandering theater. She is the author of the concept and implementer of the interactive Osmijanko literary exhibition, which traveled across Slovakia and was installed in the Gallery of Ľudovít Fulla (SNG) in Ružomberok (2019). She also cooperates with the municipality of Trnava on various projects to support cultural life in the city, such as interactive GPS games for the general public Strong belt and the Elf’s Spell (2020).</em>'
+
+  pictures:
+    - Casomysle_6.jpg
+    - Casomysle_8.jpg
+    - Casomysle_7.jpg
+  foto: Naďa Salbotová
+  link: https://www.instagram.com/nadasalbotova/
+
+art-stop:
+  performer: Physical theater studio JAMU, Brno (CZ/SK)
+  title: ART STOP
+  price: BUSKING
+  top-general: Program for youth and adults
+  occurences:
+    -
+      time: Friday 12:00
+      location: Radničné square – Terra Permonia – Trotuár
+    - 
+      time: Friday 14:50 
+      location: TESCO, Drieňová district, Banská&nbsp;Štiavnica
+    - 
+      time: Saturday 13:30
+      location: Terrace u Blaškov, Počúvadlo
+    - 
+      time: Saturday 16:00
+      location: At the rectory, Beluja
+
+  perex: Happy happening - Praise slowness
+
+  content:
+    - 'Not even this year will you go without an original multi-genre happening tailored to this year’s AMPLIFIER under the motto <b>Stopping is art!</b> Stay on your toes! You will cross paths with ART STOP - A stop for art, a visual object from the workshop of Naďa Salbotová, a group of clown performers that will praise slowness. They will do everything to make you join this praise and stay at the Art Stop to enjoy some Art.'
+
+  pictures: 
+    - Art-Stop-AMP-2022-SK.jpg
+    - Art-Stop-AMP-2022-ENG.jpg
+  
+
+
+antihybrid:
+  performer: Sneezing Brain Gallery, Prešov (SK/USA/NL/UA) 
+  title: ANTI-HYBRID
+  top-general: Program for youth and adults
+  price: 0
+  occurences:
+    -
+      time: Friday 15:00 -18:00
+      location: Cafe Gavalier
+     
+    -
+      time: Saturday 10:00 – 16:00
+      location: Cafe Gavalier
+     
+
+  perex: Diagnostics of society via drawn humor
+
+  content:
+    - '<em>„We cannot defeat human stupidity. But we cannot ever stop fighting it.“</em> Jan Werich.
+      <b>Vernissage and guided tour of the international exhibition of world-renowned cartoonists </b>
+      as a slow-down from lies, misinformation and conspiracies. The Anti-Hybrid exhibition 
+      reveals information manipulation and totalitarian dictators, and provides defense and 
+      catharsis via laughter. It is the answer to the deceit of false communication which decimates 
+      people, creating a feeling of threat and fear, supports hatred, aggression, creates conditions 
+      for chaos, uncertainty and doubts trust in authorities responsible for governing society and moral values.'
+    - 'The quote by the nazi ideologist Joseph Goebbels, “A lie repeated a hundred times becomes the truth,” is the central idea of manipulation, which is, sadly, true also for the current state of affairs. The pressure of misinformation and propaganda on various target groups via fake news grows.  The number of conspiracy websites and so-called alternative media, aimed at spreading intolerance, aggression, distrust, doubt, xenophobia and such is rising. Illuminati, bankers, Big Pharma, the army, the secret service and Baba Vanga. Searching for the unfindable in the spaces of one’s own illusion, virtual identity and emotional bluffing. This, too, is reflected at the international exhibition of humor drawn by world-renowned cartoonists, diagnosing the causes and effects of the info-war, sarcastically reacting to stumbling in the communication fog and searching for objective truth. On Friday, at 15:00, we will welcome you at the vernissage of the exhibition and a guided tour with special guests in attendance. On Saturday at 12:30, you can enjoy the exhibition with the addition of sketches by Palo Seriš. Pick your time for laughing in the face of stupidity!'
+
+  pictures: 
+    - 01_Bernie Bouton.jpg
+    - 02_Willem Rasing 04.jpg
+    - 03_MojmÝr Mihatov 1.jpg
+  foto: Bernie Bouton (FR), Willem Rasing (NL), Mojmír Mihatov (HR)
+  link: https://www.facebook.com/brainsneezing/
+
+
+
+welcome-to-stupidity:
+  performer: Ensemble of Irregular Theatre, Banská Štiavnica (SK-CZ/HR-SK)        
+  title: WELCOME TO STUPIDITY – sad street show        
+  general: Program for the young and the adults 
+  occurences: 
+    -
+      time: Friday 11:00
+      location: Maximilián Hell elementary school and kindergarten, Štiavnické Bane
       price: 5 / 7 €
-      toot-iframe-id: 0
-      toot-event-id: 0
+    
       
   perex: Small stupidities with a big impact!
   content: 
     -
-      'A strong story about the (un)true saviors of the current world. Non-verbal music-physical street show about the incorrigible Savior and the ordinary Garbage man, who decided to save the world. Humorous situations full of situational gags will guide you through a dynamic story starting with being recklessly stunned by a new visionary, through an unexpected threat, all the way to sobering up from a flock attitude thanks to using your wits. Caution, the prevalence of (un)common human stupidity and its irrational symptoms can have tragic consequences! Is there anybody who can save us from the savior?
-      <em>Caution, stupidity can kill!</em>'
+      'A strong story about the (un)true saviors of the current world. Non-verbal music-physical street show about the incorrigible Savior and the ordinary Garbage man, who decided to save the world. Humorous situations full of situational gags will guide you through a dynamic story starting with being recklessly stunned by a new visionary, through an unexpected threat, all the way to sobering up from a flock attitude thanks to using your wits. Caution, the prevalence of (un)common human stupidity and its irrational symptoms can have tragic consequences! Is there anybody who can save us from the savior? Caution, stupidity can kill!'
     - 
-      'Featuring a new and amazing comedic duo that met for the first time thanks to the Ensemble of Irregular Theatre. Pavol Seriš as the man of clay (SK/CZ) will do a hundred tricks with one body & Tomislav Koprivčević as the multi-music-man (HR/SK) will play anything that both plays and does not play! Enjoy this quality training of your brains and laughing muscles alike!'
+      '<em>Featuring a new and amazing comedic duo that met for the first time thanks to the Ensemble of Irregular Theatre. Pavol Seriš as the man of clay (SK/CZ) will do a hundred tricks with one body & Tomislav Koprivčević as the multi-music-man (HR/SK) will play anything that both plays and does not play! Enjoy this quality training of your brains and laughing muscles alike!</em>'
   
   pictures:
     - WTS_premiera_BB_KB_08.jpg
     - WTS_premiera_BB_KB_15.jpg
     - WTS_premiera_BB_KB_47.jpg
-  
+  foto: Katarína Baranyai
   link: http://www.and-theatre.art
-	
-jiri-dedecek:
-  performer: Jiří Dědeček, Prague (CZ)     
-  title: I WILL NO LIVE <br> IN QUEBEC              
-  top-general: TOP Programme for adults
-  occurences: 
-    -
-      time: Saturday 20:30
-      location: Art Cafe, attic
-      price: 10 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-      
-  perex: A celebration of folk in Banská Štiavnica! Chansons, couplets and sing-alongs of the legendary singer-songwriter
-  content: 
-    -
-      Jiří Dědeček, the Czech poet and folk singer-songwriter created this two-hour concert based on his new album
-      <em> I Will Not Live in Quebec </em>. His typically sharp and straightforward songs such as  <em>Rat, Gathering song, Snitches</em> or <em/>Cardinal </em> were completed with two interpretations of the blasphemous poems of František Gellner, 
-      a trio of not-yet-recorded songs of Georges Brassens, but also the country & western themed <em>The frozen woodcutter</em>. The series of fourteen songs with a tragic and comedic feeling are accompanied by the sounds of a guitar and ukulele. 
-      Of course, the well-known hits will be played, too. Enjoy a celebration of folk in Banská Štiavnica!
-
-  pictures:
-    - Jiri_Dedecek_1_ foto Karel Cudlin.jpg
-    - Jiri_Dedecek_3_ foto Karel Cudlin.jpg
-    - Jiri_Dedecek_5_ foto Karel Cudlin.jpg
-
-  link: http://www.dedecek.cz
-
-5-a-pes:
-  performer: 5 & dog, Prague (CZ)       
-  title: MOSQUITO INTO A CAMEL                         
-  general: Programme for the young and the adults
-  occurences: 
-    -
-      time: Thursday 19:00
-      location: Art Cafe, attic
-      price: 7 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-      
-  perex: Musical drama concert of the SKETCH UP winner
-  content: 
-    -
-        'Here it is, we fulfill our promises! After a year, the short winning sketch of the Prague band Ponorka turned into a full feature performance. The band managed to change names and expand, so you will experience it in a better lineup, with a new repertoire under the name 5 & dog. Original songs in a poetic folk style wittily reflect the daily and unusual pleasures and tribulations. And turning a mosquito into a&nbsp;camel is a lot of fun!'
-    -
-     '<em>5 & dog are: Alžběta Bláhová – viola, vocals, Maria Nona Mlejnská – violin, vocals, Jakub Mlejnský – guitar, vocals, Bartoloměj Bláha – upright bass, Johana Pastorová – percussion. Look forward! Bark, bark!</em>'
-
-  pictures:
-    - 5 a pes-resp. Ponorka_1_Peter Stit.jpg
-    - 5 a pes-resp. Ponorka_2_Foto_Michal Sv¡tok.jpg
-    - 5 a pes-resp. Ponorka_3_Peter Stit.jpg
 
 
-5-a-pes-nedela:
-  performer: 5 & dog, Praha (CZ)  
-  title: AFTER CONCERT                           
-  general: Programme for the young and the adults
-  price: 0
-  occurences: 
-    -
+after-koncert-and-amplion-argentum:
+  performer: TooT Ensemble (CZ)
+  title: AFTER CONCERT + announcement of Amplion Argentum Festival Awards
+  price: 0 
+  occurences:
+    - 
       time: Sunday 11:00
-      location: Art Cafe, attic
-      price: 0
-      
-  perex: Amplion Argentum festival award ceremony
+      location: Art Cafe, terrace
+
   content: 
-    -
-        'The 6th year of the AMPLIFIER Festival also has its adepts for the Amplion Argentum festival award. You will find them in the program marked AA. Guess who we will award a prize for a new cabaret, street art or socially engaged art. We will reveal the winners to the sounds of the fanfare of the great band 5 & a dog in a poetic folk style!'
-  
-  pictures:
-    - 5 a pes-resp. Ponorka_1_Peter Stit.jpg
-    - 5 a pes-resp. Ponorka_2_Foto_Michal Sv¡tok.jpg
-    - vyhlasenie-argentum.jpg
+    - "Are you curious who will take home this year's AMPLION ARGENTUM festival award in the categories of new cabaret, street and socially engaged art? You will find out on Sunday on the Art Cafe terrace, where we will all say goodbye thanks to TooT Ensemble. Stop yourself!"
 
-mojse-band:
-  performer: Mojše Band, <br> Spišská Belá (SK)    
-  title: CONCERT                                         
-  general: Programme for the young and the adults
-  occurences: 
-    -
-      time: Friday 22:30
-      location: Art Cafe, attic
-      price: 8 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-    
-      
-  perex: Jewish musical heritage in a fresh version
-  content: 
-    -
-      The authentic band represents an innovative view of the Jewish musical heritage from Slovakia. It has a stable position in the European scene. It systematically maps the Jewish musical heritage from the regions of the former Austro-Hungarian monarchy (albums such as Zipserim  -  Oberzips, 2018, Sárosi - Šarišskí, 2020). Musically, they take part in the Kosher podcasts of Mirek Tóda in the daily Denník N. Their music will also be featured in the public recording with the locals who lived in historical times on Sunday in Art Cafe!  
-    -
-     '<em>Mojše Band performed at many prestigious scenes in Germany, the Netherlands, Poland and Israel and has collaborated with world-renowned artists. They were the finalists of the Global competition of Jewish music in Amsterdam in 2017, and were also awarded the prestigious YouTube Award for 2018-2019. Mojše Band are Michal Paľko –  vocal, cymbalo, wind instruments, Jakub Stračina – upright bass, vocals and František Kubiš - accordion, vocals, drum.  </em>'
-
-  pictures:
-    - Mojse band_Bardejov_Iva Liptakova                                                                                   .jpg
-    - Mojse band_Raslavice_Iva Liptakova                                                                                   .jpg
-    - Mojse band_Zborov_Iva Liptakova                                                                                   .jpg
-
-  link: http://www.mojseband.sk
-
-mojse-band-after-promo:
-  performer: Mojše Band, <br> Spišská Belá (SK)    
-  title: AFTER PROMO                                         
-  general: Programme for the young and the adults
-  price: 0
-  occurences:    
-    -
-      time: Saturday 14:15
-      location: Trotuár
-      price: 0
-     
-    -
-      time: Saturday 19:00
-      location: Cube
-      price: predpredaj 8 € / na mieste 10 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-    -
-      time: Sunday 15:00
-      location: Art Cafe, attic
-      price: 5 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-      
-  perex: Jewish musical heritage in a fresh version
-  content: 
-    -
-      The authentic band represents an innovative view of the Jewish musical heritage from Slovakia. It has a stable position in the European scene. It systematically maps the Jewish musical heritage from the regions of the former Austro-Hungarian monarchy (albums such as Zipserim  -  Oberzips, 2018, Sárosi - Šarišskí, 2020). Musically, they take part in the Kosher podcasts of Mirek Tóda in the daily Denník N. Their music will also be featured in the public recording with the locals who lived in historical times on Sunday in Art Cafe!  
-    -
-     '<em>Mojše Band performed at many prestigious scenes in Germany, the Netherlands, Poland and Israel and has collaborated with world-renowned artists. They were the finalists of the Global competition of Jewish music in Amsterdam in 2017, and were also awarded the prestigious YouTube Award for 2018-2019. Mojše Band are Michal Paľko –  vocal, cymbalo, wind instruments, Jakub Stračina – upright bass, vocals and František Kubiš - accordion, vocals, drum.  </em>'
-
-  pictures:
-    - Mojse band_Bardejov_Iva Liptakova                                                                                   .jpg
-    - Mojse band_Raslavice_Iva Liptakova                                                                                   .jpg
-    - Mojse band_Zborov_Iva Liptakova                                                                                   .jpg
-
-  link: http://www.mojseband.sk
-
-samuel-marec-jan-markos:
-  performer: <span style="font-size:0.98em"> Samuel Marec & Ján Markoš, <br> Bratislava (SK) </span> 
-  argentum: true
-  title: ART PUB – BETWEEN GOOD AND EVIL                        
-  general: Programme for the young and the adults    
-  price: 0            
-  occurences: 
-    -
-      time: Saturday 21:00 
-      location: Archanjel caffe bar
-      price: 0
- 
-  perex: Pub disputes about today’s moral dilemmas led by the devil’s advocate & his valued guest
-  content: 
-    -
-     'How to get out of the pandemic and does covid even exist? Who do we believe and why? Who is worth our belief and why? The pandemic and its ethical dilemmas. Does family come first when human life is at stake? How to keep the father at home? What is the price of human life and who is to blame for the situation? Informal disputers do not provide a clear solution. It is up to you, how you will tackle these dilemmas. Get ready for a critical discussion between Samo Marec and Ján Markoš, who will leave no stone unturned. Wit and humor - all inclusive!'
-
-    -
-     '<em>Ján Markoš is a lecturer of critical thinking and a chess grandmaster at the same time. After one of the best books of 2019, The power of reason in a crazy age, he published another one titled Between good and evil  - 16 ethical dilemmas you may face one day.
-Samo Marec is a translator and publicist for the daily SME. His life ambition is to make a living not writing, but reading books. He balances his love for beautiful literature with a love for music that few are able to listen to.
-</em>'
-
-  pictures:
-    - Marec &amp; Markos_Medzi-dobrom-a-zlom_obalka.jpg
-    - Samo Marec_by_TomasBenedikovic_2.jpg
-    - Jan_Markos_3.jpg
-
-    
-  link: https://obchod.dennikn.sk/show/417/medzi-dobrom-a-zlom?autologin=done
-
-samo-marec:
-  performer: Samo Marec, Bratislava (SK)  
-  title: <span style="font-size:1.5rem"><del>LAWLESS YEARS </del> <br> Canceled due to serious family ocasion. </span>
-  argentum: true                                  
-  general: Programme for the young and the adults   
-  price: 0             
-  occurences: 
-    -
-      time: Friday 20:00
-      location: Art Cafe, attic
-      price: 0
-      toot-iframe-id: 0
-      toot-event-id: 0
-   
-      
-  perex: Self-reading with self-discussion. Don’t leave Samo to himself!
-  content: 
-    -
-     'In June 2013, in a Roma settlement in Moldava, a police raid happened. It left behind wounded people and destroyed homes, but the Roma faced accusations of false testimonies. Former government officials still maintain that everything was alright. What happened and why, then? How is it possible? That is what Samo Marec, who wrote a book about the raid in Moldava, will talk to you about.'
-    -
-     '<em>The popular publicist and translator Samo Marec with Veronika Prušová, who has focused on the judicial system as a reporter for years, did not stop at a mere reconstruction of the events from Moldava and the court. They went way back into the past in order to understand and explain where the Roma came from and why the majority treats them in such a complicated way - with empathy for both sides.</em>'
-
-  pictures:
-    - Samo Marec_Roky-bezpravia_obalka_mala.jpg
-    - Samo Marec_by_TomasBenedikovic_1.jpg
-  
-
-  link: https://www.sme.sk/aut/3817/samuel-marec 
-
-mirek-toda-mojse-band:
-  performer: Mirek Tóda & Mojše Band Bratislava/Spišská Belá (SK)
-  argentum: true
-  title: ART PUB – Kosher podcast                                
-  general: Programme for the young and the adults             
-  occurences: 
-    -
-      time: Sunday 15:00
-      location: Art Cafe, attic
-      price: 5 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-      
-  perex: Public recording with those who remember the Jewish Štiavica
-  content: 
-    -
-     'Mirek Tóda and his wanderings through the Jewish world visit Banská Štiavnica this time. In a public recording of the Kosher podcast for Denník N, he will talk about “disappeared neighbors” with Beata Rückschloss Nemcová from the civic association Omnis Terra, which initiated, alongside the civic association antikomplex.sk, the laying of the first Stolpersteins in Banská Štiavnica. Two memorial stones that remind us of the murder of Regina Baroková and her son, Andrej Barok in the death camp of Sobibore (Poland) and two more in rememberance of MUDr. Rudolf Welward, the local doctor and his wife, Melánia. The guests of the podcast will be the children of the “disappeared neighbors” themselves and Ladislav Welward.'
-    -
-     '<em>Stolpersteins are a project of the German artist Gunter Demnig, who started in 1992. The small plaques in the ground, the so-called stumbling blocks remind us of the fate of people who were persecuted, murdered, deported and banished during the times of nazism. They have been placed in over 25 European countries as the biggest decentralised memorial in the world. 
-</em>'
-
-  pictures:
-    - Mirek Toda_Koser podcast.png
-  link: https://dennikn.podbean.com/e/koser-podcast/ 
-
-
-dzenerejsn:
-  performer: D´&nbsp;renewed dženerejšn &&nbsp;Martin Toman &&nbsp;Tadeáš&nbsp;Bolo&nbsp;(SK)
-  title: NO TRUST, NO FUN                               
-  general: Programme for the young and the adults 
-  occurences: 
-    -
-      time: Friday 18:00
-      location: Art Cafe, Under the walnut tree
-      price: 7 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-      
-  perex: Young reciters on the topic of (dis)trust, featuring the songs of Filip, Lasica & Satinský
-  content: 
-    -
-      'Five young interprets and their authentic testimonies of texts by international and Slovak prose and poetry, with the addition of an author’s reading of a young Slovak female poet. An adventure for the eyes and the soul! In the beautiful environment of the calm garden of Art Cafe, you will hear a hand-picked selection of strong authentic testimonies about trust in interpersonal relationships, in oneself, in basic human values, but also in strength, the meaning and the benefits of art and artists for a cultured society. This and other topics will be central to the specially composed evening of intensely good literature that will shatter your prejudice about conventional reciting. The hosts of the program will be a young cabaret duo in the style of Lasica & Satinský. Great company, don’t you think?'     
-    -
-      '<em>Strong texts of well-known authors such as Gabriel García Márquez, Hans Magnus Enzensberger, Anna Gavalda, Michal Hvorecký or Peter Balko await you. Featuring: Nina Benkovičová, Denis Farkaš, Adrián Kráľovský, Julia Pabst, Stella Stupňanová, and Michaela Čajkovičová. </em>'
-
-  pictures:
-    - SKETCH UP_Martin &amp; Tadeas_za klavirom.png
-    - Julia Pabst.jpg
-    - Adrian Kralovsky.jpg
-
-  link: http://www.and-theatre.art
+  foto: Michal Svitok
+  pictures: 
+    - amplion21_vyhlasenie_cien_festivalu_KM_001.jpg
+    - amplion21_vyhlasenie_cien_festivalu_KM_003.jpg
+    - amplion21_vyhlasenie_cien_festivalu_MS_003.jpg
+    - amplion21_vyhlasenie_cien_festivalu_MS_027.jpg
+    - amplion21_vyhlasenie_cien_festivalu_MS_035.jpg
 
 
 
-dusan-krnac-friday:
-  performer: Dušan Krnáč, Zvolen (SK)    
-  title: ANTIDEPRESÁRIUM                                         
-  general: Programme for the young and the adults   
-  price: 0         
-  occurences: 
-    -
-      time: Friday  17:30 – 18:45
-      location: Old Castle – karner
-      price: 0
-    -
-      time: Saturday  10:00 – 18:00
-      location: Old castle – karner
-      price: 0
-      
-   
-      
-  perex: 'Visual performance exhibition in the dark, guest: psychiatrist Michal Patarák'
-  content: 
-    -
-     'They are everywhere. They are an image, a reflection of reality, an account of the subconscious. They have become a part of the public space. They are materialized states of the inside of a human being during a gesture, in the active moment of creation. Crushed cans from beverages. They create a happening of art in the street full of anonymous people. They are the aesthetic of a personal and social situation. Compensation of problems with the consumption of energy drinks or alcoholic beverages. Depression, the word of the age, which has become the measure of the importance of one’s mental state and his unseen inner erosion. The concept is based on gathering ready-made objects and adjusting them into new visual artefacts right on the border between irony, the banality of waste and anxiety. The goal is to point at the consequences of the growing depression among the young generation. The performative exhibition engages the viewer, who will be forced to discover installed objects in the dark with a LED light. Just like one has to discover the symptoms of depression and the inner world.'
-    -
-     '<em>Visual concept and realisation: Dušan Krnáč, Curator: Gabriela Garlatyová. Guest: psychiatrist MUDr. Michal Patarák.</em>'
-
-  pictures:
-    - Antidepresarium_BS_JF_01.jpg
-    - Antidepresarium_BS_JF_02.jpg
-    - Antidepresarium_BS_JF_03.jpg
-
-dusan-krnac:
-  performer: Dušan Krnáč, Zvolen (SK)    
-  title: ANTIDEPRESÁRIUM                                         
-  general: Programme for the young and the adults   
-  price: 0
-  occurences: 
-    -
-      time: Saturday  10:00 – 18:00
-      location: Old castle – karner
-      price: 0
-      
-  perex: 'Visual performance exhibition in the dark'
-  content: 
-    -
-     'They are everywhere. They are an image, a reflection of reality, an account of the subconscious. They have become a part of the public space. They are materialized states of the inside of a human being during a gesture, in the active moment of creation. Crushed cans from beverages. They create a happening of art in the street full of anonymous people. They are the aesthetic of a personal and social situation. Compensation of problems with the consumption of energy drinks or alcoholic beverages. Depression, the word of the age, which has become the measure of the importance of one’s mental state and his unseen inner erosion. The concept is based on gathering ready-made objects and adjusting them into new visual artefacts right on the border between irony, the banality of waste and anxiety. The goal is to point at the consequences of the growing depression among the young generation. The performative exhibition engages the viewer, who will be forced to discover installed objects in the dark with a LED light. Just like one has to discover the symptoms of depression and the inner world.'
-    -
-     '<em>Visual concept and realisation: Dušan Krnáč, Curator: Gabriela Garlatyová</em>'
-
- 
-  pictures:
-    - Antidepresarium_BS_JF_01.jpg
-    - Antidepresarium_BS_JF_02.jpg
-    - Antidepresarium_BS_JF_03.jpg
-  
-  link: http://www.and-theatre.art 
-
-dusan-ondrusek:
-  performer: Dušan Ondrušek, PDCS, Bratislava (SK)  
-  title: ART PUB – HOW TO FISH OUT THE TRUTH <br>in the endless sea of disinformation?
-  argentum: true                                           
-  general: Programme for the young and the adults                             
-  occurences: 
-    -
-      time: Saturday 15:00
-      location: Art Cafe, attic
-      price: 5 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-      
-  perex: 'Entertaining pub video-quiz'
-  content: 
-    -
-      'How to choose truth in the endless sea of disinformation? Let us see for our own eyes, ears and lungs. The quiz has ten questions and surprising answers. The groups around tables will watch ten short videos and answer quiz questions. We will tell ten stories that taught us something about manipulation. We will also talk about manipulation in the times of the infodemia, and also how to protect oneself against manipulation. The group with the correct answers will win a prize. The quiz and discussion is hosted by the psychologist Dušan Ondrušek. Broaden your horizons with unique experiences!'
-    -
-     '<em>Dušan Ondrušek used to research altruism. At the same time, he was teaching at the Comenius University in Bratislava and worked at a psychology centre. Later, he founded the PDCS organisation, travelled, trained others and helped solve conflicts in more than 40 countries. He is still an active expert and a charming companion with a wealth of experience. PDCS is a non-governmental organisation providing professional education and facilitation services, consultancy in the field of resolving conflicts, supporting social dialogue, civic participation and developing the civic society in Slovakia and abroad.</em>'
-
- 
-  pictures:
-    - Dusan Ondrusek.jpg
-  
-  link: http://www.and-theatre.art 
-
-family-puppet-theatre:
-  performer: Mikropodium Family Puppet Theatre, Tiszaalpár&nbsp;(HU)          
-  title: STOP              
-  general: Programme for families with children  
-  occurences: 
-    -
-      time: Friday 16:30
-      location: Cafe Gavalier
-      price: 2 / 4 €
-      toot-iframe-id: 0
-      toot-event-id: 0
-
-    -
-      time: Saturday 10:30
-      location: Cafe Gavalier
-      price: 2 / 4 €
-      toot-iframe-id: 0
-      toot-event-id: 0
 
 
-      
-  perex: 'World-unique puppet theatre for the youngest ones'
-  content: 
-    -
-      'You will witness something special and magical. Micro-puppets on a micro-podium. Precise dance of a small ballet dancer, the magical playing of the jester-accordion player, unbelievable motion of a fish or a dog. The magical world of fantasy will come alive right before your eyes. The unique puppetry technique of the Hungarian artist will enchant both children and adults. They will all feel the joy of wonder. <br> It will be… wow!'    
-    -
-     '<em>András Lénárt and his Micro-podium of unique puppets has travelled all around the world in the last 30 years and has received numerous significant awards.</em>'
-
- 
-  pictures:
-    - Mikropodium_01.jpg
-    - Mikropodium_02.png
-    - Mikropodium_03.jpg
-  
-  link: http://www.mikropodium.com
-
-family-puppet-theatre-nedela:
-  performer: Mikropodium Family Puppet Theatre, Tiszaalpár&nbsp;(HU)          
-  title: STOP              
-  general: Programme for families with children  
-  price: 0
-  occurences: 
-    -
-      time: Sunday 10:30
-      location: Art Cafe, Under the walnut tree
-      price: 0
-      toot-iframe-id: 0
-      toot-event-id: 0
 
 
-      
-  perex: 'World-unique puppet theatre for the youngest ones'
-  content: 
-    -
-      'You will witness something special and magical. Micro-puppets on a micro-podium. Precise dance of a small ballet dancer, the magical playing of the jester-accordion player, unbelievable motion of a fish or a dog. The magical world of fantasy will come alive right before your eyes. The unique puppetry technique of the Hungarian artist will enchant both children and adults. They will all feel the joy of wonder. <br> It will be… wow!'    
-    -
-     '<em>András Lénárt and his Micro-podium of unique puppets has travelled all around the world in the last 30 years and has received numerous significant awards.</em>'
 
- 
-  pictures:
-    - Mikropodium_01.jpg
-    - Mikropodium_02.png
-    - Mikropodium_03.jpg
-  
-  link: http://www.mikropodium.com
+
+
+
+
+
+

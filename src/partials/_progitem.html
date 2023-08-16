@@ -29,7 +29,13 @@
     <div class="progitem__gutter">
         <div class="progitem__content">
             <div class="progitem__titles">
-                <h5 class="progitem__performer">{{{this.performer}}}</h5>
+                <h5 class="progitem__performer">{{{this.performer}}}
+                    {{#if this.headliner}}
+                    <br>
+                        <strong style="color:#362982;font-size:0.8em;"> Headliner festivalu </strong>
+                    {{/if}}
+                </h5>
+                
                 <h4 class="progitem__title">
                     {{#if this.slug}}
                     <a href="/program/{{this.slug}}/">

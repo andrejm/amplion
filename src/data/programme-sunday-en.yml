@@ -1,30 +1,41 @@
 -
-  time: 11:00 – 11:30 
-  performer: TooT Ensemble (CZ) 
-  age: 12+
-  title: AFTER CONCERT +  Amplion Argentum festival award announcement ceremony  
-  location: Art Cafe, terrace
+  time: "10:00 – 10:30"
+  performer: "Katanari & Ivana Mer (SK)"
+  age: Family
+  argentum: true
+  title: "CABINET ALIVE!"
+  perex: "magical puppet cabaret, music-visual delicacy for children"
+  location: "The Scout House Garden, A. Pécha Street"
+  price: "3 € / 5 €"
+  slug: cabinet-alive
+
+-
+  time: "10:30 – 11:45"
+  performer: "AND + WE: MEDIA THEATER (SK+UA)"
+  age: "12+"
+  title: "ART PUTIKA II."
+  perex: "ICEBREAKING\nTavern disputes and a video report from the V4 countries on the rapprochement of V4 citizens and UA expatriates"
+  location: "Art Cafe, attic"
   price: 0
-  slug: after-koncert-and-amplion-argentum
+  slug: art-putika-ii
 
 -
-  time: 13:00 – 13:45 
-  performer: PUKA (SK)   
-  age: 12+
-  title: CONCERT
-  perex: of the folk-blues band
-  location: Trotuár Cafe
-  price: BUSKING
-  slug: puka
+  time: "11:00 – 11:45"
+  performer: "Katanari (SK)"
+  age: Family
+  argentum: true
+  title: "JOURNEY"
+  perex: "audio-visual experience of a box theatre for one spectator (lambe-lambe)"
+  location: BUSKING
 
 -
-  time: 13:30 – 14:00 
-  performer: Lorenzo Galli (IT) 
+  time: "12:00 – 12:30"
+  performer: "MiraMundo (ES)"
+  age: "12+"
   argentum: true
   premiere: true
-  age: Family
-  title: POOM-CHA
-  perex: walking cabaret streetster and his one-clown band
-  location: Hájovňa – Red well
+  title: "FAREWELL CONCERT"
+  perex: "Amplion Argentum Award winners announcement"
+  location: "Art Cafe, terrace"
   price: BUSKING
-  slug: poom-cha
+  slug: farewell-concert

@@ -118,15 +118,18 @@ sunday:
             </section>
 
             {{#if @root.site-config.show-caravana}}
-            <section class="section" style="background-color:white">
+              {{#if programme-friday-caravan.length}}
 
-              <h2 class="section__title">AMPLIÓN Karavana</h2>
-              <ul class="programmes">
-                {{#each programme-friday-caravan}}
-                    {{>_progitem}}
-                {{/each}}
-              </ul>
-            </section>
+              <section class="section" style="background-color:white">
+
+                <h2 class="section__title">AMPLIÓN Karavana</h2>
+                <ul class="programmes">
+                  {{#each programme-friday-caravan}}
+                      {{>_progitem}}
+                  {{/each}}
+                </ul>
+              </section>
+              {{/if}}
             {{/if}}
 
           </div>
@@ -140,16 +143,19 @@ sunday:
                 {{>_programmenav saturday}}               
             </section>
              {{#if @root.site-config.show-caravana}}
-            <section class="section" style="background-color:white">
+              {{#if programme-saturday-caravan.length}}
 
-                <h2 class="section__title">AMPLIÓN Karavana</h2>
-                  <ul class="programmes">
-                  {{#each programme-saturday-caravan}}
-                      {{>_progitem}}
-                  {{/each}}
-                </ul>
-            
-            </section>
+              <section class="section" style="background-color:white">
+
+                  <h2 class="section__title">AMPLIÓN Karavana</h2>
+                    <ul class="programmes">
+                    {{#each programme-saturday-caravan}}
+                        {{>_progitem}}
+                    {{/each}}
+                  </ul>
+              
+              </section>
+              {{/if}}
             {{/if}}
            
           </div>
@@ -163,7 +169,8 @@ sunday:
                 {{>_programmenav sunday}}               
             </section>
             
-            {{!-- {{#if @root.site-config.show-caravana}}
+            {{#if @root.site-config.show-caravana}}
+            {{#if programme-sunday-caravan.length}}
             <section class="section" style="background-color:white">
 
                 <h2 class="section__title">AMPLIÓN Karavana</h2>
@@ -173,7 +180,8 @@ sunday:
                   {{/each}}
                 </ul>
             </section>
-            {{/if}} --}}
+            {{/if}}
+            {{/if}}
           </div>
         </div>
     </div>
@@ -217,7 +225,7 @@ sunday:
     <div class="presskit">
       <div class="presskit__item">
         <img src="/assets/img/pressico-logo.svg" alt="" class="presskit__ico">
-        <a href="/assets/PROGRAM_AMPLION_22_SK_FINAL3.pdf" class="button" target="_blank">Program festivalu (pdf)</a>
+        <a href="/assets/PROGRAM_AMPLION_23_SK_2.pdf" class="button" target="_blank">Program festivalu (pdf)</a>
       </div>
       <!-- todo dopnit festivalove noviny -->
       {{#if @root.site-config.show-festivalove-noviny}}

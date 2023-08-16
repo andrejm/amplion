@@ -1,154 +1,97 @@
-# cancelled - nebude sa zobrazovat button
-# top-general
-# general
-
-# -
-#    time: 11:00 – 11:45
-#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
-#    age: Family
-#    title: ZASTAVIŤ SA JE UMENIE!
-#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-#    location: Základná škola s materskou školou Maximiliána Hella, Štiavnické Bane
-#    price: 3 €
-#    caravana: true
-#    slug: amplion-karavana-piatok
-
-# -
-#    time: 14:30 – 15:15
-#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
-#    age: Family
-#    title: ZASTAVIŤ SA JE UMENIE!
-#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-#    location: TESCO, sídlisko Drieňová Banská Štiavnica
-#    price: 0
-#    caravana: true
-#    slug: amplion-karavana-piatok
 -
-  time: 15:00 – 18:00
-  performer: Sneezing Brain Gallery Prešov (SK/USA/NL/UA)
-  age: 10+
-  title: ANTI-HYBRID
-  perex: "vernissage and guided tour of the international exhibition of drawn humor, as a slow-down and catharsis before lies and conspiracies"
-  location: Cafe Gavalier, St.&nbsp;Trinity&nbsp;Square 
-  price: 0
-  slug: antihybrid
--
-  time: 16:00 – 16:30 
-  title: FESTIVAL OPENING
+  time: "16:00 – 16:30"
+  title: "OPENING CEREMONY"
   age: Family
-  perex: "Anthem + promo: Ugo Sanchez jr. (IT), Collectif Primavez (FR), Filtr (CZ), JAMU&nbsp;(CZ)" 
-  location: St. Trinity Square  
+  perex: "Anthem + Promo: Firebirds (HU), MiraMundo (ES), niMú (ES) +&nbsp;ICEBREAKING (V4 +UA)"
+  location: "Holy Trinity Square"
   price: 0
-  slug: festival-opening
+  slug: opening-ceremony
 
 -
-  time: 16:30 – 16:50
-  performer: Lorenzo Galli (IT) 
-  argentum: true
+  time: "16:30 – 16:45"
+  performer: "Orkest de Tegenwind (NL)"
   premiere: true
   age: Family
-  title: POOM-CHA
-  perex: walking cabaret streetster GALiRó as eccentric one-clown-band
-  location: St.&nbsp;Trinity Square – Scout House garden, A.&nbsp;Pécha&nbsp;st.
+  title: "MARCHING BAND"
+  perex: "street brass band from Netherlands"
+  location: "Holy Trinity Square – Old&nbsp;Castle"
   price: BUSKING
-  slug: poom-cha
+  slug: marching-band
 
 -
-  time: 17:00 – 17:55 
-  performer: Ugo Sanchez jr. (IT) 
-  argentum: true
-  premiere: true  
-  age: Family
-  title: RIO BOOM BOOM
-  perex: musical and clown comedy of a world-renowned artist
-  location: Scout House garden, A.&nbsp;Pécha&nbsp;st. 
-  price: 4 / 7 €
-  slug: rio-boom-boom
-
--
-  time: 17:30 – 18:30
-  performer: D´fastfood dženerejšn (SK) 
-  age: 12+
-  title: NO STOP, NO FUN
-  perex: modern spoken interpretation of young personalities on the topic of stopping
-  location: Old castle – karner
-  price: 8 €
-  slug: fastfood-dzenerejsn
--
-  time: 18:30 – 19:00
-  performer: Naďa Salbotová (SK)  
-  age: 10+ 
-  title: TIME-MINDS
-  perex: vernissage of the interactive exhibition, a jump into a world without time
-  location: Old castle – karner <br> Exhibition is accesible on saturday from&nbsp;09:00 till 17:00.  
+  time: "17:00 – 17:35"
+  performer: "ICEBREAKING I. (V4+UA)"
+  premiere: true
+  age: "12+"
+  title: "HUMAN CARAVAN"
+  perex: "social-inclusive (pilot) theatre about rapprochment & solidarity"
+  location: "Old Castle – Scout House Garden, A. Pécha Street"
   price: 0
-  slug: nada-salbotova-friday
+  slug: icebreaking-i
 
 -
-  time: 18:30 – 19:00 
-  performer: Lorenzo Galli (IT) 
-  premiere: true  
-  argentum: true
+  time: "17:35 – 17:50"
+  performer: "Orkest de Tegenwind (NL)"
+  premiere: true
   age: Family
-  title: POOM-CHA
-  perex: walking cabaret streetster GALiRó as eccentric one-clown-band
-  location: Trotuár Cafe – Art Cafe 
+  title: "MARCHING BAND"
+  perex: "street brass band from Netherlands"
+  location: "Scout House Garden, A. Pécha Street – Trotuár Cafe – Art Cafe"
   price: BUSKING
-  slug: poom-cha
-
-
-# -
-#    time: 19:00 – 20:00
-#    performer: AMPLIÓN Karavana (HU/CZ/SK) 
-#    age: Family
-#    title: ZASTAVIŤ SA JE UMENIE!
-#    perex: Putovné vystúpenia umelcov na periférií + pozvánky do centra
-#    location: Krčma u Michala, Banská Belá
-#    price: 0
-#    caravana: true
-#    slug: amplion-karavana-piatok
+  slug: marching-band
 
 -
-  time: 19:00 – 20:30
-  performer: Karol Sudor (SK)  
-  argentum: true
-  age: 15+
-  title: ART PUTIKA - pub disputes
-  perex: "guests: Petra Procházková, Viera Dubačová" 
-  location: Art Cafe, attic  
-  price: 8 €
-  slug: karol-sudor 
-
--
-  time: 19:30 – 20:15 
-  performer: Collectif Primavez (FR) 
-  argentum: true 
-  premiere: true  
+  time: "18:00 – 18:45"
+  performer: "Orkest de Tegenwind (NL)"
+  premiere: true
   age: Family
-  title: PLAYGROUND
-  perex: unique circus-art on a Chinese pole fully dependent on the audience
-  location: Cultural center, main hall  
-  price:  6 / 8 € pre-sale, 6 / 10 € on-sale
-  slug: playground
+  title: "CONCERT"
+  perex: "street brass band from Netherlands"
+  location: "Art Cafe, terrace"
+  price: BUSKING
+  slug: concert
 
 -
-  time: 21:00 – 22:15
-  performer: Ensemble of Irregular Theatre (SK)
-  age: 15+
-  title: <s>GODLIKE</s> <span style="color:#362982">cancelled</span> 
-  perex: bar cabaret noir. Dark tales, captivating music, and dark humor.
-  location: Hotel Grand Matej, Kammerhofská&nbsp;5 
-  price:   7 / 12 € pre-sale, 7 / 14 € on-sale
-  slug: bohorovni
-  cancelled: true
--
-  time: 22:30 – 23:45 
-  performer: Filtr (CZ)
-  premiere: true  
+  time: "19:00 – 20:15"
+  performer: "Monika Tódová, Denník N (SK)"
+  age: "15+"
   argentum: true
-  age: 15+
-  title: SPOKO CONCERT
-  perex: "concert of a tongue-in-cheek Prague band&nbsp; ̶&nbsp; living room pop and garage rock"
-  location: Art Cafe, attic
-  price: 8 €
-  slug: filtr
+  title: "HOW TO SAVE DEMOCRACY"
+  perex: "guests: Marián Leško, Martin Šimečka, Matúš Kostolný\nDiscussion on the current development of our country, with and without humour."
+  location: "Cultural Center, The Main Hall"
+  price: "10 €"
+  slug: how-to-save-democracy
+
+-
+  time: "19:30 – 20:00"
+  performer: "MiraMundo (ES)"
+  argentum: true
+  premiere: true
+  age: "15+"
+  title: "PROMO"
+  perex: "energetic band from Barcelona playing unique world music"
+  location: "Trotuár Cafe"
+  price: BUSKING
+  slug: promo-miramundo
+
+-
+  time: "21:00 – 22:15"
+  performer: "Ensemble of Irregular Theatre (SK)"
+  age: "15+"
+  title: "GODLIKE"
+  perex: "bar cabaret noir – powerful stories, captivating music and dancing in stylish company"
+  location: "Hotel Grand Matej, Kammerhofska Street 5"
+  price: "12 €"
+  slug: godlike
+
+-
+  time: "22:30 – 24:00"
+  performer: "Krvik Totr (CZ)"
+  premiere: true
+  argentum: true
+  age: "15+"
+  title: "OUT OF HOLLOWNESS"
+  perex: "entertaining literary cabaret with songs + after concert by band Filtr"
+  location: "Art Cafe, attic"
+  price: "9 €"
+  slug: out-of-hollowness
