@@ -193,7 +193,7 @@ katanari-ivana-mer-kosice-bb:
   title: "KABINET OŽÍVA!"
   argentum: true
   general: "Program pre rodiny s deťmi"
-  perex: "Magický bábkový kabaret, hudobno-vizuálna lahôdka nielen pre deti"
+  perex: "Magický bábkový kabaret, hudobno-vizuálna lahôdka nielen pre deti"
   occurences:
     -
       time: "sobota 17:00"
@@ -202,14 +202,21 @@ katanari-ivana-mer-kosice-bb:
       time: "nedela 10:00"
       location: "Záhrada Skautského domu"
   content:
-    -
-      "Čo sa odohráva na stole podivínskych zberateľov, keď za sebou zavrú dvere? Kabinet drobných bábok a objektov, ktorým sa nechce pózovať len za sklom, magicky ožije. Doprajme im 5 sekúnd slávy! Kde? No predsa v tejto kombinácii výstavy, promenády a bláznivého kabaretu, ktorý vás pozýva uvidieť to, čo robia objekty, keď ich nikto nevidí. Nonverbálna performancia za sprievodu rôznych hudobných nástrojov, zvonkohier a hracích skriniek v podaní performerky Katanari v sprievode hry na zvukové hračky a akustické nástroje speváčky a skladateľky, Ivany Mer."
+    - "Čo sa odohráva na stole podivínskych zberateľov, keď
+       za sebou zavrú dvere? Kabinet drobných bábok a objektov, ktorým sa nechce
+       pózovať len za sklom, magicky ožije. Doprajme im 5 sekúnd slávy! Kde? No
+       predsa v tejto kombinácii výstavy, promenády a bláznivého kabaretu, ktorý vás
+       pozýva uvidieť to, čo robia objekty, keď ich nikto nevidí.Nonverbálna
+       performancia performerky Katanari. Na zvukové hračky a akustické nástroje hrá
+       speváčka a skladateľka, Ivana Mer."
   pictures:
     - "Katanari_Kabinet_live_web_1.jpg"
     - "Katanari_Kabinet_live_web_2.jpg"
     - "Katanari_Kabinet_live_web_3.jpg"
     - "Katanari_Kabinet_live_web_4.jpg"
     - "Katanari_Kabinet_live_web_5.jpg"
+
+  link: "https://www.katanariart.com"
 
 
 katanari-kosice:
