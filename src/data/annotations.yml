@@ -24,7 +24,7 @@ teatr-kto-krakow:
   title: "ARCADIA"
   argentum: true
   general: "TOP program pre dospelých"
-  perex: "Výnimočné divadlo so spevom, tancom a skvelými hereckými výkonmi, balzam na dušu!"
+  perex: "VVýnimočné divadlo so spevom, tancom a skvelými hereckými výkonmi, balzam na dušu!"
   occurences:
     -
       time: "sobota 18:00"
@@ -137,7 +137,7 @@ and-hostia-bonbon-trio:
   foto: "Michal Svítok / Kristína Mayerová"
 
 firebirds-budapest:
-  performer: 'Firebirds, Budapest (HU) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner Festivalu </strong>'
+  performer: 'Firebirds, Budapešť (HU) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner Festivalu </strong>'
   title: "FREAK FUSION CONFUSION"
   argentum: true
   premiere: true
