@@ -98,7 +98,7 @@ ansambel-nepravidelneho-divadla:
   foto: "Michal Svítok"
 
 and-hostia-bonbon-trio:
-  performer: "AND & hostia & BON&nbsp;BON&nbsp;trio&nbsp;(SK+CZ)"
+  performer: "AND + hostia & BON&nbsp;BON&nbsp;trio&nbsp;(SK+CZ)"
   title: "SKETCH UP"
   top-general: Len na AMPLIÓNE!
   argentum: true
@@ -110,9 +110,15 @@ and-hostia-bonbon-trio:
       location: "Kocka"
   content:
     -
-      "<b>Moderuje ???... Parížske šansóny a svetové hity hrá trio Cmorejová, Humeňanská, Baarová. </b>"
-    -
-      "Súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla. Všetky skeče prepojí jedna téma – (ne)citlivosť, ktorú podajú zážitkovou a zábavnou formou títo účinkujúci: post-traumatické kabaretné duo Šoganová & Kučerová (SK+CZ), speváčka Lucie Vacovská (CZ) z kapely Filtr prevedie vtipnú autorskú pieseň, Ema Poliaková (SK) vystúpi ako klaunka Truppo, v premiére sa predstaví hudobno-pohybové trio TyMyJan (SK), Barbora Šimová (SK) ponúkne hudobnú klauniádu a po druhýkrát sa Cenu Festivalu pokúsi získať divadelný súbor Falangír (SK). Svojrázny humor a pohybové skeče predvedie moderátor Palo Seriš, jedinečnú atmosféru vytvorí pražská recesistická kapela Filtr. Nebude chýbať ani medzinárodná porota. Víťaz získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného programu na 9. ročníku Festivalu AMPLIÓN 2024. Nenechajte si tento jedinečný program ujsť."
+      "<b>Moderuje herec Martin Toman. Parížske šansóny a svetové hity hrá trio Cmorejová, Humeňanská,
+          Baarová.</b>"
+    - "Súťaž nových kabaretných výstupov jednotlivcov a umeleckých skupín v rôznych žánroch príbuzných
+      kabaretu ako je stand up, slam poetry, divadlo, hudba, pohybové umenie či klaunské čísla. Všetky
+      skeče prepojí jedna téma – (ne)citlivosť, ktorú podajú zážitkovou a zábavnou formou rozmanití
+      účinkujúci. Ekvilibristiku slova a humor predvedie moderátor, herec Martin Toman. Jedinečnú
+      atmosféru vytvorí šansónová kapela BON BON trio. Nebude chýbať ani medzinárodná porota. Víťaz
+      získa okrem ceny AMPLION ARGENTUM aj opciu na uvedenie svojho samostatného kabaretného
+      programu na 9. ročníku Festivalu AMPLIÓN 2024. Nenechajte si tento jedinečný program ujsť."
   pictures:
     - "BON-BON_trio_1.jpg"
     - "BON-BON_trio_2.jpg"
@@ -127,7 +133,7 @@ and-hostia-bonbon-trio:
     - "SKETCH UP_2022-09-23-amplion-3198.jpg"
 
 
-  link: "https://www.amplion.eu"
+  link: "https://www.facebook.com/festivalamplion"
   foto: "Michal Svítok / Kristína Mayerová"
 
 firebirds-budapest:
