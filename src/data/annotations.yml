@@ -259,6 +259,7 @@ orkest-de-tegenwind-utrecht:
   title: "KONCERT"
   argentum: false
   premiere: true
+  price: 0
   general: "Program pre všetkých"
   perex: "22-členný pochodujúci street brass band z Holandska"
   occurences:
@@ -312,10 +313,10 @@ bon-bon-trio-bratislava:
 
 monika-todova-bratislava:
   performer: "Monika Tódová & Denník N, Bratislava (SK)"
-  title: "AKO ZACHRÁNIŤ DEMOKRACIU <br> <span style='font-size: large'>hostia: Marián Leško, Martin Šimečka, Matúš Kostolný</span>"
+  title: "AKO ZACHRÁNIŤ DEMOKRACIU <br> <span style='font-size: large'>hostia: Marián Leško, Martin Šimečka, Matúš Kostolný</span> "
   argentum: true
   general: "Program pre mladých a dospelých"
-  perex: "Diskusia o aktuálnom vývoji našej krajiny s humorom aj bez"
+  perex: "Diskusia&nbsp;o&nbsp; aktuálnom vývoji našej krajiny s humorom aj bez"
   occurences:
     -
       time: "piatok 19:00"
