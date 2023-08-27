@@ -4,8 +4,7 @@ otvorenie-festivalu:
   perex: ""
   price: 0
   content: 
-   -
-    "Príďte  aj&nbsp;tento rok otvoriť 8. ročník festivalu, tentokrát sloganom: <b> Byť&nbsp;citlivý&nbsp;je&nbsp;umenie! </b>"
+   - "Príďte otvoriť 8. ročník festivalu sloganom: <b>Byť citlivý je umenie!</b> You can look forward to an anthem + promo of great artists: Firebirds (HU), MiraMundo (ES), niMú (ES) + ICEBREAKING (V4+UA)!"
 
   occurences:
     -
@@ -389,6 +388,7 @@ human-caravana:
   performer: "<span style='font-size: x-large'>Ansámbel nepravidelného divadla&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
   title: "HUMAN CARAVANA"
   argentum: false
+  price: 0
   general: "Program pre mladých a dospelých"
   perex: "Premiéra pilotného výstupu z tvorivého workshopu o medziľudskom zbližovaní v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
   occurences:
