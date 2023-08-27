@@ -379,11 +379,10 @@ and-banska-stiavnica-we-media-theater-lviv:
   title: "ART PUTIKA II. – ICEBREAKING&nbsp;(V4+UA)"
   argentum: true
   general: "Program pre mladých a dospelých"
-  perex: "Premiéra reportážneho filmu z krajín V4 o zbližovaní miestnych obyvateľov s UA
-odídencami od ukrajinských tvorcov spojená s diskusiou"
+  perex: "Premiéra reportážneho filmu z krajín V4 o zbližovaní miestnych obyvateľov s UA odídencami spojená s diskusiou"
   occurences:
     -
-      time: "nedela 10:30"
+      time: "nedeľa 10:30"
       location: "Art Cafe, povala"
   content:
     - 
