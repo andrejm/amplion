@@ -40,7 +40,7 @@
   age: 12+
   title: PROMO
   perex: "parížske šansóny a svetové hity v podaní tria Cmorejová, Humeňanská, Baarová"
-  location: Botanická záhrada – Trotuár Cafe
+  location: Botanická záhrada 🠒 Trotuár Cafe
   price: BUSKING
   slug: bon-bon-trio-bratislava
 
@@ -97,7 +97,7 @@
   argentum: true
   title: ARCADIA
   perex: "silné tragikomické divadlo ľudského života so spevom a tancom, bez slov"
-  location: Kultúrne centrum, hlavná&&nbsp;sála
+  location: Kultúrne centrum, hlavná &nbsp;sála
   price: V predpredaji 13 €, na mieste 15 €
   slug: teatr-kto-krakow
 
