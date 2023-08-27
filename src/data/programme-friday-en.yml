@@ -24,7 +24,7 @@
   age: "12+"
   title: "HUMAN CARAVAN"
   perex: "social-inclusive (pilot) theatre about rapprochment & solidarity"
-  location: "Old Castle 🠒 Scout House Garden, A. Pécha Street"
+  location: "Old Castle 🠒 Scout House Garden"
   price: 0
   slug: human-caravana
 
@@ -35,7 +35,7 @@
   age: Family
   title: "MARCHING BAND"
   perex: "street brass band from Netherlands"
-  location: "Scout House Garden, A. Pécha Street 🠒 Trotuár Cafe 🠒 Art Cafe"
+  location: "Scout House Garden 🠒 Trotuár Cafe 🠒 Art Cafe"
   price: BUSKING
   slug: orkest-de-tegenwind-utrecht
 
@@ -78,7 +78,7 @@
   age: "15+"
   title: "GODLIKE"
   perex: "bar cabaret noir – powerful stories, captivating music and dancing in stylish company"
-  location: "Hotel Grand Matej, Kammerhofska Street 5"
+  location: "Hotel Grand Matej"
   price: "pre-sale 10 €, on-sale 12 €"
   slug: ansambel-nepravidelneho-divadla
 

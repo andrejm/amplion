@@ -18,7 +18,7 @@
   premiere: true
   title: "JACUZZI"
   perex: "poetic rope circus performance for all"
-  location: "The Scout House Garden, A.&nbsp;Pécha Street"
+  location: "The Scout House Garden"
   price: "4 € / 8 €"
   slug: circo-teatro-nimu-bilbao
 
@@ -50,7 +50,7 @@
   premiere: true
   title: "JACUZZI"
   perex: "poetic rope circus performance for all"
-  location: "The Scout House Garden, A. Pécha Street"
+  location: "The Scout House Garden"
   price: "4 € / 8 €"
   slug: circo-teatro-nimu-bilbao
 
@@ -61,7 +61,7 @@
   age: "15+"
   title: "SKETCH UP"
   perex: "the 5th annual Czech-Slovak competition of cabaret sketches by new talents"
-  location: "Kocka, Kammerhofska Street 6"
+  location: "Kocka"
   price: "pre-sale 8 €, on-sale 10 €"
   slug: and-hostia-bonbon-trio
 
@@ -83,7 +83,7 @@
   argentum: true
   title: "CABINET ALIVE!"
   perex: "magical puppet cabaret, music-visual delicacy for children"
-  location: "The Scout House Garden, A. Pécha Street"
+  location: "The Scout House Garden"
   price: "3 € / 5 €"
   slug: katanari-ivana-mer-kosice-bb
 
@@ -116,7 +116,7 @@
   premiere: true
   title: "FREAK FUSION CONFUSION"
   perex: "amazing circus cabaret full of acrobatics, burlesque and humour"
-  location: "Amphitheater, Novozámocká Street"
+  location: "Amphitheater"
   price: "pre-sale 8 € / 10 €, on-sale 10 € / 12 €"
   slug: firebirds-budapest
 
@@ -128,6 +128,6 @@
   premiere: true
   title: "CONCERT"
   perex: "energetic band from Barcelona playing unique world music to dance"
-  location: "Cube, Kammerhofska Street 6"
+  location: "Cube"
   price: "10 €"
   slug: miramundo-barcelona

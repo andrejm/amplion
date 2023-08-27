@@ -26,7 +26,7 @@
   age: 12+
   title: HUMAN CARAVAN
   perex: Premiéra pilotu sociálno-inkluzívneho divadla o zbližovaní
-  location: Starý zámok 🠒 Záhrada Skautského domu, ul.&nbsp;A.&nbsp;Pécha
+  location: Starý zámok 🠒 Záhrada Skautského domu
   price: 0
   slug: human-caravana
 
@@ -37,7 +37,7 @@
   age: Family
   title: MARCHING BAND
   perex: veľký pochodujúci brass band z Holandska
-  location: Záhrada Skautského domu, ul. A. Pécha 🠒 Trotuár Cafe 🠒 Art&nbsp;Cafe
+  location: Záhrada Skautského domu 🠒 Trotuár Cafe 🠒 Art&nbsp;Cafe
   price: BUSKING
   slug: orkest-de-tegenwind-utrecht
 
@@ -81,7 +81,7 @@
   age: 15+
   title: BOHOROVNÍ
   perex: "bar kabaret noir Silné príbehy, podmanivá hudba a tanec v štýlovej spoločnosti."
-  location: Hotel Grand Matej, Kammerhofská 5
+  location: Hotel Grand Matej
   price: V predpredaji 10 €, na mieste 12 €
   slug: ansambel-nepravidelneho-divadla
 

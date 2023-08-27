@@ -20,7 +20,7 @@
   argentum: true
   premiere: true
   perex: "poetický cirkus na lane pre všetkých"
-  location: Záhrada Skautského domu, ul. A. Pécha
+  location: Záhrada Skautského domu
   price: 4 € / 8 €
   slug: circo-teatro-nimu-bilbao
 
@@ -52,7 +52,7 @@
   premiere: true
   title: JACUZZI
   perex: "poetický cirkus na lane pre všetkých"
-  location: Záhrada Skautského domu, ul. A. Pécha
+  location: Záhrada Skautského domu
   price: 4 € / 8 €
   slug: circo-teatro-nimu-bilbao
 
@@ -63,7 +63,7 @@
   age: 15+
   title: SKETCH UP
   perex: "5. ročník česko-slovenskej súťaže kabaretných skečov nových talentov"
-  location: Kocka, Kammerhofská 6
+  location: Kocka
   price: V predpredaji 8 €, na mieste 10 €
   slug: and-hostia-bonbon-trio
 
@@ -85,7 +85,7 @@
   age: Family
   title: KABINET OŽÍVA!
   perex: "magický bábkový kabaret, hudobno-vizuálna lahôdka pre deti"
-  location: Záhrada Skautského domu, ul. A. Pécha
+  location: Záhrada Skautského domu
   price: 3 € / 5 €
   slug: katanari-ivana-mer-kosice-bb
 
@@ -120,7 +120,7 @@
   headliner: true
   title: FREAK FUSION CONFUSION
   perex: "úžasný cirkusový kabaret plný akrobacie, burlesky a humoru"
-  location: Amfiteáter, Novozámocká ul.
+  location: Amfiteáter
   price: V predpredaji 8 € / 10 €, na mieste 8 € / 12 €
   slug: firebirds-budapest
 
@@ -132,6 +132,6 @@
   age: 15+
   title: KONCERT
   perex: "energická kapela z Barcelony hrá jedinečnú world music do tanca"
-  location: Kocka, Kammerhofská 6
+  location: Kocka
   price: 10 €
   slug: miramundo-barcelona
