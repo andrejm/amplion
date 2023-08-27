@@ -26,10 +26,9 @@
   performer: Katanari (SK)
   age: Family
   title: CESTA
-  argentum: true
   perex: "audio-vizuálny zážitok skrinkového divadla pre jedného diváka"
   location: Busking
-  price: BUSKING
+  price: 0
   slug: katanari-kosice
   
 
@@ -42,5 +41,5 @@
   title: AFTER KONCERT + vyhlásenie cien festivalu Amplion Argentum
   perex: "Art Cafe, terasa"
   location: Busking
-  price: BUSKING
+  price: 0
   slug: miramundo-barcelona

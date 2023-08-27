@@ -269,12 +269,10 @@ katanari-kosice:
   performer: "Katanari, Košice&nbsp;(SK)"
   title: "THE JOURNEY"
   argentum: false
+  price: 0
   general: "Program for a single spectator"
   perex: "A magical journey for one traveller to the place of his desires (in a loop)"
   occurences:
-    -
-      time: "Saturday 18:00"
-      location: "Sidewalk"
     -
       time: "Sunday 11:00"
       location: "Art Cafe, terrace"
@@ -286,13 +284,7 @@ lambe). Take a peek inside a theatre box where the whole world will appear to yo
       "<i><b>Katanari</b>or Katarína Caková is an artist, illustrator, travelling performer and scenographer. She
 studied illustration at the Academy of Fine Arts in Bratislava and participated in internships in
 Thessaloniki, Zagreb, Tallinn and Surakarta. She is dedicated to the creation of original
-productions and collaborates on various projects across Europe. <b>Ivana Mer</b>, a Slovak composer
-and singer, accompanies CABINET ALIVE! with sound toys and acoustic instruments. Her music is
-
-5
-
-inspired by the forces of nature and the inner world of the soul, creating an authentic, hypnotic
-universe in the style of electronic, dance, ambient.</i>"
+productions and collaborates on various projects across Europe.</i>"
   pictures:
     - "Katanari_Cesta_web.jpg"
 
