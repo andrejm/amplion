@@ -516,12 +516,57 @@ human-caravana:
   argentum: false
   price: 0
   general: "Program for young and adults"
-  perex: "Premiere of the pilot output from the creative workshop on rapprochement presented by the
-international ICEBREAKING project team of creators (V4+UA)"
+  perex: "The first rerun of the performance from the creative workshop on interpersonal bonding, presented by the international team of creators of the ICEBREAKING project (V4+UA)."
   occurences:
     -
-      time: "Friday 17:00"
-      location: "Old Catle &nbsp;&#129042;&nbsp; Scout house garden"
+      time: "Saturday 14:30"
+      location: "KTC Hájovňa, Červená studňa"
+  content:
+    -
+      "Four theatres, led by the Irregular Theatre Ensemble, will participate in an intensive 2-day
+creative workshop to lay a foundation of what will become a monumental international street-
+art performance focused on bringing the local V4 citizens closer to the Ukrainian exiles.
+A procession that will start at the Old Castle and will continue to the Scout House Garden will be
+based on the materials collected during reasearch trips to V4 countries and Ukraine. This shared
+journey tells the stories of people living in mixed communities by breaking down prejudices and
+bringing the world closer together. The same world in which we all need each other eminently."
+
+  pictures:
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
+    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
+    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
+    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
+    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
+    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
+    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
+    - "Firebirds_FF_01.jpg"
+    - "Firebirds_FF_02.jpg"
+    - "Firebirds_FF_06.jpg"
+    - "Firebirds_FF_09.jpg"
+    - "Firebirds_FF_10.jpg"
+    - "Firebirds_FF_11.jpg"
+    - "FIREBIRDS_freak_csopi2.jpg"
+  link: "https://www.and-theatre.art/icebreaking-sk/"
+  foto: ""
+
+human-caravana-second:
+  performer: "<span style='font-size: x-large'>Irregular Theatre Ensemble&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
+  title: "HUMAN CARAVANA"
+  argentum: false
+  price: 0
+  general: "Program for young and adults"
+  perex: "Druhá repríza výstupu z tvorivého workshopu o medziľudskom zbližovaní
+v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
+  occurences:
+    -
+      time: "Sunday 17:00"
+      location: "Kolping House Recreation Area, Štiavnické Bane"
   content:
     -
       "Four theatres, led by the Irregular Theatre Ensemble, will participate in an intensive 2-day
