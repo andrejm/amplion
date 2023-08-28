@@ -172,7 +172,10 @@ circo-teatro-nimu-bilbao:
   perex: "Komicko-poetický cirkus na lane pre všetkých"
   occurences:
     -
-      time: "sobota 11:00 a 15:00"
+      time: "sobota 11:00"
+      location: "Záhrada Skautského domu"
+
+    - time: "sobota 15:00"
       location: "Záhrada Skautského domu"
   content:
     -
@@ -376,6 +379,7 @@ and-banska-stiavnica-we-media-theater-lviv:
   performer: "<span style='font-size: large'>AND, Banská Štiavnica&nbsp;(SK) + WE:&nbsp;MEDIA THEATER, Lviv&nbsp;(UA)</span>"
   title: "ART PUTIKA II. – ICEBREAKING&nbsp;(V4+UA)"
   argentum: true
+  price: 0
   general: "Program pre mladých a dospelých"
   perex: "Premiéra reportážneho filmu z krajín V4 o zbližovaní miestnych obyvateľov s UA odídencami spojená s diskusiou"
   occurences:
