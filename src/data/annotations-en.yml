@@ -10,12 +10,13 @@ otvorenie-festivalu:
       time: "Friday 16:00 - 16:30"
       location: Holy Trinity Square
   pictures:
-    -
-      amplion21_otvorenie_festivalu_MS_057.jpg
-    -
-      amplion21_otvorenie_festivalu_KM_013.jpg
-    -
-      amplion21_otvorenie_festivalu_KM_004.jpg
+    - "amplion22_otvorenie_festivalu_MS_015.jpg"
+    - "amplion22_otvorenie_festivalu_MS_021.jpg"
+    - "amplion22_otvorenie_festivalu_MS_029.jpg"
+    - "amplion22_otvorenie_festivalu_MS_033.jpg"
+    - "amplion22_otvorenie_festivalu_MS_038.jpg"
+    - "amplion22_otvorenie_festivalu_MS_046.jpg"
+    - "amplion22_otvorenie_festivalu_MS_055.jpg"
 
 teatr-kto-krakow:
   performer: "Teatr KTO, Krakow (PL)"
