@@ -9,7 +9,7 @@ otvorenie-festivalu:
   occurences:
     -
       time: "piatok 16:00 - 16:30"
-      location: Námestie&nbsp;sv.&nbsp;Trojice
+      location: "Námestie&nbsp;sv.&nbsp;Trojice"
 
   pictures:
     - "amplion22_otvorenie_festivalu_MS_015.jpg"
@@ -205,7 +205,7 @@ katanari-ivana-mer-kosice-bb:
       time: "sobota 17:00"
       location: "Záhrada Skautského domu"
     -
-      time: "nedela 10:00"
+      time: "nedeľa 10:00"
       location: "Záhrada Skautského domu"
   content:
     - "Čo sa odohráva na stole podivínskych zberateľov, keď
@@ -254,10 +254,12 @@ miramundo-barcelona:
   perex: "Úchvatná kapela z Barcelony hrá jedinečnú world music do tanca"
   occurences:
     -
+      location: "BUSKING"
+
+    -
       time: "sobota 22:00"
       location: "Kocka"
-    - 
-      location: "BUSKING"
+
   content:
     -
       "Barcelona predstavuje Mekku hudby, interaktívne prostredie, kde sa stretávajú muzikanti z Európy, Afriky, Ázie aj Latinskej Ameriky, aby vytvorili jedinečnú hudbu tohto mesta. Piesne MiraMundo preto charakterizuje sloboda, odvaha prekonávať hranice i cit pre multikulturalizmus. Sú to originálne intímne príbehy o láske i cestovateľských zážitkoch, ktoré citlivo spájajú žánre zdanlivo vzdialených kultúr. Bossa nova, mexické mariachi, samba, talianske a cigánske motívy, ale aj africké tradície tvoria nádhernú zmes jemných rytmov, silných melódií a veľkej energie, ktorú si multi-nštrumentálni muzikanti užívajú v interakcii s publikom. <br> Vaša najlepšia voľba sobotnej noci!"
@@ -281,10 +283,11 @@ orkest-de-tegenwind-utrecht:
   perex: "22-členný pochodujúci street brass band z Holandska"
   occurences:
     -
+      time: "BUSKING"
+    -
       time: "piatok 18:00"
       location: "Art Cafe"
-    -
-      time: "busking"
+
   content:
     -
       "„Orchester proti vetru“ je veľká pouličná dychová kapela z Utrechtu, ktorá vznikla v roku 1984 s cieľom priniesť hudbu ľuďom na ulici. Ich hra je atraktívna, plná energie a emócií, rozháňa tmavé mraky a prináša slnko do duší divákov. Tento dobrodružný orchester tvorí generačne pestrý kolektív. Spoločne hrajú hudbu z domova, ale aj zo všetkých kútov sveta, pretože street brass band sa inšpiruje muzikou a ľuďmi z iných kultúr a neustále prekvapuje novinkami. Pravidelne organizujú turné do krajín, kde ešte nikdy predtým neboli. Tento rok po prvýkrát vystúpia aj na Slovensku. Privítajte ich potleskom!"
@@ -304,10 +307,11 @@ bon-bon-trio-bratislava:
   perex: "Parížske šansóny a svetové hity v podaní dámskeho tria Cmorejová, Humeňanská, Baarová"
   occurences:
     -
+      location: "BUSKING"
+    -
       time: "sobota 19:00"
       location: "Art Cafe, povala"
-    - 
-      location: "BUSKING"
+
   content:
     -
       "Trojica známych pôvabných dám Vám svojím hudobným programom navodí atmosféru parížskych kaviarní s esenciou šansónov. Zaznejú svetové hity známych interpretov ako sú Edith Piaf, Julliette Greco, Yan Tiersen, Queen, Astor Piazzolla, Beatles, Goran Bregovič, Michael Jackson, ZAZ, Nat King Cole, Sting. Koncert je hudobne aj esteticky veľmi šarmantným zážitkom. Snúbi sa v ňom hudba, cit a priateľstvo v krásnej harmónii. Autorom hudobných úprav je Peter Mankovecký. Teší sa na vás Marcela Cmorejová (Vilhanová) a jej saxofón i akordeón, Petra Sedláková (Humeňanská) a jej zamatový spev aj Katarína Baarová so svojou špičkovou hrou na violončelo."
