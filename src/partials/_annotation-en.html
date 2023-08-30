@@ -146,7 +146,24 @@
 
 {{#if @root.site-config.show-tickets}}
 	{{#ifequal this.price 0}}
-	    {{!-- intentionally left blank, dont have opposit helper --}}
+<section class="section section--plain">
+	<div class="section__inner">
+		<!-- <h2 class="section__title section__title--noarrow">
+			<span class="event-time">SOBOTA 29. 8. 2019, 19.30 — 20.00</span>
+			<span class="event-location">Radničné námestie</span>
+			<span class="event-price">6 €</span>
+		</h2> -->
+
+		<div class="section__content">
+			<!-- <p>
+				<a href="/vstupenky/" class="button">Kúpiť vstupenky</a>
+			</p> -->
+			<p>
+				<a href="/en/programme/" class="section__backlink">Back to the programme</a>
+			</p>
+		</div>
+	</div>
+</section>
 	{{else}}
 <section id="tickets" class="section section--straight section--notopspace">
 	<div class="section__inner">
@@ -165,32 +182,6 @@
 		</div>
 	</div>
 </section>
-	{{/ifequal}}
-{{/if}}
-
-<!-- {{#if @root.site-config.show-tickets}}
-	{{#ifequal this.price 0}}
-	    {{!-- intentionally left blank, dont have opposit helper --}}
-	{{else}}
-<section id="tickets" class="section section--straight section--notopspace">
-	<div class="section__inner">
-		<div class="section__content">
-			<h2 class="section__title">Tickets for: {{title}}</h2>
-	{{#each occurences}}
-	{{#if toot-iframe-id}}
-		<h4>{{time}}</h4>
-		{{>_toot-iframe iframelang='en'}}
-	{{/if}}
-	<hr>
-	{{/each}}
-			<p>&nbsp;</p>
-			<p>By buying a ticket you agree with publishing photos of you taken during AMPLIFIER festival.</p>
-		</div>
-	</div>
-</section>
-	{{/ifequal}}
-{{/if}} -->
-
 <section class="section section--plain">
 	<div class="section__inner">
 		<!-- <h2 class="section__title section__title--noarrow">
@@ -208,13 +199,17 @@
 			</p>
 		</div>
 	</div>
-
-	<script type="text/javascript">
-		window.onload = function() {
-    if(!window.location.hash) {
-        window.location = window.location + '#loaded';
-        window.location.reload();
-    }
-}		
-	</script>
 </section>
+	{{/ifequal}}
+{{/if}}
+
+
+
+<script type="text/javascript">
+	window.onload = function() {
+		if(!window.location.hash) {
+			window.location = window.location + '#loaded';
+			window.location.reload();
+		}
+	}
+</script>

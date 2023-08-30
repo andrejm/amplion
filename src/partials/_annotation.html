@@ -147,51 +147,6 @@
 
 {{#if @root.site-config.show-tickets}}
 {{#ifequal this.price 0}}
-    {{!-- intentionally left blank, dont have opposit helper --}}
-{{else}}
-  {{!-- <section id="vstupenky" class="section section--straight section--notopspace">
-  </section> --}}
-{{/ifequal}}
-{{/if}}
-<section class="section section--straight section--notopspace">
-  <div class="section__content">
-   
-    <p style="font-size: 0.75em">
-      Majiteľ vstupenky berie na vedomie, že na Festivale AMPLIÓN alebo v
-      priamej súvislosti s ním môžu organizátorom poverené tretie osoby
-      zhotovovať rôzne formy záznamu (obrazové snímky, obrazové a zvukové
-      záznamy) napr. na propagačné a umelecké účely a pre tlačové, filmové,
-      rozhlasové a televízne spravodajstvo.
-    </p>
-  </div>
-</section>
-<!-- todo treba fixnut to, kedy sa zobrazujú vstupenky -->
-
-<!-- {{#if @root.site-config.show-tickets}}
-    {{#ifequal this.price 0}}
-        {{!-- intentionally left blank, dont have opposit helper --}}
-    {{else}}
-<section id="vstupenky" class="section section--straight section--notopspace">
-	<div class="section__inner">
-		<div class="section__content">
-			<h2 class="section__title">Vstupenky na predstavenie {{{title}}}</h2>
-	{{#each occurences}}
-	{{#if toot-iframe-id}}
-		<h4>{{time}}</h4>
-		{{>_toot-iframe iframelang='sk'}}
-	{{/if}}
-	{{/each}}
-			<p>&nbsp;</p>
-<p style="font-size:0.75em">Majiteľ vstupenky berie na vedomie, že na Festivale AMPLIÓN alebo v priamej súvislosti s ním môžu organizátorom poverené tretie osoby zhotovovať rôzne formy záznamu (obrazové snímky, obrazové a zvukové záznamy) napr. na propagačné a umelecké účely a pre tlačové, filmové, rozhlasové a televízne spravodajstvo.
-<br><br>
-	Majiteľ vstupenky sa zaväzuje dodržiavať pokyny organizátora a aktuálne hygienické opatrenia ÚVZ SR v súvislosti s pandémiou koronavírusu a ochorením Covid-19 zverejnené na www.korona.gov.sk. </p>
-
-		</div>
-	</div>
-</section>
-	{{/ifequal}}
-{{/if}} -->
-
 <section class="section section--plain">
   <div class="section__inner">
     <!-- <h2 class="section__title section__title--noarrow">
@@ -209,12 +164,33 @@
       </p>
     </div>
   </div>
-  <script type="text/javascript">
-    window.onload = function () {
-      if (!window.location.hash) {
-        window.location = window.location + "#loaded";
-        window.location.reload();
-      }
-    };
-  </script>
+
 </section>
+{{else}}
+<!--Only to sctroll naviagtion to work-->
+  <section id="vstupenky" class="section section--straight section--notopspace">
+  </section>
+<section class="section section--straight section--notopspace">
+  <div class="section__content">
+
+    <p style="font-size: 0.75em">
+      Majiteľ vstupenky berie na vedomie, že na Festivale AMPLIÓN alebo v
+      priamej súvislosti s ním môžu organizátorom poverené tretie osoby
+      zhotovovať rôzne formy záznamu (obrazové snímky, obrazové a zvukové
+      záznamy) napr. na propagačné a umelecké účely a pre tlačové, filmové,
+      rozhlasové a televízne spravodajstvo.
+    </p>
+  </div>
+</section>
+{{/ifequal}}
+{{/if}}
+
+
+<script type="text/javascript">
+  window.onload = function () {
+    if (!window.location.hash) {
+      window.location = window.location + "#loaded";
+      window.location.reload();
+    }
+  };
+</script>
