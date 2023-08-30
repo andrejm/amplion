@@ -297,10 +297,11 @@ miramundo-barcelona:
   perex: "Stunning band from Barcelona playing unique world music to dance"
   occurences:
     -
+      location: "BUSKING"
+    -
       time: "Saturday 22:00"
       location: "Cube"
-    - 
-      location: "BUSKING"
+
   content:
     -
       "Barcelona is a Mecca of music, an interactive environment where musicians from Europe, Africa,
@@ -334,10 +335,11 @@ orkest-de-tegenwind-utrecht:
   perex: "22-member marching street brass band from the Netherlands"
   occurences:
     -
+      time: "BUSKING"
+    -
       time: "Friday 18:00"
       location: "Art Cafe"
-    -
-      time: "busking"
+
   content:
     -
       "&quot;Orchestra Against the Wind&quot; is a large street brass band from Utrecht, formed in 1984 with the
@@ -366,10 +368,10 @@ bon-bon-trio-bratislava:
   perex: "Parisian chansons and world hits performed by the trio Cmorejová, Humeňanská, Baarová"
   occurences:
     -
+      location: "BUSKING"
+    -
       time: "Saturday 19:00"
       location: "Art Cafe, attic"
-    - 
-      location: "BUSKING"
   content:
     -
       "Three popular and charming ladies will evoke the atmosphere of Parisian Cafés with the essence
