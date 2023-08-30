@@ -391,8 +391,6 @@ and-banska-stiavnica-we-media-theater-lviv:
   pictures:
    - "WE_Media Theater_Lyuda Batalova_.jpg"
    - "WE_Media Theater_Sashko Brama_press.JPG"
-   - "WE_Media Theater_Sashko Brama_web_1.jpg"
-   - "WE_Media Theater_Sashko Brama_web_2.jpg"
   link: "https://www.and-theatre.art/icebreaking-sk/"
   # foto: "Foto: 1 ks + 1 ks hosť"
 
@@ -430,10 +428,8 @@ human-caravana:
   perex: "Prvá repríza výstupu z tvorivého workshopu o medziľudskom zbližovaní
 v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
   occurences:
-    -
-      time: "nedeľa 15:00"
-      location: "Oddychový areál pri Kolpingovom dome,
-Štiavnické Bane"
+    - time: "sobota 14:30"
+      location: "KTC Hájovňa, Červená studňa"
 
   content:
     -
@@ -455,9 +451,10 @@ human-caravana-second:
   perex: "Druhá repríza výstupu z tvorivého workshopu o medziľudskom zbližovaní
 v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
   occurences:
-    -
-      time: "sobota 14:30"
-      location: "KTC Hájovňa, Červená studňa"
+
+    - time: "nedeľa 15:00"
+      location: "Oddychový areál pri Kolpingovom dome,
+    Štiavnické Bane"
   content:
     -
       "Štyri divadlá, lídrované Ansámblom nepravidelného divadla, vytvoria počas 2 dní intenzívneho tvorivého workshopu spoločný medzinárodný zárodok budúcej pouličnej inscenácie zameranej na zbližovanie miestnych občanov V4 s odídencami z Ukrajiny."
