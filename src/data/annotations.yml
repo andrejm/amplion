@@ -4,7 +4,9 @@ otvorenie-festivalu:
   perex: ""
   price: 0
   content: 
-   - "Príďte otvoriť 8. ročník festivalu sloganom: <b>Byť citlivý je umenie!</b> You can look forward to an anthem + promo of great artists: Firebirds (HU), MiraMundo (ES), niMú (ES) + ICEBREAKING (V4+UA)!"
+   - "Príďte otvoriť 8. ročník festivalu sloganom: <b>Byť citlivý je umenie!</b> Čaká nás
+                                                                                 hymna + promo skvelých umelcov: Firebirds (HU), MiraMundo (ES), niMú (ES) +
+                                                                                 ICEBREAKING (V4+UA)!"
 
   occurences:
     -
@@ -406,6 +408,31 @@ and-banska-stiavnica-we-media-theater-lviv:
   link: "https://www.and-theatre.art/icebreaking-sk/"
   # foto: "Foto: 1 ks + 1 ks hosť"
 
+human-caravana-premiere:
+  performer: "<span style='font-size: x-large'>Ansámbel nepravidelného divadla&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
+  title: "HUMAN CARAVANA"
+  argentum: false
+  price: 0
+  general: "Program pre mladých a dospelých"
+  perex: "Premiéra výstupu z tvorivého workshopu o medziľudskom zbližovaní
+v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
+  occurences:
+    -
+      time: "piatok 17:00"
+      location: "Starý zámok 🠒 Záhrada Skautského domu"
+
+  content:
+    -
+      "Štyri divadlá, lídrované Ansámblom nepravidelného divadla, vytvoria počas 2 dní intenzívneho tvorivého workshopu spoločný medzinárodný zárodok budúcej pouličnej inscenácie zameranej na zbližovanie miestnych občanov V4 s odídencami z Ukrajiny."
+    -
+      "Putovný pouličný happening od Starého Zámku do Skautského domu vznikne na základe autentických materiálov zozbieraných na 4 výskumných cestách po krajinách V4 a na Ukrajine."
+    -
+      "Spoločná cesta rozpráva príbehy ľudí v zmiešaných komunitách, búra predsudky a zbližuje vo svete, v ktorom sa všetci bez rozdielu veľmi potrebujeme."
+  pictures:
+  link: "https://www.and-theatre.art/icebreaking-sk/"
+  foto: ""
+
+
 human-caravana:
   performer: "<span style='font-size: x-large'>Ansámbel nepravidelného divadla&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
   title: "HUMAN CARAVANA"
@@ -419,6 +446,7 @@ v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
       time: "nedeľa 15:00"
       location: "Oddychový areál pri Kolpingovom dome,
 Štiavnické Bane"
+
   content:
     -
       "Štyri divadlá, lídrované Ansámblom nepravidelného divadla, vytvoria počas 2 dní intenzívneho tvorivého workshopu spoločný medzinárodný zárodok budúcej pouličnej inscenácie zameranej na zbližovanie miestnych občanov V4 s odídencami z Ukrajiny."
@@ -427,26 +455,6 @@ v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
     -
       "Spoločná cesta rozpráva príbehy ľudí v zmiešaných komunitách, búra predsudky a zbližuje vo svete, v ktorom sa všetci bez rozdielu veľmi potrebujeme."
   pictures:
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
-    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Firebirds_FF_01.jpg"
-    - "Firebirds_FF_02.jpg"
-    - "Firebirds_FF_06.jpg"
-    - "Firebirds_FF_09.jpg"
-    - "Firebirds_FF_10.jpg"
-    - "Firebirds_FF_11.jpg"
-    - "FIREBIRDS_freak_csopi2.jpg"
   link: "https://www.and-theatre.art/icebreaking-sk/"
   foto: ""
 
@@ -470,26 +478,26 @@ v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
     -
       "Spoločná cesta rozpráva príbehy ľudí v zmiešaných komunitách, búra predsudky a zbližuje vo svete, v ktorom sa všetci bez rozdielu veľmi potrebujeme."
   pictures:
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
-    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Firebirds_FF_01.jpg"
-    - "Firebirds_FF_02.jpg"
-    - "Firebirds_FF_06.jpg"
-    - "Firebirds_FF_09.jpg"
-    - "Firebirds_FF_10.jpg"
-    - "Firebirds_FF_11.jpg"
-    - "FIREBIRDS_freak_csopi2.jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
+#    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Firebirds_FF_01.jpg"
+#    - "Firebirds_FF_02.jpg"
+#    - "Firebirds_FF_06.jpg"
+#    - "Firebirds_FF_09.jpg"
+#    - "Firebirds_FF_10.jpg"
+#    - "Firebirds_FF_11.jpg"
+#    - "FIREBIRDS_freak_csopi2.jpg"
   link: "https://www.and-theatre.art/icebreaking-sk/"
   foto: ""
 

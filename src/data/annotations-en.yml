@@ -7,8 +7,10 @@ otvorenie-festivalu:
       "Come join us this year to open the 8th annual festival, this time with the slogan: <b>To be sensitive is an art!</b>"
   occurences:
     -
-      time: "Friday 16:00 - 16:30"
-      location: Holy Trinity Square
+      time: "Friday 17:00"
+      location: "Old Castle 🠒 Scout House Garden"
+
+
   pictures:
     - "amplion22_otvorenie_festivalu_MS_015.jpg"
     - "amplion22_otvorenie_festivalu_MS_021.jpg"
@@ -514,6 +516,31 @@ Russian war in Ukraine where Sashko serves as a reporter.</i>"
   link: "https://www.and-theatre.art/icebreaking-sk/"
   # foto: "Foto: 1 piece + 1 piece guest"
 
+human-caravana-premiere:
+  performer: "<span style='font-size: x-large'>Irregular Theatre Ensemble&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
+  title: "HUMAN CARAVANA"
+  argentum: false
+  price: 0
+  general: "Program for young and adults"
+  perex: "The premiere of the performance from the creative workshop on interpersonal bonding, presented by the international team of creators of the ICEBREAKING project (V4+UA)."
+  occurences:
+    -
+      time: "Friday 17:00"
+      location: "Old Castle 🠒 Scout House Garden"
+  content:
+    -
+      "Four theatres, led by the Irregular Theatre Ensemble, will participate in an intensive 2-day
+creative workshop to lay a foundation of what will become a monumental international street-
+art performance focused on bringing the local V4 citizens closer to the Ukrainian exiles.
+A procession that will start at the Old Castle and will continue to the Scout House Garden will be
+based on the materials collected during reasearch trips to V4 countries and Ukraine. This shared
+journey tells the stories of people living in mixed communities by breaking down prejudices and
+bringing the world closer together. The same world in which we all need each other eminently."
+
+  pictures:
+  link: "https://www.and-theatre.art/icebreaking-sk/"
+  foto: ""
+
 human-caravana:
   performer: "<span style='font-size: x-large'>Irregular Theatre Ensemble&nbsp;(SK) +&nbsp;Teatr&nbsp;KTO&nbsp;(PL) + Firebirds&nbsp;(HU) +&nbsp;Prostores&nbsp;(CZ)</span>"
   title: "HUMAN CARAVANA"
@@ -536,26 +563,6 @@ journey tells the stories of people living in mixed communities by breaking down
 bringing the world closer together. The same world in which we all need each other eminently."
 
   pictures:
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
-    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Firebirds_FF_01.jpg"
-    - "Firebirds_FF_02.jpg"
-    - "Firebirds_FF_06.jpg"
-    - "Firebirds_FF_09.jpg"
-    - "Firebirds_FF_10.jpg"
-    - "Firebirds_FF_11.jpg"
-    - "FIREBIRDS_freak_csopi2.jpg"
   link: "https://www.and-theatre.art/icebreaking-sk/"
   foto: ""
 
@@ -582,26 +589,26 @@ journey tells the stories of people living in mixed communities by breaking down
 bringing the world closer together. The same world in which we all need each other eminently."
 
   pictures:
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
-    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
-    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
-    - "Firebirds_FF_01.jpg"
-    - "Firebirds_FF_02.jpg"
-    - "Firebirds_FF_06.jpg"
-    - "Firebirds_FF_09.jpg"
-    - "Firebirds_FF_10.jpg"
-    - "Firebirds_FF_11.jpg"
-    - "FIREBIRDS_freak_csopi2.jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (21).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (22).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (29).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (36).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (40).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (41).jpg"
+#    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (42).jpg"
+#    - "Teatr KTO_PL_09_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_10_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_42_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_50_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Teatr KTO_PL_82_Arcadia_foto Wacêaw Pyzik.jpg"
+#    - "Firebirds_FF_01.jpg"
+#    - "Firebirds_FF_02.jpg"
+#    - "Firebirds_FF_06.jpg"
+#    - "Firebirds_FF_09.jpg"
+#    - "Firebirds_FF_10.jpg"
+#    - "Firebirds_FF_11.jpg"
+#    - "FIREBIRDS_freak_csopi2.jpg"
   link: "https://www.and-theatre.art/icebreaking-sk/"
   foto: ""
 
