@@ -1,10 +1,12 @@
 otvorenie-festivalu:
   title: OPENING OF THE FESTIVAL
-  perex: ""
+  perex: "Come and open the 8th edition of the festival with the slogan: <b>Being sensitive is an art!</b>"
   price: 0
   content:
     -
-      "Come join us this year to open the 8th annual festival, this time with the slogan: <b>To be sensitive is an art!</b>"
+      "Come and open the 8th edition of the festival with the slogan: <b>Being sensitive is an art!</b> <br>
+       You can look forward to an anthem + promo of great artists: Firebirds (HU), MiraMundo
+       (ES), niMú (ES) + ICEBREAKING (V4 +UA)"
   occurences:
     -
       time: "Friday 17:00"
