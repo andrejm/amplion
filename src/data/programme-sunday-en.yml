@@ -4,7 +4,7 @@
   age: Family
   argentum: true
   title: "CABINET ALIVE!"
-  perex: "magical puppet cabaret, music-visual delicacy for children"
+  perex: "magical puppet cabaret, music-visual delicacy not only for children"
   location: "The Scout House Garden"
   price: "3 € / 5 €"
   slug: katanari-ivana-mer-kosice-bb
@@ -13,8 +13,9 @@
   time: "10:30 – 11:45"
   performer: "AND + WE: MEDIA THEATER (SK+UA)"
   age: "12+"
-  title: "ART PUTIKA II."
-  perex: "ICEBREAKING\nTavern disputes and a video report from the V4 countries on the rapprochement of V4 citizens and UA expatriates"
+  title: "ART PUTIKA II.- ICEBREAKING"
+  perex: "Premiere of a documentary on the rapprochement of local V4 residents
+with the UA refugees by the Ukrainian filmmakers followed by a discussion"
   location: "Art Cafe, attic"
   price: 0
   slug: and-banska-stiavnica-we-media-theater-lviv
@@ -26,7 +27,8 @@
   argentum: true
   title: "JOURNEY"
   perex: "audio-visual experience of a box theatre for one spectator (lambe-lambe)"
-  location: BUSKING
+  location: Art Cafe, terrace
+  price: BUSKING
   slug: katanari-kosice
 
 -

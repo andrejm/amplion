@@ -27,7 +27,8 @@ teatr-kto-krakow:
   title: "ARCADIA"
   argentum: true
   general: "TOP program for adults"
-  perex: "Exceptional theatre with great singing, dancing, and acting performances, a balm for the soul!"
+  perex: "Exceptional theatre with great singing, dancing, and acting performances,
+a balm for the soul!"
   occurences:
     -
       time: "Saturday 18:00"
@@ -58,7 +59,7 @@ Iran, Mexico, South Korea, Tunisia, USA and almost all countries in Europe.</i>"
 
 krvik-totr-praha:
   performer: "Krvik Totr & Filtr Band, Prague (CZ)"
-  title: "OUT OF HOLLOWNESS 5"
+  title: "OUT&nbsp;OF HOLLOWNESS&nbsp;5 (Ema&nbsp;will&nbsp;be disappointed)"
   argentum: true
   premiere: true
   general: "Program for young and adults"
@@ -84,7 +85,7 @@ professors and wives, and finally by their own children). They still go on to th
 delight of their more intellectual audience. From their original &quot;radio&quot; dialogues and short stories,
 they moved on to authorial theatre. They have written and performed several plays and cabarets,
 a bunch of songs and countless sketches. It is fair to say this is, undoubtedly, an authentic and
-original amateur theatre, with all the positive risks that go with it."
+original amateur theatre, with all the positive risks that go with it.</i>"
   pictures:
     - "KRVIK TOTR_Praha_maj 2023_JF_02.jpg"
     - "KRVIK TOTR_Praha_maj 2023_JF_25.jpg"
@@ -144,7 +145,7 @@ and-hostia-bonbon-trio:
   general: "Program for young and adults"
   perex: "The fifth annual presentation of the successful Czech-Slovak cabaret sketch competition full of new
 talents! <br/>
-Hosted by Martin Tomáš. Parisian chansons and world hits played by the trio Cmorejová, Humeňanská,
+Hosted by Martin Toman. Parisian chansons and world hits played by the trio Cmorejová, Humeňanská,
 Baarová."
   occurences:
     -
@@ -209,7 +210,9 @@ circo-teatro-nimu-bilbao:
   perex: "Comical and poetic tightrope circus show for all"
   occurences:
     -
-      time: "Saturday 11:00 and 15:00"
+      time: "Saturday 11:00"
+      location: "The Scout House Garden"
+    - time: "Saturday  15:00"
       location: "The Scout House Garden"
   content:
     -
@@ -271,7 +274,7 @@ katanari-kosice:
   argentum: false
   price: 0
   general: "Program for a single spectator"
-  perex: "A magical journey for one traveller to the place of his desires (in a loop)"
+  perex: "A magical journey for one traveller to the place of his desires (in&nsbp;a&nbsp;loop)"
   occurences:
     -
       time: "Sunday 11:00"
@@ -281,7 +284,7 @@ katanari-kosice:
       "A 4-minute audio-visual experience for one viewer in the style of a theatre for one (lambe-
 lambe). Take a peek inside a theatre box where the whole world will appear to you. Beauty!"
     -
-      "<i><b>Katanari</b>or Katarína Caková is an artist, illustrator, travelling performer and scenographer. She
+      "<i><b>Katanari</b> or Katarína Caková is an artist, illustrator, travelling performer and scenographer. She
 studied illustration at the Academy of Fine Arts in Bratislava and participated in internships in
 Thessaloniki, Zagreb, Tallinn and Surakarta. She is dedicated to the creation of original
 productions and collaborates on various projects across Europe.</i>"
@@ -313,9 +316,9 @@ multiculturalism. They are original, intimate stories of love and travel experie
 fuse genres of seemingly distant cultures. Bossa nova, Mexican mariachi, samba, Italian and
 gypsy themes, as well as African traditions form a wonderful blend of gentle rhythms, strong
 melodies and great energy that the multi-instrumental musicians enjoy as they interact with the
-audience. Your best choice for a Saturday night!"
+audience. Your&nbsp;best&nbsp;choice for a Saturday night!"
     -
-      "<i>The members of <b> MiraMundo </b> are united by freedom, the courage to overcome any boundaries,
+      "<i>The members of <b>MiraMundo</b> are united by freedom, the courage to overcome any boundaries,
 the love of multiculturalism and a global understanding of their own traditions. We look forward
 to welcoming Marion Cécile Sophie Candela - percussion and vocals, Malena Cousinet Larguía −
 saxophone and vocals, Noel Ernesto Vargas Águila − double bass and bass guitar, Francesca
@@ -393,7 +396,7 @@ Year. She performs at the Radošina Naive Theatre and the Slovak National Theatr
 singer. She has performed for at the Slovak National Theatre, the Nová scéna Theatre, and the
 Radošina Naive Theatre.</i>"
     -
-      "<i><b>Katarína Baarová</b>plays cello and is a member of the Slovak National Theatre Orchestra and the
+      "<i><b>Katarína Baarová</b> plays cello and is a member of the Slovak National Theatre Orchestra and the
 Slovak Chamber Orchestra. She also records film music.</i>"
   pictures:
     - "BON-BON_trio_1.jpg"
@@ -405,7 +408,7 @@ Slovak Chamber Orchestra. She also records film music.</i>"
 
 monika-todova-bratislava:
   performer: "Monika Tódová & Denník N, Bratislava (SK)"
-  title: "HOW TO SAVE DEMOCRACY <br> <span style='font-size: large'>guests: Marián Leško, Martin Šimečka, Matúš Kostolný</span>"
+  title: "HOW TO SAVE DEMOCRACY <br> <span style='font-size: large'>Guests: Marián Leško, Martin Šimečka, Matúš Kostolný</span>"
   argentum: true
   general: "Program for young and adults"
   perex: "Discussion about the current development of our country with and without humour"
@@ -435,7 +438,8 @@ patrik-garaj-bratislava:
   title: "ART PUTIKA I. – LAUGHTER THROUGH TEARS"
   argentum: true
   general: "Program for young and adults"
-  perex: "Tavern disputes and reading from the book by Ukrainian author J. Andrukhovych, guest: Valerij Kupka"
+  perex: "Discussion on attitudes towards Russian and Ukrainian literature today + reading from the
+work of Ukrainian author J. Andrukhovych, guest: translator Valery Kupka."
   occurences:
     -
       time: "Saturday 16:30"
@@ -475,8 +479,8 @@ and-banska-stiavnica-we-media-theater-lviv:
   argentum: true
   price: 0
   general: "Program for young and adults"
-  perex: "Premiere of a documentary on the rapprochement of local V4 residents with the UA refugees
-by the Ukrainian filmmakers followed by a discussion"
+  perex: "Premiere of a documentary on the rapprochement of local V4 residents
+with the UA refugees by the Ukrainian filmmakers followed by a discussion"
   occurences:
     -
       time: "Sunday 10:30"
@@ -519,13 +523,16 @@ human-caravana-premiere:
       location: "Old Castle 🠒 Scout House Garden"
   content:
     -
-      "Four theatres, led by the Irregular Theatre Ensemble, will participate in an intensive 2-day
-creative workshop to lay a foundation of what will become a monumental international street-
-art performance focused on bringing the local V4 citizens closer to the Ukrainian exiles.
-A procession that will start at the Old Castle and will continue to the Scout House Garden will be
-based on the materials collected during reasearch trips to V4 countries and Ukraine. This shared
-journey tells the stories of people living in mixed communities by breaking down prejudices and
-bringing the world closer together. The same world in which we all need each other eminently."
+      "Four theatres, led by the Ensemble of Irregular Theatre, will create during 2 days of an
+       intensive creative workshop a common international embryo of a future street
+       production aimed at bringing local V4 citizens closer to the Ukrainian exiles."
+    -
+      "The touring street happening will be based on authentic materials collected during 4
+       research trips to V4 countries and Ukraine."
+    -
+      "The common journey tells the stories of people in mixed communities, breaking down
+       prejudices and bringing people closer together in a world where we all need each other
+       without distinction."
 
   pictures:
   link: "https://www.and-theatre.art/icebreaking-sk/"
@@ -544,13 +551,16 @@ human-caravana:
       location: "KTC Hájovňa, Červená studňa"
   content:
     -
-      "Four theatres, led by the Irregular Theatre Ensemble, will participate in an intensive 2-day
-creative workshop to lay a foundation of what will become a monumental international street-
-art performance focused on bringing the local V4 citizens closer to the Ukrainian exiles.
-A procession that will start at the Old Castle and will continue to the Scout House Garden will be
-based on the materials collected during reasearch trips to V4 countries and Ukraine. This shared
-journey tells the stories of people living in mixed communities by breaking down prejudices and
-bringing the world closer together. The same world in which we all need each other eminently."
+      "Four theatres, led by the Ensemble of Irregular Theatre, will create during 2 days of an
+       intensive creative workshop a common international embryo of a future street
+       production aimed at bringing local V4 citizens closer to the Ukrainian exiles."
+    -
+      "The touring street happening will be based on authentic materials collected during 4
+       research trips to V4 countries and Ukraine."
+    -
+      "The common journey tells the stories of people in mixed communities, breaking down
+       prejudices and bringing people closer together in a world where we all need each other
+       without distinction."
 
   pictures:
   link: "https://www.and-theatre.art/icebreaking-sk/"
@@ -562,21 +572,25 @@ human-caravana-second:
   argentum: false
   price: 0
   general: "Program for young and adults"
-  perex: "Druhá repríza výstupu z tvorivého workshopu o medziľudskom zbližovaní
-v podaní medzinárodného tímu tvorcov projektu ICEBREAKING (V4+UA)"
+  perex: "The second reprise of the output from the creative workshop on interpersonal
+rapprochement by the international team of creators of the ICEBREAKING project
+(V4+UA)"
   occurences:
     -
       time: "Sunday 17:00"
       location: "Kolping House Recreation Area, Štiavnické Bane"
   content:
     -
-      "Four theatres, led by the Irregular Theatre Ensemble, will participate in an intensive 2-day
-creative workshop to lay a foundation of what will become a monumental international street-
-art performance focused on bringing the local V4 citizens closer to the Ukrainian exiles.
-A procession that will start at the Old Castle and will continue to the Scout House Garden will be
-based on the materials collected during reasearch trips to V4 countries and Ukraine. This shared
-journey tells the stories of people living in mixed communities by breaking down prejudices and
-bringing the world closer together. The same world in which we all need each other eminently."
+      "Four theatres, led by the Ensemble of Irregular Theatre, will create during 2 days of an
+       intensive creative workshop a common international embryo of a future street
+       production aimed at bringing local V4 citizens closer to the Ukrainian exiles."
+    -
+      "The touring street happening will be based on authentic materials collected during 4
+       research trips to V4 countries and Ukraine."
+    -
+      "The common journey tells the stories of people in mixed communities, breaking down
+       prejudices and bringing people closer together in a world where we all need each other
+       without distinction."
 
   pictures:
 #    - "Bohorovní - Grand Matej - 19.03.22 - FotoLuºina  (05).jpg"

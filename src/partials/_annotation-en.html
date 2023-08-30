@@ -63,8 +63,10 @@
 			   {{/if}}
 			</p>
 			{{#if @root.site-config.show-tickets}} 
-				{{#ifequal this.price 0}} 
-				{{!--intentionally left blank, dont have opposit helper --}} 
+				{{#ifequal this.price 0}}
+				  <p style="margin: 0.7rem">
+					  <span class="event-time">Free Entry</span>
+				  </p>
 				{{else}}
 				{{#ifequal this.price "BUSKING"}}
 					<p style="margin: 0.7rem">

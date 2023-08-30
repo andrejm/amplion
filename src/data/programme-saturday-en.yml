@@ -37,7 +37,7 @@
   performer: "BON BON trio (SK)"
   age: "12+"
   title: "PROMO"
-  perex: "Parisian chansons and world hits by Cmorejová, Humeňanská, Kozelková trio"
+  perex: "Parisian chansons and world hits by Cmorejová, Humeňanská, Baarová trio"
   location: "Botanical Garden 🠒 Trotuár&nbsp;Cafe"
   price: BUSKING
   slug: bon-bon-trio-bratislava
@@ -61,7 +61,7 @@
   age: "15+"
   title: "SKETCH UP"
   perex: "the 5th annual Czech-Slovak competition of cabaret sketches by new talents"
-  location: "Kocka"
+  location: "Cube"
   price: "Pre-sale 8 €, On-sale 10 €"
   slug: and-hostia-bonbon-trio
 
@@ -71,7 +71,8 @@
   age: "15+"
   argentum: true
   title: "ART PUTIKA I.- LAUGHTER THROUGH TEARS"
-  perex: "Tavern disputes and reading from the book by author J. Andruchovyč (UA), guest: Valerij Kupka"
+  perex: "Discussion on attitudes towards Russian and Ukrainian literature today + reading from the
+work of Ukrainian author J. Andrukhovych, guest: translator Valery Kupka."
   location: "Art Cafe, attic"
   price: "7 €"
   slug: patrik-garaj-bratislava
@@ -93,7 +94,8 @@
   age: "15+"
   argentum: true
   title: "ARCADIA"
-  perex: "intense and touching lamentation act about human life, modern Everyman"
+  perex: "Exceptional theatre with great singing, dancing, and acting performances,
+a balm for the soul!"
   location: "Cultural Center, The Main Hall"
   price: "Pre-sale 13 €, On-sale 15 €"
   slug: teatr-kto-krakow
@@ -103,7 +105,7 @@
   performer: "BON BON trio (SK)"
   age: "12+"
   title: "CONCERT"
-  perex: "Parisian chansons and world hits by Cmorejová, Humeňanská, Kozelková trio"
+  perex: "Parisian chansons and world hits by Cmorejová, Humeňanská, Baarová trio"
   location: "Art Cafe, attic"
   price: "9 €"
   slug: bon-bon-trio-bratislava
