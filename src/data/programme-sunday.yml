@@ -27,7 +27,7 @@
   age: Family
   title: CESTA
   perex: "audio-vizuálny zážitok skrinkového divadla pre jedného diváka"
-  location: Busking
+  location: BUSKING
   price: 0
   slug: katanari-kosice
   
@@ -40,6 +40,6 @@
   premiere: true
   title: AFTER KONCERT + vyhlásenie cien festivalu Amplion Argentum
   perex: "Art Cafe, terasa"
-  location: Busking
+  location: BUSKING
   price: 0
   slug: miramundo-barcelona
