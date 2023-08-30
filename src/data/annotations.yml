@@ -23,7 +23,7 @@ otvorenie-festivalu:
     - "amplion22_otvorenie_festivalu_MS_055.jpg"
 
 teatr-kto-krakow:
-  performer: "Teatr KTO, Krakow (PL)"
+  performer: 'Teatr KTO, Krakow (PL) <br> <strong style="color:#362982;font-size:0.8em;"> Headliner Festivalu </strong>'
   title: "ARCADIA"
   argentum: true
   general: "TOP program pre dospelých"
@@ -74,7 +74,7 @@ krvik-totr-praha:
 
 
 ansambel-nepravidelneho-divadla:
-  performer: "Ansámbel nepravidelného divadla, Banská Štiavnica&nbsp;(SK)"
+  performer: "Ansámbel nepravidelného divadla, Banská&nbsp;Štiavnica&nbsp;(SK)"
   title: "BOHOROVNÍ (bar&nbsp;kabaret&nbsp;noir)"
   general: "Program pre mladých a dospelých"
   perex: "Silné príbehy, podmanivá hudba Roba Mankoveckého a texty Vlada Jančeka, expresívny tanec Laca Cmoreja & čierny humor v barovej spoločnosti skvelých hercov, to je štýlový nový bar kabaret noir od tvorcov AMPLIÓNU!"

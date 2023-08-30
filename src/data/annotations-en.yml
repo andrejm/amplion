@@ -21,7 +21,7 @@ otvorenie-festivalu:
     - "amplion22_otvorenie_festivalu_MS_055.jpg"
 
 teatr-kto-krakow:
-  performer: "Teatr KTO, Krakow (PL)"
+  performer: 'Teatr KTO, Krakow (PL) <br> <strong style="color:#362982;font-size:0.8em;"> Festival Headliner </strong>'
   title: "ARCADIA"
   argentum: true
   general: "TOP program for adults"
