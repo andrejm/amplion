@@ -4,7 +4,7 @@ otvorenie-festivalu:
   price: 0
   content:
     -
-      "Come and open the 8th edition of the festival with the slogan: <b>Being sensitive is an art!</b> <br>
+      "Come and open the 8th edition of the festival with the slogan: <b>Being sensitive is an art! </b>
        You can look forward to an anthem + promo of great artists: Firebirds (HU), MiraMundo
        (ES), niMú (ES) + ICEBREAKING (V4 +UA)"
   occurences:
@@ -274,7 +274,7 @@ katanari-kosice:
   argentum: false
   price: 0
   general: "Program for a single spectator"
-  perex: "A magical journey for one traveller to the place of his desires (in&nsbp;a&nbsp;loop)"
+  perex: "A magical journey for one traveller to the place of his desires (in&nbsp;a&nbsp;loop)"
   occurences:
     -
       time: "Sunday 11:00"
@@ -345,6 +345,35 @@ orkest-de-tegenwind-utrecht:
       time: "Friday 18:00"
       location: "Art Cafe"
 
+  content:
+    -
+      "&quot;Orchestra Against the Wind&quot; is a large street brass band from Utrecht, formed in 1984 with the
+aim of bringing music to the people on the street. Their playing is attractive, full of energy and
+emotion, dispelling dark clouds and bringing sunshine to the souls of the audience. This
+adventurous orchestra is a generationally diverse group. They play music from home and from all
+corners of the world, as the street brass band gets inspired by music and people from other
+cultures and constantly comes with new musical ideas. They regularly tour to countries where
+they had never been before and this year they will perform in Slovakia for the first time.
+Welcome them with a round of applause!"
+    -
+      "<i>Since 2008, Hermine Schneider and Onno van Swigchem have been in charge of the orchestra&#39;s
+musical direction. Highlights of their travel history include performances in Ukraine, South Africa,
+Latvia, Turkey, Suriname, England, Germany, Denmark, Romania and Portugal.</i>"
+  pictures:
+    - "Orkestr_Tegenwind_01.jpg"
+    - "Orkestr_Tegenwind_02.JPG"
+    - "Orkestr_Tegenwind_03.JPG"
+  link: "https://orkesttegenwind.nl/"
+
+orkest-de-tegenwind-utrecht-busking:
+  performer: "Orkest de Tegenwind, Utrecht&nbsp;(NL)"
+  title: "CONCERT"
+  argentum: false
+  premiere: true
+  price: BUSKING
+  general: "Program for everyone"
+  perex: "22-member marching street brass band from the Netherlands"
+  occurences:
   content:
     -
       "&quot;Orchestra Against the Wind&quot; is a large street brass band from Utrecht, formed in 1984 with the
@@ -439,7 +468,7 @@ patrik-garaj-bratislava:
   argentum: true
   general: "Program for young and adults"
   perex: "Discussion on attitudes towards Russian and Ukrainian literature today + reading from the
-work of Ukrainian author J. Andrukhovych, guest: translator Valery Kupka."
+work of Ukrainian author J. Andrukhovych, guest: translator Valerij Kupka."
   occurences:
     -
       time: "Saturday 16:30"
@@ -452,7 +481,7 @@ wit to literature? Is it Russians or Ukrainians? And how does a gogolesque laug
 come about? This will also be the topic of the discussion about the relationship between
 Ukrainian and Russian culture in the time of war, about the attitudes of the people of other
 countries towards Russian and Ukrainian literature and its present work. Patrik Garaj, Daily N&#39;s
-culture reporter, will discuss the topic with our guest, Russian scholar and translator, Valery
+culture reporter, will discuss the topic with our guest, Russian scholar and translator, Valerij
 Kupka, and with you. The interview and informal discussion will be accompanied by reading from
 the book by Ukrainian author Yuri Andrukhovych, translated into Slovak by Valerij Kupka."
     -
@@ -577,7 +606,7 @@ rapprochement by the international team of creators of the ICEBREAKING project
 (V4+UA)"
   occurences:
     -
-      time: "Sunday 17:00"
+      time: "Sunday 15:00"
       location: "Kolping House Recreation Area, Štiavnické Bane"
   content:
     -
