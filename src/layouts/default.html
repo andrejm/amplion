@@ -239,79 +239,45 @@ unless specified. --}}
 
       // one time event with more sales, this was easiest and most reliable way to store them
       var events = {
-        "/program/rio-boom-boom/": [
-          "https://goout.net/" + lang + "/listky/rio-boom-boom/ukeo/",
-          "https://goout.net/" + lang + "/listky/rio-boom-boom/oleo/",
+        // SK
+        "/program/monika-todova-bratislava/": [
+          "https://goout.net/sk/listky/ako-zachranit-demokraciu/enst/",
         ],
-        "/en/programme/rio-boom-boom/": [
-          "https://goout.net/" + lang + "/tickets/rio-boom-boom/ukeo/",
-          "https://goout.net/" + lang + "/tickets/rio-boom-boom/oleo/"
+        "/program/ansambel-nepravidelneho-divadla/": [
+          "https://goout.net/sk/listky/bohorovni-bar-kabaret-noir/fnst/"
         ],
-        "/program/fastfood-dzenerejsn/": [
-          "https://goout.net/" + lang + "/listky/no-stop-no-fun/xkeo/"
+        "/program/krvik-totr-praha/" : [
+          "https://goout.net/sk/listky/z-vytracena-5-ema-bude-sklamana/jnst/"
         ],
-        "/en/programme/fastfood-dzenerejsn/": [
-          "https://goout.net/" + lang + "/tickets/no-stop-no-fun/xkeo/"
+        "/program/circo-teatro-nimu-bilbao/": [
+          "https://goout.net/sk/listky/jacuzzi/hnst/",
+          "https://goout.net/sk/listky/jacuzzi/knst/"
         ],
-        "/program/karol-sudor/": [
-          "https://goout.net/" + lang + "/listky/art-putika-krcmove-disputy-petra-prochazkova-viera-dubacova/aleo/",
+        "/program/no-soft-no-fun/" : [
+          "https://goout.net/sk/listky/no-soft-no-fun/inst/"
         ],
-        "/en/programme/karol-sudor/": [
-          "https://goout.net/" + lang + "/tickets/art-putika-krcmove-disputy-petra-prochazkova-viera-dubacova/aleo/",
+        "/program/and-hostia-bonbon-trio/" : [
+          "https://goout.net/sk/listky/sketch-up/nnst/"
         ],
-        "/program/playground/": [
-          "https://goout.net/" + lang + "/listky/playground/bleo/",
-          "https://goout.net/" + lang + "/listky/playground/pleo/",
+        "/program/patrik-garaj-bratislava/": [
+          "https://goout.net/sk/listky/art-putika-i-smiech-cez-slzy/pnst/"
         ],
-        "/en/programme/playground/": [
-          "https://goout.net/" + lang + "/tickets/playground/bleo/",
-          "https://goout.net/" + lang + "/tickets/playground/pleo/",
+        "/program/katanari-ivana-mer-kosice-bb/": [
+          "https://goout.net/sk/listky/kabinet-oziva/rnst/",
+          "https://goout.net/sk/listky/kabinet-oziva/jost/"
         ],
-        "/program/bohorovni/": [
-          "https://goout.net/" + lang + "/listky/bohorovni-bar-kabaret-noir/dleo/",
+        "/program/teatr-kto-krakow/": [
+          "https://goout.net/sk/listky/arcadia/wnst/"
         ],
-        "/en/programme/bohorovni/": [
-          "https://goout.net/" + lang + "/tickets/bohorovni-bar-kabaret-noir/dleo/",
+        "/program/bon-bon-trio-bratislava/": [
+          "https://goout.net/sk/listky/bon-bon-trio/bost/"
         ],
-        "/program/filtr/": [
-          "https://goout.net/" + lang + "/listky/spoko-koncert-filtr/nleo/",
+        "/program/firebirds-budapest/": [
+          "https://goout.net/sk/listky/freak-fusion-confusion/dost/",
         ],
-        "/en/programme/filtr/": [
-          "https://goout.net/" + lang + "/tickets/spoko-koncert-filtr/nleo/",
-        ],
-        "/program/karol-sudor-citanie/": [
-          "https://goout.net/" + lang + "/listky/art-putika-krcmove-disputy-a-autorske-citanie-daniel-pastircak/qleo/",
-        ],
-        "/en/programme/karol-sudor-citanie/": [
-          "https://goout.net/" + lang + "/tickets/art-putika-krcmove-disputy-a-autorske-citanie-daniel-pastircak/qleo/",
-        ],
-        "/program/lepetit-maly-princ/": [
-          "https://goout.net/" + lang + "/listky/lepetit-maly-princ/sleo/",
-        ],
-        "/en/programme/lepetit-maly-princ/": [
-          "https://goout.net/" + lang + "/tickets/lepetit-maly-princ/sleo/",
-        ],
-        "/program/sketch-up/": [
-          "https://goout.net/" + lang + "/listky/sketch-up/tleo/",
-        ],
-        "/en/programme/sketch-up/": [
-          "https://goout.net/" + lang + "/tickets/sketch-up/tleo/",
-        ],
-          "/program/ugo-sanchez-wants-to-play/": [
-          "https://goout.net/" + lang + "/listky/ugo-sanchez-wants-to-play/uleo/"
-        ],
-
-         "/en/programme/ugo-sanchez-wants-to-play/": [
-          "https://goout.net/" + lang + "/tickets/ugo-sanchez-wants-to-play/uleo/"
-        ],
-         "/program/toot-ensemble/": [
-          "https://goout.net/" + lang + "/listky/toot-ensemble/vleo/"
-        ],
-
-        "/en/programme/toot-ensemble/": [
-          "https://goout.net/" + lang + "/tickets/toot-ensemble/vleo/"
-        ],
-
+        "/program/miramundo-barcelona/" : [
+          "https://goout.net/sk/listky/miramundo/iost/"
+        ]
       };
 
       if (
@@ -339,7 +305,7 @@ unless specified. --}}
           goOut.eventApi(
             {
               source: "amplion.eu",
-              innerEventsForEvent: 2642540,
+              innerEventsForEvent: 2915273,
               language: lang,
             },
             function (response) {

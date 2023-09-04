@@ -1,4 +1,4 @@
-show-tickets: false
+show-tickets: true
 show-program: true
 show-program-en: true
 busking-menu: false
