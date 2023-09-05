@@ -247,9 +247,6 @@ katanari-ivana-mer-kosice-bb:
     -
       time: "Saturday 17:00"
       location: "The Scout House Garden"
-    -
-      time: "Sunday 10:00"
-      location: "The Scout House Garden"
   content:
     -
       "What goes on on the geek collectors&#39; table when they leave the room and close the door behind
@@ -266,6 +263,33 @@ instruments played by a singer/songwriter, Ivana Mer."
     - "Katanari_Kabinet_live_web_5.jpg"
     - "Katanari_Kabinet_live_web_4.jpg"
   link: "https://www.katanariart.com"
+
+
+katanari-ivana-mer-kosice-bb-2:
+  performer: "Katanari & Ivana Mer, Košice / Banská Bystrica&nbsp;(SK)"
+  title: "CABINET ALIVE!"
+  argentum: true
+  general: "Program for families with children"
+  perex: "Magical puppet cabaret, a musical-visual treat not only for children"
+  occurences:
+    - time: "Sunday 10:00"
+      location: "The Scout House Garden"
+  content:
+    - "What goes on on the geek collectors&#39; table when they leave the room and close the door behind
+them? A cabinet of tiny puppets and objects that don&#39;t just want to pose behind glass magically
+come to life. Let&#39;s give them their 5 seconds of fame! Where? Well, in this mixure of exhibition,
+promenade and crazy cabaret that invites you to see what the things do when no one is looking.
+A non-verbal act performed by using a variety of musical instruments, chimes and music boxes
+presented by the performer Katanari, accompanied by the sound of toys and different acoustic
+instruments played by a singer/songwriter, Ivana Mer."
+  pictures:
+    - "Katanari_Kabinet_live_web_1.jpg"
+    - "Katanari_Kabinet_live_web_2.jpg"
+    - "Katanari_Kabinet_live_web_3.jpg"
+    - "Katanari_Kabinet_live_web_5.jpg"
+    - "Katanari_Kabinet_live_web_4.jpg"
+  link: "https://www.katanariart.com"
+
 
 
 katanari-kosice:
