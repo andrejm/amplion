@@ -212,8 +212,6 @@ circo-teatro-nimu-bilbao:
     -
       time: "Saturday 11:00"
       location: "The Scout House Garden"
-    - time: "Saturday  15:00"
-      location: "The Scout House Garden"
   content:
     -
       "Immerse yourself in the cheerful and romantic world of the charismatic clown niMú from Spain
@@ -223,6 +221,37 @@ by performing acrobatics on a tightrope. Refreshing, romantic and fun for the wh
 Plash!"
     -
       "<i><b>Xandra Gutiérezz,</b> an equilibrist, clown and dancer from Spain got her first artistic education at
+the circus training company El Circ Petit in Barcelona (2010). She continued her studies at the
+International Circus and Theatre School CAU in Granada (2011-2012). For the last three years she
+has also been a member of the Estreyarte Collective in Granada, which she has participated in
+various stage experiments with. In 2016 she founded her own company, niMú. Her street
+productions make people happy all around the Europe.</i>"
+  pictures:
+    - "niMu_ES_jacuzzi_1.jpg"
+    - "niMu_ES_jacuzzi_2.jpg"
+    - "niMu_ES_jacuzzi_3.jpg"
+    - "niMu_ES_jacuzzi_4.jpg"
+    - "niMu_ES_jacuzzi_5.jpg"
+  link: "https://www.cianimu.com"
+  photo: "archive"
+
+circo-teatro-nimu-bilbao-2:
+  performer: "Circo Teatro niMú, Bilbao&nbsp;(ES)"
+  title: "JACUZZI"
+  argentum: true
+  premiere: true
+  general: "Program for youth and families with children"
+  perex: "Comical and poetic tightrope circus show for all"
+  occurences:
+    - time: "Saturday  15:00"
+      location: "The Scout House Garden"
+  content:
+    - "Immerse yourself in the cheerful and romantic world of the charismatic clown niMú from Spain
+and relax on the waves of her Jacuzzi show! niMú won&#39;t say a word yet she&#39;ll tell the whole story.
+You&#39;ll see her bravura circus equilibristics with objects and her ability to defy the law of physics
+by performing acrobatics on a tightrope. Refreshing, romantic and fun for the whole family.
+Plash!"
+    - "<i><b>Xandra Gutiérezz,</b> an equilibrist, clown and dancer from Spain got her first artistic education at
 the circus training company El Circ Petit in Barcelona (2010). She continued her studies at the
 International Circus and Theatre School CAU in Granada (2011-2012). For the last three years she
 has also been a member of the Estreyarte Collective in Granada, which she has participated in

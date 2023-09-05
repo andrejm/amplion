@@ -172,14 +172,34 @@ circo-teatro-nimu-bilbao:
     -
       time: "sobota 11:00"
       location: "Záhrada Skautského domu"
-
-    - time: "sobota 15:00"
-      location: "Záhrada Skautského domu"
   content:
     -
       "Ponorne sa do veselo-romantického sveta charizmatickej klaunky niMú zo Španielska a zrelaxujte na vlnách jej show Jacuzzi! niMú nepovie ani slovko, ale vyrozpráva celý príbeh. Uvidíte bravúrnu cirkusovú ekvilibristiku s predmetmi i schopnosť vzdorovať gravitačnému zákonu akrobaciou na lane. Osvieženie, romantika i zábava pre celú rodinu. Žblnk!"
     -
       "<i>Ekvilibristka, klaunka a tanečnica <b>Xandra Gutiérezz </b>zo Španielska začala svoje umelecké vzdelanie v cirkusovej prípravke El Circ Petit (Barcelona, 2010). V štúdiu pokračovala na Medzinárodnej cirkusovej a divadelnej škole CAU (Granada, 2011-2012). Počas posledných troch rokov bola aj členkou Estreyarte Collective v Granade, s ktorým sa zúčastňovala na rôznych javiskových experimentoch. V roku 2016 založila vlastnú spoločnosť niMú. Jej pouličné inscenácie robia radosť ľuďom na mnohých európskych festivaloch.</i>"
+  pictures:
+    - "niMu_ES_jacuzzi_1.jpg"
+    - "niMu_ES_jacuzzi_2.jpg"
+    - "niMu_ES_jacuzzi_3.jpg"
+    - "niMu_ES_jacuzzi_4.jpg"
+    - "niMu_ES_jacuzzi_5.jpg"
+  link: "https://www.cianimu.com"
+  foto: "archív"
+
+
+circo-teatro-nimu-bilbao-2:
+  performer: "Circo Teatro niMú, Bilbao&nbsp;(ES)"
+  title: "JACUZZI"
+  argentum: true
+  premiere: true
+  general: "Program pre mladých a rodiny s deťmi"
+  perex: "Komicko-poetický cirkus na lane pre všetkých"
+  occurences:
+    - time: "sobota 15:00"
+      location: "Záhrada Skautského domu"
+  content:
+    - "Ponorne sa do veselo-romantického sveta charizmatickej klaunky niMú zo Španielska a zrelaxujte na vlnách jej show Jacuzzi! niMú nepovie ani slovko, ale vyrozpráva celý príbeh. Uvidíte bravúrnu cirkusovú ekvilibristiku s predmetmi i schopnosť vzdorovať gravitačnému zákonu akrobaciou na lane. Osvieženie, romantika i zábava pre celú rodinu. Žblnk!"
+    - "<i>Ekvilibristka, klaunka a tanečnica <b>Xandra Gutiérezz </b>zo Španielska začala svoje umelecké vzdelanie v cirkusovej prípravke El Circ Petit (Barcelona, 2010). V štúdiu pokračovala na Medzinárodnej cirkusovej a divadelnej škole CAU (Granada, 2011-2012). Počas posledných troch rokov bola aj členkou Estreyarte Collective v Granade, s ktorým sa zúčastňovala na rôznych javiskových experimentoch. V roku 2016 založila vlastnú spoločnosť niMú. Jej pouličné inscenácie robia radosť ľuďom na mnohých európskych festivaloch.</i>"
   pictures:
     - "niMu_ES_jacuzzi_1.jpg"
     - "niMu_ES_jacuzzi_2.jpg"
