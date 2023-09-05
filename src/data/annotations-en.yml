@@ -355,8 +355,6 @@ miramundo-barcelona:
   perex: "Stunning band from Barcelona playing unique world music to dance"
   occurences:
     -
-      location: "BUSKING"
-    -
       time: "Saturday 22:00"
       location: "Cube"
 
@@ -454,8 +452,6 @@ bon-bon-trio-bratislava:
   general: "Program for young and adults"
   perex: "Parisian chansons and world hits performed by the trio Cmorejová, Humeňanská, Baarová"
   occurences:
-    -
-      location: "BUSKING"
     -
       time: "Saturday 19:00"
       location: "Art Cafe, attic"

@@ -294,9 +294,6 @@ miramundo-barcelona:
   perex: "Úchvatná kapela z Barcelony hrá jedinečnú world music do tanca"
   occurences:
     -
-      location: "BUSKING"
-
-    -
       time: "sobota 22:00"
       location: "Kocka"
 
@@ -346,8 +343,6 @@ bon-bon-trio-bratislava:
   general: "Program pre mladých a dospelých"
   perex: "Parížske šansóny a svetové hity v podaní dámskeho tria Cmorejová, Humeňanská, Baarová"
   occurences:
-    -
-      location: "BUSKING"
     -
       time: "sobota 19:00"
       location: "Art Cafe, povala"
