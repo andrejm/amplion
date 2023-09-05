@@ -232,183 +232,131 @@ used where specified. --}}
       type="text/javascript"
       src="/assets/vendor/lazyload.min.js"
     ></script>
+
     <script>
-      var goOut = {
+      // one time event with more sales, this was easiest and most reliable way to store them
+      var events = {
+        "/en/programme/monika-todova-bratislava/": 8732541,
+        "/en/programme/ansambel-nepravidelneho-divadla/": 8732511,
+        "/en/programme/krvik-totr-praha/": 8732509,
+        "/en/programme/circo-teatro-nimu-bilbao/": 8732527,
+        "/en/programme/circo-teatro-nimu-bilbao-2/": 8732528,
+        "/en/programme/no-soft-no-fun/": 8732548,
+        "/en/programme/and-hostia-bonbon-trio/": 8732512,
+        "/en/programme/patrik-garaj-bratislava/": 8732543,
+        "/en/programme/katanari-ivana-mer-kosice-bb/": 8732531,
+        "/en/programme/katanari-ivana-mer-kosice-bb-2/": 8732532,
+        "/en/programme/teatr-kto-krakow/": 8732507,
+        "/en/programme/bon-bon-trio-bratislava/": 8732539,
+        "/en/programme/firebirds-budapest/": 8732516,
+        "/en/programme/miramundo-barcelona/": [
+          "https://goout.net/en/tickets/miramundo/iost/"
+        ],
+        // SK version
+        "/program/monika-todova-bratislava/": 8732541,
+        "/program/ansambel-nepravidelneho-divadla/": 8732511,
+        "/program/krvik-totr-praha/": 8732509,
+        "/program/circo-teatro-nimu-bilbao/": 8732527,
+        "/program/circo-teatro-nimu-bilbao-2/": 8732528,
+        "/program/no-soft-no-fun/": 8732548,
+        "/program/and-hostia-bonbon-trio/": 8732512,
+        "/program/patrik-garaj-bratislava/": 8732543,
+        "/program/katanari-ivana-mer-kosice-bb/": 8732531,
+        "/program/katanari-ivana-mer-kosice-bb-2/": 8732532,
+        "/program/teatr-kto-krakow/": 8732507,
+        "/program/bon-bon-trio-bratislava/": 8732539,
+        "/program/firebirds-budapest/": 8732516,
+        "/program/miramundo-barcelona/": [
+          "https://goout.net/en/tickets/miramundo/iost/"
+        ],
+      };
+
+      ;var goOut = {
         init: function (callback) {
           var s, d;
           d = document;
-          s = d.createElement("script");
-          s.src = "https://partners.goout.net/framework/api.vue.js";
+          s = d.createElement('script');
+          s.src = 'https://partners.goout.net/framework/widgets-api.js';
           d.body.appendChild(s);
-          window.addEventListener("goApiReady", callback);
-        },
+          window.addEventListener('goApiReady', callback);
+        }
       };
 
       goOut.init(function () {
         var lang = goOut.currentLang();
 
-        goOut.headAppendStyle(function () {
-          /*
-        .event-price-clickable {
-            cursor: pointer;
-        }
+        goOut.headAppendStyle(function () {/*
+  .event-price-clickable {
+  cursor: pointer;
+  }
 
-        .goOutWidgetTitle {
-            text-align: center;
-            margin-top: 1em;
-        }
+  .goOutWidgetTitle {
+  text-align: center;
+  margin-top: 1em;
+  }
 
-        .goOutWidgetSubtitle {
-            text-align: center;
-            margin-top: 1em
-        }
-    */
+  .goOutWidgetSubtitle {
+  text-align: center;
+  margin-top: 1em
+  }
+  */
         });
 
-        // one time event with more sales, this was easiest and most reliable way to store them
-        var events = {
-          "/en/programme/monika-todova-bratislava/": [
-            "https://goout.net/en/tickets/ako-zachranit-demokraciu/enst/",
-          ],
-          "/en/programme/ansambel-nepravidelneho-divadla/": [
-            "https://goout.net/en/tickets/bohorovni-bar-kabaret-noir/fnst/"
-          ],
-          "/en/programme/krvik-totr-praha/" : [
-            "https://goout.net/en/tickets/z-vytracena-5-ema-bude-sklamana/jnst/"
-          ],
-          "/en/programme/circo-teatro-nimu-bilbao/": [
-            "https://goout.net/en/tickets/jacuzzi/hnst/",
-          ],
-          "/en/programme/circo-teatro-nimu-bilbao-2/": [
-            "https://goout.net/en/tickets/jacuzzi/knst/"
-          ],
-          "/en/programme/no-soft-no-fun/" : [
-            "https://goout.net/en/tickets/no-soft-no-fun/inst/"
-          ],
-          "/en/programme/and-hostia-bonbon-trio/" : [
-            "https://goout.net/en/tickets/sketch-up/nnst/"
-          ],
-          "/en/programme/patrik-garaj-bratislava/": [
-            "https://goout.net/en/tickets/art-putika-i-smiech-cez-slzy/pnst/"
-          ],
-          "/en/programme/katanari-ivana-mer-kosice-bb/": [
-            "https://goout.net/en/tickets/kabinet-oziva/rnst/",
-          ],
-          "/en/programme/katanari-ivana-mer-kosice-bb-2/": [
-            "https://goout.net/en/tickets/kabinet-oziva/jost/"
-          ],
-          "/en/programme/teatr-kto-krakow/": [
-            "https://goout.net/en/tickets/arcadia/wnst/"
-          ],
-          "/en/programme/bon-bon-trio-bratislava/": [
-            "https://goout.net/en/tickets/bon-bon-trio/bost/"
-          ],
-          "/en/programme/firebirds-budapest/": [
-            "https://goout.net/en/tickets/freak-fusion-confusion/dost/",
-          ],
-          "/en/programme/miramundo-barcelona/" : [
-            "https://goout.net/en/tickets/miramundo/iost/"
-          ],
-        };
-
-        if (
-          location.pathname === "/program/" ||
-          location.pathname === "/en/programme/"
-        ) {
+        if (location.pathname === '/program/' || location.pathname === '/en/programme/') {
           refreshProgramButtons();
           jQuery('a[role="tab"]').click(function (e) {
             refreshProgramButtons();
           });
         } else {
-          var url = location.pathname;
-          var saleUrls = events[url];
-          console.log(saleUrls);
-          if (saleUrls == null) {
-            return;
-          }
+          var section = jQuery('.popup-gallery').parent();
 
-          var section = jQuery(".popup-gallery").parent();
-          var saleTitle = jQuery(
-            '<h2 class="goOutWidgetTitle" id="tickets">Ticket sales</h2>'
-          );
-          section.append(saleTitle);
+          const path = location.pathname;
+          var saleTitle = (lang === 'en') ? jQuery('<h2 id="tickets" class="goOutWidgetTitle">Ticket sales</h2>') : jQuery('<h2 id="vstupenky" class="goOutWidgetTitle">Predaj vstupeniek</h2>');
 
-          if (saleUrls.length > 1) {
-            goOut.eventApi(
-              {
-                source: "amplion.eu",
-                innerEventsForEvent: 2915273,
-                language: lang,
-              },
-              function (response) {
-                console.log(response);
-                urlLoop: for (var url of saleUrls) {
-                  console.log(url);
-                  for (eventId in response.timestamps) {
-                    var event = response.timestamps[eventId];
-                    if (event.sale.url.startsWith(url)) {
-                      var weekday = new Array(7);
-                        weekday[0] = "Sunday";
-                        weekday[1] = "Monday";
-                        weekday[2] = "Tuesday";
-                        weekday[3] = "Wednesday";
-                        weekday[4] = "Thursday";
-                        weekday[5] = "Friday";
-                        weekday[6] = "Saturday";
+          // Display every event of the specific event - all dates on one detail page
+          goOut.eventApi({
+            parentEventIds: [2915273],
+            language: lang,
+          }, function (response) {
+            const selectedEvent = response.schedule.find((item) => item.id === events[path]);
+            if (selectedEvent !== undefined) {
+              section.append(saleTitle);
+              const possibleSchedule = selectedEvent;
+              var date = possibleSchedule.startAt;
+              var formattedDate = goOut.dateFormat(date, 'D.M. H:mm', 'YYYY-MM-DD HH:mm:ss');
+              section.append(jQuery('<h4 class="goOutWidgetSubtitle">' + formattedDate + '</h4>'));
+              var holder = goOut.createHolder();
+              goOut.frame(holder, possibleSchedule.sale.url + '&lessContact=2799');
+              section.append(holder);
+            }
 
-                      var date = event.start;
-                      var time = new Date(date);
-                      var formattedDate = weekday[time.getDay()] + " " +moment(date).format('H:mm')
-                      // var formattedDate = goOut.dateFormat(
-                      //   date,
-                      //   "D. M. H:mm",
-                      //   "YYYY-MM-DD HH:mm:ss"
-                      // );
-                      section.append(
-                        jQuery(
-                          '<h4 class="goOutWidgetSubtitle">' +
-                            formattedDate +
-                            "</h4>"
-                        )
-                      );
-                      var holder = goOut.createHolder();
-                      goOut.frame(holder, url + "?lessContact=2799");
-                      section.append(holder);
+            if (location.hash === '#vstupenky' || location.hash === '#tickets') {
+              goOut.scrollTo(saleTitle, 0);
+            }
+          });
 
-                      continue urlLoop;
-                    }
-                  }
-                }
-              }
-            );
-          } else {
-            var holder = goOut.createHolder();
-            goOut.frame(holder, saleUrls[0] + "?lessContact=2799");
-            section.append(holder);
-          }
 
-          if (location.hash === "#tickets") {
-            goOut.scrollTo(saleTitle, 20);
-          }
         }
       });
 
       function refreshProgramButtons() {
-        jQuery(".event-price").each(function (i, item) {
-          if (item.text().match("â‚¬")) {
-            item.classList.add("event-price-clickable");
+        jQuery('.event-price').each(function (i, item) {
+          if (item.text().match('â‚¬')) {
+            item.classList.add('event-price-clickable');
             item.onclick = function (e) {
               e.preventDefault();
 
-              var url = jQuery(item)
-                .parents(".progitem__gutter")
-                .find(".progitem__title a")
-                .attr("href");
-              location.replace(url + "#vstupenky");
+              var url = jQuery(item).parents('.progitem__gutter').find('.progitem__title a').attr('href');
+              location.replace(url + '#vstupenky');
             };
           }
         });
       }
+
+
     </script>
+
+
+
   </body>
 </html>

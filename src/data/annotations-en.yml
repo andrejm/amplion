@@ -357,6 +357,8 @@ miramundo-barcelona:
     -
       time: "Saturday 22:00"
       location: "Cube"
+    -
+      time: BUSKING
 
   content:
     -
@@ -455,6 +457,8 @@ bon-bon-trio-bratislava:
     -
       time: "Saturday 19:00"
       location: "Art Cafe, attic"
+    -
+      time: BUSKING
   content:
     -
       "Three popular and charming ladies will evoke the atmosphere of Parisian Cafés with the essence
