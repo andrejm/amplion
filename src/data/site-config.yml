@@ -4,7 +4,7 @@ show-program-en: true
 busking-menu: false
 sketchup-menu: true
 year: 2023
-show-festivalove-noviny: false
+show-festivalove-noviny: true
 rocnik: 8
 busking-form-deadline: "30.&nbsp;júna&nbsp;2023"
 busking-form-deadline-en: "June&nbsp;30<sup>th</sup>,&nbsp;2023"
@@ -22,4 +22,9 @@ sketch-up-next-year: "Opcia&nbsp;na&nbsp;uvedenie celovečerného programu na&nb
 
 show-caravana: true
 show-busking-program: true
+
+
+festivalove-noviny-sk: "FN_AMP_2023.pdf"
+tlacova_sprava-sk: "AMPLION_2023_TS_SK.pdf"
+
 

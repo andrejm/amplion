@@ -234,6 +234,8 @@ used where specified. --}}
     ></script>
 
     <script>
+
+
       // one time event with more sales, this was easiest and most reliable way to store them
       var events = {
         "/en/programme/monika-todova-bratislava/": 8732541,
@@ -249,9 +251,7 @@ used where specified. --}}
         "/en/programme/teatr-kto-krakow/": 8732507,
         "/en/programme/bon-bon-trio-bratislava/": 8732539,
         "/en/programme/firebirds-budapest/": 8732516,
-        "/en/programme/miramundo-barcelona/": [
-          "https://goout.net/en/tickets/miramundo/iost/"
-        ],
+        "/en/programme/miramundo-barcelona/": 8732534,
         // SK version
         "/program/monika-todova-bratislava/": 8732541,
         "/program/ansambel-nepravidelneho-divadla/": 8732511,
@@ -266,9 +266,7 @@ used where specified. --}}
         "/program/teatr-kto-krakow/": 8732507,
         "/program/bon-bon-trio-bratislava/": 8732539,
         "/program/firebirds-budapest/": 8732516,
-        "/program/miramundo-barcelona/": [
-          "https://goout.net/en/tickets/miramundo/iost/"
-        ],
+        "/program/miramundo-barcelona/": 8732534,
       };
 
       ;var goOut = {
@@ -318,6 +316,9 @@ used where specified. --}}
             parentEventIds: [2915273],
             language: lang,
           }, function (response) {
+            // response.schedule.forEach((item) => {
+            //     console.log(item, item.sale.url)
+            // })
             const selectedEvent = response.schedule.find((item) => item.id === events[path]);
             if (selectedEvent !== undefined) {
               section.append(saleTitle);
@@ -353,9 +354,7 @@ used where specified. --}}
         });
       }
 
-
     </script>
-
 
 
   </body>

@@ -101,14 +101,14 @@ hideFooterNewsletter: true
         <h4 class="programme-teaser__title"><span class="programme-teaser__performer">Kompletný program festivalu  </span></br>16. augusta 2021</h4>
       </div> -->
     </div>
-    {{#if @root.site-config.show-festivalove-noviny}}
-    <p class="section__footertext">
-      {{!-- <a href="/program/" class="button">Pozrite si celý program!</a> --}}
-       <a href="/assets/FN AMPLION 2022.pdf" target="_blank" class="button"
-        >Pozrite si Festivalové noviny s headlinermi</a
-      >
-    </p>
-    {{/if}}
+<!--    {{#if @root.site-config.show-festivalove-noviny}}-->
+<!--    <p class="section__footertext">-->
+<!--      {{!&#45;&#45; <a href="/program/" class="button">Pozrite si celý program!</a> &#45;&#45;}}-->
+<!--       <a href="/files/FN_AMP_2023.pdf" target="_blank" class="button"-->
+<!--        >Pozrite si Festivalové noviny s headlinermi</a-->
+<!--      >-->
+<!--    </p>-->
+<!--    {{/if}}-->
     <!-- <p class="section__footertext">
        <a href="/assets/Program_karavana.jpg" class="button-karavana" target="_blank"> AMPLIÓN KARAVANA</a>
     </p> -->
@@ -139,13 +139,13 @@ hideFooterNewsletter: true
 <section class="section section--plain section--narrow">
   <div class="section__inner">
     <!-- <h2 class="section__title section__title--noarrow">Festivalové noviny zverejníme 11.&nbsp;septembra&nbsp;2020 v Denníku N</h2> -->
-    {{#if @root.site-config.show-festivalove-noviny}}
-    <p class="section__footertext">
-      <a href="/assets/FN AMPLION 2022.pdf" class="button"
-        >Pozrite si Festivalové noviny s headlinermi</a
-      >
-    </p>
-    {{/if}}
+<!--    {{#if @root.site-config.show-festivalove-noviny}}-->
+<!--    <p class="section__footertext">-->
+<!--      <a href="/assets/FN_AMP_2023.pdf" class="button"-->
+<!--        >Pozrite si Festivalové noviny s headlinermi</a-->
+<!--      >-->
+<!--    </p>-->
+<!--    {{/if}}-->
 
     <h3 class="section__subtitle">
       Ak chcete dostávať informácie z newslettra, pošlite nám svoj e-mail a my
@@ -201,13 +201,23 @@ hideFooterNewsletter: true
     </p>
     <p>&nbsp;</p>
     <p>&nbsp;</p> -->
-  
+
+
+    {{#if @root.site-config.show-festivalove-noviny}}
+      <p class="section__footertext">
+        <a href="/assets/{{@root.site-config.festivalove-noviny-sk}}" class="button" target="_blank"
+        >Pozrite si Festivalové noviny s headlinermi</a
+        >
+      </p>
+    {{else}}
     <div class="expanded button-group">
       <a href="https://youtu.be/3jHapEJ42I4" target="_blank" class="button">POZRITE SA AKO BOLO NA AMPLIÓNE 2022</a>
       <!-- <a href="/program/" class="button">Program</a> -->
       <!-- <a href="/vstupenky/" class="button">Vstupenky</a> -->
       <!-- <a href="/partnerstvo/" class="button secondary">Staňte sa partnerom</a> -->
     </div>
+    {{/if}}
+
     <img
       src="/assets/img/forik.png"
       alt=""
