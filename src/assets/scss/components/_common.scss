@@ -34,6 +34,28 @@
   }
 }
 
+.show-xxlarge {
+  display: none;
+  @include breakpoint(xxlarge) {
+    display: inherit;
+  }
+}
+
+.show-xxxlarge {
+  display: none;
+  @include breakpoint(xxxlarge) {
+    display: inherit;
+  }
+}
+
+
+.show-jano {
+  display: none;
+  @include breakpoint(jano) {
+    display: inherit;
+  }
+}
+
 .pl-2 {
   padding-left: 8px;
 }
