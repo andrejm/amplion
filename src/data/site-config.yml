@@ -1,8 +1,8 @@
-show-tickets: true
+show-tickets: false
 show-program: true
 show-program-en: true
 busking-menu: false
-sketchup-menu: true
+sketchup-menu: false
 year: 2023
 show-festivalove-noviny: true
 rocnik: 8
