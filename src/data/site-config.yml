@@ -4,7 +4,7 @@ show-program-en: true
 busking-menu: false
 sketchup-menu: false
 year: 2023
-show-festivalove-noviny: true
+show-festivalove-noviny: false
 rocnik: 8
 busking-form-deadline: "30.&nbsp;júna&nbsp;2023"
 busking-form-deadline-en: "June&nbsp;30<sup>th</sup>,&nbsp;2023"
