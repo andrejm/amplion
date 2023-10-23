@@ -1,0 +1,46 @@
+edition: 8
+date: 22. – 24. 9. 2023
+introtext: The theme of the 8th year was the renewal of sensitivity, tolerance and mutual understanding between people. To be sensitive is art.
+premieres:
+  - performer: Orkest de Tegenwind (NL)
+    title: CONCERT
+  - performer: ICEBREAKING I. (V4+UA)
+    title: HUMAN CARAVANA
+  - performer: Krvik Totr (CZ)
+    title: OUT OF HOLLOWNESS 5 (Ema will be disappointed)
+  - performer: MiraMundo (ES)
+    title: CONCERT
+  - performer: Circo Teatro niMú (ES)
+    title: JACUZZI
+  - performer: Firebirds (HU)
+    title: FREAK FUSION CONFUSION
+argentums:
+  - Teatr KTO (PL)
+  - Circo Teatro niMú (ES)
+  - "WE: MEDIA THEATER (UA)"
+  - Divadlo Falangir (SK)
+argentums-pro:
+  - Orkest de Tegenwind (NL)
+text:
+  - "placeholder - text o festivale"
+download:
+  - title: x
+    link: x
+videos:
+  - title: Aftermovie
+    id: aftermovie
+    link: https://www.youtube.com/embed/d0L24D9eMTo
+    screenshot: aftermovie.png
+  - title: Dokument
+    id: dokument
+    link: https://www.youtube.com/embed/k8GrG-oI43Q
+    screenshot: dokument.png
+  - title: Promo spot
+    id: promospot
+    link: https://www.youtube.com/embed/IXeUes626_8
+    screenshot: promospot.png
+
+festival-newspaper: FN_AMP_2023.pdf
+photofolder: fotogaleria-festivalu-2023
+photos:
+  - AMPLION 2022_archiv web_001.jpg
