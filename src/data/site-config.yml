@@ -29,4 +29,13 @@ tlacova_sprava-sk: "AMPLION_2023_TS_SK.pdf"
 
 tlacova_sprava-en: "AMPLION_2023_TS_ENG.pdf"
 
-
+statistics-data:
+  performances: 270
+  artists: 765
+  countries: 17
+  scenes: 21
+  volunteers: 160
+  visitors: "13 000"
+  premiers: 39
+  happenings: 9
+  laureates: 31
